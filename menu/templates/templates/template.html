@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Talleres Big Data grupo 6 Uniandes MINE 2017-20">
+    <meta name="author" content="David Bonilla y Dayana Rojas">
+    <title>Talleres Big Data Grupo 6</title>
+    {% load staticfiles %}
+    <link rel="icon" href="{% static 'img/favicon/favicon.ico' %}">
+    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'css/jumbotron.css' %}" rel="stylesheet">
+    <link href="{% static 'css/grupo_6.css' %}" rel="stylesheet">
+  </head>
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <!--
+    <a class="navbar-brand" href="#">Navbar</a>
+    -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsTop" aria-controls="navbarsTop" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarsTop">
+      <ul class="navbar-nav mr-auto">
+		<li class="nav-item">
+		  <a class="nav-link" href="menu"><span class="text-bold">HOME</span><span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Integrantes</a>
+          <div class="dropdown-menu" aria-labelledby="dropdown02">
+            <a class="dropdown-item" href="https://www.linkedin.com/in/david-bonilla-57093326" target="_blank">David Bonilla - Cód. 201710542</a>
+			<a class="dropdown-item" href="https://www.linkedin.com/in/dayana-rojas-b406382b/" target="_blank">Dayana Rojas - Cód. 201727749</a>
+          </div>
+        </li>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talleres</a>
+          <div class="dropdown-menu" aria-labelledby="dropdown01">
+            <a class="dropdown-item" href="taller_1">Taller 1</a>
+            <a class="dropdown-item disabled" href="#">Taller 2</a>
+            <a class="dropdown-item disabled" href="#">Taller 3</a>
+            <a class="dropdown-item disabled" href="#">Taller 4</a>
+          </div>
+        </li>
+		<li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="dropdown03" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Sitios relevantes</a>
+          <div class="dropdown-menu" aria-labelledby="dropdown03">
+            <a class="dropdown-item" href="https://github.com/David201710542/MINE_4102_2017_S2_G6" target="_blank">Ir a Github del proyecto</a>
+			<a class="dropdown-item" href="https://sistemas.uniandes.edu.co/es/mine" target="_blank">Ir a página de MINE</a>
+            <a class="dropdown-item" href="https://profesores.virtual.uniandes.edu.co/cjimenez/es/inicio/" target="_blank">Ir a página del profesor</a>
+            <a class="dropdown-item" href="https://sicuaplus.uniandes.edu.co/" target="_blank">Ir a Sicua+</a>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  {% block jumbotron %}
+  {% endblock %}
+  <div class="container">
+    <div class="row">
+      {% block talleres %}
+	  {% endblock %}
+	</div>
+    <hr />
+    <footer>
+      <p class="text-center"><a href="https://www.linkedin.com/in/david-bonilla-57093326" target="_blank">David Bonilla (201710542)</a> | <a href="https://www.linkedin.com/in/dayana-rojas-b406382b/" target="_blank">Dayana Rojas (201727749)</a></p>
+    </footer>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+  <script src="{% static 'js/popper.min.js' %}"></script>
+  <script src="{% static 'js/bootstrap.min.js' %}"></script>
+</body>
+</html>

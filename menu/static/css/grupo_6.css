@@ -13,3 +13,14 @@
 .col-md-12 {
   margin-top: 20px;
 }
+
+#logo_uniandes {
+  width: 400px;
+  height: 140px;
+  margin: 0 auto;
+}
+
+img {
+  width: 100%;
+  height: auto;
+}
