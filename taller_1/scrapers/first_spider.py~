@@ -1,0 +1,93 @@
+import scrapy
+from twisted.internet import reactor#, defer
+from scrapy.spiders import CrawlSpider, Rule
+from scrapy.linkextractors import LinkExtractor
+from scrapy.exceptions import CloseSpider	
+from scrapy.crawler import CrawlerRunner
+from scrapy.utils.log import configure_logging
+from scrapy.settings import Settings
+
+class PipelineDict(object):
+	def __init__(self):
+		self.files = {}
+
+	@classmethod
+	def from_crawler(cls, crawler):
+		pipeline = cls()
+		crawler.signals.connect(pipeline.spider_opened, signals.spider_opened)
+		crawler.signals.connect(pipeline.spider_closed, signals.spider_closed)
+		return pipeline
+
+	def spider_opened(self, spider):
+		file = open('%s_items.csv' % spider.name, 'w+b')
+		self.files[spider] = file
+		self.exporter = CsvItemExporter(file)
+		self.exporter.fields_to_export = ['facultad', 'url']
+		self.exporter.start_exporting()
+
+	def spider_closed(self, spider):
+		self.exporter.finish_exporting()
+		file = self.files.pop(spider)
+		file.close()
+
+	def process_item(self, item, spider):
+		self.exporter.export_item(item)
+		return item
+
+class Taller1G6P1Item(scrapy.Item):
+	facultad = scrapy.Field()
+	url = scrapy.Field()
+
+class Taller1G6P1(CrawlSpider):
+	name = 'Taller1G6P1'
+	item_count = 0
+	limite_paginas = 100
+	allowed_domains = ['uniandes.edu.co']
+	start_urls = ['https://www.uniandes.edu.co/']
+	
+	rules = (
+		Rule(LinkExtractor(
+			#allow = ('*F*'),
+			allow = (),
+#			restrict_xpaths = ('//li[@class="leaf"]/a'),
+#			restrict_xpaths = ('//li/a[contains(@href, "facultad")]'),
+#            restrict_xpaths = ('//a[contains(@href, "facultad")]'),
+			restrict_xpaths = ('//a[contains(translate(text(), "ABCDEFGHIJKLMNOPQRSTUVWXYZ", "abcdefghijklmnopqrstuvwxyz"), "facultades")]'),
+			unique = True
+		),
+		callback = 'filtrar_pagina',
+		follow = True),
+	)
+	
+	def filtrar_pagina(self, response):
+		#dict_facultades = {}
+		for pag in response.xpath('//li[@class="views-row"]'):
+			self.item_count += 1
+			if self.item_count > self.limite_paginas:
+				raise CloseSpider('demasiadas_paginas')
+			facultad = Taller1G6P1Item()
+			yield facultad
+			#dict_facultades[pag.xpath('.//span[@class="field-content"]/text()').extract_first().strip()] = pag.xpath('.//a/@href').extract_first()
+		#return dict_facultades
+'''			yield {
+#				'facultad': pag.xpath('.//span[@field-content]/text()').extract_first(),
+				'facultad': pag.xpath('.//span[@class="field-content"]/text()').extract_first().strip(),
+#				'url': response.url
+				'url': pag.xpath('.//a/@href').extract_first()
+			}
+'''
+
+#@defer.inlineCallbacks
+#def spider_traer_facultades_p1():	
+#	yield runner.crawl(Taller1G6P1)
+#	reactor.stop()
+
+def spider_traer_facultades():
+#if __name__ == "__main__":
+	configure_logging()
+	settings = Settings()
+	settings.set("ITEM_PIPELINES", {'PipelineDict': 100})
+	runner = CrawlerRunner(settings)
+	d = runner.crawl(Taller1G6P1)
+	d.addBoth(lambda _: reactor.stop())
+	reactor.run()

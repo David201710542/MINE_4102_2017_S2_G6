@@ -1,74 +1,25 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Talleres Big Data grupo 6 Uniandes MINE 2017-20">
-    <meta name="author" content="David Bonilla, Dayana Rojas y Angela Rincon">
-    <title>Talleres Big Data Grupo 6</title>
+{% extends "templates/template.html" %}
+{% block estilos %}
     {% load staticfiles %}
-    <link rel="icon" href="{% static 'img/favicon/favicon.ico' %}">
-    <link href="{% static 'css/bootstrap.min.css' %}" rel="stylesheet">
-    <link href="{% static 'css/jumbotron.css' %}" rel="stylesheet">
-    <link href="{% static 'css/grupo_6.css' %}" rel="stylesheet">
-  </head>
-<body>
-  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-    <!--
-    <a class="navbar-brand" href="#">Navbar</a>
-    -->
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
-      <ul class="navbar-nav mr-auto">
-        <li class="nav-item active">
-          <a class="nav-link" href="menu">Página principal <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="dropdown02" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Integrantes</a>
-          <div class="dropdown-menu" aria-labelledby="dropdown02">
-            <a class="dropdown-item" href="http://dblp.org/rec/conf/bncod/BonillaG17">David Bonilla - Cód. 201710542</a>
-            <a class="dropdown-item" href="#">Dayana Rojas - Cód. 201727749</a>
-            <a class="dropdown-item" href="#">Ángela Rincón - Cód. 201727393</a>
-          </div>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Talleres</a>
-          <div class="dropdown-menu" aria-labelledby="dropdown01">
-            <a class="dropdown-item" href="taller_1">Taller 1</a>
-            <a class="dropdown-item disabled" href="#">Taller 2</a>
-            <a class="dropdown-item disabled" href="#">Taller 3</a>
-            <a class="dropdown-item disabled" href="#">Taller 4</a>
-          </div>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://sistemas.uniandes.edu.co/es/mine" target="_blank">Ir a página de MINE</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="https://profesores.virtual.uniandes.edu.co/cjimenez/es/inicio/" target="_blank">Ir a página del profesor</a>
-        </li>
-      </ul>
+    <link href="{% static 'css/bootstrap-treeview.css' %}" rel="stylesheet">
+{% endblock %}
+{% block jumbotron %}
+{% endblock %}
+{% block talleres %}
+    <div class="col-md-12">
+      <h2>Taller 1</h2>
+      {% load staticfiles %}
+      <p><a target="_blank" href="{% static 'docs/taller_1.pdf' %}">Ver el enunciado del taller</a></p>
+      <form method="post">
+        <!--<input type="text" name="info"><br>-->
+        <p><button id="traer_facultades" class="btn btn-primary btn-lg">Ver listado de facultades &raquo;</button></p>
+      </form>
+      <div id="treeview-selectable">
     </div>
-  </nav>
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12">
-        <h2>Taller 1</h2>
-        <p class="text-justify">Taller 1</p>
-      </div>
-    </div>
-    <hr />
-    <footer>
-      <p class="text-center">David Bonilla (201710542) | Dayana Rojas (201727749) | Ángela Rincón (201727393)</p>
-    </footer>
-  </div> <!-- /container -->
-  <!-- Bootstrap core JavaScript
-  ================================================== -->
-  <!-- Placed at the end of the document so the pages load faster -->
-  <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-  <script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery.min.js"><\/script>')</script>
-  <script src="{% static 'js/popper.min.js' %}"></script>
-  <script src="{% static 'js/bootstrap.min.js' %}"></script>
-</body>
-</html>
+{% endblock %}
+{% block librerias %}
+  {% load staticfiles %}
+  <script src="{% static 'js/anti_csrf.js' %}"></script>
+  <script src="{% static 'js/main.js' %}"></script>
+  <script src="{% static 'js/bootstrap-treeview.js' %}"></script>
+{% endblock %}

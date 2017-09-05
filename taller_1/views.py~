@@ -20,7 +20,7 @@ def traer_facultades(request):
 			else:
 				with open('taller_1/flat_files/facultades_items.json') as json_data:
 					lista_facultades = json.load(json_data)
-					json_data.close()
+					json_data.close()aa
 		return HttpResponse (
 			json.dumps(lista_facultades),
 			content_type = "application/json"

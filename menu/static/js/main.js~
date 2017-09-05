@@ -1,0 +1,28 @@
+function desplegar_en_pantalla(spider) {
+  $.each(spider, function(i, val) {
+    console.log(i + ": " + val);
+  })
+}
+
+function traer_facultades_ajax() {
+  $.ajax({
+    url : "taller_1/traer_facultades",
+    type : "POST",
+    data : { valor: 'TRAER_FACULTADES' },
+
+    success : function(ret) {
+      console.log(ret);
+      desplegar_en_pantalla(ret);
+    },
+    error : function(xhr,errmsg,err) {
+      console.log(xhr.status + ": " + xhr.responseText);
+    }
+  });
+}
+
+jQuery(document).ready(function() {
+  $('#traer_facultades').on('click', function(event){
+    event.preventDefault();
+    traer_facultades_ajax();
+  });
+});

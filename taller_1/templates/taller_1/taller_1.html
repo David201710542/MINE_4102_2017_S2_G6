@@ -1,9 +1,25 @@
 {% extends "templates/template.html" %}
+{% block estilos %}
+    {% load staticfiles %}
+    <link href="{% static 'css/bootstrap-treeview.css' %}" rel="stylesheet">
+{% endblock %}
 {% block jumbotron %}
 {% endblock %}
 {% block talleres %}
     <div class="col-md-12">
       <h2>Taller 1</h2>
-      <p class="text-justify">Taller 1</p>
+      {% load staticfiles %}
+      <p><a target="_blank" href="{% static 'docs/taller_1.pdf' %}">Ver el enunciado del taller</a></p>
+      <form method="post">
+        <!--<input type="text" name="info"><br>-->
+        <p><button id="traer_facultades" class="btn btn-primary btn-lg">Ver listado de facultades &raquo;</button></p>
+      </form>
+      <div id="treeview-selectable"></div>
     </div>
+{% endblock %}
+{% block librerias %}
+  {% load staticfiles %}
+  <script src="{% static 'js/anti_csrf.js' %}"></script>
+  <script src="{% static 'js/main.js' %}"></script>
+  <script src="{% static 'js/bootstrap-treeview.js' %}"></script>
 {% endblock %}
