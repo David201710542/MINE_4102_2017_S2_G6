@@ -10,7 +10,7 @@
   font-weight: bold;
 }
 
-.col-md-12 {
+.bajar-margin {
   margin-top: 20px;
 }
 
@@ -23,4 +23,8 @@
 img {
   width: 100%;
   height: auto;
+}
+
+.fa-circle {
+	font-size: 8px;
 }

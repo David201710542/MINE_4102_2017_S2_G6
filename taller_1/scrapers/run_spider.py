@@ -13,7 +13,7 @@ def spider_results():
 	results = {}
 
 	def crawler_results(item):
-		results[item['facultad']] = item['url']
+		results[item['facultad']] = [item['url'], item['fuente']]
 	
 	spider = Taller1G6P1()
 	settings = get_project_settings()

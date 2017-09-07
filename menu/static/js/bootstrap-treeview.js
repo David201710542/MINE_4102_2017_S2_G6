@@ -33,12 +33,12 @@
 
 		levels: 2,
 
-		expandIcon: 'glyphicon glyphicon-plus',
-		collapseIcon: 'glyphicon glyphicon-minus',
-		emptyIcon: 'glyphicon',
+		expandIcon: 'fa fa-plus',//'glyphicon glyphicon-plus',
+		collapseIcon: 'fa fa-minus',//'glyphicon glyphicon-minus',
+		emptyIcon: 'fa fa-circle',//'glyphicon',
 		nodeIcon: '',
 		selectedIcon: '',
-		checkedIcon: 'glyphicon glyphicon-check',
+		checkedIcon: 'fa fa-check',//'glyphicon glyphicon-check',
 		uncheckedIcon: 'glyphicon glyphicon-unchecked',
 
 		color: undefined, // '#000000',
@@ -47,7 +47,7 @@
 		onhoverColor: '#F5F5F5',
 		selectedColor: '#FFFFFF',
 		selectedBackColor: '#428bca',
-		searchResultColor: '#D9534F',
+		//searchResultColor: '#D9534F',
 		searchResultBackColor: undefined, //'#FFFFFF',
 
 		enableLinks: false,

@@ -10,3 +10,4 @@ import scrapy
 class Taller1G6P1Item(scrapy.Item):
 	facultad = scrapy.Field()
 	url = scrapy.Field()
+	fuente = scrapy.Field()

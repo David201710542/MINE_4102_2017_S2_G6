@@ -6,19 +6,37 @@
 {% block jumbotron %}
 {% endblock %}
 {% block talleres %}
-    <div class="col-md-12">
-      <h2>Taller 1</h2>
-      {% load staticfiles %}
-      <p><a target="_blank" href="{% static 'docs/taller_1.pdf' %}">Ver el enunciado del taller</a></p>
-      <form method="post">
+	<div class="col-md-12 bajar-margin">
+		<h2>Taller 1</h2>
+		<p><a target="_blank" href="{% static 'docs/taller_1.pdf' %}">Ver el enunciado del taller</a></p>
+	</div>
+	<div class="col-md-8">
+      		<form method="post">
         <!--<input type="text" name="info"><br>-->
-        <p><button id="traer_facultades" class="btn btn-primary btn-lg">Ver listado de facultades &raquo;</button></p>
-      </form>
-      <div id="treeview-selectable">
-    </div>
+        		<p><button id="traer_facultades" class="btn btn-primary btn-lg">Ver listado de facultades &raquo;</button></p>
+      		</form>
+      		<div id="treeview-selectable"></div>
+    	</div>
+	<div class="col-md-4">
+		<p><input type="input" class="form-control" id="input-select-node" placeholder="Encontrar nodo..." value=""></p>
+		<p><button type="button" class="btn btn-success select-node" id="btn-select-node">Seleccionar nodo</button>
+		<button type="button" class="btn btn-success select-node" id="btn-unselect-node">Des-seleccionar nodo</button></p>
+	</div>
+
+	<div class="modal fade" data-backdrop="static" data-keyboard="false" tabindex="-1" role="dialog" aria-hidden="true" style="padding-top:15%; overflow-y:visible;">
+		<div class="modal-dialog modal-m">
+			<div class="modal-content">
+				<div class="modal-header"><h3 style="margin:0;"></h3>
+				</div>
+				<div class="modal-body">
+					<div class="progress progress-striped active" style="margin-bottom:0;"><div class="progress-bar" style="width: 100%">
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
 {% endblock %}
 {% block librerias %}
-  {% load staticfiles %}
   <script src="{% static 'js/anti_csrf.js' %}"></script>
   <script src="{% static 'js/main.js' %}"></script>
   <script src="{% static 'js/bootstrap-treeview.js' %}"></script>

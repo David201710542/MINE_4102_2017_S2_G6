@@ -35,6 +35,7 @@ class Taller1G6P1(CrawlSpider):
 			facultad = Taller1G6P1Item()
 			facultad['facultad'] = pag.xpath('.//span[@class="field-content"]/text()').extract_first().strip()
 			facultad['url'] = pag.xpath('.//a/@href').extract_first()
+			facultad['fuente'] = response.url
 			yield facultad
 #			dict_facultades[pag.xpath('.//span[@class="field-content"]/text()').extract_first().strip()] = pag.xpath('.//a/@href').extract_first()
 #			yield dict_facultades
