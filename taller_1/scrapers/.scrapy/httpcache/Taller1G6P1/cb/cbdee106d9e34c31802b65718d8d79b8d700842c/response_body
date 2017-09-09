@@ -1,0 +1,1003 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr">
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- OG METAS -->
+    <meta property="og:title" content="Inicio - Facultad de Administración - Universidad de Los Andes"/>
+    <!-- <meta property="og:image" content=""/> -->
+    <meta property="og:site_name" content="Facultad de Administración"/>
+    <meta property="og:description" content=""/> 
+    <meta property="og:url" content="" />
+    
+      <base href="https://administracion.uniandes.edu.co/index.php/es/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="description" content="Sitio Web de la Facultad de Administración de la Universidad de Los Andes. Reconocida entre las mejores escuelas de negocios de América Latina, por su excelencia y altos estándares de calidad." />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Inicio - Facultad de Administración - Universidad de Los Andes</title>
+  <link href="https://administracion.uniandes.edu.co/index.php/es/" rel="canonical" />
+  <link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="/templates/shaper_helix3/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="https://administracion.uniandes.edu.co/index.php/es/component/search/?format=opensearch" rel="search" title="Buscar Facultad de Administración - Universidad de Los Andes" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?a3b640def3ef13678e19cfeeb7397c85" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/shadow/css/style.css?89cd9d643596c180b9af3f844d8191b8" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/fonts.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/font-awesome.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/plantilla-basica.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/category.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/mod-eventos.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/legacy.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/presets/preset1.css" type="text/css" class="preset" />
+  <link rel="stylesheet" href="/templates/shaper_helix3/css/custom.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_jevents/views/default/assets/css/modstyle.css?3.4.0RC2" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_slideshowck/themes/default/css/camera.css" type="text/css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Droid+Sans" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_falang/css/template.css" type="text/css" />
+  <style type="text/css">
+#sp-home-row2{ background-color:#f9f9f9; }#sp-banners{ background-color:#f5f5f5;color:#f9f9f9;padding:100px 0px; }#sp-footer{ background-color:#252525; }#sp-sub-footer{ background-color:#000000;color:#ffffff; }
+#blankBM307{overflow:hidden;width:100%;
+background:#}#camera_wrap_567 .camera_pag_ul li img, #camera_wrap_567 .camera_thumbs_cont ul li > img {height:75px;}
+#camera_wrap_567 .camera_caption {
+	display: block;
+	position: absolute;
+}
+#camera_wrap_567 .camera_caption > div {
+	-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;font-family:'Droid Sans';
+}
+#camera_wrap_567 .camera_caption > div div.camera_caption_title {
+	font-size: 1.1em;
+}
+#camera_wrap_567 .camera_caption > div div.camera_caption_desc {
+	font-size: 0.8em;
+}
+
+@media screen and (max-width: 480px) {
+		#camera_wrap_567 .camera_caption {
+			font-size: 0.6em !important;
+		}
+}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.9&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/plugins/system/jcemediabox/js/jcemediabox.js?fba42f665bbcc4047a23ba92244f4176" type="text/javascript"></script>
+  <script src="/templates/shaper_helix3/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/templates/shaper_helix3/js/jquery.sticky.js" type="text/javascript"></script>
+  <script src="/templates/shaper_helix3/js/main.js" type="text/javascript"></script>
+  <script src="/templates/shaper_helix3/js/custom.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="/modules/mod_slideshowck/assets/camera.min.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0,pdfjs:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"shadow",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+		jQuery(document).ready(function(){
+			new Slideshowck('#camera_wrap_567', {
+				 height: 'auto',
+				 minHeight: '150',
+				 pauseOnClick: false,
+				 hover: 1,
+				 fx: 'scrollHorz',
+				 loader: 'none',
+				 pagination: 1,
+				 thumbnails: 0,
+				 thumbheight: 75,
+				 thumbwidth: 100,
+				 time: 7000,
+				 transPeriod: 1500,
+				 alignment: 'center',
+				 autoAdvance: 1,
+				 mobileAutoAdvance: 1,
+				 portrait: 0,
+				 barDirection: 'leftToRight',
+				 imagePath: '/modules/mod_slideshowck/images/',
+				 lightbox: 'mediaboxck',
+				 fullpage: 0,
+				 mobileimageresolution: '0',
+				 navigationHover: false,
+					mobileNavHover: false,
+					navigation: true,
+					playPause: true,
+				 barPosition: 'bottom',
+				 responsiveCaption: 0,
+				 container: ''
+		});
+}); 
+
+  </script>
+  <head>
+<style>
+.celds div:nth-child(4), .celds div:nth-child(3), .celds div:nth-child(7) {
+    background: rgb(182, 182, 182);
+    height:10vh;
+    min-height: 87px;
+    text-align: center;
+    font-size: 1.1rem;
+    position:relative;
+}
+
+.celds div a{
+    text-decoration:none;
+    color: white;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 80%;
+    height: 18%;
+    margin: auto;
+    line-height: 1.2rem;
+}
+
+.celds div:nth-child(1) {
+    background: #f68121;
+    color: white;
+    text-align: center;
+    height: 30px;
+    line-height: 30px;
+}
+.celds div:nth-child(6), .celds div:nth-child(2), .celds div:nth-child(5) {
+    background: rgb(138, 155, 163);
+    height:10vh;
+    min-height: 87px;
+    text-align: center;
+    font-size: 1.1rem;
+    position:relative;
+}
+.celds div:nth-child(8) {
+    background: #1d723e;
+    color: white;
+    text-align: center;
+    height: 68px;
+    line-height: 30px;
+    padding-bottom: 53px;
+}
+
+</style>
+
+</head>
+  <link rel="alternate" href="https://administracion.uniandes.edu.co/index.php/es/" hreflang="es-ES" />
+  <link rel="alternate" href="https://administracion.uniandes.edu.co/index.php/es/" hreflang="x-default" />
+  <link rel="alternate" href="https://administracion.uniandes.edu.co/index.php/en/" hreflang="en-GB" />
+
+    
+        <script type="text/javascript">
+        var base_url = "https://administracion.uniandes.edu.co/",
+            template_dir = "https://administracion.uniandes.edu.co/templates/shaper_helix3/",
+            current_language = "es-ES";
+    </script>
+    <link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'>
+    <script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>
+    <script type='text/javascript' src='https://cdn.rawgit.com/leafo/sticky-kit/v1.1.2/jquery.sticky-kit.min.js'></script>
+
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M6X6VLW');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body class="site com-content view-article no-layout no-task itemid-144 es-es ltr  layout-fluid">
+   <!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M6X6VLW"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+    <div class="body-innerwrapper">
+        <section id="sp-top-nav-bar"><div class="container"><div class="row"><div id="sp-menusuperior" class="col-xs-10 col-sm-7 col-md-7 hidden-xs"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><ul class="nav hidden-md hidden-sm">
+<li class="item-1266"><a href="/index.php/es/aspirantes/estudiar-en-la-facultad" >Aspirantes    </a></li><li class="item-1267"><a href="/index.php/es/estudiantes/informacion-general" >Estudiantes</a></li><li class="item-1787"><a href="/index.php/es/facultad/internacionalizacion" >Internacional</a></li><li class="item-1268"><a href="/index.php/es/profesores-y-administrativos/informacion-general" >Profesores y administrativos</a></li><li class="item-1269"><a href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li><li class="item-1270"><a href="/index.php/es/empresas-y-organizaciones" >Empresas y organizaciones</a></li><li class="item-1271"><a href="/index.php/es/facultad/sala-de-prensa" >Prensa</a></li></ul>
+</div></div></div></div><div id="sp-topnavright" class="col-sm-6 col-md-5"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><style type="text/css">
+/* Custom CSS */
+
+/* dejar de mostrara en el menu de mobile inicio(2), Search, prueba*/
+
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.item-2117 {
+    display: none;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.item-2118 {
+    display: none;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li.item-2116 {
+    display: none;
+}
+</style></div></div><div class="sp-module "><div class="sp-module-content"><div class="mod-languages">
+
+	<ul class="lang-inline">
+	        
+        <!-- >>> [FREE] >>> -->
+                    <li class="lang-active" dir="ltr">
+                                    <a href="/index.php/es/">
+                                                    Español                                            </a>
+                            </li>
+                <!-- <<< [FREE] <<< -->
+	        
+        <!-- >>> [FREE] >>> -->
+                    <li class="" dir="ltr">
+                                    <a href="/index.php/en/">
+                                                    English                                            </a>
+                            </li>
+                <!-- <<< [FREE] <<< -->
+		</ul>
+
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content"><style type="text/css">
+/* Custom CSS */
+
+@media (max-width: 991px){
+.camera_pag{
+  display:none;
+}
+}
+</style></div></div><div class="sp-module "><div class="sp-module-content"><style type="text/css">
+/* Custom CSS */
+
+.v-mas {
+    width: 180px;
+}
+</style></div></div><div class="sp-module "><div class="sp-module-content"><style type="text/css">
+/* Custom CSS */
+
+/* dejar de mostrara en el menu  principal en escuela de verano el menu .*/
+
+li.borrame {
+    display: none !important;
+}
+
+
+
+</style></div></div><div class="sp-module "><div class="sp-module-content"><style type="text/css">
+/* Custom CSS */
+
+/*Silde Mobile*/
+
+@media (max-width: 991px) and (min-height: 0px){
+.tbwa #sp-home-slider {
+   margin-top: 37px !important;
+}
+.slideshowck.camera_wrap.camera_ash_skin {
+height: calc(100vh - 242px) !important;
+min-height: 350px !important;
+margin-bottom: 0px !important;
+}
+}
+
+@media (max-width: 1200px) and (min-width: 0px){
+.camera_caption > div {
+   margin-top: 0px !important;
+   position: absolute;
+   bottom: 15px;
+}
+}
+</style></div></div><div class="sp-module "><div class="sp-module-content"><ul class="nav hidden-xs" id="top-nav-social">
+<li class="item-1273"><a class="top-nav contactenos" href="/index.php/es/contactenos-facultad-administracion" >Contáctenos</a></li><li class="item-1274"><a class="top-nav twitter" href="https://twitter.com/admonuniandes" target="_blank" >Twitter</a></li><li class="item-1275"><a class="top-nav facebook" href="https://www.facebook.com/AdmonUniandes" target="_blank" >Facebook</a></li><li class="item-2112"><a class="top-nav instagram" href="https://www.instagram.com/admonUniandes/" target="_blank" >Instagram</a></li><li class="item-1276"><a class="top-nav vimeo" href="https://vimeo.com/admonuniandes" target="_blank" >Vimeo</a></li><li class="item-1277"><a class="top-nav linkedin" href="https://www.linkedin.com/company/facultad-de-administraci%C3%B3n" target="_blank" >LinkedIn</a></li><li class="item-1278"><a class="top-nav googleplus" href="https://plus.google.com/+AdmonUniandes/posts" target="_blank" >Google+</a></li></ul>
+</div></div></div></div></div></div></section><section id="sp-header-mobile" class=" hidden-xs hidden-sm hidden-md"><div class="container"><div class="row"><div id="sp-header-mobile" class="col-sm-12 col-md-12 hidden-md hidden-lg hidden-sm hidden-xs"><div class="sp-column "><div class="sp-module  header-mobile"><div class="sp-module-content">
+
+<div class="custom header-mobile"  >
+	<h1><a href="http://www.uniandes.edu.co/" target="_blank"><img class="sp-default-logo" src="/images/logoUniAndes.png" alt="Facultad de Administración" /></a></h1>
+<h3><a href="/index.php/es/">Facultad de Administración</a></h3></div>
+</div></div></div></div></div></div></section><header id="sp-header" class="hidden-xs hidden-xs"><div class="container"><div class="row"><div id="sp-menu" class="col-xs-4 col-sm-12 col-md-12"><div class="sp-column ">			<!-- <div id="dl-menu" class="dl-menuwrapper"> -->
+			<div class='sp-megamenu-wrapper'>
+				<!-- <button class="dl-trigger visible-xs">Open Menu</button> -->
+				<a id="offcanvas-toggler" class="visible-xs" href="#"><i class="fa fa-bars"></i></a>
+				<ul class="sp-megamenu-parent menu-fade hidden-xs"><li class="sp-menu-item ua-mp-home current-item active"><a  href="/index.php/es/" >Inicio</a></li><li class="sp-menu-item ua-mp-home"><a  href="/index.php/es/inicio-2" >Inicio (2)</a></li><li class="sp-menu-item sp-has-child ok"><a  href="/index.php/es/facultad/sobre-la-facultad/la-facultad" >Facultad</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/facultad/sobre-la-facultad/la-facultad" >Sobre la facultad</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/la-facultad" >La Facultad</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/mision-vision-y-valores" >Misión, visión y valores</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/nuestra-diferencia" >Nuestra diferencia</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/historia" >Historia</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/decanos" >Decanos</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/estructura" >Estructura</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/vida-universitaria" >Vida universitaria</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/noticias" >Noticias</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/eventos/cat.listevents/2017/09/08/-" >Eventos</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/bogota-y-colombia" >Bogotá y Colombia</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/sala-de-investigacion" >Sala de investigación</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/facultad/sobre-la-facultad/recursos" >Recursos</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/recursos/tecnologias-de-apoyo" >Tecnologías de apoyo</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/recursos/biblioteca" >Biblioteca</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="https://campusinfo.uniandes.edu.co/" target="_blank" >Campus</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/facultad/internacionalizacion" >Internacionalización</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales" >Información para estudiantes internacionales</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales/programa-de-intercambio" >Programa de Intercambio</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales/doble-titulacion" >Programa de Doble Titulación</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos" >Información para estudiantes uniandinos</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/convenios-e-intercambios" >Convenios e intercambios</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/requisitos-para-doble-titulacion" >Requisitos para Doble Titulación</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/requisitos-para-intercambio" >Requisitos para intercambio</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/semanas-internacionales" >Semanas internacionales</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales" >Información para profesores internacionales</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/convocatorias-escuela-internacional-de-verano" >Convocatorias Escuela Internacional de Verano</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/silla-corona" >Programa Silla Corona de Visitantes Distinguidos</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/decanos-visitantes" >Decanos visitantes</a></li><li class="sp-menu-item"><a  href="/index.php/es/profesores/ofertas-de-vinculacion" >Ofertas de vinculación</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-sobre-programas-internacionales" >Información sobre programas internacionales</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/acreditaciones" >Acreditaciones</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/membresias-y-alianzas" >Membresías y alianzas</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/contactenos" >Contáctenos</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/silla-corona" >Silla Corona</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano" >Escuela Internacional de Verano</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/facultad/escuela-internacional-de-verano" >Escuela Internacional de Verano</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/images/phocadownload/EIV2013/UASM%20International%20Summer%20School%202011.pdf" target="_blank" >2011</a></li><li class="sp-menu-item"><a  href="/images/phocadownload/internacionalisacion/eiv%202012-Universidad-Andes.pdf" target="_blank" >2012</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2013" >2013</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2014" >2014</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2015" >2015</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2016" >2016</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2017" >2017</a></li><li class="sp-menu-item oculto"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/noticias" >Noticias</a></li><li class="sp-menu-item"><a  href="https://administracion.uniandes.edu.co/index.php/es/facultad/escuela-internacional-de-verano/noticias" >Noticias EIV 2016</a></li><li class="sp-menu-item"><a  href="https://administracion.uniandes.edu.co/index.php/es/facultad/sobre-la-facultad/noticias/itemlist/category/168-noticias-escuela-internacional-de-verano-2017" >Noticias EIV 2017</a></li><li class="sp-menu-item borrame"><a href="/" >.</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/facultad/sala-de-prensa" >Sala de prensa</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/entrevistas" >Entrevistas</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/articulos-vision-gerencial" >Artículos visión gerencial y columnas de opinión</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/historico-sala-prensa" >Historico</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/triple-corona" >Triple corona</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/sala-de-prensa-kit" >Sala de prensa Kit</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/otros" >Otros</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child menu-programas-helix"><a  href="/index.php/es/programas/programas-posgrado" >Programas</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-2"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/programas/pregrados" >Pregrados</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item sp-has-child n1 n2 n3"><a  href="/index.php/es/programas/pregrados/administracion/informacion-general" >Administración</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/administracion/informacion-general" >Información general</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/pregrados/administracion/programa" >Programa</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/administracion/programa/dobles-y-opciones" >Dobles y Opciones</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/administracion/programa/intercambios-y-doble-titulacion" >Intercambios y Doble Titulación</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/administracion/programa/opciones-academicas-en-administracion" >Opciones Académicas en Administración</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/administracion/programa/conflicto-de-horario" >Conflicto de Horario</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/administracion/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/pregrados/contaduria-internacional/informacion-general" >Contaduría internacional</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/contaduria-internacional/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/contaduria-internacional/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/contaduria-internacional/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/pregrados/contaduria-internacional/noticias-contaduria-internacional" >Noticias</a></li></ul></div></div></li><li class="sp-menu-item oculto"><a  href="/index.php/es/programas/pregrados/noticias" >Noticias</a></li></ul></li></ul></div><div class="col-sm-2"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/programas/especializaciones" >Especializaciones</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/informacion-general" >Especialización en Administración Financiera</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item oculto"><a  href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/plan-de-estudios" >Plan de estudios</a></li></ul></div></div></li><li class="sp-menu-item oculto"><a  href="/index.php/es/programas/especializaciones/noticias" >Noticias</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/informacion-general" >Especialización en Negociación</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item oculto"><a  href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/plan-de-estudio" >Plan de estudio</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/informacion-general" >Especialización en Inteligencia de Mercados</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/plan-de-estudio" >Plan de estudio</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/informacion-general" >Especialización en Gerencia de Abastecimiento Estratégico</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/informacion-general" >Información General</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/plan-de-estudio-especializacion-gerencia-abastecimiento" >Plan de estudio</a></li></ul></div></div></li></ul></li></ul></div><div class="col-sm-2"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/programas/mba" >MBA</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/mba/emba-ejecutivo/informacion-general" >MBA Ejecutivo - EMBA</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/emba-ejecutivo/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/emba-ejecutivo/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/emba-ejecutivo/vida-estudiantil" >Vida estudiantil</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/emba-ejecutivo/comunidad-emba" >Comunidad EMBA</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/emba-ejecutivo/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/emba-ejecutivo/plan-de-estudio" >Plan de estudio</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/emba-ejecutivo/plan-de-estudios" >Plan de estudios</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/informacion-general" >MBA Tiempo Completo - Parcial</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/becas" >Becas</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/vida-estudiantil" >Vida estudiantil</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/plan-de-estudio" >Plan de estudio</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/plan-de-estudio-2" >Plan de estudio</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/mba/global-mba/program-overview" >Global Managament</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/global-mba/program-overview" >Program overview</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/global-mba/academic-aspects" >Academic aspects</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/mba/global-mba/admission-requirements-and-process" >Admission requirements and process</a></li></ul></div></div></li><li class="sp-menu-item oculto"><a  href="/index.php/es/programas/mba/noticias" >Noticias</a></li></ul></li></ul></div><div class="col-sm-2"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/programas/maestrias" >Maestrías</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/maestrias/maestria-en-mercadeo/informacion-general" >Maestría en Mercadeo</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-mercadeo/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-mercadeo/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-mercadeo/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-mercadeo/vida-estudiantil" >Vida estudiantil</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-mercadeo/aspirantes-extranjeros-o-internacionales" >Aspirantes Extranjeros o Internacionales</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-mercadeo/plan-de-estudio" >Plan de estudio - Maestría en Mercadeo</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/maestrias/maestria-en-finanzas/informacion-general" >Maestría en Finanzas</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-finanzas/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-finanzas/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-finanzas/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-finanzas/vida-estudiantil" >Vida estudiantil</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-finanzas/aspirantes-extranjeros-o-internacionales" >Aspirantes Extranjeros o Internacionales</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-finanzas/plan-de-estudio" >Plan de estudio</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/informacion-general" >Maestría en Gerencia Ambiental</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/informacion-general" >Información General</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/comunidad-mga" >Comunidad MGA</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/testimonios" >Testimonios</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/plan-de-estudio" >Plan de estudio</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/informacion-general" >Maestría en Gerencia y Práctica del Desarrollo</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/informacion-general" >Información general</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/programa" >Programa</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/programa/plan-de-estudios" >Plan de estudios</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/practicas" >Prácticas</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/red-global-mdp" >Red Global MDP</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/testimonios" >Testimonios</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/informacion-general" >Maestría en Investigación en Administración</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/vida-estudiantil" >Vida estudiantil</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/oportunidades-academicas-pregrado" >Oportunidades Académicas (Pregrado)</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/becas-parciales" >Becas Parciales</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/plan-de-estudio" >Plan de estudio</a></li></ul></div></div></li><li class="sp-menu-item oculto"><a  href="/index.php/es/programas/maestrias/noticias" >Noticias</a></li></ul></li></ul></div><div class="col-sm-2"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/programas/doctorado/informacion-general" >Doctorado</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/programas/doctorado/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/doctorado/programa" >Programa</a></li><li class="sp-menu-item"><a  href="/index.php/es/programas/doctorado/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="sp-menu-item oculto"><a  href="/index.php/es/programas/doctorado/noticias" >Noticias</a></li></ul></li></ul></div><div class="col-sm-2"></div></div></div></div></li><li class="sp-menu-item sp-has-child ok"><a  href="/index.php/es/educacion-ejecutiva" >Educación Ejecutiva</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/educacion-ejecutiva/programas/programas-abiertos" >Programas Abiertos</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item sp-group-title"><a  href="/index.php/es/educacion-ejecutiva/programas/programas-abiertos" >Programas Abiertos</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/educacion-ejecutiva/programas/presidentes-de-empresa" >Presidentes de Empresas</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/educacion-ejecutiva/programas/presidentes-de-empresa/semana-internacional" >Semana internacional de Presidentes</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/educacion-ejecutiva/programas/semanas-internacionales" >Semanas Internacionales</a></li><li class="sp-menu-item sp-group-title"><a  href="/index.php/es/educacion-ejecutiva/programas/talleres-abiertos" >Talleres Abiertos</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child a.sp-group-title"><a class="sp-group-title"  href="/index.php/es/educacion-ejecutiva/programas-corporativos" >Programas Corporativos</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item none"><a  href="/index.php/es/educacion-ejecutiva/programas-corporativos" >Programas para empresas</a></li></ul></li></ul></div><div class="col-sm-4"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/educacion-ejecutiva/desarrollo-empresarial" >Desarrollo Empresarial</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/educacion-ejecutiva/desarrollo-empresarial/gestion-estrategica-para-las-pyme" >Gestión Estratégica para las Pyme</a></li></ul></li></ul></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/profesores" >Profesores</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/profesores" >Profesores</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/profesores/profesores-de-planta" >Profesores de planta</a></li><li class="sp-menu-item"><a  href="/index.php/es/profesores/profesores-de-catedra" >Profesores de cátedra</a></li><li class="sp-menu-item"><a  href="/index.php/es/profesores/ofertas-de-vinculacion" >Ofertas de Vinculación</a></li><li class="sp-menu-item"><a  href="/index.php/es/profesores/nuevos-profesores" >Nuevos profesores</a></li><li class="sp-menu-item oculto"><a  href="/index.php/es/profesores/noticias" >Noticias</a></li></ul></li></ul></div><div class="col-sm-6"></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/investigacion" >Investigaciones</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/investigacion/grupos-de-investigacion/historia-y-empresariado" >Grupos de investigación</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/investigacion/grupos-de-investigacion/historia-y-empresariado" >Historia y empresariado</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/grupos-de-investigacion/gestion-publica" >Gestión pública</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/grupos-de-investigacion/decisiones-y-mercados" >Decisiones y mercados</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/grupos-de-investigacion/finanzas-y-economia-financiera" >Finanzas y economía financiera</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/grupos-de-investigacion/estudios-organizacionales" >Estudios organizacionales</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/investigacion/programas-estrategicos/descripcion-y-objetivos" >Programas estratégicos</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/investigacion/programas-estrategicos/descripcion-y-objetivos" >Descripción y objetivos</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/programas-estrategicos/historia-y-empresariado" >Historia y empresariado</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/programas-estrategicos/gobierno-corporativo" >Gobierno corporativo</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/programas-estrategicos/gestion-ambiental" >Gestión ambiental</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/programas-estrategicos/empresariado-social" >Empresariado social</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/programas-estrategicos/mujeres-en-posiciones-de-liderazgo-en-latinoamerica-mepla" >Mujeres en posiciones de liderazgo en Latinoamérica (MEPLA)</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/investigacion/comite-de-investigaciones/proyectos-financiados" >Comité de Investigaciones</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/investigacion/comite-de-investigaciones/proyectos-financiados" >Proyectos financiados</a></li></ul></li></ul></div><div class="col-sm-3"></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/publicaciones/publicaciones/1425/all_category" >Publicaciones</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/publicaciones/publicaciones/1425/all_category" >Publicaciones</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/libros/1426/showCategory" >Libros</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/capitulos-en-libros/1427/showCategory" >Capítulos en libros</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/articulos-en-revista/1428/showCategory" >Artículos en revista</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/monografias/1430/showCategory" >Monografías</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/casos-docentes/1431/showCategory" >Casos docentes</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/galeras-de-administracion/1432/showCategory" >Galeras de administración</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/catedra-corona/1433/showCategory" >Cátedra corona</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/apuntes-de-clase/1434/showCategory" >Apuntes de clase</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/proyectos-de-grado/1435/showCategory" >Proyectos de grado</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/boletines-de-noticias/1436/showCategory" >Boletines de Noticias</a></li><li class="sp-menu-item"><a  href="/phocadownload/publicaciones/guia-entrega-manuscritos.pdf" target="_blank" >Guía entrega de manuscritos</a></li><li class="sp-menu-item"><a  href="http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=arla" target="_blank" >Revista academia</a></li><li class="sp-menu-item"><a  href="/index.php/es/publicaciones/publicaciones/boletines-de-publicaciones/1966/showCategory" >Boletines de publicaciones</a></li></ul></li></ul></div><div class="col-sm-6"><div class="sp-module  search-menu-pub"><h3 class="sp-module-title"> Buscar publicación</h3><div class="sp-module-content">
+<link rel="stylesheet" type="text/css" href="/components/com_booklibrary/includes/booklibrary.css">
+    <div  class=" search-menu-pub">         <form action="https://administracion.uniandes.edu.co/index.php/es/component/booklibrary/0/search?ItemId=1299" method="get" name="mod_booklibsearchForm">
+            <!-- Campo de búsqueda -->
+            <input class="inputbox" type="text" name="searchtext" size="15" maxlength="60" placeholder="Buscar palabras clave..."/>
+            <!-- Seleccionar categorías -->
+            <select id="catid" name="catid" class="inputbox" size="1" style="max-width:170px;">
+	<option value="0">Categor&iacute;a b&uacute;squeda</option>
+	<option value="53">Libros</option>
+	<option value="98">. --  Organizaciones</option>
+	<option value="62">. --  Estrategia</option>
+	<option value="61">. --  Gesti&oacute;n</option>
+	<option value="60">. --  Mercadeo</option>
+	<option value="59">. --  Finanzas</option>
+	<option value="83">Cap&iacute;tulos en libros</option>
+	<option value="91">. --  Estrategia</option>
+	<option value="90">. --  Finanzas</option>
+	<option value="89">. --  Gesti&oacute;n</option>
+	<option value="88">. --  Mercadeo</option>
+	<option value="87">. --  Organizaciones</option>
+	<option value="84">Art&iacute;culos en revista</option>
+	<option value="96">. --  Estrategia</option>
+	<option value="95">. --  Finanzas</option>
+	<option value="94">. --  Gesti&oacute;n</option>
+	<option value="93">. --  Mercadeo</option>
+	<option value="92">. --  Organizaciones</option>
+	<option value="54">Monograf&iacute;as</option>
+	<option value="67">. --  Organizaciones</option>
+	<option value="66">. --  Mercadeo</option>
+	<option value="65">. --  Gesti&oacute;n</option>
+	<option value="64">. --  Finanzas</option>
+	<option value="63">. --  Estrategia</option>
+	<option value="85">Casos docentes</option>
+	<option value="104">. --  Finanzas</option>
+	<option value="103">. --  Organizaciones</option>
+	<option value="101">. --  Mercadeo</option>
+	<option value="102">. --  Estrategia</option>
+	<option value="57">Galeras de administraci&oacute;n</option>
+	<option value="72">. --  Organizaciones</option>
+	<option value="71">. --  Mercadeo</option>
+	<option value="70">. --  Gesti&oacute;n</option>
+	<option value="69">. --  Finanzas</option>
+	<option value="68">. --  Estrategia</option>
+	<option value="56">C&aacute;tedra corona</option>
+	<option value="100">. --  Gesti&oacute;n</option>
+	<option value="99">. --  Organizaciones</option>
+	<option value="52">Apuntes de clase</option>
+	<option value="77">. --  Organizaciones</option>
+	<option value="76">. --  Mercadeo</option>
+	<option value="75">. --  Gesti&oacute;n</option>
+	<option value="74">. --  Finanzas</option>
+	<option value="73">. --  Estrategia</option>
+	<option value="55">Proyectos de grado</option>
+	<option value="82">. --  Organizaciones</option>
+	<option value="81">. --  Mercadeo</option>
+	<option value="80">. --  Gesti&oacute;n</option>
+	<option value="79">. --  Finanzas</option>
+	<option value="78">. --  Estrategia</option>
+	<option value="58">Boletines de Noticias</option>
+	<option value="97">Gu&iacute;a entrega de manuscritos</option>
+	<option value="105">Revista Academia</option>
+	<option value="106">Boletines de publicaciones</option>
+</select>
+            <!-- Botón de envío -->
+            <div class="send-button"><input type="submit" value="Buscar" class="button button-link button-link-naranja" /></div>
+            
+                            <input type="hidden" name="author" value="on">
+              
+
+                            <input type="hidden" name="title" value="on">
+              
+
+                            <input type="hidden" name="isbn" value="on">
+            
+                            <input type="hidden" name="bookid" value="on">
+            
+                            <input type="hidden" name="description" value="on">
+              
+
+                            <input type="hidden" name="publisher" value="on">
+            
+                        <!-- Categoría:&nbsp; -->
+            <input type="hidden" name="option" value="com_booklibrary">
+            <input type="hidden" name="task" value="search">
+            <input type="hidden" name="Itemid" value="1299">
+        </form>
+    </div> 
+</div></div></div></div></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones Corporativas</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones Corporativas</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/informacion-general" >Información general</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Centro de Estrategia y Competitividad - CEC: Investigación y Consultoría</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/programas-y-servicios" >Programas y servicios</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/redes-car-y-bid" >RedEs-CAR y BID</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/publicaciones-cec" >Publicaciones CEC</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento" >Centro de emprendimiento</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/programa-emprendedores" >Programa emprendedores (PEMP)</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-construye-2017-1" >PEMP | Construye</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-invierte-2017-1" >PEMP | Invierte</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quiero-emprender" >Asesorías y talleres</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quienes-somos" >Quiénes somos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/mentores" >Mentores</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/emprendimientos-uniandinos" >Emprendimientos Uniandinos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/noticias" >Noticias</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/proyectos-y-relacionamiento-corporativo" >Proyectos y relacionamiento corporativo</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/agronegocios-e-industria-de-alimentos-aneia" >AgroNegocios e Industria de Alimentos – AneIA</a></li><li class="sp-menu-item"><a  href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/consultandes" >Consultandes</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Observatorio Scala </a></li></ul></li></ul></div><div class="col-sm-6"></div></div></div></div></li><li class="sp-menu-item sp-has-child oculto"><a  href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones Corporativas</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/informacion-general" >Información general</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Centro de Estrategia y Competitividad - CEC: Investigación y Consultoría</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/programas-y-servicios" >Programas y servicios</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/redes-car-y-bid" >RedEs-CAR y BID</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/publicaciones-cec" >Publicaciones CEC</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento" >Centro de emprendimiento</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/programa-emprendedores" >Programa emprendedores (PEMP)</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-construye-2017-1" >PEMP | Construye</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-invierte-2017-1" >PEMP | Invierte</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quiero-emprender" >Asesorías y talleres</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quienes-somos" >Quiénes somos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/mentores" >Mentores</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/emprendimientos-uniandinos" >Emprendimientos Uniandinos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/noticias" >Noticias</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/proyectos-y-relacionamiento-corporativo" >Proyectos y relacionamiento corporativo</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/agronegocios-e-industria-de-alimentos-aneia" >AgroNegocios e Industria de Alimentos – AneIA</a></li><li class="sp-menu-item"><a  href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/consultandes" >Consultandes</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Observatorio Scala </a></li></ul></li></ul></div><div class="col-sm-6"></div></div></div></div></li><li class="sp-menu-item sp-has-child oculto"><a  href="/index.php/es/aspirantes/estudiar-en-la-facultad" >Aspirantes</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones Corporativas</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/informacion-general" >Información general</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Centro de Estrategia y Competitividad - CEC: Investigación y Consultoría</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/programas-y-servicios" >Programas y servicios</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/redes-car-y-bid" >RedEs-CAR y BID</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/publicaciones-cec" >Publicaciones CEC</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento" >Centro de emprendimiento</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/programa-emprendedores" >Programa emprendedores (PEMP)</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-construye-2017-1" >PEMP | Construye</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-invierte-2017-1" >PEMP | Invierte</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quiero-emprender" >Asesorías y talleres</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quienes-somos" >Quiénes somos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/mentores" >Mentores</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/emprendimientos-uniandinos" >Emprendimientos Uniandinos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/noticias" >Noticias</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/proyectos-y-relacionamiento-corporativo" >Proyectos y relacionamiento corporativo</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/agronegocios-e-industria-de-alimentos-aneia" >AgroNegocios e Industria de Alimentos – AneIA</a></li><li class="sp-menu-item"><a  href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/consultandes" >Consultandes</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Observatorio Scala </a></li></ul></li></ul></div><div class="col-sm-6"></div></div></div></div></li><li class="sp-menu-item sp-has-child oculto"><a  href="/index.php/es/estudiantes" >Estudiantes</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones Corporativas</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/informacion-general" >Información general</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Centro de Estrategia y Competitividad - CEC: Investigación y Consultoría</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/programas-y-servicios" >Programas y servicios</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/redes-car-y-bid" >RedEs-CAR y BID</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/publicaciones-cec" >Publicaciones CEC</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento" >Centro de emprendimiento</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/programa-emprendedores" >Programa emprendedores (PEMP)</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-construye-2017-1" >PEMP | Construye</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-invierte-2017-1" >PEMP | Invierte</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quiero-emprender" >Asesorías y talleres</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quienes-somos" >Quiénes somos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/mentores" >Mentores</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/emprendimientos-uniandinos" >Emprendimientos Uniandinos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/noticias" >Noticias</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/proyectos-y-relacionamiento-corporativo" >Proyectos y relacionamiento corporativo</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/agronegocios-e-industria-de-alimentos-aneia" >AgroNegocios e Industria de Alimentos – AneIA</a></li><li class="sp-menu-item"><a  href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/consultandes" >Consultandes</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Observatorio Scala </a></li></ul></li></ul></div><div class="col-sm-6"></div></div></div></div></li><li class="sp-menu-item sp-has-child oculto"><a  href="/index.php/es/empresas-y-organizaciones" >Empresas y Organizaciones</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones Corporativas</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/informacion-general" >Información general</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Centro de Estrategia y Competitividad - CEC: Investigación y Consultoría</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/programas-y-servicios" >Programas y servicios</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/redes-car-y-bid" >RedEs-CAR y BID</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/publicaciones-cec" >Publicaciones CEC</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento" >Centro de emprendimiento</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/programa-emprendedores" >Programa emprendedores (PEMP)</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-construye-2017-1" >PEMP | Construye</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-invierte-2017-1" >PEMP | Invierte</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quiero-emprender" >Asesorías y talleres</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quienes-somos" >Quiénes somos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/mentores" >Mentores</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/emprendimientos-uniandinos" >Emprendimientos Uniandinos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/noticias" >Noticias</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/proyectos-y-relacionamiento-corporativo" >Proyectos y relacionamiento corporativo</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/agronegocios-e-industria-de-alimentos-aneia" >AgroNegocios e Industria de Alimentos – AneIA</a></li><li class="sp-menu-item"><a  href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/consultandes" >Consultandes</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Observatorio Scala </a></li></ul></li></ul></div><div class="col-sm-6"></div></div></div></div></li><li class="sp-menu-item sp-has-child oculto"><a  href="/index.php/es/profesores-y-administrativos/informacion-general" >Profesores y administrativos</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-6"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones Corporativas</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/informacion-general" >Información general</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Centro de Estrategia y Competitividad - CEC: Investigación y Consultoría</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Información general</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/programas-y-servicios" >Programas y servicios</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/redes-car-y-bid" >RedEs-CAR y BID</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/publicaciones-cec" >Publicaciones CEC</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento" >Centro de emprendimiento</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/programa-emprendedores" >Programa emprendedores (PEMP)</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-construye-2017-1" >PEMP | Construye</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-invierte-2017-1" >PEMP | Invierte</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quiero-emprender" >Asesorías y talleres</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quienes-somos" >Quiénes somos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/mentores" >Mentores</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/emprendimientos-uniandinos" >Emprendimientos Uniandinos</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/noticias" >Noticias</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/proyectos-y-relacionamiento-corporativo" >Proyectos y relacionamiento corporativo</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/agronegocios-e-industria-de-alimentos-aneia" >AgroNegocios e Industria de Alimentos – AneIA</a></li><li class="sp-menu-item"><a  href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li><li class="sp-menu-item"><a  href="/index.php/es/relaciones-corporativas/consultandes" >Consultandes</a></li><li class="sp-menu-item"><a  href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Observatorio Scala </a></li></ul></li></ul></div><div class="col-sm-6"></div></div></div></div></li><li class="sp-menu-item ua-mp-home"><a  href="/index.php/es/inicio-search" >inicio-search</a></li><li class="sp-menu-item sp-has-child ok"><a  href="/index.php/es/facultad/sobre-la-facultad/mision-vision-y-valores" >prueba</a><div class="sp-dropdown sp-dropdown-main sp-dropdown-mega sp-menu-full container" style=""><div class="sp-dropdown-inner"><div class="row"><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/facultad/sobre-la-facultad/la-facultad" >Sobre la facultad</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/la-facultad" >La Facultad</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/mision-vision-y-valores" >Misión, visión y valores</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/nuestra-diferencia" >Nuestra diferencia</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/historia" >Historia</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/decanos" >Decanos</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/estructura" >Estructura</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/vida-universitaria" >Vida universitaria</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/noticias" >Noticias</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/eventos/cat.listevents/2017/09/08/-" >Eventos</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/bogota-y-colombia" >Bogotá y Colombia</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/sala-de-investigacion" >Sala de investigación</a></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/facultad/sobre-la-facultad/recursos" >Recursos</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/recursos/tecnologias-de-apoyo" >Tecnologías de apoyo</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sobre-la-facultad/recursos/biblioteca" >Biblioteca</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="https://campusinfo.uniandes.edu.co/" target="_blank" >Campus</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/facultad/internacionalizacion" >Internacionalización</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales" >Información para estudiantes internacionales</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales/programa-de-intercambio" >Programa de Intercambio</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales/doble-titulacion" >Programa de Doble Titulación</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos" >Información para estudiantes uniandinos</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/convenios-e-intercambios" >Convenios e intercambios</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/requisitos-para-doble-titulacion" >Requisitos para Doble Titulación</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/requisitos-para-intercambio" >Requisitos para intercambio</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/semanas-internacionales" >Semanas internacionales</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales" >Información para profesores internacionales</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/convocatorias-escuela-internacional-de-verano" >Convocatorias Escuela Internacional de Verano</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/silla-corona" >Programa Silla Corona de Visitantes Distinguidos</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/decanos-visitantes" >Decanos visitantes</a></li><li class="sp-menu-item"><a  href="/index.php/es/profesores/ofertas-de-vinculacion" >Ofertas de vinculación</a></li></ul></div></div></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/informacion-sobre-programas-internacionales" >Información sobre programas internacionales</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/acreditaciones" >Acreditaciones</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/membresias-y-alianzas" >Membresías y alianzas</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/contactenos" >Contáctenos</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/internacionalizacion/silla-corona" >Silla Corona</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano" >Escuela Internacional de Verano</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/facultad/escuela-internacional-de-verano" >Escuela Internacional de Verano</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/images/phocadownload/EIV2013/UASM%20International%20Summer%20School%202011.pdf" target="_blank" >2011</a></li><li class="sp-menu-item"><a  href="/images/phocadownload/internacionalisacion/eiv%202012-Universidad-Andes.pdf" target="_blank" >2012</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2013" >2013</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2014" >2014</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2015" >2015</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2016" >2016</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/2017" >2017</a></li><li class="sp-menu-item oculto"><a  href="/index.php/es/facultad/escuela-internacional-de-verano/noticias" >Noticias</a></li><li class="sp-menu-item"><a  href="https://administracion.uniandes.edu.co/index.php/es/facultad/escuela-internacional-de-verano/noticias" >Noticias EIV 2016</a></li><li class="sp-menu-item"><a  href="https://administracion.uniandes.edu.co/index.php/es/facultad/sobre-la-facultad/noticias/itemlist/category/168-noticias-escuela-internacional-de-verano-2017" >Noticias EIV 2017</a></li><li class="sp-menu-item borrame"><a href="/" >.</a></li></ul></li></ul></div><div class="col-sm-3"><ul class="sp-mega-group"><li class="sp-menu-item sp-has-child"><a class="sp-group-title"  href="/index.php/es/facultad/sala-de-prensa" >Sala de prensa</a><ul class="sp-mega-group-child sp-dropdown-items"><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/entrevistas" >Entrevistas</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/articulos-vision-gerencial" >Artículos visión gerencial y columnas de opinión</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/historico-sala-prensa" >Historico</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/triple-corona" >Triple corona</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/sala-de-prensa-kit" >Sala de prensa Kit</a></li><li class="sp-menu-item"><a  href="/index.php/es/facultad/sala-de-prensa/otros" >Otros</a></li></ul></li></ul></div></div></div></div></li></ul>			</div>
+					<!-- 
+			<link rel="stylesheet" href="https://administracion.uniandes.edu.co/templates/shaper_helix3/css/dlmenu-component.css" />
+			<script type="text/javascript" src="https://administracion.uniandes.edu.co/templates/shaper_helix3/js/modernizr.custom.js"></script>
+			<script type="text/javascript" src="https://administracion.uniandes.edu.co/templates/shaper_helix3/js/jquery.dlmenu.js"></script>
+			<script type="text/javascript">
+				jQuery(document).ready(function($) {
+					$('#dl-menu').dlmenu();
+				});
+			</script>
+			 -->
+		</div></div></div></div></header><section id="sp-section-4" class=" sticky-wrapper"><div class="container"><div class="row"><div id="sp-search" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="search">
+	<form action="/index.php/es/" method="post" class="home-search-form form-inline">
+		<input name="searchword" id="mod-search-searchword" maxlength="60"  class="ua-input-search inputbox search-query" type="text" size="60" value="Buscar..."  onblur="if (this.value=='') this.value='Buscar...';" onfocus="if (this.value=='Buscar...') this.value='';" /> <input type="image" value="Buscar" class="ua-button-search button" src="https://administracion.uniandes.edu.co/templates/shaper_helix3/images/search-button.png" onclick="this.form.searchword.focus();"/>		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="144" />
+	</form>
+</div>
+</div></div></div></div></div></div></section><section id="sp-home-slider"><div class="row"><div id="sp-home-slider" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Slideshow CK</h3><div class="sp-module-content">
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link href="/modules/mod_slideshowck/themes/default/css/camera_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]--><!-- debut Slideshow CK -->
+<div class="slideshowck camera_wrap camera_ash_skin" id="camera_wrap_567" style="width:100%px;">
+	
+/images/noticias/2017/09/07/planet-on-uniandesMOB.jpg
+
+
+			<div data-thumb="/images/noticias/2017/09/07/th/planet-on-uniandes_th.jpg" data-src="/images/noticias/2017/09/07/planet-on-uniandes.jpg" >
+											<!-- <a href="/"> <div class="cortina-video"></div> </a> --> 
+				<div class="camera_caption welcometbwa none">
+
+					<div class="camera_caption_title">
+						 ¿Y SI SALVAMOS EL FUTURO? 											</div>
+										<div class="camera_caption_desc">
+						Muestra internacional de cine ambiental <br><a href="https://welcu.com/planet-on/planet-on-uniandes me cuentas cualquier duda" class="headerHome" id="y-si-salvamos-futuro-planet-on-uniandes"><div class="col-xs-12 col-sm-5 col-md-3 col-lg-2">Inscríbase</div></a>											</div>
+									</div>
+									</div>
+
+/images/noticias/2017/08/24/reunion-informativa-20-de-septiembreMOB.jpg
+
+
+			<div data-thumb="/images/noticias/2017/08/24/th/reunion-informativa-20-de-septiembre_th.jpg" data-src="/images/noticias/2017/08/24/reunion-informativa-20-de-septiembre.jpg" >
+											<!-- <a href="/"> <div class="cortina-video"></div> </a> --> 
+				<div class="camera_caption welcometbwa none">
+
+					<div class="camera_caption_title">
+						REUNIÓN DE INFORMACIÓN											</div>
+										<div class="camera_caption_desc">
+						<a href="https://administracion.uniandes.edu.co/index.php/es/facultad/sobre-la-facultad/eventos/icalrepeat.detail/2017/09/20/157/28%7C14%7C15%7C17%7C18%7C19%7C20/reunion-de-informacion" class="headerHome" id="reunion-de-informacion-20-septiembre"><div class="col-xs-12 col-sm-5 col-md-3 col-lg-2">Inscríbase </div></a>											</div>
+									</div>
+									</div>
+
+/images/noticias/2017/09/01/deu-uniandesMOB.jpg
+
+
+			<div data-thumb="/images/noticias/2017/09/01/th/deu-uniandes_th.jpg" data-src="/images/noticias/2017/09/01/deu-uniandes.jpg" >
+											<!-- <a href="/"> <div class="cortina-video"></div> </a> --> 
+				<div class="camera_caption welcometbwa none">
+
+					<div class="camera_caption_title">
+						DEU											</div>
+										<div class="camera_caption_desc">
+						<a href="http://deu2017.wixsite.com/deu2017" class="headerHome" id="deu" target="_blank"><div class="col-xs-12 col-sm-5 col-md-3 col-lg-2">Ver más</div></a>											</div>
+									</div>
+									</div>
+
+/images/noticias/2017/09/01/effects-of-corporate-reputation-perceptions-of-the-general-public-on-shareholder-valueMOB.jpg
+
+
+			<div data-thumb="/images/noticias/2017/09/01/th/effects-of-corporate-reputation-perceptions-of-the-general-public-on-shareholder-value_th.jpg" data-src="/images/noticias/2017/09/01/effects-of-corporate-reputation-perceptions-of-the-general-public-on-shareholder-value.jpg" >
+											<!-- <a href="/"> <div class="cortina-video"></div> </a> --> 
+				<div class="camera_caption welcometbwa none">
+
+					<div class="camera_caption_title">
+						“THE EFFECTS OF CORPORATE REPUTATION PERCEPTIONS OF THE GENERAL PUBLIC ON SHAREHOLDER VALUE”											</div>
+										<div class="camera_caption_desc">
+						Corona Chair Program. Manfred Schwaiger<br><a href="https://administracion.uniandes.edu.co/index.php/es/facultad/internacionalizacion/silla-corona/item/1991-the-effects-of-corporate-reputation-perceptions-of-the-general-public-on-shareholder-value" class="headerHome" id="the-effects-of-corporate-reputation"><div class="col-xs-12 col-sm-5 col-md-3 col-lg-2">Ver más</div></a>											</div>
+									</div>
+									</div>
+
+/images/noticias/2017/09/05/cultura-ancestral-y-tecnologia-claves-para-el-desarrollo-sostenible-homeMOB.jpg
+
+
+			<div data-thumb="/images/noticias/2017/09/05/th/cultura-ancestral-y-tecnologia-claves-para-el-desarrollo-sostenible-home_th.jpg" data-src="/images/noticias/2017/09/05/cultura-ancestral-y-tecnologia-claves-para-el-desarrollo-sostenible-home.jpg" >
+											<!-- <a href="/"> <div class="cortina-video"></div> </a> --> 
+				<div class="camera_caption welcometbwa none">
+
+					<div class="camera_caption_title">
+						 CULTURA ANCESTRAL Y TECNOLOGÍA: CLAVES PARA EL DESARROLLO SOSTENIBLE											</div>
+										<div class="camera_caption_desc">
+						Recuento del Seminario Internacional sobre Electromovilidad<br><a href="https://administracion.uniandes.edu.co/index.php/es/facultad/sobre-la-facultad/noticias/item/2000-cultura-ancestral-y-tecnologia-claves-para-el-desarrollo-sostenible" class="headerHome" id="cultura-ancestral-y-tecnologia-claves-para-el-desarrollo-sostenible"><div class="col-xs-12 col-sm-5 col-md-3 col-lg-2">Ver más</div></a>											</div>
+									</div>
+									</div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin Slideshow CK -->
+</div></div></div></div></div></section><section id="sp-home-row1"><div class="container"><div class="row"><div id="sp-home-row1" class="col-sm-6 col-md-9"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Noticias</h3><div class="sp-module-content">
+<div id="k2ModuleBox253" class="k2ItemsBlock">
+
+	
+	  <ul>
+        <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+			<!-- TEMPLATE MODULOS HOME -->
+			<!-- Imagen -->
+						<div class="moduleItemIntrotext">
+			  			  <a class="moduleItemImage" href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/becas" title="Leer más &quot;Becas&quot;">
+			  	<img src="/media/k2/items/cache/258565ce4d7dff5eb14d5032bc3c05e4_L.jpg" alt="Becas"/>
+			  </a>
+			  			</div>
+						<!-- /Imagen -->
+			<div class="clr"></div>
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle uasectitle" href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/becas" title="">Becas..</a>
+		    				<!-- /Títulos -->
+
+			<!-- Intro -->
+			<!-- /Intro -->
+									<div class="home-news-intro">
+						<p>Conozca cómo inscribirse.</p>...					</div>
+												<!-- Fecha -->
+									<!-- /Fecha -->
+					
+			      
+				<!-- Flechas -->
+			    		<a class="moduleItemArrow" href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/becas"></a>
+				<!-- /Títulos -->
+
+
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+			<!-- TEMPLATE MODULOS HOME -->
+			<!-- Imagen -->
+						<div class="moduleItemIntrotext">
+			  			  <a class="moduleItemImage" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/2003-con-los-lentes-del-lider" title="Leer más &quot;CON LOS LENTES DEL L&amp;Iacute;DER&quot;">
+			  	<img src="/media/k2/items/cache/4e64feb0c630182ccd22eafbee59cb3e_L.jpg" alt="CON LOS LENTES DEL L&Iacute;DER"/>
+			  </a>
+			  			</div>
+						<!-- /Imagen -->
+			<div class="clr"></div>
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle uasectitle" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/2003-con-los-lentes-del-lider" title="">CON LOS LENTES DEL LÍDER..</a>
+		    				<!-- /Títulos -->
+
+			<!-- Intro -->
+			<!-- /Intro -->
+									<div class="home-news-intro">
+						<p>Jack Denfeld Wood, una autoridad en temas de liderazgo</p>...					</div>
+												<!-- Fecha -->
+									<!-- /Fecha -->
+					
+			      
+				<!-- Flechas -->
+			    		<a class="moduleItemArrow" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/2003-con-los-lentes-del-lider"></a>
+				<!-- /Títulos -->
+
+
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+			<!-- TEMPLATE MODULOS HOME -->
+			<!-- Imagen -->
+						<div class="moduleItemIntrotext">
+			  			  <a class="moduleItemImage" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/1978-la-car-la-universidad-de-los-andes-reconocen-a-empresas-sostenibles" title="Leer más &quot;&amp;iexcl;LA CAR RECONOCE Y PREMIA A LAS EMPRESAS SOSTENIBLES!&quot;">
+			  	<img src="/media/k2/items/cache/04569d66ab2e12b5b6037077bb4881b0_L.jpg" alt="&iexcl;LA CAR RECONOCE Y PREMIA A LAS EMPRESAS SOSTENIBLES!"/>
+			  </a>
+			  			</div>
+						<!-- /Imagen -->
+			<div class="clr"></div>
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle uasectitle" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/1978-la-car-la-universidad-de-los-andes-reconocen-a-empresas-sostenibles" title="">¡LA CAR RECONOCE Y PREMIA A LAS EMPRESAS SOSTENIBLES!..</a>
+		    				<!-- /Títulos -->
+
+			<!-- Intro -->
+			<!-- /Intro -->
+									<div class="home-news-intro">
+						...					</div>
+												<!-- Fecha -->
+									<!-- /Fecha -->
+					
+			      
+				<!-- Flechas -->
+			    		<a class="moduleItemArrow" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/1978-la-car-la-universidad-de-los-andes-reconocen-a-empresas-sostenibles"></a>
+				<!-- /Títulos -->
+
+
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="col-xs-12 col-sm-12 col-md-6 col-lg-6 ">
+
+      <!-- Plugins: BeforeDisplay -->
+      
+      <!-- K2 Plugins: K2BeforeDisplay -->
+      
+			<!-- TEMPLATE MODULOS HOME -->
+			<!-- Imagen -->
+						<div class="moduleItemIntrotext">
+			  			  <a class="moduleItemImage" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/2004-surafricanos-en-la-facultad" title="Leer más &quot;SURAFRICANOS EN LA FACULTAD&quot;">
+			  	<img src="/media/k2/items/cache/c07840dfb49b538a22080ef505c6a8d9_L.jpg" alt="SURAFRICANOS EN LA FACULTAD"/>
+			  </a>
+			  			</div>
+						<!-- /Imagen -->
+			<div class="clr"></div>
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle uasectitle" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/2004-surafricanos-en-la-facultad" title="">SURAFRICANOS EN LA FACULTAD..</a>
+		    				<!-- /Títulos -->
+
+			<!-- Intro -->
+			<!-- /Intro -->
+									<div class="home-news-intro">
+						<p>Stellenbosch University en Semana Internacional</p>...					</div>
+												<!-- Fecha -->
+									<!-- /Fecha -->
+					
+			      
+				<!-- Flechas -->
+			    		<a class="moduleItemArrow" href="/index.php/es/facultad/sobre-la-facultad/noticias/item/2004-surafricanos-en-la-facultad"></a>
+				<!-- /Títulos -->
+
+
+      <!-- Plugins: AfterDisplayTitle -->
+      
+      <!-- K2 Plugins: K2AfterDisplayTitle -->
+      
+      <!-- Plugins: BeforeDisplayContent -->
+      
+      <!-- K2 Plugins: K2BeforeDisplayContent -->
+      
+
+
+      <!-- Plugins: AfterDisplay -->
+      
+      <!-- K2 Plugins: K2AfterDisplay -->
+      
+      <div class="clr"></div>
+    </li>
+        <li class="clearList"></li>
+  </ul>
+  
+
+</div>
+
+
+
+</div></div></div></div><div id="sp-home-row1-events" class="col-sm-10 col-md-3"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Programas</h3><div class="sp-module-content">
+<!-- Blank250 Starts Here -->
+<div id="blankBM307" >
+    <div id="holderBM307">
+        <div id="innerBM307">
+            <div>
+            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 celds">
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">Seteccione un programa.</div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="https://administracion.uniandes.edu.co/index.php/es/programas/mba" target="_blank">MBA</a></div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="https://administracion.uniandes.edu.co/index.php/es/programas/doctorado/informacion-general" target="_blank">Doctorado</a></div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="https://administracion.uniandes.edu.co/index.php/es/programas/maestrias" target="_blank">Maestrías</a></div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="https://administracion.uniandes.edu.co/index.php/es/programas/especializaciones" target="_blank">Especializaciones</a></div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="https://administracion.uniandes.edu.co/index.php/es/educacion-ejecutiva" target="_blank">Educación Ejecutiva</a></div>
+	<div class="col-xs-12 col-sm-6 col-md-6 col-lg-6"><a href="https://administracion.uniandes.edu.co/index.php/es/programas/pregrados" target="_blank">Pregrados</a></div>
+	<div class="col-xs-12 col-sm-12 col-md-12 col-lg-12"><a href="https://administracion.uniandes.edu.co/index.php/es/facultad/escuela-internacional-de-verano" target="_blank">International Summer School</a></div>
+</div>
+            </div>
+            <div>
+                
+            </div>
+            <div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blank250 Ends Here -->
+</div></div><div class="sp-module "><h3 class="sp-module-title">Eventos</h3><div class="sp-module-content"><table class="mod_events_latest_table jevbootstrap" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr class="jevrow0"><td class="mod_events_latest_first"><div class="event-module-date"><span class="mod_events_latest_date">Sep</span><span class="mod_events_latest_date">20</span></div><div class="event-module-content"><span class="mod_events_latest_content"><a href="/index.php/es/facultad/sobre-la-facultad/eventos/icalrepeat.detail/2017/09/20/157/28|14|15|17|18|19|20/reunion-de-informacion"  target="_top" > Reunión de Información</a></span><div class="clr"></div><span class="mod_events_latest_date">06:00PM</span><span class="clr"></span><span class="location"></span></div></td></tr>
+</table><a class='ua_boton boton_cta1 button-link button-link-naranja' href='/index.php/es/facultad/sobre-la-facultad/eventos/cat.listevents/2017/09/08/-'>Ver más eventos</a></div></div></div></div></div></div></section><section id="sp-home-row2"><div class="container"><div class="row"><div id="sp-home-row2-left" class="col-sm-10 col-md-9"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Descubre la Facultad de Administración</h3><div class="sp-module-content">
+
+<div class="custom"  >
+	<div class="row">
+<div class="home-diferencias col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="https://www.youtube.com/watch?v=mMW8pWbukmI&amp;feature=youtu.be" target="_blank" type="video/youtube" class="jcepopup noicon" data-mediabox="width[600];height[600]"><img class="img-responsive" style="display: block; margin-left: auto; margin-right: auto;" title="Nuestra facultad" src="/images/video.jpg" alt="video" /></a></div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+<h3>Nuestra diferencia</h3>
+<p>Comprometidos con la formación de personas capaces de crear, analizar, transformar y desarrollar las organizaciones privadas, públicas y del tercer sector en Colombia y en otros países del mundo, con un cuerpo profesoral conformado por reconocidos académicos, la Facultad de Administración es reconocida entre las mejores escuelas de negocio de América Latina, por su excelencia y altos estándares de calidad.</p>
+</div>
+</div>
+<hr class="acreditaciones-hr" />
+<div class="home-acreditaciones col-xs-12 col-sm-12 col-md-12 col-lg-12">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6"><a href="/index.php/es/facultad/internacionalizacion/acreditaciones">
+<img class="img-responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/noticias/2017/09/05/acreditaciones-2017-home.png" alt="acreditaciones 2017 home" /></a></div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+<h3>Nuestras acreditaciones</h3>
+<p>La Facultad de Administración de la Universidad de los Andes es una de las pocas en América Latina y la única en Colombia con la Triple Corona, denominación que se da a las tres acreditaciones más importantes para escuelas de administración o negocios a nivel mundial, lo que la ubica entre el 1% superior de todas las escuelas en el mundo.</p>
+</div>
+</div>
+</div></div>
+</div></div></div></div><div id="sp-home-row2-right" class="col-sm-10 col-md-3"><div class="sp-column "><div class="sp-module  home-boton-vida"><div class="sp-module-content">
+
+<div class="custom home-boton-vida"  >
+	<div class="clr">&nbsp;</div>
+<p><a href="/index.php/es/facultad/escuela-internacional-de-verano/2017"><img class="img-responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/noticias/2017/01/16/130117_InternationalSummer_logo.png" alt="130117 InternationalSummer logo" /></a></p></div>
+</div></div></div></div></div></div></section><section id="sp-home-row3"><div class="container"><div class="row"><div id="sp-home-row3" class="col-sm-12 col-md-12"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Internacionalización</h3><div class="sp-module-content">
+
+<div class="custom"  >
+	<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3">
+<h3>Enfoque Internacional</h3>
+<p>La internacionalización se ha convertido en uno de los principales diferenciadores de la Facultad y es uno de sus seis objetivos estratégicos.</p>
+<p>Este componente transversal involucra desde profesores, estudiantes y egresados hasta aspectos esenciales de la Facultad como son la investigación, los programas académicos y los programas de Educación Ejecutiva.</p>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales"><img class=" img-responnsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/noticias/2016/03/17/banner_internacionalizacion_estudiantes.jpg" alt="banner internacionalizacion estudiantes" /></a>
+<h4 style="text-align: center;"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales">Información para Estudiantes</a></h4>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales"><img class="img-responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/noticias/2016/03/17/banner_internacionalizacion_profesores.jpg" alt="banner internacionalizacion profesores" /></a>
+<h4 style="text-align: center;"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales">Información para Profesores</a></h4>
+</div>
+<div class="col-xs-12 col-sm-6 col-md-3 col-lg-3"><a href="/?Itemid=1301"><img class="img-responsive" style="display: block; margin-left: auto; margin-right: auto;" src="/images/home-internacionalizacion/0402116_Internacionalizacion.jpg" alt="0402116 Internacionalizacion" /></a>
+<h4 style="text-align: center;"><a href="/?Itemid=1301">Información sobre Programas Internacionales</a></h4>
+</div>
+</div></div>
+</div></div></div></div></div></div></section><section id="sp-banners"><div class="container"><div class="row"><div id="sp-bottom1" class="col-sm-6 col-md-8"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/es/component/banners/click/1"
+							title="Banner 1">
+							<img
+								src="https://administracion.uniandes.edu.co/images/noticias/2017/09/05/escenarios-de-paz.jpg"
+								alt="Banner 1"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div></div><div id="sp-bottom2" class="col-sm-6 col-md-4"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="bannergroup">
+
+	<div class="banneritem">
+																																																															<a
+							href="/index.php/es/component/banners/click/2"
+							title="Banner 2">
+							<img
+								src="https://administracion.uniandes.edu.co/images/banners/banners/Banner-transforma-prog-abiertos-inferior.jpg"
+								alt="Banner 2"
+																							/>
+						</a>
+																<div class="clr"></div>
+	</div>
+
+</div>
+</div></div></div></div></div></div></section><section id="sp-main-body"><div class="container"><div class="row"><div id="sp-component" class="col-sm-12 col-md-12"><div class="sp-column "><div id="system-message-container">
+	</div>
+<article class="item item-page item-featured" itemscope itemtype="http://schema.org/Article">
+	<meta itemprop="inLanguage" content="es-ES" />
+	
+	
+
+	<div class="entry-header has-post-format">
+		<span class="post-format"><i class="fa fa-thumb-tack"></i></span>
+				
+			</div>
+
+				
+		
+				
+	
+			<div itemprop="articleBody">
+			</div>
+
+	
+	
+				
+	
+	
+			<div class="sp-social-share clearfix"><ul><li><iframe src="//www.facebook.com/plugins/like.php?href=https://administracion.uniandes.edu.co/index.php/es/&amp;layout=button_count&amp;show_faces=false&amp;width=105&amp;action=like&amp;colorscheme=light&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:105px; height:21px;" allowTransparency="true"></iframe></li><li><a href="//twitter.com/share" class="twitter-share-button" data-url="https://administracion.uniandes.edu.co/index.php/es/" data-text="asdfasdfdsaf" data-lang="en">tweet</a> <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li><li><div class="g-plusone" data-size="medium" data-href=""></div>
+	<script type='text/javascript'>
+		(function() {
+			var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+			po.src = '//apis.google.com/js/plusone.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		})();
+	</script>
+</li><li><script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script><a href="//pinterest.com/pin/create/button/?url=" class="pin-it-button" count-layout="horizontal"><img border="0" src="//assets.pinterest.com/images/PinExt.png" title="Pin It" /></a></li></ul></div>				
+</article>
+</div></div></div></div></section><section id="sp-home-row4"><div class="container"><div class="row"><div id="sp-home-row4-left" class="col-sm-6 col-md-4"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Profesores e Investigaciones</h3><div class="sp-module-content"><div id="k2ModuleBox283" class="k2ItemsBlock">
+
+	
+	  <ul>
+        <li class="listado-home-news " style="position:relative">
+
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle" href="/index.php/es/profesores/noticias/item/1902-la-union-hace-la-fuerza">“LA UNIÓN HACE LA FUERZA”</a>
+		    				<!-- /Títulos -->
+		<a style="display:block; bottom: -5px; color: #dedede !important;" class="n-profesores-arrow moduleItemArrow" href="/index.php/es/component/k2/item/1027-la-semana-internacional-2014-de-la-maestria-en-gerencia-ambiental-sera-en-burlington-vermont-estados-unidos"></a>
+
+    </li>
+        <li class="listado-home-news " style="position:relative">
+
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle" href="/index.php/es/profesores/noticias/item/1847-fomentando-la-investigacion">FOMENTO A LA INVESTIGACIÓN: UN PASO MÁS GENERANDO CONOCIMIENTO</a>
+		    				<!-- /Títulos -->
+		<a style="display:block; bottom: -5px; color: #dedede !important;" class="n-profesores-arrow moduleItemArrow" href="/index.php/es/component/k2/item/1027-la-semana-internacional-2014-de-la-maestria-en-gerencia-ambiental-sera-en-burlington-vermont-estados-unidos"></a>
+
+    </li>
+        <li class="listado-home-news " style="position:relative">
+
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle" href="/index.php/es/profesores/noticias/item/1560-estudio-de-la-profesora-catalina-estrada-es-destacado-en-la-prensa-internacional">Estudio de la profesora Catalina Estrada es destacado en la prensa internacional</a>
+		    				<!-- /Títulos -->
+		<a style="display:block; bottom: -5px; color: #dedede !important;" class="n-profesores-arrow moduleItemArrow" href="/index.php/es/component/k2/item/1027-la-semana-internacional-2014-de-la-maestria-en-gerencia-ambiental-sera-en-burlington-vermont-estados-unidos"></a>
+
+    </li>
+        <li class="listado-home-news " style="position:relative">
+
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle" href="/index.php/es/profesores/noticias/item/1526-homenaje-a-la-ensenanza-y-la-investigacion">Homenaje a la enseñanza y la investigación</a>
+		    				<!-- /Títulos -->
+		<a style="display:block; bottom: -5px; color: #dedede !important;" class="n-profesores-arrow moduleItemArrow" href="/index.php/es/component/k2/item/1027-la-semana-internacional-2014-de-la-maestria-en-gerencia-ambiental-sera-en-burlington-vermont-estados-unidos"></a>
+
+    </li>
+        <li class="listado-home-news " style="position:relative">
+
+			<!-- Títulos -->
+						    		<a class="moduleItemTitle" href="/index.php/es/profesores/noticias/item/1505-indicadores-diarios-ambientales">Indicadores diarios ambientales</a>
+		    				<!-- /Títulos -->
+		<a style="display:block; bottom: -5px; color: #dedede !important;" class="n-profesores-arrow moduleItemArrow" href="/index.php/es/component/k2/item/1027-la-semana-internacional-2014-de-la-maestria-en-gerencia-ambiental-sera-en-burlington-vermont-estados-unidos"></a>
+
+    </li>
+      </ul>
+  
+</div>
+</div></div></div></div><div id="sp-home-row4-right" class="col-sm-6 col-md-8"><div class="sp-column "><div class="sp-module "><h3 class="sp-module-title">Conecta con la Facultad</h3><div class="sp-module-content">
+
+<div class="custom"  >
+	<div class="row">
+<div class="feed-home col-xs-12 col-sm-12 col-md-4 col-lg-4"><!-- START: Modules Anywhere --><!-- Blank250 Starts Here -->
+<div id="blankBM288" >
+    <div id="holderBM288">
+        <div id="innerBM288">
+            <div>
+                
+            </div>
+            <div>
+            
+        <a href="https://twitter.com/admonuniandes/status/906210275333857282" target="_blank">
+            <span class="twitter-post">
+                <div class="tweet-title">
+                     <p class="arroba">@AdmonUniandes<span class="time">0 h</span></p>
+                     <p class="message">#EducaciónEjecutiva Conozca las diferentes técnicas de evaluación y análisis...</p>
+               </div>
+             </span>
+         </a>
+        <a href="https://twitter.com/admonuniandes/status/906207254298234880" target="_blank">
+            <span class="twitter-post">
+                <div class="tweet-title">
+                     <p class="arroba">@AdmonUniandes<span class="time">0 h</span></p>
+                     <p class="message">Participa en el concurso para diseñar el logo que identificará la celebración de...</p>
+               </div>
+             </span>
+         </a>
+        <a href="https://twitter.com/admonuniandes/status/906183463740596226" target="_blank">
+            <span class="twitter-post">
+                <div class="tweet-title">
+                     <p class="arroba">@AdmonUniandes<span class="time">2 h</span></p>
+                     <p class="message">¿Qué piensan nuestros estudiantes internacionales? Experiencia de Tiphaine Dhaussy...</p>
+               </div>
+             </span>
+         </a>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Blank250 Ends Here --><!-- END: Modules Anywhere --></div>
+<div class="feed-home col-xs-12 col-sm-12 col-md-4 col-lg-4"><!-- START: Modules Anywhere --><!--  Modules Anywhere Message: El módulo no puede colocarse porque no está publicado o asignado a esta página. --><!-- END: Modules Anywhere --></div>
+<div class="feed-home-list col-xs-12 col-sm-12 col-md-4 col-lg-4"><!-- START: Modules Anywhere --><div class="custom siguenos-home"  >
+	<h4>Síguenos</h4>
+<ul>
+	<li class="hs-twitter"><a href="https://twitter.com/admonuniandes" target="_blank">@AdmonUniandes</a></li>
+<li class="hs-insta"><a href="https://www.instagram.com/admonUniandes/" target="_blank">@admonuniandes</a></li>	
+<li class="hs-facebook"><a href="https://www.facebook.com/AdmonUniandes" target="_blank">AdmonUniandes</a></li>
+	<li class="hs-vimeo"><a href="https://vimeo.com/admonuniandes" target="_blank">AdmonUniandes</a></li>
+	<li class="hs-linkedin"><a href="https://www.linkedin.com/edu/school?id=159031&trk=tyah&trkInfo=clickedVertical%3Aschool%2CclickedEntityId%3A159031%2Cidx%3A1-4-4%2CtarId%3A1438285280510%2Ctas%3AUNIVERSIDAD%20DE%20LOS%20ANDES" target="_blank">AdmonUniandes</a></li>
+	<li class="hs-googleplus"><a href="https://plus.google.com/+AdmonUniandes/posts" target="_blank">AdmonUniandes</a></li>
+</ul></div><!-- END: Modules Anywhere --></div>
+</div></div>
+</div></div></div></div></div></div></section><footer id="sp-footer"><div class="container"><div class="row"><div id="sp-footer-left" class="col-sm-60 col-md-10"><div class="sp-column "><div class="sp-module  footer-mainmap hidden-xs"><div class="sp-module-content">
+
+<div class="custom footer-mainmap hidden-xs"  >
+	<div class="row">
+<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
+<div>
+<h3><a href="/facultad/sobre-la-facultad/mision-vision-y-valores">Facultad</a></h3><!-- START: Modules Anywhere --><ul class="nav ">
+<li class="item-1345"><a href="/index.php/es/facultad/sobre-la-facultad/mision-vision-y-valores" >Facultad</a></li><li class="item-1346"><a href="/index.php/es/facultad/internacionalizacion" >Internacionalización</a></li><li class="item-1347"><a href="/index.php/es/facultad/escuela-internacional-de-verano" >Escuela internacional de verano</a></li><li class="item-1348"><a href="/index.php/es/facultad/sobre-la-facultad/bogota-y-colombia" >Bogotá y Colombia</a></li><li class="item-1349"><a href="/index.php/es/facultad/sala-de-prensa" >Sala de prensa</a></li></ul><!-- END: Modules Anywhere --></div>
+<div>
+<h3><a href="/programas/pregrados">Programas</a></h3><!-- START: Modules Anywhere --><ul class="nav ">
+<li class="item-1355"><a href="/index.php/es/programas/pregrados" >Pregrados</a></li><li class="item-1356"><a href="/index.php/es/programas/especializaciones" >Especializaciones</a></li><li class="item-1357"><a href="/index.php/es/programas/mba" >MBA</a></li><li class="item-1358"><a href="/index.php/es/programas/maestrias" >Maestrías</a></li><li class="item-1359"><a href="/index.php/es/programas/doctorado/informacion-general" >Doctorado</a></li></ul><!-- END: Modules Anywhere --></div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-6 col-lg-6" style="padding-right: 0;">
+<div>
+<h3><a href="/index.php/es/educacion-ejecutiva/programas/programas-abiertos">Educación ejecutiva</a></h3><!-- START: Modules Anywhere --><ul class="nav ">
+<li class="item-1350"><a href="/index.php/es/educacion-ejecutiva/programas/programas-abiertos" >Programas abiertos</a></li><li class="item-1351"><a href="/index.php/es/educacion-ejecutiva/programas/presidentes-de-empresa" >Presidentes de empresas</a></li><li class="item-1352"><a href="/index.php/es/educacion-ejecutiva/programas-corporativos" >Programas corporativos</a></li><li class="item-1354"><a href="/index.php/es/educacion-ejecutiva/desarrollo-empresarial" >Desarrollo empresarial</a></li></ul><!-- END: Modules Anywhere --></div>
+<div>
+<h3><a href="/index.php/es/investigacion">Investigaciones</a></h3><!-- START: Modules Anywhere --><ul class="nav ">
+<li class="item-1360"><a href="/index.php/es/investigacion/grupos-de-investigacion/historia-y-empresariado" >Grupos de investigación</a></li><li class="item-1361"><a href="/index.php/es/investigacion/programas-estrategicos/descripcion-y-objetivos" >Programas estratégicos</a></li><li class="item-1363"><a href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Comité de investigaciones</a></li></ul><!-- END: Modules Anywhere --></div>
+</div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
+<div class="col-xs-12 col-sm-12 col-md-5 col-lg-5">
+<div>
+<h3><a href="/index.php/es/publicaciones/publicaciones/1425/all_category">Publicaciones</a></h3><!-- START: Modules Anywhere --><ul class="nav ">
+<li class="item-1376"><a href="/index.php/es/publicaciones/publicaciones/libros/1426/showCategory" >Libros</a></li><li class="item-1375"><a href="/index.php/es/publicaciones/publicaciones/capitulos-en-libros/1427/showCategory" >Capítulos en libros</a></li><li class="item-1374"><a href="/index.php/es/publicaciones/publicaciones/articulos-en-revista/1428/showCategory" >Artículos en revista</a></li><li class="item-1371"><a href="/index.php/es/publicaciones/publicaciones/monografias/1430/showCategory" >Monografías</a></li><li class="item-1372"><a href="/index.php/es/publicaciones/publicaciones/casos-docentes/1431/showCategory" >Casos docentes</a></li><li class="item-1366"><a href="/index.php/es/publicaciones/publicaciones/galeras-de-administracion/1432/showCategory" >Galeras de administración</a></li><li class="item-1367"><a href="/index.php/es/publicaciones/publicaciones/catedra-corona/1433/showCategory" >Cátedra Corona</a></li><li class="item-1368"><a href="/index.php/es/publicaciones/publicaciones/apuntes-de-clase/1434/showCategory" >Apuntes de clase</a></li><li class="item-1369"><a href="/index.php/es/publicaciones/publicaciones/proyectos-de-grado/1435/showCategory" >Proyectos de grado</a></li><li class="item-1373"><a href="/index.php/es/publicaciones/publicaciones/boletines-de-noticias/1436/showCategory" >Boletines de Noticias</a></li><li class="item-1370"><a href="http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=arla" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" >Revista academia</a></li></ul><!-- END: Modules Anywhere --></div>
+</div>
+<div class="col-xs-12 col-sm-12 col-md-7 col-lg-7">
+<div>
+<h3><a href="/relaciones-corporativas/informacion-general">Relaciones corporativas</a></h3><!-- START: Modules Anywhere --><ul class="nav ">
+<li class="item-1377"><a href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones corporativas</a></li><li class="item-1380"><a href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Centro de Estrategia y Competitividad - CEC: Investigación y Consultoría</a></li><li class="item-1381"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento" >Centro de emprendimiento</a></li><li class="item-1382"><a href="/index.php/es/relaciones-corporativas/proyectos-y-relacionamiento-corporativo" >Proyectos y Relacionamiento Corporativo</a></li><li class="item-1383"><a href="/index.php/es/relaciones-corporativas/agronegocios-e-industria-de-alimentos-aneia" >AgroNegocios e Industria de Alimentos - AneIA</a></li><li class="item-2016"><a href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li></ul><!-- END: Modules Anywhere --></div>
+</div>
+</div>
+</div></div>
+</div></div></div></div><div id="sp-footer-right" class="col-sm-6 col-md-2"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p><img class="footer-logo" src="/images/logo_footer.png" alt="logo footer" /></p>
+<div class="footer-info"><span class="footer-location">Calle 21 No. 1-20 <br />Bogotá – Colombia</span><hr /><span class="footer-phone">(57-1) 332 4144 Bogotá</span><span class="footer-phone2">Línea de información nacional:<br /> 01800 123 300</span><a href="/index.php/es/contactenos-facultad-administracion" class="ua_boton boton_cta1 button-link button-link-naranja" style="width: 100%; margin-top: 10px;">Contacto</a></div>
+<p style="text-align: center;"><span style="font-size: 8pt;">Nuestras acreditaciones:</span></p>
+<p><img class="footer-acred" src="/images/noticias/2017/09/05/acreditaciones-2017.png" alt="acreditaciones 2017" /></p></div>
+</div></div></div></div></div></div></footer><section id="sp-sub-footer"><div class="container"><div class="row"><div id="sp-subfooter-left" class="col-sm-6 col-md-6"><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><ul class="nav ">
+<li class="item-1384"><a href="/index.php/es/mapa-del-sitio" >Mapa del sitio</a></li><li class="item-1385"><a href="https://secretariageneral.uniandes.edu.co/images/johanna/manprotecciondatos2013.pdf" target="_blank" >Términos y condiciones</a></li><li class="item-1386"><a href="https://secretariageneral.uniandes.edu.co/images/johanna/manprotecciondatos2013.pdf" target="_blank" >Tratamiento de datos</a></li></ul>
+</div></div></div></div><div id="sp-subfooter-right" class="col-sm-6 col-md-6"><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+
+<div class="custom"  >
+	<p id="p-footer" class="pull-right"><span style="font-size: 10pt; color: #ffffff;">Todos los derechos reservados por la Universidad de los Andes 2016</span></p>
+<p id="p-footer" class="pull-right"><span style="font-size: 10pt; color: #ffffff;">Universidad de los Andes | Vigilada Mineducación<br/>
+Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br/>
+Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Min. Justicia.</p></div>
+</div></div></div></div></div></div></section>
+        <div class="offcanvas-menu">
+            <a href="#" class="close-offcanvas"><i class="fa fa-remove"></i></a>
+            <div class="offcanvas-inner">
+                                    <div class="sp-module "><div class="sp-module-content"><ul class="nav ">
+<li class="item-144 current active"><a href="/index.php/es/" >Inicio</a></li><li class="item-2116"><a href="/index.php/es/inicio-2" >Inicio (2)</a></li><li class="item-1283 deeper parent"><a href="/index.php/es/facultad/sobre-la-facultad/la-facultad" >Facultad</a><ul class="nav-child unstyled small"><li class="item-1284 deeper parent"><a href="/index.php/es/facultad/sobre-la-facultad/la-facultad" >Sobre la facultad</a><ul class="nav-child unstyled small"><li class="item-2111"><a href="/index.php/es/facultad/sobre-la-facultad/la-facultad" >La Facultad</a></li><li class="item-1285"><a href="/index.php/es/facultad/sobre-la-facultad/mision-vision-y-valores" >Misión, visión y valores</a></li><li class="item-1286"><a href="/index.php/es/facultad/sobre-la-facultad/nuestra-diferencia" >Nuestra diferencia</a></li><li class="item-1287"><a href="/index.php/es/facultad/sobre-la-facultad/historia" >Historia</a></li><li class="item-1288"><a href="/index.php/es/facultad/sobre-la-facultad/decanos" >Decanos</a></li><li class="item-1289"><a href="/index.php/es/facultad/sobre-la-facultad/estructura" >Estructura</a></li><li class="item-1525"><a href="/index.php/es/facultad/sobre-la-facultad/vida-universitaria" >Vida universitaria</a></li><li class="item-1457"><a href="/index.php/es/facultad/sobre-la-facultad/noticias" >Noticias</a></li><li class="item-1458"><a href="/index.php/es/facultad/sobre-la-facultad/eventos/cat.listevents/2017/09/08/-" >Eventos</a></li><li class="item-1650"><a href="/index.php/es/facultad/sobre-la-facultad/bogota-y-colombia" >Bogotá y Colombia</a></li><li class="item-1290"><a href="/index.php/es/facultad/sobre-la-facultad/sala-de-investigacion" >Sala de investigación</a></li><li class="item-1291 deeper parent"><a href="/index.php/es/facultad/sobre-la-facultad/recursos" >Recursos</a><ul class="nav-child unstyled small"><li class="item-1543"><a href="/index.php/es/facultad/sobre-la-facultad/recursos/tecnologias-de-apoyo" >Tecnologías de apoyo</a></li><li class="item-1544"><a href="/index.php/es/facultad/sobre-la-facultad/recursos/biblioteca" >Biblioteca</a></li></ul></li><li class="item-1292"><a href="https://campusinfo.uniandes.edu.co/" target="_blank" >Campus</a></li></ul></li><li class="item-1293 deeper parent"><a href="/index.php/es/facultad/internacionalizacion" >Internacionalización</a><ul class="nav-child unstyled small"><li class="item-1294 deeper parent"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales" >Información para estudiantes internacionales</a><ul class="nav-child unstyled small"><li class="item-1858"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales/programa-de-intercambio" >Programa de Intercambio</a></li><li class="item-1857"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-internacionales/doble-titulacion" >Programa de Doble Titulación</a></li></ul></li><li class="item-1301 deeper parent"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos" >Información para estudiantes uniandinos</a><ul class="nav-child unstyled small"><li class="item-1972"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/convenios-e-intercambios" >Convenios e intercambios</a></li><li class="item-1741"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/requisitos-para-doble-titulacion" >Requisitos para Doble Titulación</a></li><li class="item-1742"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/requisitos-para-intercambio" >Requisitos para intercambio</a></li><li class="item-1739"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-estudiantes-uniandinos/semanas-internacionales" >Semanas internacionales</a></li></ul></li><li class="item-1302 deeper parent"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales" >Información para profesores internacionales</a><ul class="nav-child unstyled small"><li class="item-1961"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/convocatorias-escuela-internacional-de-verano" >Convocatorias Escuela Internacional de Verano</a></li><li class="item-1744"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/silla-corona" >Programa Silla Corona de Visitantes Distinguidos</a></li><li class="item-1745"><a href="/index.php/es/facultad/internacionalizacion/informacion-para-profesores-internacionales/decanos-visitantes" >Decanos visitantes</a></li><li class="item-1962"><a href="/index.php/es/profesores/ofertas-de-vinculacion" >Ofertas de vinculación</a></li></ul></li><li class="item-1959"><a href="/index.php/es/facultad/internacionalizacion/informacion-sobre-programas-internacionales" >Información sobre programas internacionales</a></li><li class="item-1303"><a href="/index.php/es/facultad/internacionalizacion/acreditaciones" >Acreditaciones</a></li><li class="item-1305"><a href="/index.php/es/facultad/internacionalizacion/membresias-y-alianzas" >Membresías y alianzas</a></li><li class="item-1304"><a href="/index.php/es/facultad/internacionalizacion/contactenos" >Contáctenos</a></li><li class="item-2062"><a href="/index.php/es/facultad/internacionalizacion/silla-corona" >Silla Corona</a></li><li class="item-1960"><a href="/index.php/es/facultad/escuela-internacional-de-verano" >Escuela Internacional de Verano</a></li></ul></li><li class="item-1306 deeper parent"><a href="/index.php/es/facultad/escuela-internacional-de-verano" >Escuela Internacional de Verano</a><ul class="nav-child unstyled small"><li class="item-1307"><a href="/images/phocadownload/EIV2013/UASM%20International%20Summer%20School%202011.pdf" target="_blank" >2011</a></li><li class="item-1308"><a href="/images/phocadownload/internacionalisacion/eiv%202012-Universidad-Andes.pdf" target="_blank" >2012</a></li><li class="item-1309"><a href="/index.php/es/facultad/escuela-internacional-de-verano/2013" >2013</a></li><li class="item-1310"><a href="/index.php/es/facultad/escuela-internacional-de-verano/2014" >2014</a></li><li class="item-1311"><a href="/index.php/es/facultad/escuela-internacional-de-verano/2015" >2015</a></li><li class="item-1983"><a href="/index.php/es/facultad/escuela-internacional-de-verano/2016" >2016</a></li><li class="item-2070"><a href="/index.php/es/facultad/escuela-internacional-de-verano/2017" >2017</a></li><li class="item-1964"><a href="/index.php/es/facultad/escuela-internacional-de-verano/noticias" >Noticias</a></li><li class="item-2040"><a href="https://administracion.uniandes.edu.co/index.php/es/facultad/escuela-internacional-de-verano/noticias" >Noticias EIV 2016</a></li><li class="item-2121"><a href="https://administracion.uniandes.edu.co/index.php/es/facultad/sobre-la-facultad/noticias/itemlist/category/168-noticias-escuela-internacional-de-verano-2017" >Noticias EIV 2017</a></li><li class="item-2124"><a href="/" >.</a></li></ul></li><li class="item-1312 deeper parent"><a href="/index.php/es/facultad/sala-de-prensa" >Sala de prensa</a><ul class="nav-child unstyled small"><li class="item-1313"><a href="/index.php/es/facultad/sala-de-prensa/entrevistas" >Entrevistas</a></li><li class="item-1314"><a href="/index.php/es/facultad/sala-de-prensa/articulos-vision-gerencial" >Artículos visión gerencial y columnas de opinión</a></li><li class="item-2066"><a href="/index.php/es/facultad/sala-de-prensa/historico-sala-prensa" >Historico</a></li><li class="item-1315"><a href="/index.php/es/facultad/sala-de-prensa/triple-corona" >Triple corona</a></li><li class="item-1523"><a href="/index.php/es/facultad/sala-de-prensa/sala-de-prensa-kit" >Sala de prensa Kit</a></li><li class="item-2067"><a href="/index.php/es/facultad/sala-de-prensa/otros" >Otros</a></li></ul></li></ul></li><li class="item-1295 deeper parent"><a href="/index.php/es/programas/programas-posgrado" >Programas</a><ul class="nav-child unstyled small"><li class="item-1316 deeper parent"><a href="/index.php/es/programas/pregrados" >Pregrados</a><ul class="nav-child unstyled small"><li class="item-1317 deeper parent"><a href="/index.php/es/programas/pregrados/administracion/informacion-general" >Administración</a><ul class="nav-child unstyled small"><li class="item-1564"><a href="/index.php/es/programas/pregrados/administracion/informacion-general" >Información general</a></li><li class="item-1565 deeper parent"><a href="/index.php/es/programas/pregrados/administracion/programa" >Programa</a><ul class="nav-child unstyled small"><li class="item-1992"><a href="/index.php/es/programas/pregrados/administracion/programa/dobles-y-opciones" >Dobles y Opciones</a></li><li class="item-1993"><a href="/index.php/es/programas/pregrados/administracion/programa/intercambios-y-doble-titulacion" >Intercambios y Doble Titulación</a></li><li class="item-1994"><a href="/index.php/es/programas/pregrados/administracion/programa/opciones-academicas-en-administracion" >Opciones Académicas en Administración</a></li><li class="item-1995"><a href="/index.php/es/programas/pregrados/administracion/programa/conflicto-de-horario" >Conflicto de Horario</a></li></ul></li><li class="item-1566"><a href="/index.php/es/programas/pregrados/administracion/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li></ul></li><li class="item-1318 deeper parent"><a href="/index.php/es/programas/pregrados/contaduria-internacional/informacion-general" >Contaduría internacional</a><ul class="nav-child unstyled small"><li class="item-1683"><a href="/index.php/es/programas/pregrados/contaduria-internacional/informacion-general" >Información general</a></li><li class="item-1684"><a href="/index.php/es/programas/pregrados/contaduria-internacional/programa" >Programa</a></li><li class="item-1685"><a href="/index.php/es/programas/pregrados/contaduria-internacional/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-2126"><a href="/index.php/es/programas/pregrados/contaduria-internacional/noticias-contaduria-internacional" >Noticias</a></li></ul></li><li class="item-1956"><a href="/index.php/es/programas/pregrados/noticias" >Noticias</a></li></ul></li><li class="item-2120"><a href="/index.php/es/programas/programas-posgrado" >Programas de posgrado</a></li><li class="item-1329 deeper parent"><a href="/index.php/es/programas/maestrias" >Maestrías</a><ul class="nav-child unstyled small"><li class="item-1330 deeper parent"><a href="/index.php/es/programas/maestrias/maestria-en-mercadeo/informacion-general" >Maestría en Mercadeo</a><ul class="nav-child unstyled small"><li class="item-1686"><a href="/index.php/es/programas/maestrias/maestria-en-mercadeo/informacion-general" >Información general</a></li><li class="item-1687"><a href="/index.php/es/programas/maestrias/maestria-en-mercadeo/programa" >Programa</a></li><li class="item-1688"><a href="/index.php/es/programas/maestrias/maestria-en-mercadeo/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1689"><a href="/index.php/es/programas/maestrias/maestria-en-mercadeo/vida-estudiantil" >Vida estudiantil</a></li><li class="item-1986"><a href="/index.php/es/programas/maestrias/maestria-en-mercadeo/aspirantes-extranjeros-o-internacionales" >Aspirantes Extranjeros o Internacionales</a></li><li class="item-1946"><a href="/index.php/es/programas/maestrias/maestria-en-mercadeo/plan-de-estudio" >Plan de estudio - Maestría en Mercadeo</a></li></ul></li><li class="item-1331 deeper parent"><a href="/index.php/es/programas/maestrias/maestria-en-finanzas/informacion-general" >Maestría en Finanzas</a><ul class="nav-child unstyled small"><li class="item-1690"><a href="/index.php/es/programas/maestrias/maestria-en-finanzas/informacion-general" >Información general</a></li><li class="item-1691"><a href="/index.php/es/programas/maestrias/maestria-en-finanzas/programa" >Programa</a></li><li class="item-1692"><a href="/index.php/es/programas/maestrias/maestria-en-finanzas/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1693"><a href="/index.php/es/programas/maestrias/maestria-en-finanzas/vida-estudiantil" >Vida estudiantil</a></li><li class="item-2068"><a href="/index.php/es/programas/maestrias/maestria-en-finanzas/aspirantes-extranjeros-o-internacionales" >Aspirantes Extranjeros o Internacionales</a></li><li class="item-1947"><a href="/index.php/es/programas/maestrias/maestria-en-finanzas/plan-de-estudio" >Plan de estudio</a></li></ul></li><li class="item-1332 deeper parent"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/informacion-general" >Maestría en Gerencia Ambiental</a><ul class="nav-child unstyled small"><li class="item-1694"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/informacion-general" >Información General</a></li><li class="item-1695"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/programa" >Programa</a></li><li class="item-1696"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1697"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/comunidad-mga" >Comunidad MGA</a></li><li class="item-2122"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/testimonios" >Testimonios</a></li><li class="item-1855"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-ambiental/plan-de-estudio" >Plan de estudio</a></li></ul></li><li class="item-1333 deeper parent"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/informacion-general" >Maestría en Gerencia y Práctica del Desarrollo</a><ul class="nav-child unstyled small"><li class="item-1698"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/informacion-general" >Información general</a></li><li class="item-1948 deeper parent"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/programa" >Programa</a><ul class="nav-child unstyled small"><li class="item-1975"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/programa/plan-de-estudios" >Plan de estudios</a></li></ul></li><li class="item-1976"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/practicas" >Prácticas</a></li><li class="item-1977"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/red-global-mdp" >Red Global MDP</a></li><li class="item-1699"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-2123"><a href="/index.php/es/programas/maestrias/maestria-en-gerencia-y-practica-del-desarrollo/testimonios" >Testimonios</a></li></ul></li><li class="item-1334 deeper parent"><a href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/informacion-general" >Maestría en Investigación en Administración</a><ul class="nav-child unstyled small"><li class="item-1589"><a href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/informacion-general" >Información general</a></li><li class="item-1590"><a href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/programa" >Programa</a></li><li class="item-1591"><a href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1979"><a href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/vida-estudiantil" >Vida estudiantil</a></li><li class="item-1980"><a href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/oportunidades-academicas-pregrado" >Oportunidades Académicas (Pregrado)</a></li><li class="item-2063"><a href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/becas-parciales" >Becas Parciales</a></li><li class="item-1949"><a href="/index.php/es/programas/maestrias/maestria-en-investigacion-en-administracion/plan-de-estudio" >Plan de estudio</a></li></ul></li><li class="item-1726"><a href="/index.php/es/programas/maestrias/noticias" >Noticias</a></li></ul></li><li class="item-1335 deeper parent"><a href="/index.php/es/programas/doctorado/informacion-general" >Doctorado</a><ul class="nav-child unstyled small"><li class="item-1592"><a href="/index.php/es/programas/doctorado/informacion-general" >Información general</a></li><li class="item-1593"><a href="/index.php/es/programas/doctorado/programa" >Programa</a></li><li class="item-1594"><a href="/index.php/es/programas/doctorado/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1727"><a href="/index.php/es/programas/doctorado/noticias" >Noticias</a></li></ul></li><li class="item-1319 deeper parent"><a href="/index.php/es/programas/especializaciones" >Especializaciones</a><ul class="nav-child unstyled small"><li class="item-1320 deeper parent"><a href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/informacion-general" >Especialización en Administración Financiera</a><ul class="nav-child unstyled small"><li class="item-1574"><a href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/informacion-general" >Información general</a></li><li class="item-1575"><a href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/programa" >Programa</a></li><li class="item-1579"><a href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1940"><a href="/index.php/es/programas/especializaciones/especializacion-en-administracion-financiera/plan-de-estudios" >Plan de estudios</a></li></ul></li><li class="item-1724"><a href="/index.php/es/programas/especializaciones/noticias" >Noticias</a></li><li class="item-1321 deeper parent"><a href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/informacion-general" >Especialización en Negociación</a><ul class="nav-child unstyled small"><li class="item-1567"><a href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/informacion-general" >Información general</a></li><li class="item-1568"><a href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/programa" >Programa</a></li><li class="item-1569"><a href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1941"><a href="/index.php/es/programas/especializaciones/especializacion-en-negociacion/plan-de-estudio" >Plan de estudio</a></li></ul></li><li class="item-1324 deeper parent"><a href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/informacion-general" >Especialización en Inteligencia de Mercados</a><ul class="nav-child unstyled small"><li class="item-1570"><a href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/informacion-general" >Información general</a></li><li class="item-1572"><a href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/programa" >Programa</a></li><li class="item-1573"><a href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1942"><a href="/index.php/es/programas/especializaciones/especializacion-en-inteligencia-de-mercados/plan-de-estudio" >Plan de estudio</a></li></ul></li><li class="item-1987 deeper parent"><a href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/informacion-general" >Especialización en Gerencia de Abastecimiento Estratégico</a><ul class="nav-child unstyled small"><li class="item-1988"><a href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/informacion-general" >Información General</a></li><li class="item-1989"><a href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/programa" >Programa</a></li><li class="item-1990"><a href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-2105"><a href="/index.php/es/programas/especializaciones/especializacion-en-gerencia-de-abastecimiento-estrategico/plan-de-estudio-especializacion-gerencia-abastecimiento" >Plan de estudio</a></li></ul></li></ul></li><li class="item-1325 deeper parent"><a href="/index.php/es/programas/mba" >MBA</a><ul class="nav-child unstyled small"><li class="item-1326 deeper parent"><a href="/index.php/es/programas/mba/emba-ejecutivo/informacion-general" >MBA Ejecutivo - EMBA</a><ul class="nav-child unstyled small"><li class="item-1595"><a href="/index.php/es/programas/mba/emba-ejecutivo/informacion-general" >Información general</a></li><li class="item-1596"><a href="/index.php/es/programas/mba/emba-ejecutivo/programa" >Programa</a></li><li class="item-1598"><a href="/index.php/es/programas/mba/emba-ejecutivo/vida-estudiantil" >Vida estudiantil</a></li><li class="item-1599"><a href="/index.php/es/programas/mba/emba-ejecutivo/comunidad-emba" >Comunidad EMBA</a></li><li class="item-1597"><a href="/index.php/es/programas/mba/emba-ejecutivo/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1943"><a href="/index.php/es/programas/mba/emba-ejecutivo/plan-de-estudio" >Plan de estudio</a></li><li class="item-1965"><a href="/index.php/es/programas/mba/emba-ejecutivo/plan-de-estudios" >Plan de estudios</a></li></ul></li><li class="item-1327 deeper parent"><a href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/informacion-general" >MBA Tiempo Completo - Parcial</a><ul class="nav-child unstyled small"><li class="item-1571"><a href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/informacion-general" >Información general</a></li><li class="item-1576"><a href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/programa" >Programa</a></li><li class="item-1577"><a href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li class="item-1967"><a href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/becas" >Becas</a></li><li class="item-1578"><a href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/vida-estudiantil" >Vida estudiantil</a></li><li class="item-1944"><a href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/plan-de-estudio" >Plan de estudio</a></li><li class="item-1970"><a href="/index.php/es/programas/mba/mba-tiempo-completo-parcial/plan-de-estudio-2" >Plan de estudio</a></li></ul></li><li class="item-1950 deeper parent"><a href="/index.php/es/programas/mba/global-mba/program-overview" >Global Managament</a><ul class="nav-child unstyled small"><li class="item-1951"><a href="/index.php/es/programas/mba/global-mba/program-overview" >Program overview</a></li><li class="item-1953"><a href="/index.php/es/programas/mba/global-mba/academic-aspects" >Academic aspects</a></li><li class="item-1954"><a href="/index.php/es/programas/mba/global-mba/admission-requirements-and-process" >Admission requirements and process</a></li></ul></li><li class="item-1725"><a href="/index.php/es/programas/mba/noticias" >Noticias</a></li></ul></li></ul></li><li class="item-1296 deeper parent"><a href="/index.php/es/educacion-ejecutiva" >Educación Ejecutiva</a><ul class="nav-child unstyled small"><li class="item-1582 deeper parent"><a href="/index.php/es/educacion-ejecutiva/programas/programas-abiertos" >Programas Abiertos</a><ul class="nav-child unstyled small"><li class="item-1389"><a href="/index.php/es/educacion-ejecutiva/programas/programas-abiertos" >Programas Abiertos</a></li><li class="item-1394 deeper parent"><a href="/index.php/es/educacion-ejecutiva/programas/presidentes-de-empresa" >Presidentes de Empresas</a><ul class="nav-child unstyled small"><li class="item-2039"><a href="/index.php/es/educacion-ejecutiva/programas/presidentes-de-empresa/semana-internacional" >Semana internacional de Presidentes</a></li></ul></li><li class="item-2054"><a href="/index.php/es/educacion-ejecutiva/programas/semanas-internacionales" >Semanas Internacionales</a></li><li class="item-2073"><a href="/index.php/es/educacion-ejecutiva/programas/talleres-abiertos" >Talleres Abiertos</a></li></ul></li><li class="item-1395 deeper parent"><a href="/index.php/es/educacion-ejecutiva/programas-corporativos" >Programas Corporativos</a><ul class="nav-child unstyled small"><li class="item-1984"><a href="/index.php/es/educacion-ejecutiva/programas-corporativos" >Programas para empresas</a></li></ul></li><li class="item-1391 deeper parent"><a href="/index.php/es/educacion-ejecutiva/desarrollo-empresarial" >Desarrollo Empresarial</a><ul class="nav-child unstyled small"><li class="item-1393"><a href="/index.php/es/educacion-ejecutiva/desarrollo-empresarial/gestion-estrategica-para-las-pyme" >Gestión Estratégica para las Pyme</a></li></ul></li></ul></li><li class="item-1297 deeper parent"><a href="/index.php/es/profesores" >Profesores</a><ul class="nav-child unstyled small"><li class="item-1397"><a href="/index.php/es/profesores/profesores-de-planta" >Profesores de planta</a></li><li class="item-1398"><a href="/index.php/es/profesores/profesores-de-catedra" >Profesores de cátedra</a></li><li class="item-1746"><a href="/index.php/es/profesores/ofertas-de-vinculacion" >Ofertas de Vinculación</a></li><li class="item-2069"><a href="/index.php/es/profesores/nuevos-profesores" >Nuevos profesores</a></li><li class="item-1732"><a href="/index.php/es/profesores/noticias" >Noticias</a></li></ul></li><li class="item-1298 deeper parent"><a href="/index.php/es/investigacion" >Investigaciones</a><ul class="nav-child unstyled small"><li class="item-1401 deeper parent"><a href="/index.php/es/investigacion/grupos-de-investigacion/historia-y-empresariado" >Grupos de investigación</a><ul class="nav-child unstyled small"><li class="item-1402"><a href="/index.php/es/investigacion/grupos-de-investigacion/historia-y-empresariado" >Historia y empresariado</a></li><li class="item-1403"><a href="/index.php/es/investigacion/grupos-de-investigacion/gestion-publica" >Gestión pública</a></li><li class="item-1404"><a href="/index.php/es/investigacion/grupos-de-investigacion/decisiones-y-mercados" >Decisiones y mercados</a></li><li class="item-1405"><a href="/index.php/es/investigacion/grupos-de-investigacion/finanzas-y-economia-financiera" >Finanzas y economía financiera</a></li><li class="item-1406"><a href="/index.php/es/investigacion/grupos-de-investigacion/estudios-organizacionales" >Estudios organizacionales</a></li></ul></li><li class="item-1407 deeper parent"><a href="/index.php/es/investigacion/programas-estrategicos/descripcion-y-objetivos" >Programas estratégicos</a><ul class="nav-child unstyled small"><li class="item-1408"><a href="/index.php/es/investigacion/programas-estrategicos/descripcion-y-objetivos" >Descripción y objetivos</a></li><li class="item-1616"><a href="/index.php/es/investigacion/programas-estrategicos/historia-y-empresariado" >Historia y empresariado</a></li><li class="item-1617"><a href="/index.php/es/investigacion/programas-estrategicos/gobierno-corporativo" >Gobierno corporativo</a></li><li class="item-1618"><a href="/index.php/es/investigacion/programas-estrategicos/gestion-ambiental" >Gestión ambiental</a></li><li class="item-1619"><a href="/index.php/es/investigacion/programas-estrategicos/empresariado-social" >Empresariado social</a></li><li class="item-1620"><a href="/index.php/es/investigacion/programas-estrategicos/mujeres-en-posiciones-de-liderazgo-en-latinoamerica-mepla" >Mujeres en posiciones de liderazgo en Latinoamérica (MEPLA)</a></li></ul></li><li class="item-1411 deeper parent"><a href="/index.php/es/investigacion/comite-de-investigaciones/proyectos-financiados" >Comité de Investigaciones</a><ul class="nav-child unstyled small"><li class="item-1413"><a href="/index.php/es/investigacion/comite-de-investigaciones/proyectos-financiados" >Proyectos financiados</a></li></ul></li><li class="item-2108 deeper parent"><a href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Observatorio Scala</a><ul class="nav-child unstyled small"><li class="item-1412"><a href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Información General </a></li></ul></li><li class="item-2076"><a href="https://informacionprofesores.uniandes.edu.co/es" target="_blank" >Información para profesores</a></li></ul></li><li class="item-1299 deeper parent"><a href="/index.php/es/publicaciones/publicaciones/1425/all_category" >Publicaciones</a><ul class="nav-child unstyled small"><li class="item-1425 deeper parent"><a href="/index.php/es/publicaciones/publicaciones/1425/all_category" >Publicaciones</a><ul class="nav-child unstyled small"><li class="item-1426"><a href="/index.php/es/publicaciones/publicaciones/libros/1426/showCategory" >Libros</a></li><li class="item-1427"><a href="/index.php/es/publicaciones/publicaciones/capitulos-en-libros/1427/showCategory" >Capítulos en libros</a></li><li class="item-1428"><a href="/index.php/es/publicaciones/publicaciones/articulos-en-revista/1428/showCategory" >Artículos en revista</a></li><li class="item-1430"><a href="/index.php/es/publicaciones/publicaciones/monografias/1430/showCategory" >Monografías</a></li><li class="item-1431"><a href="/index.php/es/publicaciones/publicaciones/casos-docentes/1431/showCategory" >Casos docentes</a></li><li class="item-1432"><a href="/index.php/es/publicaciones/publicaciones/galeras-de-administracion/1432/showCategory" >Galeras de administración</a></li><li class="item-1433"><a href="/index.php/es/publicaciones/publicaciones/catedra-corona/1433/showCategory" >Cátedra corona</a></li><li class="item-1434"><a href="/index.php/es/publicaciones/publicaciones/apuntes-de-clase/1434/showCategory" >Apuntes de clase</a></li><li class="item-1435"><a href="/index.php/es/publicaciones/publicaciones/proyectos-de-grado/1435/showCategory" >Proyectos de grado</a></li><li class="item-1436"><a href="/index.php/es/publicaciones/publicaciones/boletines-de-noticias/1436/showCategory" >Boletines de Noticias</a></li><li class="item-1437"><a href="/phocadownload/publicaciones/guia-entrega-manuscritos.pdf" target="_blank" >Guía entrega de manuscritos</a></li><li class="item-1438"><a href="http://www.emeraldgrouppublishing.com/products/journals/journals.htm?id=arla" target="_blank" >Revista academia</a></li><li class="item-1966"><a href="/index.php/es/publicaciones/publicaciones/boletines-de-publicaciones/1966/showCategory" >Boletines de publicaciones</a></li></ul></li></ul></li><li class="item-1300 deeper parent"><a href="/index.php/es/relaciones-corporativas/informacion-general" >Relaciones Corporativas</a><ul class="nav-child unstyled small"><li class="item-1439"><a href="/index.php/es/relaciones-corporativas/informacion-general" >Información general</a></li><li class="item-1442 deeper parent"><a href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Centro de Estrategia y Competitividad - CEC: Investigación y Consultoría</a><ul class="nav-child unstyled small"><li class="item-1958"><a href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/informacion-general" >Información general</a></li><li class="item-1963"><a href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/programas-y-servicios" >Programas y servicios</a></li><li class="item-1957"><a href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/redes-car-y-bid" >RedEs-CAR y BID</a></li><li class="item-1969"><a href="/index.php/es/relaciones-corporativas/centro-de-estrategia-y-competitividad-cec-investigacion-y-consultoria/publicaciones-cec" >Publicaciones CEC</a></li></ul></li><li class="item-1443 deeper parent"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento" >Centro de emprendimiento</a><ul class="nav-child unstyled small"><li class="item-1655"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/programa-emprendedores" >Programa emprendedores (PEMP)</a></li><li class="item-2103"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-construye-2017-1" >PEMP | Construye</a></li><li class="item-2064"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/pemp-invierte-2017-1" >PEMP | Invierte</a></li><li class="item-1653"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quiero-emprender" >Asesorías y talleres</a></li><li class="item-1652"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/quienes-somos" >Quiénes somos</a></li><li class="item-2097"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/mentores" >Mentores</a></li><li class="item-2095"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/emprendimientos-uniandinos" >Emprendimientos Uniandinos</a></li><li class="item-2014"><a href="/index.php/es/relaciones-corporativas/centro-de-emprendimiento/noticias" >Noticias</a></li></ul></li><li class="item-1444"><a href="/index.php/es/relaciones-corporativas/proyectos-y-relacionamiento-corporativo" >Proyectos y relacionamiento corporativo</a></li><li class="item-1445"><a href="/index.php/es/relaciones-corporativas/agronegocios-e-industria-de-alimentos-aneia" >AgroNegocios e Industria de Alimentos – AneIA</a></li><li class="item-1997"><a href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a></li><li class="item-2047"><a href="/index.php/es/relaciones-corporativas/consultandes" >Consultandes</a></li><li class="item-2114"><a href="/index.php/es/investigacion/observatorio-scala/informacion-general-observatorio" >Observatorio Scala </a></li></ul></li><li class="item-1656 deeper parent"><a href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Egresados</a><ul class="nav-child unstyled small"><li class="item-2004 deeper parent"><a href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp" >Oficina de Egresados y Desarrollo Profesional - OEDP</a><ul class="nav-child unstyled small"><li class="item-2009"><a href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp/nuestro-sistema-de-relacion" >Nuestro sistema de relación</a></li><li class="item-2013"><a href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp/caracteristicas-de-la-relacion" >Características de la relación</a></li><li class="item-2010"><a href="/index.php/es/egresados/oficina-de-egresados-y-desarrollo-profesional-oedp/relaciones-permanentemente-exitosas" >Relaciones permanentemente exitosas</a></li><li class="item-2011"><a href="/index.php/es/egresados/beneficios-y-servicios-a-los-egresados" >Beneficios</a></li><li class="item-2012"><a href="/index.php/es/egresados/convocatorias/contribuciones" >Contribuciones</a></li></ul></li><li class="item-1998"><a href="/index.php/es/egresados/informacion-de-interes" >Preguntas frecuentes</a></li><li class="item-1657 deeper parent"><a href="/index.php/es/egresados/beneficios-y-servicios-a-los-egresados" >Beneficios y servicios a los egresados</a><ul class="nav-child unstyled small"><li class="item-2037"><a href="/index.php/es/egresados/beneficios-y-servicios-a-los-egresados/feria-laboral" >Feria Laboral</a></li></ul></li><li class="item-2000"><a href="/index.php/es/egresados/practicas-profesionales" >Prácticas profesionales</a></li><li class="item-1658"><a href="/index.php/es/egresados/desarrollo-laboral" >Desarrollo profesional</a></li><li class="item-2001 deeper parent"><a href="/index.php/es/egresados/convocatorias/contribuciones" >Convocatorias</a><ul class="nav-child unstyled small"><li class="item-2005"><a href="/index.php/es/egresados/convocatorias/contribuciones" >Contribuciones</a></li><li class="item-2007"><a href="/index.php/es/egresados/convocatorias/apoyo-financiero-y-becas" >Apoyo financiero y becas</a></li><li class="item-2008"><a href="http://donaciones.uniandes.edu.co/s/1384/25/start.aspx?gid=25&amp;pgid=61" target="_blank" >Donaciones</a></li></ul></li><li class="item-2002"><a href="http://www.uniandinos.org.co/web/portal/home" target="_blank" >Asociación de egresados</a></li><li class="item-1789"><a href="https://administracion.uniandes.edu.co/index.php/es/facultad/sobre-la-facultad/eventos/cat.listevents/2016/07/28/-" >Eventos</a></li><li class="item-2038"><a href="/index.php/es/egresados/networking" >Networking</a></li><li class="item-2003"><a href="/index.php/es/egresados/contactenos" >Contáctenos</a></li><li class="item-2048"><a href="/index.php/es/egresados/perfil-de-nuestros-egresados" >Historias de nuestros Egresados</a></li></ul></li><li class="item-1713 deeper parent"><a href="/index.php/es/aspirantes/estudiar-en-la-facultad" >Aspirantes</a><ul class="nav-child unstyled small"><li class="item-1714"><a href="/index.php/es/aspirantes/estudiar-en-la-facultad" >Estudiar en la facultad</a></li><li class="item-1715"><a href="/index.php/es/aspirantes/programas" >Programas</a></li></ul></li><li class="item-1719 deeper parent"><a href="/index.php/es/estudiantes" >Estudiantes</a><ul class="nav-child unstyled small"><li class="item-1720"><a href="/index.php/es/estudiantes/informacion-general" >Información general</a></li><li class="item-1721"><a href="/index.php/es/estudiantes/bienestar-y-vida-estudiantil" >Bienestar y vida estudiantil</a></li><li class="item-1722"><a href="/index.php/es/estudiantes/contactenos" >Contáctenos</a></li></ul></li><li class="item-1723"><a href="/index.php/es/empresas-y-organizaciones" >Empresas y Organizaciones</a></li><li class="item-1728 deeper parent"><a href="/index.php/es/profesores-y-administrativos/informacion-general" >Profesores y administrativos</a><ul class="nav-child unstyled small"><li class="item-1729"><a href="/index.php/es/profesores-y-administrativos/informacion-general" >Información general</a></li><li class="item-1730"><a href="/index.php/es/profesores-y-administrativos/vinculacion-a-profesores-internacionales" >Vinculación a profesores internacionales</a></li><li class="item-1731"><a href="/index.php/es/profesores-y-administrativos/recursos" >Recursos</a></li></ul></li><li class="item-2117"><a href="/index.php/es/inicio-search" >inicio-search</a></li><li class="item-2118"><a href="/index.php/es/facultad/sobre-la-facultad/mision-vision-y-valores" >prueba</a></li></ul>
+</div></div>
+                            </div>
+        </div>
+    </div>
+        
+
+<div class="custom"  >
+	<style scoped="scoped" type="text/css">
+.top-nav.contactenos{
+    padding-right: 5px !important;
+    padding-left: 5px !important;
+}
+#k2ModuleBox434 > ul > li > div > div > a > img{
+float:none !important;
+    height: 129px;
+display:block;
+}
+#k2ModuleBox434 > ul > li > div > a.moduleItemTitle{
+background:none!important;
+}
+</style></div>
+
+</body>
+</html>

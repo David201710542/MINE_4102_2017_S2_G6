@@ -1,0 +1,18 @@
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Location: https://adfsaz.uniandes.edu.co/adfs/ls/?client-request-id=728aedc5-0924-4b5d-af73-a7520c8a1ec0&username=&wa=wsignin1.0&wtrealm=urn%3afederation%3aMicrosoftOnline&wctx=estsredirect%3d2%26estsrequest%3drQIIAdNiNtQztFIxgAAjXRCpa5CWZqibnApiIYEiIS6Bo2-7ilQ4Y73XFy8P4umSOzCLkb80LzMxLyW1WC81pVQvOX8Vo1JGSUlBsZW-fn5pSU5-frZeflpaZnKqsZkpUDpXP788UX8HI-MFRsZVTOZmxmYmBqYGpkYWRsaWZuYmlpZ6SeZmyUCcppuYlmqoa2KQmqprYWhkpptmbpqUkpKSnGxoYHCLid_fsbQkwwhE5BdlVqV-YuJMyy_KjS_ILy6ZxdzA6JJc4uOSH5ru4uoUZOAebuJU5Jju5pQdaWjibeDlHKWbXZaSaexjkpLnUmoenpkXlmlgmp_tnenqWp7o6RpgXFxgUl5g6l5pnOEWahBakW_uauISVeVrlpUYnFMa5BZc5GjpUulSGmCZk-dhmRyS52-alGeUnOER75Pil2UWb-C0ipmoMN3EzAYMk9z8vFPMbPkFqXmZKRdYGH-wMC5iBQZ2y9RLqtavF_k3zO_NtA1hYDjFqp-W7hOYbhDin5tSWBaRFJGa6ulrFJ7tnp-bYpiUb5qbk5qREWxs5ObqW1hsa2xlOIGNcQIb2ws2xl2cRMQKAA2
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Ms-Request-Id: 25d29584-eb3b-4fa2-809f-8d693d540000
+P3P: CP="DSP CUR OTPi IND OTRi ONL FIN"
+Set-Cookie: buid=AQABAAEAAAA9kTklhVy7SJTGAzR-p1Bcfx_u5wsUru-m6qJrDZSG3ROeSYdbhIrJX8RDUFJnQdV6y3mljlOYxawlD0eWpdLGvpwTO2Ddl8J8zV0Pxg6QN-nw0RReeOQOygsHqMOecBQgAA; expires=Sun, 08-Oct-2017 22:08:07 GMT; path=/; secure; HttpOnly
+Set-Cookie: esctx=AQABAAAAAAA9kTklhVy7SJTGAzR-p1BcxIsMut5F3ouBitX82rs8WoMtPDE3vPQnRFwNvpT3tbexXUwlfL9yhE7JuxrT8jM_fc9h0yanYjpNoBB6yCXRyUqzLTKxHmueRPBwH9egsoiFCKJ3lgaGe3u7sZzJDuAHD4A2t3I24VoG55kYRPNhTpD1-WlQT1ZFd9NfZ-cSCz8gAA; domain=.login.microsoftonline.com; path=/; secure; HttpOnly
+Set-Cookie: x-ms-gateway-slice=003; path=/; secure; HttpOnly
+Set-Cookie: stsservicecookie=ests; path=/; secure; HttpOnly
+X-Powered-By: ASP.NET
+Date: Fri, 08 Sep 2017 22:08:06 GMT

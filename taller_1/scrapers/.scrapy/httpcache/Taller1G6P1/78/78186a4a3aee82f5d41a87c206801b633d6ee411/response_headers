@@ -1,0 +1,16 @@
+Cache-Control: private,max-age=0
+Content-Type: text/html
+Expires: Thu, 24 Aug 2017 18:13:38 GMT
+X-Sharepointhealthscore: 0
+Public-Extension: http://schemas.microsoft.com/repl-2
+Sprequestguid: f54d179e-1e5e-60fa-86b4-edcf9cd87403
+Request-Id: f54d179e-1e5e-60fa-86b4-edcf9cd87403
+X-Frame-Options: SAMEORIGIN
+Sprequestduration: 21
+Spiislatency: 9
+X-Aspnet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Content-Type-Options: nosniff
+X-Ms-Invokeapp: 1; RequireReadOnly
+Microsoftsharepointteamservices: 15.0.0.4719
+Date: Fri, 08 Sep 2017 18:13:38 GMT

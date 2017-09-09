@@ -1,0 +1,84 @@
+facultad,url,fuente,orden,origen,nivel
+(menu_ppal)Información General,https://uniandes.edu.co/es/universidad/informacion-general/,https://uniandes.edu.co/,1,0,1
+(menu_ppal)Misión,https://uniandes.edu.co/es/universidad/informacion-general/mision/,https://uniandes.edu.co/,2,0,1
+(menu_ppal)Ciclo básico uniandino (CBU),https://cbu.uniandes.edu.co/cbu_inf.php,https://uniandes.edu.co/,3,0,1
+(menu_ppal)Infraestructura,https://gerenciacampus.uniandes.edu.co/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura,https://uniandes.edu.co/,4,0,1
+(menu_ppal)Matrículas,https://matriculas.uniandes.edu.co/,https://uniandes.edu.co/,5,0,1
+(menu_ppal)Portal de apoyo financiero,https://apoyofinanciero.uniandes.edu.co/index.php,https://uniandes.edu.co/,6,0,1
+(menu_ppal)Sistema de registro - BANNER,https://mibanner.uniandes.edu.co/pls/prod/twbkwbis.P_wwwlogin,https://uniandes.edu.co/,7,0,1
+(menu_ppal)Listado de facultades,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,https://uniandes.edu.co/,8,0,1
+(menu_ppal)Pregrados,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,https://uniandes.edu.co/,9,0,1
+(menu_ppal)Biblioteca,https://biblioteca.uniandes.edu.co/index.php?lang=es,https://uniandes.edu.co/,10,0,1
+(menu_ppal)Nuestra identidad,https://uniandes.edu.co/es/mi-uniandes/nuestra-identidad/,https://uniandes.edu.co/,11,0,1
+(menu_ppal)Nuestros símbolos,https://uniandes.edu.co/es/universidad/informacion-general/nuestros-simbolos/,https://uniandes.edu.co/,12,0,1
+(menu_ppal)Estudiante,https://uniandes.edu.co/es/soy/estudiante/,https://uniandes.edu.co/,13,0,1
+(menu_ppal)Apoyo,https://uniandes.edu.co/es/mi-uniandes/que-me-ofrece-la-comunidad/apoyo/,https://uniandes.edu.co/,14,0,1
+(menu_ppal)Ombudsperson,https://ombudsperson.uniandes.edu.co/,https://uniandes.edu.co/,15,0,1
+(menu_ppal)Estrategia 2016 - 2020,https://uniandes.edu.co/es/universidad/estrategia-2016-2020/,https://uniandes.edu.co/,16,0,1
+(menu_ppal)Campus,https://campusinfo.uniandes.edu.co/,https://uniandes.edu.co/,17,0,1
+(filtrar_facultades)Administración,https://administracion.uniandes.edu.co/index.php/es/programas/pregrados/administracion/informacion-general,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,1,9,2
+(filtrar_facultades)Centro Interdisciplinario de Estudios sobre Desarrollo (CIDER),http://cider.uniandes.edu.co/paginas/home.aspx,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,1,8,2
+(filtrar_facultades)Escuela de Gobierno Alberto Lleras Camargo,https://egob.uniandes.edu.co/index.php/es/,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,2,8,2
+(filtrar_facultades)Facultad de Administración,http://administracion.uniandes.edu.co/,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,3,8,2
+(filtrar_facultades)Facultad de Arquitectura y Diseño,http://arqdis.uniandes.edu.co/,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,4,8,2
+(filtrar_facultades)Facultad de Artes y Humanidades,https://facartes.uniandes.edu.co/,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,5,8,2
+(filtrar_facultades)Antropología,https://antropologia.uniandes.edu.co/index.php/programas/pregrado/descripcion,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,2,9,2
+(filtrar_facultades)Arquitectura,http://arquitectura.uniandes.edu.co/pregrado/programa-academico/descripcion-del-programa/,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,3,9,2
+(filtrar_facultades)Arte,https://arte.uniandes.edu.co/arte/,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,4,9,2
+(filtrar_facultades)Biología,https://cienciasbiologicas.uniandes.edu.co/index.php/programas/pregrado/biologia,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,5,9,2
+(filtrar_facultades)Ciencia Política,https://c-politica.uniandes.edu.co/index.php/programas/pregrado/descripcion,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,6,9,2
+(filtrar_facultades)Contaduría Internacional,https://administracion.uniandes.edu.co/index.php/es/programas/pregrados/contaduria-internacional/informacion-general,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,7,9,2
+(filtrar_facultades)Derecho,https://derecho.uniandes.edu.co/index.php?option=com_content&view=article&id=401&Itemid=111&lang=es,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,8,9,2
+(filtrar_facultades)Diseño,http://design.uniandes.edu.co/pregrado/programa-academico/descripcion-del-programa/,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,9,9,2
+(filtrar_facultades)Economía,https://economia.uniandes.edu.co/programas-facultad-de-economia/pregrado-de-economia/descripcion-pregrado/descripcion-de-la-carrera-pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,10,9,2
+(filtrar_facultades)Filosofía,https://filosofia.uniandes.edu.co/index.php/programas/pregrado/descripcion,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,11,9,2
+(filtrar_facultades)Física,http://fisica.uniandes.edu.co/index.php/programas/pregrado-en-fisica,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,12,9,2
+(filtrar_facultades)Facultad de Ciencias,http://ciencias.uniandes.edu.co/,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,6,8,2
+(filtrar_facultades)Facultad de Ciencias Sociales,https://faciso.uniandes.edu.co/index.php?ac=inicio,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,7,8,2
+(filtrar_facultades)Facultad de Derecho,https://derecho.uniandes.edu.co/,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,8,8,2
+(filtrar_facultades)Facultad de Economía,http://economia.uniandes.edu.co/,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,9,8,2
+(filtrar_facultades)Facultad de Educación,https://educacion.uniandes.edu.co/index.php,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,10,8,2
+(filtrar_facultades)Facultad de Ingeniería,http://ingenieria.uniandes.edu.co/paginas/home.aspx,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,11,8,2
+(filtrar_facultades)Facultad de Medicina,https://medicina.uniandes.edu.co/index.php/es/,https://uniandes.edu.co/es/programas-facultades/lista-facultades/,12,8,2
+(filtrar_facultades)Geociencias,http://geociencias.uniandes.edu.co/index.php/programas/pregrado/plan-de-estudios,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,13,9,2
+(filtrar_facultades)Gobierno y Asuntos Públicos,https://egob.uniandes.edu.co/index.php/es/inicio-pregobierno,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,14,9,2
+(filtrar_facultades)Historia,https://historia.uniandes.edu.co/index.php/programas/pregrado/descripcion,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,15,9,2
+(filtrar_facultades)Historia del Arte,https://arte.uniandes.edu.co/historia-del-arte/,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,16,9,2
+(filtrar_facultades)Ingeniería Ambiental,https://civil.uniandes.edu.co/pregrado/ingenieria-ambiental,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,17,9,2
+(filtrar_facultades)Ingeniería Biomédica,https://ingbiomedica.uniandes.edu.co/index.php/es/,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,18,9,2
+(filtrar_facultades)Ingeniería Civil,https://civil.uniandes.edu.co/pregrado/ingenieria-civil,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,19,9,2
+(filtrar_facultades)Ingeniería de Sistemas y Computación,https://sistemas.uniandes.edu.co/es/isis-descripcion/informacion-general-pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,20,9,2
+(filtrar_facultades)Ingeniería Eléctrica,https://electrica.uniandes.edu.co/pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,21,9,2
+(filtrar_facultades)Ingeniería Electrónica,https://electrica.uniandes.edu.co/pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,22,9,2
+(filtrar_facultades)Ingeniería Industrial,https://industrial.uniandes.edu.co/programas-academicos/pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,23,9,2
+(filtrar_facultades)Ingeniería Mecánica,https://mecanica.uniandes.edu.co/index.php/es/aspirantes-846/pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,24,9,2
+(filtrar_facultades)Ingeniería Química,https://ingquimica.uniandes.edu.co/index.php/programas-academicos/pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,25,9,2
+(filtrar_facultades)Lenguas y Cultura,https://lenguas.uniandes.edu.co/index.php/programas/pregrado-en-lenguas-y-cultura/descripcion-del-programa,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,26,9,2
+(filtrar_facultades)Licenciatura en Artes,https://educacion.uniandes.edu.co/index.php/licenciatura-en-arte,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,27,9,2
+(filtrar_facultades)Licenciatura en Ciencias Naturales,https://educacion.uniandes.edu.co/index.php/licenciatura-en-ciencias-naturales,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,28,9,2
+(filtrar_facultades)Licenciatura en Ciencias Sociales,https://educacion.uniandes.edu.co/index.php/licenciatura-en-ciencias-sociales,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,29,9,2
+(filtrar_facultades)Licenciatura en Educación para la Primera Infancia,https://educacion.uniandes.edu.co/index.php/licenciatura-en-primera-infancia,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,30,9,2
+(filtrar_facultades)Licenciatura en Humanidades,https://educacion.uniandes.edu.co/index.php/licenciatura-en-humanidades,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,31,9,2
+(filtrar_facultades)Licenciatura en Matemáticas,https://educacion.uniandes.edu.co/index.php/licenciatura-en-matematicas,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,32,9,2
+(filtrar_facultades)Literatura,https://literatura.uniandes.edu.co/index.php/pregrado/pregrado-en-literatura.html,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,33,9,2
+(filtrar_facultades)Asuntos estudiantiles,https://secretariageneral.uniandes.edu.co/index.php/es/asuntos-estudiantiles,https://uniandes.edu.co/es/soy/estudiante/,1,13,2
+(filtrar_facultades)Biblioteca,https://biblioteca.uniandes.edu.co/index.php?lang=es,https://uniandes.edu.co/es/soy/estudiante/,2,13,2
+(filtrar_facultades)Correo,http://correo.uniandes.edu.co/,https://uniandes.edu.co/es/soy/estudiante/,3,13,2
+(filtrar_facultades)Directorio telefónico,https://directorio.uniandes.edu.co/,https://uniandes.edu.co/es/soy/estudiante/,4,13,2
+(filtrar_facultades)Guía rápida,https://uniandes.edu.co/soy/guia-de-servicios/guia-rapida/,https://uniandes.edu.co/es/soy/estudiante/,5,13,2
+(filtrar_facultades)Matemáticas,http://matematicas.uniandes.edu.co/index.php/pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,34,9,2
+(filtrar_facultades)Medicina,https://medicina.uniandes.edu.co/index.php/es/programas/pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,35,9,2
+(filtrar_facultades)Microbiología,https://cienciasbiologicas.uniandes.edu.co/index.php/programas/pregrado/microbiologia,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,36,9,2
+(filtrar_facultades)Música,http://musica.uniandes.edu.co/pregrado,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,37,9,2
+(filtrar_facultades)Psicología,https://psicologia.uniandes.edu.co/index.php/programas/pregrado-en-psicologia/por-que-hacer-el-pregrado-en-psicologia,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,38,9,2
+(filtrar_facultades)Química,http://quimica.uniandes.edu.co,https://uniandes.edu.co/es/programas-facultades/programas/pregrados/,39,9,2
+(filtrar_facultades)Póliza de seguro,https://decanaturadeestudiantes.uniandes.edu.co/aon/,https://uniandes.edu.co/es/soy/estudiante/,6,13,2
+"(filtrar_facultades)Protocolo para casos de maltrato, acoso, amenaza, discriminación y afines",https://secretariageneral.uniandes.edu.co/index.php/es/inicio-es/14-noticias/128,https://uniandes.edu.co/es/soy/estudiante/,7,13,2
+(filtrar_facultades)Servicios,https://uniandes.edu.co/soy/guia-de-servicios/servicios/,https://uniandes.edu.co/es/soy/estudiante/,8,13,2
+(filtrar_facultades)SICUA,https://sicuaplus.uniandes.edu.co/webapps/login/,https://uniandes.edu.co/es/soy/estudiante/,9,13,2
+(filtrar_facultades)Vida académica,https://uniandes.edu.co/soy/guia-de-servicios/vida-academica/,https://uniandes.edu.co/es/soy/estudiante/,10,13,2
+(filtrar_facultades)Vida universitaria,https://uniandes.edu.co/soy/guia-de-servicios/vida-universitaria/,https://uniandes.edu.co/es/soy/estudiante/,11,13,2
+(filtrar_noticias)SEP 05: Biomédicos participan en competencia internacional de diseño,,https://ingenieria.uniandes.edu.co/paginas/home.aspx,1,11,3
+(filtrar_noticias)SEP 05: Industriales ganan 1ra. Competencia Analítica,,https://ingenieria.uniandes.edu.co/paginas/home.aspx,2,11,3
+(filtrar_noticias)SEP 05: Una colombiana con cimientos,,https://ingenieria.uniandes.edu.co/paginas/home.aspx,3,11,3
+(filtrar_noticias)SEP 05: Simbad Ceballos llega a la dirección de SAP Colombia,,https://ingenieria.uniandes.edu.co/paginas/home.aspx,4,11,3

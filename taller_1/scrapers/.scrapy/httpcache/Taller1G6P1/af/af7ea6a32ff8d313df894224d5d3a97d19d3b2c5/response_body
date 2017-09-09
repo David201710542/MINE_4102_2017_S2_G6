@@ -1,0 +1,667 @@
+
+
+
+
+
+<!DOCTYPE html>
+<!--[if IE 9]><html class="no-js ie9" lang="es-ES"><![endif]-->
+<!--[if gt IE 9]><!--><html class="no-js" lang="es-ES"><!--<![endif]-->
+
+<head>
+  
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Historia del Arte | Departamento de Arte</title>
+<link rel="pingback" href="https://arte.uniandes.edu.co/xmlrpc.php"><link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Departamento de Arte &raquo; Feed" href="https://arte.uniandes.edu.co/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/arte.uniandes.edu.co\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='layerslider-css'  href='https://arte.uniandes.edu.co/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-user-css'  href='https://arte.uniandes.edu.co/wp-content/uploads/layerslider.custom.css?ver=5.6.9' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='https://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='essential-grid-plugin-settings-css'  href='https://arte.uniandes.edu.co/wp-content/plugins/essential-grid/public/assets/css/settings.css?ver=2.1.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600%2C700%2C800&#038;ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-raleway-css'  href='https://fonts.googleapis.com/css?family=Raleway%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&#038;ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='tp-droid-serif-css'  href='https://fonts.googleapis.com/css?family=Droid+Serif%3A400%2C700&#038;ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_ac-font-awesome-front-css'  href='https://arte.uniandes.edu.co/wp-content/plugins/responsive-accordion-and-collapse/css/font-awesome/css/font-awesome.min.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpsm_ac_bootstrap-front-css'  href='https://arte.uniandes.edu.co/wp-content/plugins/responsive-accordion-and-collapse/css/bootstrap-front.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='https://arte.uniandes.edu.co/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.2.6' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+#rs-demo-id {}
+</style>
+<link rel='stylesheet' id='x-stack-css'  href='https://arte.uniandes.edu.co/wp-content/themes/x/framework/css/dist/site/stacks/integrity-light.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='x-child-css'  href='https://arte.uniandes.edu.co/wp-content/themes/x-child/style.css?ver=4.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='x-google-fonts-css'  href='//fonts.googleapis.com/css?family=Raleway%3A400%2C400italic%2C700%2C700italic%2C500%7CLato%3A700&#038;subset=latin%2Clatin-ext&#038;ver=4.6.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var LS_Meta = {"v":"5.6.9"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.9'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.9'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/essential-grid/public/assets/js/lightbox.js?ver=2.1.0.1'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/essential-grid/public/assets/js/jquery.themepunch.tools.min.js?ver=2.1.0.1'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.2.6'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/themes/x/framework/js/dist/site/x-head.min.js?ver=4.6.2'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/cornerstone/assets/dist/js/site/cs-head.min.js?ver=1.3.1'></script>
+<meta name="generator" content="Powered by LayerSlider 5.6.9 - Multi-Purpose, Responsive, Parallax, Mobile-Friendly Slider Plugin for WordPress." />
+<!-- LayerSlider updates and docs at: https://kreaturamedia.com/layerslider-responsive-wordpress-slider-plugin/ -->
+<link rel='https://api.w.org/' href='https://arte.uniandes.edu.co/wp-json/' />
+<link rel="canonical" href="https://arte.uniandes.edu.co/historia-del-arte/" />
+<link rel='shortlink' href='https://arte.uniandes.edu.co/?p=166' />
+<link rel="alternate" type="application/json+oembed" href="https://arte.uniandes.edu.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farte.uniandes.edu.co%2Fhistoria-del-arte%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://arte.uniandes.edu.co/wp-json/oembed/1.0/embed?url=https%3A%2F%2Farte.uniandes.edu.co%2Fhistoria-del-arte%2F&#038;format=xml" />
+		<script type="text/javascript">
+			var ajaxRevslider;
+			
+			jQuery(document).ready(function() {
+				// CUSTOM AJAX CONTENT LOADING FUNCTION
+				ajaxRevslider = function(obj) {
+				
+					// obj.type : Post Type
+					// obj.id : ID of Content to Load
+					// obj.aspectratio : The Aspect Ratio of the Container / Media
+					// obj.selector : The Container Selector where the Content of Ajax will be injected. It is done via the Essential Grid on Return of Content
+					
+					var content = "";
+
+					data = {};
+					
+					data.action = 'revslider_ajax_call_front';
+					data.client_action = 'get_slider_html';
+					data.token = '9c24091295';
+					data.type = obj.type;
+					data.id = obj.id;
+					data.aspectratio = obj.aspectratio;
+					
+					// SYNC AJAX REQUEST
+					jQuery.ajax({
+						type:"post",
+						url:"https://arte.uniandes.edu.co/wp-admin/admin-ajax.php",
+						dataType: 'json',
+						data:data,
+						async:false,
+						success: function(ret, textStatus, XMLHttpRequest) {
+							if(ret.success == true)
+								content = ret.data;								
+						},
+						error: function(e) {
+							console.log(e);
+						}
+					});
+					
+					 // FIRST RETURN THE CONTENT WHEN IT IS LOADED !!
+					 return content;						 
+				};
+				
+				// CUSTOM AJAX FUNCTION TO REMOVE THE SLIDER
+				var ajaxRemoveRevslider = function(obj) {
+					return jQuery(obj.selector+" .rev_slider").revkill();
+				};
+
+				// EXTEND THE AJAX CONTENT LOADING TYPES WITH TYPE AND FUNCTION
+				var extendessential = setInterval(function() {
+					if (jQuery.fn.tpessential != undefined) {
+						clearInterval(extendessential);
+						if(typeof(jQuery.fn.tpessential.defaults) !== 'undefined') {
+							jQuery.fn.tpessential.defaults.ajaxTypes.push({type:"revslider",func:ajaxRevslider,killfunc:ajaxRemoveRevslider,openAnimationSpeed:0.3});   
+							// type:  Name of the Post to load via Ajax into the Essential Grid Ajax Container
+							// func: the Function Name which is Called once the Item with the Post Type has been clicked
+							// killfunc: function to kill in case the Ajax Window going to be removed (before Remove function !
+							// openAnimationSpeed: how quick the Ajax Content window should be animated (default is 0.3)
+						}
+					}
+				},30);
+			});
+		</script>
+				<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+		<meta name="generator" content="Powered by Slider Revolution 5.2.6 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style id="x-generated-css" type="text/css">a,h1 a:hover,h2 a:hover,h3 a:hover,h4 a:hover,h5 a:hover,h6 a:hover,.x-topbar .p-info a:hover,.x-breadcrumb-wrap a:hover,.widget ul li a:hover,.widget ol li a:hover,.widget.widget_text ul li a,.widget.widget_text ol li a,.widget_nav_menu .current-menu-item > a,.x-widgetbar .widget ul li a:hover,.x-accordion-heading .x-accordion-toggle:hover,.x-comment-author a:hover,.x-comment-time:hover,.x-recent-posts a:hover .h-recent-posts{color:#ff2a13;}a:hover,.widget.widget_text ul li a:hover,.widget.widget_text ol li a:hover,.x-twitter-widget ul li a:hover{color:#d80f0f;}.rev_slider_wrapper,a.x-img-thumbnail:hover,.x-slider-container.below,.page-template-template-blank-3-php .x-slider-container.above,.page-template-template-blank-6-php .x-slider-container.above{border-color:#ff2a13;}.entry-thumb:before,.x-pagination span.current,.flex-direction-nav a,.flex-control-nav a:hover,.flex-control-nav a.flex-active,.mejs-time-current,.x-dropcap,.x-skill-bar .bar,.x-pricing-column.featured h2,.h-comments-title small,.x-entry-share .x-share:hover,.x-highlight,.x-recent-posts .x-recent-posts-img:after{background-color:#ff2a13;}.x-nav-tabs > .active > a,.x-nav-tabs > .active > a:hover{box-shadow:inset 0 3px 0 0 #ff2a13;}.x-main{width:69.536945%;}.x-sidebar{width:25.536945%;}.x-topbar .p-info,.x-topbar .p-info a,.x-navbar .desktop .x-nav > li > a,.x-navbar .desktop .sub-menu a,.x-navbar .mobile .x-nav li > a,.x-breadcrumb-wrap a,.x-breadcrumbs .delimiter{color:#999999;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a,.x-navbar .desktop .sub-menu a:hover,.x-navbar .desktop .sub-menu .x-active > a,.x-navbar .desktop .sub-menu .current-menu-item > a,.x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a,.x-navbar .mobile .x-nav li > a:hover,.x-navbar .mobile .x-nav .x-active > a,.x-navbar .mobile .x-nav .current-menu-item > a{color:#272727;}.x-navbar .desktop .x-nav > li > a:hover,.x-navbar .desktop .x-nav > .x-active > a,.x-navbar .desktop .x-nav > .current-menu-item > a{box-shadow:inset 0 4px 0 0 #ff2a13;}.x-navbar .desktop .x-nav > li > a{height:90px;padding-top:37px;}.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:1px;}.x-navbar .desktop .x-nav > li ul{top:75px;;}.x-comment-author,.x-comment-time,.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar caption,.widget.widget_rss li .rsswidget{font-family:Raleway;font-weight:400;}.p-landmark-sub,.p-meta,input,button,select,textarea{font-family:Raleway;}.widget ul li a,.widget ol li a,.x-comment-time{color:#999999;}.widget_text ol li a,.widget_text ul li a{color:#ff2a13;}.widget_text ol li a:hover,.widget_text ul li a:hover{color:#d80f0f;}.comment-form-author label,.comment-form-email label,.comment-form-url label,.comment-form-rating label,.comment-form-comment label,.widget_calendar #wp-calendar th,.p-landmark-sub strong,.widget_tag_cloud .tagcloud a:hover,.widget_tag_cloud .tagcloud a:active,.entry-footer a:hover,.entry-footer a:active,.x-breadcrumbs .current,.x-comment-author,.x-comment-author a{color:#272727;}.widget_calendar #wp-calendar th{border-color:#272727;}.h-feature-headline span i{background-color:#272727;}@media (max-width:979px){.x-navbar-fixed-top-active .x-navbar-wrap{margin-bottom:0;}}body{font-size:15px;font-style:normal;font-weight:400;color:#999999;background-color:#f3f3f3;}a:focus,select:focus,input[type="file"]:focus,input[type="radio"]:focus,input[type="submit"]:focus,input[type="checkbox"]:focus{outline:thin dotted #333;outline:5px auto #ff2a13;outline-offset:-1px;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{font-family:"Raleway",sans-serif;font-style:normal;font-weight:400;}h1,.h1{letter-spacing:-0.035em;}h2,.h2{letter-spacing:-0.035em;}h3,.h3{letter-spacing:-0.035em;}h4,.h4{letter-spacing:-0.035em;}h5,.h5{letter-spacing:-0.035em;}h6,.h6{letter-spacing:-0.035em;}.w-h{font-weight:400 !important;}.x-container.width{width:88%;}.x-container.max{max-width:1200px;}.x-main.full{float:none;display:block;width:auto;}@media (max-width:979px){.x-main.full,.x-main.left,.x-main.right,.x-sidebar.left,.x-sidebar.right{float:none;display:block;width:auto !important;}}.entry-header,.entry-content{font-size:15px;}body,input,button,select,textarea{font-family:"Raleway",sans-serif;}h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,blockquote{color:#272727;}.cfc-h-tx{color:#272727 !important;}.cfc-h-bd{border-color:#272727 !important;}.cfc-h-bg{background-color:#272727 !important;}.cfc-b-tx{color:#999999 !important;}.cfc-b-bd{border-color:#999999 !important;}.cfc-b-bg{background-color:#999999 !important;}.x-btn-widgetbar{border-top-color:rgb(238,205,17);border-right-color:rgb(238,205,17);}.x-btn-widgetbar:hover{border-top-color:rgb(0,0,0);border-right-color:rgb(0,0,0);}body.x-navbar-fixed-top-active .x-navbar-wrap{height:90px;}.x-navbar-inner{min-height:90px;}.x-brand{margin-top:22px;font-family:"Lato",sans-serif;font-size:42px;font-style:normal;font-weight:700;letter-spacing:-0.035em;color:#272727;}.x-brand:hover,.x-brand:focus{color:#272727;}.x-navbar .x-nav-wrap .x-nav > li > a{font-family:"Raleway",sans-serif;font-style:normal;font-weight:500;letter-spacing:0.085em;text-transform:uppercase;}.x-navbar .desktop .x-nav > li > a{font-size:11px;}.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce){padding-left:20px;padding-right:20px;}.x-navbar .desktop .x-nav > li > a > span{margin-right:-0.085em;}.x-btn-navbar{margin-top:20px;}.x-btn-navbar,.x-btn-navbar.collapsed{font-size:24px;}@media (max-width:979px){body.x-navbar-fixed-top-active .x-navbar-wrap{height:auto;}.x-widgetbar{left:0;right:0;}}.x-btn,.button,[type="submit"]{color:#ffffff;border-color:#ac1100;background-color:#ff2a13;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);border-radius:0.25em;}.x-btn:hover,.button:hover,[type="submit"]:hover{color:#ffffff;border-color:#600900;background-color:#ef2201;margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.5);box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real,.x-btn.x-btn-real:hover{margin-bottom:0.25em;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);}.x-btn.x-btn-real{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-real:hover{box-shadow:0 0.25em 0 0 #a71000,0 4px 9px rgba(0,0,0,0.75);}.x-btn.x-btn-flat,.x-btn.x-btn-flat:hover{margin-bottom:0;text-shadow:0 0.075em 0.075em rgba(0,0,0,0.65);box-shadow:none;}.x-btn.x-btn-transparent,.x-btn.x-btn-transparent:hover{margin-bottom:0;border-width:3px;text-shadow:none;text-transform:uppercase;background-color:transparent;box-shadow:none;}.h-widget:before,.x-flickr-widget .h-widget:before,.x-dribbble-widget .h-widget:before{position:relative;font-weight:normal;font-style:normal;line-height:1;text-decoration:inherit;-webkit-font-smoothing:antialiased;speak:none;}.h-widget:before{padding-right:0.4em;font-family:"fontawesome";}.x-flickr-widget .h-widget:before,.x-dribbble-widget .h-widget:before{top:0.025em;padding-right:0.35em;font-family:"foundationsocial";font-size:0.785em;}.widget_archive .h-widget:before{content:"\f040";top:-0.045em;font-size:0.925em;}.widget_calendar .h-widget:before{content:"\f073";top:-0.0825em;font-size:0.85em;}.widget_categories .h-widget:before,.widget_product_categories .h-widget:before{content:"\f02e";font-size:0.95em;}.widget_nav_menu .h-widget:before,.widget_layered_nav .h-widget:before{content:"\f0c9";}.widget_meta .h-widget:before{content:"\f0fe";top:-0.065em;font-size:0.895em;}.widget_pages .h-widget:before{content:"\f0f6";top:-0.065em;font-size:0.85em;}.widget_recent_reviews .h-widget:before,.widget_recent_comments .h-widget:before{content:"\f086";top:-0.065em;font-size:0.895em;}.widget_recent_entries .h-widget:before{content:"\f02d";top:-0.045em;font-size:0.875em;}.widget_rss .h-widget:before{content:"\f09e";padding-right:0.2em;}.widget_search .h-widget:before,.widget_product_search .h-widget:before{content:"\f0a4";top:-0.075em;font-size:0.85em;}.widget_tag_cloud .h-widget:before,.widget_product_tag_cloud .h-widget:before{content:"\f02c";font-size:0.925em;}.widget_text .h-widget:before{content:"\f054";padding-right:0.4em;font-size:0.925em;}.x-dribbble-widget .h-widget:before{content:"\f009";}.x-flickr-widget .h-widget:before{content:"\f010";padding-right:0.35em;}.widget_best_sellers .h-widget:before{content:"\f091";top:-0.0975em;font-size:0.815em;}.widget_shopping_cart .h-widget:before{content:"\f07a";top:-0.05em;font-size:0.945em;}.widget_products .h-widget:before{content:"\f0f2";top:-0.05em;font-size:0.945em;}.widget_featured_products .h-widget:before{content:"\f0a3";}.widget_layered_nav_filters .h-widget:before{content:"\f046";top:1px;}.widget_onsale .h-widget:before{content:"\f02b";font-size:0.925em;}.widget_price_filter .h-widget:before{content:"\f0d6";font-size:1.025em;}.widget_random_products .h-widget:before{content:"\f074";font-size:0.925em;}.widget_recently_viewed_products .h-widget:before{content:"\f06e";}.widget_recent_products .h-widget:before{content:"\f08d";top:-0.035em;font-size:0.9em;}.widget_top_rated_products .h-widget:before{content:"\f075";top:-0.145em;font-size:0.885em;}.x-column.x-1-4 {
+    width: 46%;
+}
+.x-container.max {
+max-width: 2000px !important ;
+}
+
+.x-container.width {
+    width: 95%;
+}
+
+.x-navbar {
+background: #6D124D;
+border-bottom: none;
+}
+
+.x-brand {
+ font-size: 30px;
+ letter-spacing: 0em;
+ color: #fff;
+}
+
+.x-brand img {
+    width: 350px;
+}
+
+a, .x-navbar .desktop .x-nav > li > a, .x-navbar .desktop .sub-menu a, .x-navbar .mobile .x-nav li > a, .x-breadcrumb-wrap a, .x-breadcrumbs .delimiter {
+    color: #fff;
+}
+
+.x-navbar .desktop .x-nav > li > a:hover, .x-navbar .desktop .x-nav > .x-active > a, .x-navbar .desktop .x-nav > .current-menu-item > a, .x-navbar .desktop .sub-menu a:hover, .x-navbar .desktop .sub-menu .x-active > a, .x-navbar .desktop .sub-menu .current-menu-item > a, .x-navbar .desktop .x-nav .x-megamenu > .sub-menu > li > a, .x-navbar .mobile .x-nav li > a:hover, .x-navbar .mobile .x-nav .x-active > a, .x-navbar .mobile .x-nav .current-menu-item > a {
+    color: #FFE416;
+}
+
+.x-navbar .desktop .x-nav > li > a:hover, .x-navbar .desktop .x-nav > .x-active > a, .x-navbar .desktop .x-nav > .current-menu-item > a {
+    box-shadow: inset 0 4px 0 0 #FFE416;
+}
+
+.x-navbar .desktop .x-nav > .current-menu-item > a {
+   box-shadow: inset 0 4px 0 0 #FFDE20; 
+}
+
+
+.x-navbar .desktop .x-nav > li > a:not(.x-btn-navbar-woocommerce) {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+
+.x-slider-container.below {
+    border-bottom: none;
+}
+.desktop .sub-menu {
+    background-color: #6D124D;
+    opacity: 0.8;
+}
+
+
+h2{
+margin-top: 0.3em; 
+}
+
+
+.x-iso-container.cols-2>.hentry {
+    width: 33%;
+}
+
+ .h-extra.skills {
+color:#fff;
+text-align: center;
+}
+
+.entry-extra{
+background:#FFDE20;
+}
+
+
+.x-entry-share{
+background:#fff;
+}
+
+.p-meta { display: none; }
+.entry-date { display: none; }
+
+.p-meta>span:after {
+    content: "/";
+   display: none;
+}
+
+.x-icon-pencil{ display: none; }
+
+.x-entry-share .x-share {
+background:  #6D124D;
+width: 45px;
+height: 45px;
+  -moz-border-radius: 70px; 
+  -webkit-border-radius: 70px; 
+  border-radius: 70px;
+}
+
+.x-ul-icons {
+    margin-left: 2em;
+    list-style: none;
+}
+
+.entry-title {
+text-align: center;
+}
+
+
+.h2 a {
+color: #FFF;
+}
+
+.enlace{
+color: #FF0000;
+}
+
+
+.x-content-dock {
+    position: fixed;
+    bottom: 0;
+    border: none;
+    border-bottom: 0;
+    padding: 30px;
+    background-color: #6D124D;
+     opacity: 0.9;
+    z-index: 1050;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -webkit-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.x-content-dock .widget {
+    text-shadow: none;
+    color: #FFF !important;
+}
+
+.x-content-dock .h-widget {
+    margin: 0 0 0.5em;
+    font-size: 1.65em;
+    line-height: 1.2;
+  color: #FFF !important;
+}
+
+img.wp-smiley, img.emoji {
+ color: #FFF !important;
+}
+
+.x-colophon.bottom {
+    padding: 10px 0;
+    font-size: 10px;
+    text-align: center;
+    color: #7a7a7a;
+background: #000;
+}
+
+.x-colophon.top {
+    padding: 0;
+}
+
+.x-breadcrumb-wrap {
+  display: none;
+}
+
+.enlacef a:hover{
+color: #EECD11;
+}
+
+.x-social-global a:hover  {
+    color: #EECD11;
+}
+
+.textoexpo{
+color: #000;
+padding: 0 5% 0 5%;
+}
+
+.tituloexp{
+  color: #FFF !important;
+}
+
+.linea{
+ border-style: solid;
+border-width: 1px;
+color: rgb(238, 205, 17);
+}
+
+
+.x-btn-navbar.collapsed {
+    color: #FFF;
+    background-color: #EECD11;
+    box-shadow: none;
+}
+
+.x-btn-navbar.collapsed:hover {
+    color: #EECD11;
+    background-color: #6D124D;
+    box-shadow: none;
+}
+
+
+.x-btn-navbar {
+    padding: 0.458em 0.625em;
+    text-shadow: 0 1px 1px rgba(255,255,255,0.75);
+   color: #FFF;
+    background-color: #EECD11;
+    border-radius: 4px;
+    box-shadow: inset 0 1px 4px rgba(0,0,0,0.25);
+    -webkit-transition: box-shadow 0.3s ease,color 0.3s ease,background-color 0.3s ease;
+    transition: box-shadow 0.3s ease,color 0.3s ease,background-color 0.3s ease;
+}
+
+.entry-thumb {
+    display: block;
+    position: relative;
+  background-color: transparent !important;
+}
+
+.entry-featured {
+    box-shadow: none !important;
+}
+
+.eg-profesores-medios-container,
+.eg-profesores-plasticas-container,
+.eg-profesores-proyectos-container,
+.eg-profesores-hart-container
+{
+    border-radius: 100em !important;
+    z-index: 0;
+}
+
+
+.esg-grid, .mainul, .esg-media-poster,
+ li.eg-profesores-hart-wrapper, 
+ li.eg-profesores-plasticas-wrapper, 
+ li.eg-profesores-proyectos-wrapper, 
+ li.eg-profesores-medios-wrapper 
+{
+background-color: transparent !important;
+}
+
+.x-header-landmark {
+    margin: 64px auto 0;
+    text-align: center;
+}
+
+#opciones{
+margin-top: -45px !important;
+}
+
+
+</style><style id="cornerstone-custom-page-css" type="text/css"></style></head>
+
+<body class="page page-id-166 page-template page-template-template-blank-4 page-template-template-blank-4-php x-integrity x-integrity-light x-navbar-fixed-top-active x-full-width-layout-active x-content-sidebar-active x-post-meta-disabled x-v4_6_2 x-child-theme-active cornerstone-v1_3_1">
+
+  
+  <div id="top" class="site">
+
+  
+  
+  <header class="masthead masthead-inline" role="banner">
+    
+    
+
+  <div class="x-navbar-wrap">
+    <div class="x-navbar">
+      <div class="x-navbar-inner">
+        <div class="x-container max width">
+          
+<h1 class="visually-hidden">Departamento de Arte</h1>
+<a href="https://arte.uniandes.edu.co/" class="x-brand img" title="Departamento de Arte">
+  <img src="//arte.uniandes.edu.co/wp-content/uploads/2017/07/arte-historiadelarte.png" alt="Departamento de Arte"></a>           
+<a href="#" class="x-btn-navbar collapsed" data-toggle="collapse" data-target=".x-nav-wrap.mobile">
+  <i class="x-icon-bars" data-x-icon="&#xf0c9;"></i>
+  <span class="visually-hidden">Navigation</span>
+</a>
+
+<nav class="x-nav-wrap desktop" role="navigation">
+  <ul id="menu-principal" class="x-nav"><li id="menu-item-132" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-132"><a><span>¿quiénes somos?</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://arte.uniandes.edu.co/equipo/"><span>Equipo</span></a></li>
+</ul>
+</li>
+<li id="menu-item-133" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-133"><a><span>¿qué hacemos?</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-594"><a href="https://arte.uniandes.edu.co/proyectos-de-grado/"><span>Proyectos de Grado</span></a></li>
+	<li id="menu-item-188" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-188"><a><span>Exposiciones</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-189" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189"><a target="_blank" href="http://saladeproyectos.uniandes.edu.co/"><span>Sala de Proyectos</span></a></li>
+		<li id="menu-item-190" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a target="_blank" href="https://intervenirlahistoria.uniandes.edu.co/"><span>Intervenir la Historia</span></a></li>
+		<li id="menu-item-619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="https://arte.uniandes.edu.co/santo-domingo/"><span>Sala de Exposiciones Santo Domingo</span></a></li>
+		<li id="menu-item-661" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-661"><a href="https://arte.uniandes.edu.co/coproducciones/"><span>Coproducciones</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-134" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-134"><a><span>programas</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-148" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-148"><a href="http://arte.uniandes.edu.co"><span>Pregrado</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://arte.uniandes.edu.co/pensum/"><span>Pensum</span></a></li>
+		<li id="menu-item-165" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://arte.uniandes.edu.co/arte/"><span>Arte</span></a></li>
+		<li id="menu-item-171" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-166 current_page_item menu-item-171"><a href="https://arte.uniandes.edu.co/historia-del-arte/"><span>Historia del Arte</span></a></li>
+	</ul>
+</li>
+	<li id="menu-item-172" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-172"><a target="_blank" href="https://posgradosfacartes.uniandes.edu.co/"><span>Escuela de Posgrados</span></a>
+	<ul class="sub-menu">
+		<li id="menu-item-5261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5261"><a href="https://posgradosfacartes.uniandes.edu.co/mapet"><span>Maestría en Artes Plásticas, Electrónicas y del Tiempo</span></a></li>
+		<li id="menu-item-173" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173"><a target="_blank" href="https://posgradosfacartes.uniandes.edu.co/historiadelarte/"><span>Maestría en Historia del Arte</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li id="menu-item-146" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://arte.uniandes.edu.co/espacios/"><span>Espacios</span></a></li>
+<li id="menu-item-147" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-147"><a><span>Agenda</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-214" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://arte.uniandes.edu.co/eventos/"><span>Eventos</span></a></li>
+	<li id="menu-item-213" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="https://arte.uniandes.edu.co/noticias/"><span>Noticias</span></a></li>
+</ul>
+</li>
+<li id="menu-item-175" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-175"><a><span>Cursos</span></a>
+<ul class="sub-menu">
+	<li id="menu-item-182" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://arte.uniandes.edu.co/cbu/"><span>CBU</span></a></li>
+	<li id="menu-item-4644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4644"><a href="https://arte.uniandes.edu.co/noticias/opciones2017/"><span>Opciones</span></a></li>
+</ul>
+</li>
+<li id="menu-item-183" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183"><a href="https://facartes.uniandes.edu.co/"><span>Facultad</span></a></li>
+</ul></nav>
+
+<div class="x-nav-wrap mobile collapse">
+  <ul id="menu-principal-1" class="x-nav"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-132"><a><span>¿quiénes somos?</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-187"><a href="https://arte.uniandes.edu.co/equipo/"><span>Equipo</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-133"><a><span>¿qué hacemos?</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-594"><a href="https://arte.uniandes.edu.co/proyectos-de-grado/"><span>Proyectos de Grado</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-188"><a><span>Exposiciones</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-189"><a target="_blank" href="http://saladeproyectos.uniandes.edu.co/"><span>Sala de Proyectos</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-190"><a target="_blank" href="https://intervenirlahistoria.uniandes.edu.co/"><span>Intervenir la Historia</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-619"><a href="https://arte.uniandes.edu.co/santo-domingo/"><span>Sala de Exposiciones Santo Domingo</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-661"><a href="https://arte.uniandes.edu.co/coproducciones/"><span>Coproducciones</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-134"><a><span>programas</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children menu-item-148"><a href="http://arte.uniandes.edu.co"><span>Pregrado</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-157"><a href="https://arte.uniandes.edu.co/pensum/"><span>Pensum</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-165"><a href="https://arte.uniandes.edu.co/arte/"><span>Arte</span></a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-166 current_page_item menu-item-171"><a href="https://arte.uniandes.edu.co/historia-del-arte/"><span>Historia del Arte</span></a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-172"><a target="_blank" href="https://posgradosfacartes.uniandes.edu.co/"><span>Escuela de Posgrados</span></a>
+	<ul class="sub-menu">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5261"><a href="https://posgradosfacartes.uniandes.edu.co/mapet"><span>Maestría en Artes Plásticas, Electrónicas y del Tiempo</span></a></li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-173"><a target="_blank" href="https://posgradosfacartes.uniandes.edu.co/historiadelarte/"><span>Maestría en Historia del Arte</span></a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-146"><a href="https://arte.uniandes.edu.co/espacios/"><span>Espacios</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-147"><a><span>Agenda</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-214"><a href="https://arte.uniandes.edu.co/eventos/"><span>Eventos</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-213"><a href="https://arte.uniandes.edu.co/noticias/"><span>Noticias</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-175"><a><span>Cursos</span></a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://arte.uniandes.edu.co/cbu/"><span>CBU</span></a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4644"><a href="https://arte.uniandes.edu.co/noticias/opciones2017/"><span>Opciones</span></a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-183"><a href="https://facartes.uniandes.edu.co/"><span>Facultad</span></a></li>
+</ul></div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+    
+  
+    <div class="x-breadcrumb-wrap">
+      <div class="x-container max width">
+
+        <div class="x-breadcrumbs"><a href="https://arte.uniandes.edu.co"><span class="home"><i class="x-icon-home" data-x-icon="&#xf015;"></i></span></a> <span class="delimiter"><i class="x-icon-angle-right" data-x-icon="&#xf105;"></i></span> <span class="current">Historia del Arte</span></div>
+        
+      </div>
+    </div>
+
+    </header>
+
+    
+
+  <div class="x-main full" role="main">
+
+    
+      <article id="post-166" class="post-166 page type-page status-publish hentry no-post-thumbnail">
+        
+
+<div class="entry-content content">
+
+
+  <div id="cs-content" class="cs-content"><div id="x-section-1"  class="x-section"  style="margin: 0px;padding: 45px 0px; background-color: transparent;"   ><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm x-1-1" style="padding: 0px;" ><h2  class="h-custom-headline cs-ta-center h2" ><span>Historia del Arte</span></h2></div></div></div><div id="x-section-2"  class="x-section"  style="margin: 0px;padding: 45px 0px; background-color: transparent;"   ><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><div  class="x-text textoexpo"    ><p>El programa de Historia del Arte de la Universidad de los Andes es el primero en el país, y se ofrece desde el Departamento de Arte de la Facultad de Artes y Humanidades, donde ya existe una base consolidada con experiencia y trayectoria. </p>
+<p>Desde 1997, con la creación de un Área de Historia del Arte, ha existido una concentración en historia del arte y una trayectoria de investigación con un énfasis interdisciplinario. Cuenta con un grupo de profesores con formación doctoral en diferentes áreas de la historia del arte y con diversos enfoques, lo cual le asegura al estudiante una gama amplia de posibilidades. El programa se ha destacado por sus investigaciones y curadurías sobre Colombia y América Latina a partir de fuentes primarias. Al mismo tiempo, sus profesores se han caracterizado por un enfoque comparatista en temas como la construcción de identidad en América Latina, la transculturación, y el surrealismo en el Caribe.</p>
+</div></div><div  class="x-column x-sm x-2-3" style="padding: 0px;" ><img  class="x-img x-img-none"  src="http://107.180.68.1/~arte/wp-content/uploads/2016/09/HA1.jpg" ></div></div></div><div id="x-section-3"  class="x-section"  style="margin: 0px;padding: 45px 0px; background-color: transparent;"   ><div  class="x-container max width"  style="margin: 0px auto;padding: 0px;"   ><div  class="x-column x-sm x-2-3" style="padding: 0px;" ><img  class="x-img x-img-none"  src="http://107.180.68.1/~arte/wp-content/uploads/2016/09/HA3.jpg" ></div><div  class="x-column x-sm x-1-3" style="padding: 0px;" ><div  class="x-text textoexpo"    ><p>El Programa de Historia del arte ofrece las bases informativas y las herramientas de análisis necesarias para una formación en historia del arte a nivel de pregrado. Formulado desde un Departamento de Arte, este pregrado cultiva una relación activa con el quehacer artístico y con prácticas como la curaduría y la crítica, así como una visión interdisciplinaria que se nutre de otras disciplinas afines en humanidades y ciencias sociales.<br />
+Hacer historia del arte desde un departamento de arte conduce a maneras creativas de problematizar, visualizar y pensar la historia del arte. Todos los estudiantes comparten el ciclo básico de las cuatro áreas, de manera que un estudiante que escoja hacer el pregrado en historia del arte tendrá que tomar como mínimo 9 cursos en arte. Además de enfatizar la necesidad de acercarse a los procesos creativos y a las técnicas, esta particularidad le da un perfil singular a un estudiante de historia del arte, puesto que este grado de interactividad no es común en la preparación de los historiadores del arte.</p>
+</div></div></div></div></div>
+  
+
+</div>
+
+      </article>
+
+    
+  </div>
+
+
+
+  
+  
+    <div class="x-widgetbar collapse">
+      <div class="x-widgetbar-inner">
+        <div class="x-container max width">
+
+          <div class="x-column x-md x-1-4"><div id="text-2" class="widget widget_text"><h4 class="h-widget">Contacto</h4>			<div class="textwidget"><div role="form" class="wpcf7" id="wpcf7-f4366-o1" lang="es-ES" dir="ltr">
+<div class="screen-reader-response"></div>
+<form action="/historia-del-arte/#wpcf7-f4366-o1" method="post" class="wpcf7-form" novalidate="novalidate">
+<div style="display: none;">
+<input type="hidden" name="_wpcf7" value="4366" />
+<input type="hidden" name="_wpcf7_version" value="4.5.1" />
+<input type="hidden" name="_wpcf7_locale" value="es_ES" />
+<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f4366-o1" />
+<input type="hidden" name="_wpnonce" value="7c10043c47" />
+</div>
+<p><label> Nombre (*)<br />
+    <span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Correo electrónico (*)<br />
+    <span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" /></span> </label></p>
+<p><label> Asunto<br />
+    <span class="wpcf7-form-control-wrap your-subject"><input type="text" name="your-subject" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" /></span> </label></p>
+<p><label> Mensaje<br />
+    <span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false"></textarea></span> </label></p>
+<p><input type="submit" value="Enviar" class="wpcf7-form-control wpcf7-submit" /></p>
+<div class="wpcf7-response-output wpcf7-display-none"></div></form></div></div>
+		</div></div><div class="x-column x-md x-1-4"><div id="text-4" class="widget widget_text"><h4 class="h-widget">Lugar</h4>			<div class="textwidget">dirección: Cra 1 Nº 18A- 12 Bogotá, (Colombia) <br>
+Código postal: 111711
+teléfono: 3 39 49 49 ext. 2626</div>
+		</div><div id="text-3" class="widget widget_text">			<div class="textwidget"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1988.4797042912082!2d-74.06473685303419!3d4.6012929995031!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNMKwMzYnMDQuNyJOIDc0wrAwMyc1MC4wIlc!5e0!3m2!1sen!2sco!4v1459288058043" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe></div>
+		</div></div><div class="x-column x-md x-1-4"></div><div class="x-column x-md x-1-4 last"></div>
+        </div>
+      </div>
+    </div>
+
+    <a href="#" class="x-btn-widgetbar collapsed" data-toggle="collapse" data-target=".x-widgetbar">
+      <i class="x-icon-plus-circle" data-x-icon="&#xf055;"><span class="visually-hidden">Toggle the Widgetbar</span></i>
+    </a>
+
+    
+  
+
+  <footer class="x-colophon top" role="contentinfo">
+    <div class="x-container max width">
+
+      <div class="x-column x-md x-1-3"></div><div class="x-column x-md x-1-3"></div><div class="x-column x-md x-1-3 last"></div>
+    </div>
+  </footer>
+
+
+  
+    <footer class="x-colophon bottom" role="contentinfo">
+      <div class="x-container max width">
+
+                  
+<ul id="menu-footer" class="x-nav"><li id="menu-item-194" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-194"><a target="_blank" href="https://facartes.uniandes.edu.co/">Facultad de Artes y Humanidades</a></li>
+<li id="menu-item-195" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-195"><a target="_blank" href="https://registro.uniandes.edu.co/">Admisiones y Registro</a></li>
+<li id="menu-item-196" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-196"><a target="_blank" href="https://eventos.uniandes.edu.co/">Agenda</a></li>
+<li id="menu-item-197" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-197"><a target="_blank" href="https://apoyofinanciero.uniandes.edu.co/index.php/es/">Apoyo Financiero</a></li>
+<li id="menu-item-198" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-198"><a target="_blank" href="https://biblioteca.uniandes.edu.co/index.php?lang=es">Biblioteca</a></li>
+<li id="menu-item-199" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-199"><a target="_blank" href="http://correo.uniandes.edu.co/">Correo</a></li>
+<li id="menu-item-201" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-201"><a target="_blank" href="https://secretariageneral.uniandes.edu.co/index.php/es/">Normas</a></li>
+<li id="menu-item-200" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-200"><a target="_blank" href="https://uniandes.edu.co/egresado">Egresados</a></li>
+<li id="menu-item-202" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-202"><a target="_blank" href="https://planeacion.uniandes.edu.co/">Planeación</a></li>
+<li id="menu-item-203" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-203"><a target="_blank" href="https://sicuaplus.uniandes.edu.co/webapps/login/">Sicua</a></li>
+</ul>        
+                  <div class="x-social-global"><a href="https://www.facebook.com/arteuniandes/" class="facebook" title="Facebook" target="_blank"><i class="x-icon-facebook-square" data-x-icon="&#xf082;" aria-hidden="true"></i></a><a href="https://twitter.com/arteuandes" class="twitter" title="Twitter" target="_blank"><i class="x-icon-twitter-square" data-x-icon="&#xf081;" aria-hidden="true"></i></a><a href="https://vimeo.com/user10092231" class="vimeo" title="Vimeo" target="_blank"><i class="x-icon-vimeo-square" data-x-icon="&#xf194;" aria-hidden="true"></i></a><a href="https://www.instagram.com/arteuniversidadandes/" class="instagram" title="Instagram" target="_blank"><i class="x-icon-instagram" data-x-icon="&#xf16d;" aria-hidden="true"></i></a></div>        
+                  <div class="x-colophon-content">
+            Universidad de los Andes – Vigilada MinEducación – Reconocimiento como
+Universidad, Decreto 1297 del 30 de mayo de 1964 – Reconocimiento personería
+jurídica Resolución 28 del 23 de febrero de 1949 MinJusticia – Pregrado en Arte –
+Resolución de aprobación 178 del 15 de enero de 2013 – Vigencia 7 años – SNIES
+1527 – Duración del programa: 8 semestres – presencial – Bogotá – Información de
+otros programas puede consultarse en  <a href="https://facartes.uniandes.edu.co/" target="_blank">facartes.uniandes.edu.co </a>          </div>
+        
+      </div>
+    </footer>
+
+  
+
+  
+  </div> <!-- END #top.site -->
+
+  
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"https:\/\/arte.uniandes.edu.co\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptcha":{"messages":{"empty":"Por favor, prueba que no eres un robot."}},"sending":"Enviando..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.5.1'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/responsive-accordion-and-collapse/js/bootstrap.js?ver=4.6.1'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/responsive-accordion-and-collapse/js/accordion.js?ver=4.6.1'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/themes/x/framework/js/dist/site/x-body.min.js?ver=4.6.2'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-content/plugins/cornerstone/assets/dist/js/site/cs-body.min.js?ver=1.3.1'></script>
+<script type='text/javascript' src='https://arte.uniandes.edu.co/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+<script> jQuery(function($){ $(".widget_meta a[href='https://arte.uniandes.edu.co/comments/feed/']").parent().remove(); }); </script>
+  
+  
+</body>
+</html>

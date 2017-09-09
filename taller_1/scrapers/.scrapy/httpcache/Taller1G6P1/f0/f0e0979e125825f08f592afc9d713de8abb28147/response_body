@@ -1,0 +1,925 @@
+<!DOCTYPE html>
+<html prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" >	
+	<head>
+      	<meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+      	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1,minimum-scale=1">
+		<link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
+		<!--[if lt IE 9]>
+		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<script type="text/javascript" src="/js/respond.min.js"></script>
+		<![endif]-->
+		  <base href="https://economia.uniandes.edu.co/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Inicio - Economía Uniandes</title>
+  <link href="https://economia.uniandes.edu.co/" rel="canonical" />
+  <link href="/templates/keyconomia/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/editors/jckeditor/typography/typography2.php" type="text/css" />
+  <link rel="stylesheet" href="/components/com_k2/css/k2.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_phocadownload/css/main/phocadownload.css" type="text/css" />
+  <link rel="stylesheet" href="/media/plg_content_phocadownload/css/phocadownload.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?c26815d4695274741371f6b75cf5dbf4" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?106cb02e8af7c2a8212ae7d94ba41632" type="text/css" />
+  <link rel="stylesheet" href="/media/jui/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/comun.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/keyconomia/css/keytemplate.css" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_vt_nivo_slider/css/nivo-slider.min.css" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_vt_nivo_slider/themes/default/default.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/themes/css3megamenu/css/maximenuck.php?monid=maximenuck425" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/templatelayers/beez3-position1.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_maximenuck/assets/maximenuresponsiveck.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_finder/css/finder.css" type="text/css" />
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/components/com_k2/js/k2.js?v2.6.7&amp;sitepath=/" type="text/javascript"></script>
+  <script src="/media/system/js/tabs-state.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/plugins/system/jcemediabox/js/jcemediabox.js?f164ea24e8567d41a795089153b69cd9" type="text/javascript"></script>
+  <script src="/media/mod_vt_nivo_slider/js/jquery.nivo.slider.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery.ui.core.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_maximenuck/assets/maximenuck.js" type="text/javascript"></script>
+  <script src="/modules/mod_maximenuck/assets/fancymenuck.js" type="text/javascript"></script>
+  <script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script>
+  <script type="text/javascript">
+jQuery(window).on('load',  function() {
+				new JCaption('img.caption');
+			});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'},cookie_expiry:"",google_viewer:0,pdfjs:0},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});jQuery(document).ready(function()
+				{
+					jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+				});jQuery(document).ready(function(jQuery){jQuery('#maximenuck425').DropdownMaxiMenu({fxtransition : 'linear',dureeIn : 0,dureeOut : 500,menuID : 'maximenuck425',testoverflow : '0',orientation : 'horizontal',behavior : 'mouseover',opentype : 'open',fxdirection : 'normal',directionoffset1 : '30',directionoffset2 : '30',showactivesubitems : '0',ismobile : 0,menuposition : '0',effecttype : 'dropdown',fxduration : 500});});jQuery(document).ready(function($){
+            $('#maximenuck425').FancyMaxiMenu({fancyTransition : 'linear',fancyDuree : 500});});
+  </script>
+  <link rel="stylesheet" href="/plugins/system/videobox/css/videobox.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/libraries/videobox/css/videobox.css" type="text/css" media="screen" />
+  <link rel="stylesheet" href="/libraries/videobox/css/functions.css" type="text/css" media="screen" />
+
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<script src="/templates/respond.src.js"></script>
+		<script>
+          	function getParameterByName(name) {
+                name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
+                var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
+                    results = regex.exec(location.search);
+                return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
+            }
+			$( document ).ready(function() {
+				$("#botnavprin").click(function() {					
+					$("#nav_principal").toggle("blind");
+				});
+              	if(getParameterByName('q') != "")
+                {
+                  	$(".contenidoHome").hide();
+                }
+			});	
+		</script>
+		<script src="/templates/respond.src.js"></script>		
+		<script>
+  			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+				(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+				m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+			ga('create', 'UA-6468895-1', 'web.es');
+			ga('send', 'pageview');
+		</script>      	      	
+	</head>
+	<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5CMR3P"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5CMR3P');</script>
+<!-- End Google Tag Manager -->
+		<div id="menu_top">
+			<div id="container_menu_top">
+				<div class="contenedor_login">
+	<a href="/contactenos/login-pagina">Iniciar sesión</a>
+</div>
+			</div>
+		</div>
+		<!--[if lt IE 9]>
+		<script type="text/javascript" src="/js/respond.min.js"></script>
+		<![endif]-->		
+		<div class='container'>			
+			<div class="row">
+				<div id="header" class='row'>
+					<div class="col-md-3 text-center container_logo_andes">
+						
+
+<div class="custom"  >
+	<p><a class="iblock" href="http://www.uniandes.edu.co"> <img class="img-responsive" src="/templates/keyconomia/images/Logo_Uniandes.png" alt="" /> </a></p></div>
+
+					</div>
+					<div class="col-xs-12 col-md-5 col-md-offset-4 text-center container_logo_facultad">
+						
+
+<div class="custom"  >
+	<p><a class="iblock" href="/?id=71"> <img class="img-responsive" src="/images/LogoFirmaEconomia.png" alt="LogoFirmaEconomia" height="33" width="394" /> </a></p></div>
+
+					</div>
+				</div>
+				<div class="contenedorBuscadorMenu row">
+					<div id="zona_buscador" class="col-xs-12 text-right">
+						
+<script type="text/javascript">
+//<![CDATA[
+	jQuery(function($)
+	{
+		var value, $searchword = $('#mod-finder-searchword');
+
+		// Set the input value if not already set.
+		if (!$searchword.val())
+		{
+			$searchword.val('Buscar...');
+		}
+
+		// Get the current value.
+		value = $searchword.val();
+
+		// If the current value equals the default value, clear it.
+		$searchword.on('focus', function()
+		{	var $el = $(this);
+			if ($el.val() === 'Buscar...')
+			{
+				$el.val('');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		$searchword.on('blur', function()
+		{	var $el = $(this);
+			if (!$el.val())
+			{
+				$el.val(value);
+			}
+		});
+
+		$('#mod-finder-searchform').on('submit', function(e){
+			e.stopPropagation();
+			var $advanced = $('#mod-finder-advanced');
+			// Disable select boxes with no value selected.
+			if ( $advanced.length)
+			{
+				 $advanced.find('select').each(function(index, el) {
+					var $el = $(el);
+					if(!$el.val()){
+						$el.attr('disabled', 'disabled');
+					}
+				});
+			}
+		});
+
+		/*
+		 * This segment of code sets up the autocompleter.
+		 */
+								var url = '/index.php?option=com_finder&task=suggestions.display&format=json&tmpl=component';
+			var ModCompleter = new Autocompleter.Request.JSON(document.getElementById('mod-finder-searchword'), url, {'postVar': 'q'});
+			});
+//]]>
+</script>
+
+<form id="mod-finder-searchform" action="/component/finder/search" method="get" class="form-search">
+	<div class="finder">
+		<label for="mod-finder-searchword" class="finder">Buscar</label><input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="20" value="" /><button class="btn btn-primary hasTooltip  finder" type="submit" title="Ir"><i class="icon-search icon-white"></i></button>
+						<input type="hidden" name="Itemid" value="468" />	</div>
+</form>
+
+					</div>
+					<div id="botnavprin">
+						
+
+<div class="custom"  >
+	<p>Menú de navegación</p></div>
+
+						<div>
+							<img src="/./templates/comunImages/desplegarMenu.png">
+						</div>
+					</div>
+					<div id="nav_principal" class="navbar navbar-default col-xs-12 text-center">
+						
+			<!--[if lte IE 7]>
+			<link href="/modules/mod_maximenuck/themes/css3megamenu/css/ie7.css" rel="stylesheet" type="text/css" />
+			<![endif]--><!-- debut Maximenu CK, par cedric keiflin -->
+
+	<div class="maximenuckh ltr" id="maximenuck425" style="z-index:10;">
+        <div class="maxiroundedleft"></div>
+        <div class="maxiroundedcenter">
+            <ul class=" maximenuck">
+								<div class='contenedor_enlace'><a class="maximenuck " href="/"><span class="titreck">Inicio</span></a><li data-level="1" class="maximenuck item468 current active first level1 " style="z-index : 12000;"><a class="maximenuck flecha_menu" href="/"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad"><span class="titreck">Facultad</span></a><li data-level="1" class="maximenuck item469 parent level1 " style="z-index : 11999;"><a class="maximenuck flecha_menu" href="/facultad"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/descripcion-economia"><span class="titreck">Descripción</span></a><li data-level="2" class="maximenuck item1525 first level2 " style="z-index : 11998;"><a class="maximenuck flecha_menu" href="/facultad/descripcion-economia"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/decanos-anteriores"><span class="titreck">Decanos anteriores</span></a><li data-level="2" class="maximenuck item1786 level2 " style="z-index : 11997;"><a class="maximenuck flecha_menu" href="/facultad/decanos-anteriores"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/equipo-de-trabajo-facultad/latest"><span class="titreck">Equipo de trabajo</span></a><li data-level="2" class="maximenuck item542 level2 " style="z-index : 11996;"><a class="maximenuck flecha_menu" href="/facultad/equipo-de-trabajo-facultad/latest"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/noticias-economia/cat.listevents/2017/09/08/-"><span class="titreck">Noticias</span></a><li data-level="2" class="maximenuck item537 level2 " style="z-index : 11995;"><a class="maximenuck flecha_menu" href="/facultad/noticias-economia/cat.listevents/2017/09/08/-"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/destacados/cat.listevents/2017/09/08/-"><span class="titreck">Destacados</span></a><li data-level="2" class="maximenuck item1665 level2 " style="z-index : 11994;"><a class="maximenuck flecha_menu" href="/facultad/destacados/cat.listevents/2017/09/08/-"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/eventos-economia/cat.listevents/2017/09/08/-"><span class="titreck">Eventos</span></a><li data-level="2" class="maximenuck item536 parent level2 " style="z-index : 11993;"><a class="maximenuck flecha_menu" href="/facultad/eventos-economia/cat.listevents/2017/09/08/-"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/eventos-economia/realizados-por-la-facultad-cede-eventos/cat.listevents/2017/09/08/-"><span class="titreck">Realizados por la Facultad - CEDE</span></a><li data-level="3" class="maximenuck item1647 first level3 " style="z-index : 11992;"><a class="maximenuck flecha_menu" href="/facultad/eventos-economia/realizados-por-la-facultad-cede-eventos/cat.listevents/2017/09/08/-"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/eventos-economia/notas-de-politica/cat.listevents/2017/09/08/-"><span class="titreck">Tertulias Notas de Política</span></a><li data-level="3" class="maximenuck item1648 level3 " style="z-index : 11991;"><a class="maximenuck flecha_menu" href="/facultad/eventos-economia/notas-de-politica/cat.listevents/2017/09/08/-"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/eventos-economia/encuesta-longitudinal/cat.listevents/2017/09/08/-"><span class="titreck">ELCA</span></a><li data-level="3" class="maximenuck item1661 level3 " style="z-index : 11990;"><a class="maximenuck flecha_menu" href="/facultad/eventos-economia/encuesta-longitudinal/cat.listevents/2017/09/08/-"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/eventos-economia/cesed/cat.listevents/2017/09/08/-"><span class="titreck">CESED</span></a><li data-level="3" class="maximenuck item1663 last level3 " style="z-index : 11989;"><a class="maximenuck flecha_menu" href="/facultad/eventos-economia/cesed/cat.listevents/2017/09/08/-"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo"><span class="titreck">Plan de Desarrollo de la Facultad</span></a><li data-level="2" class="maximenuck item543 parent level2 " style="z-index : 11988;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo/garantizar-la-calidad-de-los-programas-academicos"><span class="titreck">Garantizar la calidad de los programas académicos</span></a><li data-level="3" class="maximenuck item541 first level3 " style="z-index : 11987;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo/garantizar-la-calidad-de-los-programas-academicos"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo/contar-con-un-cuerpo-profesoral-de-calidad-y-solido"><span class="titreck">Contar con un cuerpo profesoral de calidad y sólido </span></a><li data-level="3" class="maximenuck item1526 level3 " style="z-index : 11986;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo/contar-con-un-cuerpo-profesoral-de-calidad-y-solido"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo/atraer-y-mantener-estudiantes-de-calidad"><span class="titreck">Atraer y mantener estudiantes de calidad</span></a><li data-level="3" class="maximenuck item1527 level3 " style="z-index : 11985;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo/atraer-y-mantener-estudiantes-de-calidad"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo/realizar-investigacion-de-primer-nivel"><span class="titreck">Realizar investigación de primer nivel</span></a><li data-level="3" class="maximenuck item1528 level3 " style="z-index : 11984;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo/realizar-investigacion-de-primer-nivel"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo/optimizar-los-procesos-y-logar-la-efectividad-administrativa"><span class="titreck">Optimizar los procesos y logar la efectividad administrativa</span></a><li data-level="3" class="maximenuck item1529 level3 " style="z-index : 11983;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo/optimizar-los-procesos-y-logar-la-efectividad-administrativa"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo/lograr-la-sostenibilidad-financiera"><span class="titreck">Lograr la sostenibilidad financiera</span></a><li data-level="3" class="maximenuck item1530 level3 " style="z-index : 11982;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo/lograr-la-sostenibilidad-financiera"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo/fortalecer-lazos-con-los-egresados"><span class="titreck">Fortalecer lazos con los egresados</span></a><li data-level="3" class="maximenuck item1531 level3 " style="z-index : 11981;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo/fortalecer-lazos-con-los-egresados"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/plan-de-desarrollo/contribuir-con-conocimiento-y-recomendaciones-concretas-a-la-sociedad-colombiana-y-al-entorno"><span class="titreck">Contribuir con conocimiento y recomendaciones concretas a la sociedad colombiana y al entorno</span></a><li data-level="3" class="maximenuck item1532 last level3 " style="z-index : 11980;"><a class="maximenuck flecha_menu" href="/facultad/plan-de-desarrollo/contribuir-con-conocimiento-y-recomendaciones-concretas-a-la-sociedad-colombiana-y-al-entorno"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/biblioteca-satelite"><span class="titreck">Biblioteca Satélite de Economía</span></a><li data-level="2" class="maximenuck item560 level2 " style="z-index : 11979;"><a class="maximenuck flecha_menu" href="/facultad/biblioteca-satelite"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites"><span class="titreck">Consejo de Facultad y comités</span></a><li data-level="2" class="maximenuck item545 parent level2 " style="z-index : 11978;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites/actas-consejo"><span class="titreck">Actas consejo de la Facultad</span></a><li data-level="3" class="maximenuck item552 first level3 " style="z-index : 11977;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites/actas-consejo"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites/actas-comite-de-docencia"><span class="titreck">Actas comité de docencia</span></a><li data-level="3" class="maximenuck item2854 first level3 " style="z-index : 11976;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites/actas-comite-de-docencia"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites/actas-comite-de-doctorado"><span class="titreck">Actas comité de doctorado</span></a><li data-level="3" class="maximenuck item556 first level3 " style="z-index : 11975;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites/actas-comite-de-doctorado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites/actas-comite-de-ordenamiento"><span class="titreck">Actas comité de ordenamiento</span></a><li data-level="3" class="maximenuck item553 first level3 " style="z-index : 11974;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites/actas-comite-de-ordenamiento"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites/actas-comite-de-publicaciones-y-biblioteca-de-la-facultad"><span class="titreck">Actas comité de publicaciones y biblioteca de la Facultad</span></a><li data-level="3" class="maximenuck item554 first level3 " style="z-index : 11973;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites/actas-comite-de-publicaciones-y-biblioteca-de-la-facultad"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites/actas-comite-de-etica"><span class="titreck">Actas comité de ética</span></a><li data-level="3" class="maximenuck item2830 first level3 " style="z-index : 11972;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites/actas-comite-de-etica"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites/actas-comite-administrativo-cede"><span class="titreck">Actas comité administrativo CEDE</span></a><li data-level="3" class="maximenuck item557 first last level3 " style="z-index : 11971;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites/actas-comite-administrativo-cede"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad"><span class="titreck">Reglamentos</span></a><li data-level="2" class="maximenuck item546 parent level2 " style="z-index : 11970;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/reglamento-de-estudiantes-de-pregrado-maestria-y-doctorado"><span class="titreck">Reglamento de estudiantes de pregrado, maestría y doctorado</span></a><li data-level="3" class="maximenuck item1994 first level3 " style="z-index : 11969;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/reglamento-de-estudiantes-de-pregrado-maestria-y-doctorado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/reglamento-de-seminario-y-tesis-de-grado-de-las-maestrias-peg-y-pemar"><span class="titreck">Reglamento de seminario y tesis de grado de las maestrías PEG y PEMAR</span></a><li data-level="3" class="maximenuck item1997 level3 " style="z-index : 11968;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/reglamento-de-seminario-y-tesis-de-grado-de-las-maestrias-peg-y-pemar"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/reglamento-de-intercambios-estudiantiles-de-maestria"><span class="titreck">Reglamento de intercambios estudiantiles de maestría</span></a><li data-level="3" class="maximenuck item1998 level3 " style="z-index : 11967;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/reglamento-de-intercambios-estudiantiles-de-maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/reglamento-para-asistentes-graduados"><span class="titreck">Reglamento para asistentes graduados</span></a><li data-level="3" class="maximenuck item2000 level3 " style="z-index : 11966;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/reglamento-para-asistentes-graduados"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/reglamento-del-ordenamiento-profesoral-de-la-facultad-de-economia"><span class="titreck">Reglamento del ordenamiento profesoral de la Facultad de Economía</span></a><li data-level="3" class="maximenuck item2001 level3 " style="z-index : 11965;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/reglamento-del-ordenamiento-profesoral-de-la-facultad-de-economia"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/reglamento-para-los-procesos-del-estatuto-profesoral-facultad-de-economia"><span class="titreck">Reglamento para los procesos del estatuto profesoral Facultad de Economía</span></a><li data-level="3" class="maximenuck item2002 level3 " style="z-index : 11964;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/reglamento-para-los-procesos-del-estatuto-profesoral-facultad-de-economia"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/reglamento-de-incentivos-a-la-publicacion-y-apoyos-a-la-investigacion"><span class="titreck">Reglamento de incentivos a la publicación y apoyos a la investigación</span></a><li data-level="3" class="maximenuck item2003 level3 " style="z-index : 11963;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/reglamento-de-incentivos-a-la-publicacion-y-apoyos-a-la-investigacion"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/reglamento-uso-espacios-fisicos"><span class="titreck">Reglamento de uso de los espacios físicos</span></a><li data-level="3" class="maximenuck item2756 level3 " style="z-index : 11962;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/reglamento-uso-espacios-fisicos"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/reglamentos-facultad/lineamiento-investigador-posdoctoral"><span class="titreck">Lineamiento investigador posdoctoral</span></a><li data-level="3" class="maximenuck item2597 last level3 " style="z-index : 11961;"><a class="maximenuck flecha_menu" href="/facultad/reglamentos-facultad/lineamiento-investigador-posdoctoral"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/galeria-fotos"><span class="titreck">Galería fotos</span></a><li data-level="2" class="maximenuck item548 level2 " style="z-index : 11960;"><a class="maximenuck flecha_menu" href="/facultad/galeria-fotos"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/galeria-videos"><span class="titreck">Galería videos</span></a><li data-level="2" class="maximenuck item549 level2 " style="z-index : 11959;"><a class="maximenuck flecha_menu" href="/facultad/galeria-videos"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/contactenos-facultad?view=form"><span class="titreck">Contáctenos</span></a><li data-level="2" class="maximenuck item547 parent last level2 " style="z-index : 11958;"><a class="maximenuck flecha_menu" href="/facultad/contactenos-facultad?view=form"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/contactenos-facultad/consultenos-facultad?view=form"><span class="titreck">Consúltenos</span></a><li data-level="3" class="maximenuck item1552 first level3 " style="z-index : 11957;"><a class="maximenuck flecha_menu" href="/facultad/contactenos-facultad/consultenos-facultad?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/contactenos-facultad/directorio"><span class="titreck">Directorio</span></a><li data-level="3" class="maximenuck item1553 level3 " style="z-index : 11956;"><a class="maximenuck flecha_menu" href="/facultad/contactenos-facultad/directorio"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/contactenos-facultad/ubiquenos-en-el-campus"><span class="titreck">Ubíquenos en el campus </span></a><li data-level="3" class="maximenuck item1554 level3 " style="z-index : 11955;"><a class="maximenuck flecha_menu" href="/facultad/contactenos-facultad/ubiquenos-en-el-campus"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/contactenos-facultad/agradecimiento-raquel?view=form"><span class="titreck">Agradecimiento Raquel</span></a><li data-level="3" class="maximenuck item2691 last level3 " style="z-index : 11954;"><a class="maximenuck flecha_menu" href="/facultad/contactenos-facultad/agradecimiento-raquel?view=form"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia"><span class="titreck">Programas</span></a><li data-level="1" class="maximenuck item473 parent level1 " style="z-index : 11953;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia"><span class="titreck">Pregrado de Economía</span></a><li data-level="2" class="maximenuck item571 parent first level2 " style="z-index : 11952;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia"><span class="titreck">Descripción</span></a><li data-level="3" class="maximenuck item1103 first level3 " style="z-index : 11951;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/estructura-y-plan-de-estudios"><span class="titreck">Estructura y plan de estudios</span></a><li data-level="3" class="maximenuck item615 first level3 " style="z-index : 11950;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/estructura-y-plan-de-estudios"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/oportunidades-academicas-pregrado"><span class="titreck">Oportunidades académicas</span></a><li data-level="3" class="maximenuck item616 first level3 " style="z-index : 11949;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/oportunidades-academicas-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/admisiones-y-matricula-pregrado"><span class="titreck">Admisiones y matrícula</span></a><li data-level="3" class="maximenuck item617 first level3 " style="z-index : 11948;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/admisiones-y-matricula-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/consejeria-academica-pregrado"><span class="titreck"> Consejería académica</span></a><li data-level="3" class="maximenuck item618 first level3 " style="z-index : 11947;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/consejeria-academica-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/requisitos-de-grado-pregrado"><span class="titreck">Requisitos de grado</span></a><li data-level="3" class="maximenuck item619 first level3 " style="z-index : 11946;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/requisitos-de-grado-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/reglamento-estudiantes-pregrado"><span class="titreck">Reglamento de estudiantes</span></a><li data-level="3" class="maximenuck item620 first level3 " style="z-index : 11945;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/reglamento-estudiantes-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/premios-pregrado"><span class="titreck">Premios</span></a><li data-level="3" class="maximenuck item621 level3 " style="z-index : 11944;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/premios-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/programas-academicos-de-los-cursos-pregrado"><span class="titreck">Programas académicos de los cursos</span></a><li data-level="3" class="maximenuck item622 first level3 " style="z-index : 11943;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/programas-academicos-de-los-cursos-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/contactenos-pregrado"><span class="titreck">Contáctenos</span></a><li data-level="3" class="maximenuck item623 first level3 " style="z-index : 11942;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/contactenos-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/eventos-economia/cat.listevents/2017/09/08/-"><span class="titreck">Eventos</span></a><li data-level="3" class="maximenuck item2590 first last level3 " style="z-index : 11941;"><a class="maximenuck flecha_menu" href="/facultad/eventos-economia/cat.listevents/2017/09/08/-"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria"><span class="titreck">Maestría en Economía</span></a><li data-level="2" class="maximenuck item572 parent level2 " style="z-index : 11940;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria"><span class="titreck">Descripción</span></a><li data-level="3" class="maximenuck item1128 first level3 " style="z-index : 11939;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/estructura-y-plan-de-estudios-maestria"><span class="titreck">Estructura y plan de estudios</span></a><li data-level="3" class="maximenuck item625 first level3 " style="z-index : 11938;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/estructura-y-plan-de-estudios-maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/oportunidades-academicas-maestria"><span class="titreck"> Oportunidades académicas</span></a><li data-level="3" class="maximenuck item626 first level3 " style="z-index : 11937;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/oportunidades-academicas-maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/admisiones-y-matricula-maestria"><span class="titreck">Admisiones</span></a><li data-level="3" class="maximenuck item627 first level3 " style="z-index : 11936;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/admisiones-y-matricula-maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/fuentes-de-financiacion"><span class="titreck">Fuentes de Financiación</span></a><li data-level="3" class="maximenuck item2823 first level3 " style="z-index : 11935;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/fuentes-de-financiacion"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/consejeria-academica-maestria"><span class="titreck">Consejería académica</span></a><li data-level="3" class="maximenuck item2607 level3 " style="z-index : 11934;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/consejeria-academica-maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/requisitos-de-grado-maestria"><span class="titreck">Requisitos de grado</span></a><li data-level="3" class="maximenuck item628 level3 " style="z-index : 11933;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/requisitos-de-grado-maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/reglamentos-maestria"><span class="titreck">Reglamentos</span></a><li data-level="3" class="maximenuck item629 level3 " style="z-index : 11932;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/reglamentos-maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/seminario-y-tesis-peg"><span class="titreck">Seminario y tesis PEG</span></a><li data-level="3" class="maximenuck item2504 level3 " style="z-index : 11931;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/seminario-y-tesis-peg"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/programas-academicos-de-los-cursos-maestria"><span class="titreck">Programas académicos de los cursos</span></a><li data-level="3" class="maximenuck item630 first level3 " style="z-index : 11930;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/programas-academicos-de-los-cursos-maestria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria/consultenos-maestria"><span class="titreck">Consúltenos</span></a><li data-level="3" class="maximenuck item631 first last level3 " style="z-index : 11929;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria/consultenos-maestria"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca"><span class="titreck">Maestría en economía aplicada </span></a><li data-level="2" class="maximenuck item2613 parent level2 " style="z-index : 11928;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca"><span class="titreck">Descripción</span></a><li data-level="3" class="maximenuck item2614 first level3 " style="z-index : 11927;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca/estructura-y-plan-de-estudios"><span class="titreck">Estructura y plan de estudios </span></a><li data-level="3" class="maximenuck item2624 first level3 " style="z-index : 11926;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca/estructura-y-plan-de-estudios"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca/oportunidades-academicas"><span class="titreck">Oportunidades académicas</span></a><li data-level="3" class="maximenuck item2870 first level3 " style="z-index : 11925;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca/oportunidades-academicas"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca/admisiones"><span class="titreck">Admisiones</span></a><li data-level="3" class="maximenuck item2629 first level3 " style="z-index : 11924;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca/admisiones"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca/propuesta-de-grado"><span class="titreck">Propuesta de grado</span></a><li data-level="3" class="maximenuck item2816 first level3 " style="z-index : 11923;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca/propuesta-de-grado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca/requisitos-de-grado"><span class="titreck">Requisitos de grado</span></a><li data-level="3" class="maximenuck item2633 first level3 " style="z-index : 11922;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca/requisitos-de-grado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca/programas-academicos-meca"><span class="titreck">Programas académicos de los cursos</span></a><li data-level="3" class="maximenuck item2749 level3 " style="z-index : 11921;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca/programas-academicos-meca"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/maestria-meca/consultenos"><span class="titreck">Consúltenos</span></a><li data-level="3" class="maximenuck item2689 first last level3 " style="z-index : 11920;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/maestria-meca/consultenos"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia"><span class="titreck">Doctorado</span></a><li data-level="2" class="maximenuck item573 parent level2 " style="z-index : 11919;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia"><span class="titreck">Descripción</span></a><li data-level="3" class="maximenuck item1321 first level3 " style="z-index : 11918;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/plan-de-estudios-doctorado"><span class="titreck">Plan de estudios</span></a><li data-level="3" class="maximenuck item1313 first level3 " style="z-index : 11917;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/plan-de-estudios-doctorado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/admisiones-y-matricula-doctorado"><span class="titreck">Admisiones</span></a><li data-level="3" class="maximenuck item634 first level3 " style="z-index : 11916;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/admisiones-y-matricula-doctorado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/estudiantes-doctorado"><span class="titreck">Estudiantes</span></a><li data-level="3" class="maximenuck item635 first level3 " style="z-index : 11915;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/estudiantes-doctorado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/pasantias"><span class="titreck">Pasantías</span></a><li data-level="3" class="maximenuck item2721 first level3 " style="z-index : 11914;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/pasantias"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/produccion-cientifica"><span class="titreck">Producción científica</span></a><li data-level="3" class="maximenuck item2722 level3 " style="z-index : 11913;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/produccion-cientifica"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/graduados-doctorado"><span class="titreck">Graduados</span></a><li data-level="3" class="maximenuck item636 level3 " style="z-index : 11912;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/graduados-doctorado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/reglamentos-doctorado"><span class="titreck">Reglamentos</span></a><li data-level="3" class="maximenuck item2407 level3 " style="z-index : 11911;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/reglamentos-doctorado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php?Itemid=474&amp;option=com_profesor&amp;view=profesor"><span class="titreck">Profesores</span></a><li data-level="3" class="maximenuck item637 level3 " style="z-index : 11910;"><a class="maximenuck flecha_menu" href="/index.php?Itemid=474&amp;option=com_profesor&amp;view=profesor"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/programas-academicos-de-los-cursos-doctorado"><span class="titreck">Programas académicos de los cursos</span></a><li data-level="3" class="maximenuck item633 level3 " style="z-index : 11909;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/programas-academicos-de-los-cursos-doctorado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/doctorado-economia/consultenos-doctorado"><span class="titreck">Consúltenos</span></a><li data-level="3" class="maximenuck item638 first last level3 " style="z-index : 11908;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/doctorado-economia/consultenos-doctorado"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/escuela-de-verano"><span class="titreck">Escuela de Verano</span></a><li data-level="2" class="maximenuck item574 parent first level2 " style="z-index : 11907;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/escuela-de-verano"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/escuela-de-verano/descripcion-escuela-verano"><span class="titreck">Descripción</span></a><li data-level="3" class="maximenuck item2409 first level3 " style="z-index : 11906;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/escuela-de-verano/descripcion-escuela-verano"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/escuela-de-verano/cursos-escuela-verano"><span class="titreck">Cursos</span></a><li data-level="3" class="maximenuck item639 level3 " style="z-index : 11905;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/escuela-de-verano/cursos-escuela-verano"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/escuela-de-verano/valor-de-los-cursos-escuela-verano"><span class="titreck">Valor de los cursos</span></a><li data-level="3" class="maximenuck item641 first level3 " style="z-index : 11904;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/escuela-de-verano/valor-de-los-cursos-escuela-verano"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/escuela-de-verano/guia-de-inscripcion-y-calendario-academico-escuela-verano"><span class="titreck">Guía de inscripción y calendario académico</span></a><li data-level="3" class="maximenuck item642 level3 " style="z-index : 11903;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/escuela-de-verano/guia-de-inscripcion-y-calendario-academico-escuela-verano"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/escuela-de-verano/consultenos-escuela-verano"><span class="titreck">Consúltenos</span></a><li data-level="3" class="maximenuck item643 first level3 " style="z-index : 11902;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/escuela-de-verano/consultenos-escuela-verano"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/escuela-de-verano/archivo-historico-escuela-verano"><span class="titreck">Archivo histórico</span></a><li data-level="3" class="maximenuck item644 last level3 " style="z-index : 11901;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/escuela-de-verano/archivo-historico-escuela-verano"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/especializaciones-economia"><span class="titreck">Especializaciones</span></a><li data-level="2" class="maximenuck item575 parent first level2 " style="z-index : 11900;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/especializaciones-economia"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/especializaciones-economia/especializaciones-descripcion"><span class="titreck">Descripción</span></a><li data-level="3" class="maximenuck item1325 first level3 " style="z-index : 11899;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/especializaciones-economia/especializaciones-descripcion"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/especializaciones-economia/especializacion-evaluacion-social-de-proyectos"><span class="titreck">Especialización en evaluación social de proyectos</span></a><li data-level="3" class="maximenuck item646 first level3 " style="z-index : 11898;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/especializaciones-economia/especializacion-evaluacion-social-de-proyectos"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/especializaciones-economia/especializacion-en-economia-para-no-economistas"><span class="titreck">Especialización en economía</span></a><li data-level="3" class="maximenuck item647 first level3 " style="z-index : 11897;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/especializaciones-economia/especializacion-en-economia-para-no-economistas"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/especializaciones-economia/guia-de-ingreso-a-posgrado"><span class="titreck">Guía de ingreso a posgrado</span></a><li data-level="3" class="maximenuck item2411 first last level3 " style="z-index : 11896;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/especializaciones-economia/guia-de-ingreso-a-posgrado"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/cursos-libres-y-educacion-continuada"><span class="titreck">Cursos libres y educación continuada</span></a><li data-level="2" class="maximenuck item576 parent level2 " style="z-index : 11895;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/cursos-libres-y-educacion-continuada"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/cursos-libres-y-educacion-continuada/inscripcion-educacion-continuada?view=form"><span class="titreck">Inscripción educación continuada</span></a><li data-level="3" class="maximenuck item2815 first level3 " style="z-index : 11894;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/cursos-libres-y-educacion-continuada/inscripcion-educacion-continuada?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/cursos-libres-y-educacion-continuada/programa-de-capacitacion-en-evaluacion-de-proyectos"><span class="titreck">Programa de capacitación en evaluación de proyectos</span></a><li data-level="3" class="maximenuck item2891 last level3 " style="z-index : 11893;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/cursos-libres-y-educacion-continuada/programa-de-capacitacion-en-evaluacion-de-proyectos"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php?Itemid=474&amp;option=com_profesor&amp;view=profesor"><span class="titreck">Profesores</span></a><li data-level="1" class="maximenuck item474 parent first level1 " style="z-index : 11892;"><a class="maximenuck flecha_menu" href="/index.php?Itemid=474&amp;option=com_profesor&amp;view=profesor"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/index.php?option=com_profesor&amp;view=profesor&amp;Itemid=578"><span class="titreck">Planta</span></a><li data-level="2" class="maximenuck item578 first level2 " style="z-index : 11891;"><a class="maximenuck flecha_menu" href="/index.php?option=com_profesor&amp;view=profesor&amp;Itemid=578"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/visitantes"><span class="titreck">Visitantes</span></a><li data-level="2" class="maximenuck item579 level2 " style="z-index : 11890;"><a class="maximenuck flecha_menu" href="/profesores/visitantes"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/catedra"><span class="titreck">Cátedra</span></a><li data-level="2" class="maximenuck item580 level2 " style="z-index : 11889;"><a class="maximenuck flecha_menu" href="/profesores/catedra"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general"><span class="titreck">Solicitudes Secretaría General</span></a><li data-level="2" class="maximenuck item581 parent level2 " style="z-index : 11888;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/contratacion-de-personal?view=form"><span class="titreck">Contratación de personal</span></a><li data-level="3" class="maximenuck item652 first level3 " style="z-index : 11887;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/contratacion-de-personal?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/solicitud-de-bonificaciones?view=form"><span class="titreck">Solicitud de bonificaciones</span></a><li data-level="3" class="maximenuck item653 level3 " style="z-index : 11886;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/solicitud-de-bonificaciones?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/solicitud-de-anticipos?view=form"><span class="titreck">Solicitud de anticipos</span></a><li data-level="3" class="maximenuck item654 level3 " style="z-index : 11885;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/solicitud-de-anticipos?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/solicitud-de-conferencistas?view=form"><span class="titreck">Solicitud de conferencistas</span></a><li data-level="3" class="maximenuck item656 level3 " style="z-index : 11884;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/solicitud-de-conferencistas?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/solicitud-de-tiquetes?view=form"><span class="titreck">Solicitud de tiquetes y/o viáticos</span></a><li data-level="3" class="maximenuck item657 level3 " style="z-index : 11883;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/solicitud-de-tiquetes?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/solicitud-evento?view=form"><span class="titreck">Solicitud evento</span></a><li data-level="3" class="maximenuck item2439 level3 " style="z-index : 11882;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/solicitud-evento?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/solicitud-compras-papeleria?view=form"><span class="titreck">Solicitud compras de papelería y cafetería </span></a><li data-level="3" class="maximenuck item2440 level3 " style="z-index : 11881;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/solicitud-compras-papeleria?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/solicitud-salidas-academicas?view=form"><span class="titreck">Solicitud salidas académicas</span></a><li data-level="3" class="maximenuck item2599 level3 " style="z-index : 11880;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/solicitud-salidas-academicas?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/formato-casos-faltas-disciplinarias?view=form"><span class="titreck">Formato casos de presunto fraude u otra presunta falta disciplinaria</span></a><li data-level="3" class="maximenuck item2860 level3 " style="z-index : 11879;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/formato-casos-faltas-disciplinarias?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-secretaria-general/formato-excusas-medicas-estudiantes?view=form"><span class="titreck">Formato excusas médicas estudiantes</span></a><li data-level="3" class="maximenuck item2862 last level3 " style="z-index : 11878;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-secretaria-general/formato-excusas-medicas-estudiantes?view=form"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/procesos-y-directrices-para-profesores"><span class="titreck">Procesos y directrices para profesores</span></a><li data-level="2" class="maximenuck item582 parent level2 " style="z-index : 11877;"><a class="maximenuck flecha_menu" href="/profesores/procesos-y-directrices-para-profesores"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/consejo-facultad-y-comites/actas-consejo"><span class="titreck">Actas de consejo</span></a><li data-level="3" class="maximenuck item658 first level3 " style="z-index : 11876;"><a class="maximenuck flecha_menu" href="/facultad/consejo-facultad-y-comites/actas-consejo"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/procesos-y-directrices-para-profesores/ordenamiento-profesoral"><span class="titreck">Ordenamiento profesoral</span></a><li data-level="3" class="maximenuck item659 level3 " style="z-index : 11875;"><a class="maximenuck flecha_menu" href="/profesores/procesos-y-directrices-para-profesores/ordenamiento-profesoral"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/procesos-y-directrices-para-profesores/incentivos-para-publicacion"><span class="titreck">Incentivos para publicación</span></a><li data-level="3" class="maximenuck item660 level3 " style="z-index : 11874;"><a class="maximenuck flecha_menu" href="/profesores/procesos-y-directrices-para-profesores/incentivos-para-publicacion"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/procesos-y-directrices-para-profesores/incentivos-para-investigacion"><span class="titreck">Incentivos para investigación</span></a><li data-level="3" class="maximenuck item2413 level3 " style="z-index : 11873;"><a class="maximenuck flecha_menu" href="/profesores/procesos-y-directrices-para-profesores/incentivos-para-investigacion"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/procesos-y-directrices-para-profesores/estatuto-profesoral"><span class="titreck">Estatuto profesoral</span></a><li data-level="3" class="maximenuck item661 level3 " style="z-index : 11872;"><a class="maximenuck flecha_menu" href="/profesores/procesos-y-directrices-para-profesores/estatuto-profesoral"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/procesos-y-directrices-para-profesores/estrategia-de-acompanamiento-de-profesores-asistentes"><span class="titreck">Estrategia de acompañamiento de profesores asistentes</span></a><li data-level="3" class="maximenuck item662 level3 " style="z-index : 11871;"><a class="maximenuck flecha_menu" href="/profesores/procesos-y-directrices-para-profesores/estrategia-de-acompanamiento-de-profesores-asistentes"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/procesos-y-directrices-para-profesores/fuentes-de-financiacion-para-profesores"><span class="titreck">Fuentes de financiación para profesores</span></a><li data-level="3" class="maximenuck item2415 level3 " style="z-index : 11870;"><a class="maximenuck flecha_menu" href="/profesores/procesos-y-directrices-para-profesores/fuentes-de-financiacion-para-profesores"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/procesos-y-directrices-para-profesores/reuniones-de-profesores"><span class="titreck">Reuniones de profesores</span></a><li data-level="3" class="maximenuck item663 last level3 " style="z-index : 11869;"><a class="maximenuck flecha_menu" href="/profesores/procesos-y-directrices-para-profesores/reuniones-de-profesores"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/solicitudes-cambio-de-nota?view=form"><span class="titreck">Solicitudes cambio de nota</span></a><li data-level="2" class="maximenuck item583 first level2 " style="z-index : 11868;"><a class="maximenuck flecha_menu" href="/profesores/solicitudes-cambio-de-nota?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/practicas-docentes"><span class="titreck">Prácticas docentes</span></a><li data-level="2" class="maximenuck item584 level2 " style="z-index : 11867;"><a class="maximenuck flecha_menu" href="/profesores/practicas-docentes"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/profesores/blog-profesores"><span class="titreck">Blog Profesores</span></a><li data-level="2" class="maximenuck item1073 last level2 " style="z-index : 11866;"><a class="maximenuck flecha_menu" href="/profesores/blog-profesores"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes"><span class="titreck">Estudiantes</span></a><li data-level="1" class="maximenuck item475 parent level1 " style="z-index : 11865;"><a class="maximenuck flecha_menu" href="/estudiandes"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes/consejo-estudiantil"><span class="titreck">Consejo estudiantil</span></a><li data-level="2" class="maximenuck item586 first level2 " style="z-index : 11864;"><a class="maximenuck flecha_menu" href="/estudiandes/consejo-estudiantil"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes/copa-keynes"><span class="titreck">Copa Keynes</span></a><li data-level="2" class="maximenuck item589 parent level2 " style="z-index : 11863;"><a class="maximenuck flecha_menu" href="/estudiandes/copa-keynes"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes/copa-keynes/convocatoria"><span class="titreck">Convocatoria</span></a><li data-level="3" class="maximenuck item912 first last level3 " style="z-index : 11862;"><a class="maximenuck flecha_menu" href="/estudiandes/copa-keynes/convocatoria"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="http://decanaturadeestudiantes.uniandes.edu.co/" target="_blank" ><span class="titreck">Decanatura de estudiantes</span></a><li data-level="2" class="maximenuck item591 level2 " style="z-index : 11861;"><a class="maximenuck flecha_menu" href="http://decanaturadeestudiantes.uniandes.edu.co/" target="_blank" ></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes/ecomami"><span class="titreck">Ecomami</span></a><li data-level="2" class="maximenuck item590 parent level2 " style="z-index : 11860;"><a class="maximenuck flecha_menu" href="/estudiandes/ecomami"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes/ecomami/registro-asistencia-ecomami?view=form"><span class="titreck">Registro asistencia ecomami</span></a><li data-level="3" class="maximenuck item2430 first last level3 " style="z-index : 11859;"><a class="maximenuck flecha_menu" href="/estudiandes/ecomami/registro-asistencia-ecomami?view=form"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes/fenadeco"><span class="titreck">FENADECO</span></a><li data-level="2" class="maximenuck item587 level2 " style="z-index : 11858;"><a class="maximenuck flecha_menu" href="/estudiandes/fenadeco"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes/revistas-estudiantiles"><span class="titreck">Revistas estudiantiles</span></a><li data-level="2" class="maximenuck item588 parent level2 " style="z-index : 11857;"><a class="maximenuck flecha_menu" href="/estudiandes/revistas-estudiantiles"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="http://periodicoelinsolente.blogspot.com/" target="_blank" ><span class="titreck">El Insolente</span></a><li data-level="3" class="maximenuck item667 first level3 " style="z-index : 11856;"><a class="maximenuck flecha_menu" href="http://periodicoelinsolente.blogspot.com/" target="_blank" ></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="http://revistasupuestos.com/" target="_blank" ><span class="titreck">Supuestos</span></a><li data-level="3" class="maximenuck item668 level3 " style="z-index : 11855;"><a class="maximenuck flecha_menu" href="http://revistasupuestos.com/" target="_blank" ></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="http://endeuda.co/" target="_blank" ><span class="titreck">En Deuda</span></a><li data-level="3" class="maximenuck item669 last level3 " style="z-index : 11854;"><a class="maximenuck flecha_menu" href="http://endeuda.co/" target="_blank" ></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/programas-facultad-de-economia/pregrado-de-economia/consejeria-academica-pregrado/solicitud-de-citas-pregrado"><span class="titreck">Solicitud citas de consejería</span></a><li data-level="2" class="maximenuck item2464 level2 " style="z-index : 11853;"><a class="maximenuck flecha_menu" href="/programas-facultad-de-economia/pregrado-de-economia/consejeria-academica-pregrado/solicitud-de-citas-pregrado"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/estudiandes/blog-estudiantes"><span class="titreck">Blog Estudiantes</span></a><li data-level="2" class="maximenuck item1072 level2 " style="z-index : 11852;"><a class="maximenuck flecha_menu" href="/estudiandes/blog-estudiantes"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="http://uniandes-melab.com/public/" target="_blank" ><span class="titreck">Laboratorio Economía Experimental</span></a><li data-level="2" class="maximenuck item2894 last level2 " style="z-index : 11851;"><a class="maximenuck flecha_menu" href="http://uniandes-melab.com/public/" target="_blank" ></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/egresados"><span class="titreck">Egresados</span></a><li data-level="1" class="maximenuck item476 parent level1 " style="z-index : 11850;"><a class="maximenuck flecha_menu" href="/egresados"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/egresados/beneficios"><span class="titreck">Beneficios</span></a><li data-level="2" class="maximenuck item2424 first level2 " style="z-index : 11849;"><a class="maximenuck flecha_menu" href="/egresados/beneficios"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/egresados/capitulo-economia-asociacion-egresados"><span class="titreck">Capítulo de Economía en la Asociación de Egresados</span></a><li data-level="2" class="maximenuck item597 level2 " style="z-index : 11848;"><a class="maximenuck flecha_menu" href="/egresados/capitulo-economia-asociacion-egresados"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/egresados/ofertas-laborales"><span class="titreck">Ofertas laborales</span></a><li data-level="2" class="maximenuck item595 last level2 " style="z-index : 11847;"><a class="maximenuck flecha_menu" href="/egresados/ofertas-laborales"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion"><span class="titreck">Centros de investigación</span></a><li data-level="1" class="maximenuck item477 parent level1 " style="z-index : 11846;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cede"><span class="titreck">CEDE</span></a><li data-level="2" class="maximenuck item599 parent first level2 " style="z-index : 11845;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cede"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cede/quienes-somos-cede"><span class="titreck">Quienes somos</span></a><li data-level="3" class="maximenuck item674 first level3 " style="z-index : 11844;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cede/quienes-somos-cede"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cede/historia-cede"><span class="titreck">Historia</span></a><li data-level="3" class="maximenuck item675 level3 " style="z-index : 11843;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cede/historia-cede"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cede/equipo-de-trabajo"><span class="titreck">Equipo de trabajo</span></a><li data-level="3" class="maximenuck item676 level3 " style="z-index : 11842;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cede/equipo-de-trabajo"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cede/investigacion-y-consultoria"><span class="titreck">Investigación y consultoría</span></a><li data-level="3" class="maximenuck item677 first level3 " style="z-index : 11841;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cede/investigacion-y-consultoria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/component/booklibrary/478/all_categories?layout=categories"><span class="titreck">Publicaciones</span></a><li data-level="3" class="maximenuck item678 level3 " style="z-index : 11840;"><a class="maximenuck flecha_menu" href="/component/booklibrary/478/all_categories?layout=categories"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cede/seminario-cede"><span class="titreck">Seminarios CEDE</span></a><li data-level="3" class="maximenuck item679 level3 " style="z-index : 11839;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cede/seminario-cede"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="https://datoscede.uniandes.edu.co" target="_blank" ><span class="titreck">Centro de Datos</span></a><li data-level="3" class="maximenuck item680 first level3 " style="z-index : 11838;"><a class="maximenuck flecha_menu" href="https://datoscede.uniandes.edu.co" target="_blank" ></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cede/contactatenos?view=form"><span class="titreck">Contáctenos</span></a><li data-level="3" class="maximenuck item684 first level3 " style="z-index : 11837;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cede/contactatenos?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cede/web-de-proyectos-cede"><span class="titreck">Web de Proyectos</span></a><li data-level="3" class="maximenuck item602 last level3 " style="z-index : 11836;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cede/web-de-proyectos-cede"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="https://encuestalongitudinal.uniandes.edu.co/" target="_blank" ><span class="titreck">ELCA</span></a><li data-level="2" class="maximenuck item600 first level2 " style="z-index : 11835;"><a class="maximenuck flecha_menu" href="https://encuestalongitudinal.uniandes.edu.co/" target="_blank" ></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed"><span class="titreck">CESED</span></a><li data-level="2" class="maximenuck item601 parent last level2 " style="z-index : 11834;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/antecedentes-y-objetivos"><span class="titreck">Antecedentes y objetivos</span></a><li data-level="3" class="maximenuck item685 first level3 " style="z-index : 11833;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/antecedentes-y-objetivos"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/estructura-cesed"><span class="titreck">Estructura</span></a><li data-level="3" class="maximenuck item686 level3 " style="z-index : 11832;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/estructura-cesed"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/investigaciones"><span class="titreck">Investigaciones</span></a><li data-level="3" class="maximenuck item687 level3 " style="z-index : 11831;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/investigaciones"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/publicaciones"><span class="titreck">Libros</span></a><li data-level="3" class="maximenuck item688 first level3 " style="z-index : 11830;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/publicaciones"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/boletin-cesed"><span class="titreck">Boletín CESED</span></a><li data-level="3" class="maximenuck item2729 level3 " style="z-index : 11829;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/boletin-cesed"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/eventos/cat.listevents/2017/09/08/-"><span class="titreck">Eventos</span></a><li data-level="3" class="maximenuck item690 level3 " style="z-index : 11828;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/eventos/cat.listevents/2017/09/08/-"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/presencia-en-los-medios-de-lso-articulos-del-cesed"><span class="titreck">Presencia en los medios</span></a><li data-level="3" class="maximenuck item691 level3 " style="z-index : 11827;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/presencia-en-los-medios-de-lso-articulos-del-cesed"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/convenios"><span class="titreck">Convenios</span></a><li data-level="3" class="maximenuck item692 level3 " style="z-index : 11826;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/convenios"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/centros-de-investigacion/cesed/contactenos"><span class="titreck">Contáctenos</span></a><li data-level="3" class="maximenuck item694 last level3 " style="z-index : 11825;"><a class="maximenuck flecha_menu" href="/centros-de-investigacion/cesed/contactenos"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/component/booklibrary/478/all_categories?layout=categories"><span class="titreck">Publicaciones</span></a><li data-level="1" class="maximenuck item478 parent level1 " style="z-index : 11824;"><a class="maximenuck flecha_menu" href="/component/booklibrary/478/all_categories?layout=categories"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=47"><span class="titreck">Libros</span></a><li data-level="2" class="maximenuck item604 first level2 " style="z-index : 11823;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=47"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=48"><span class="titreck">Revista Desarrollo y Sociedad</span></a><li data-level="2" class="maximenuck item605 parent level2 " style="z-index : 11822;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=48"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/revista-desarrollo-y-sociedad/equipo-editorial"><span class="titreck">Equipo editorial</span></a><li data-level="3" class="maximenuck item2371 first level3 " style="z-index : 11821;"><a class="maximenuck flecha_menu" href="/publicaciones/revista-desarrollo-y-sociedad/equipo-editorial"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/revista-desarrollo-y-sociedad/nota-aclaratoria"><span class="titreck">Nota aclaratoria</span></a><li data-level="3" class="maximenuck item2790 level3 " style="z-index : 11820;"><a class="maximenuck flecha_menu" href="/publicaciones/revista-desarrollo-y-sociedad/nota-aclaratoria"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/revista-desarrollo-y-sociedad/suscripciones"><span class="titreck">Suscripciones </span></a><li data-level="3" class="maximenuck item2372 level3 " style="z-index : 11819;"><a class="maximenuck flecha_menu" href="/publicaciones/revista-desarrollo-y-sociedad/suscripciones"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/revista-desarrollo-y-sociedad/envio-de-articulos"><span class="titreck">Envío de artículos </span></a><li data-level="3" class="maximenuck item2373 first level3 " style="z-index : 11818;"><a class="maximenuck flecha_menu" href="/publicaciones/revista-desarrollo-y-sociedad/envio-de-articulos"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/revista-desarrollo-y-sociedad/politica-editorial"><span class="titreck">Política editorial </span></a><li data-level="3" class="maximenuck item2374 level3 " style="z-index : 11817;"><a class="maximenuck flecha_menu" href="/publicaciones/revista-desarrollo-y-sociedad/politica-editorial"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/revista-desarrollo-y-sociedad/politicas-eticas"><span class="titreck">Políticas éticas </span></a><li data-level="3" class="maximenuck item2375 level3 " style="z-index : 11816;"><a class="maximenuck flecha_menu" href="/publicaciones/revista-desarrollo-y-sociedad/politicas-eticas"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="https://economia.uniandes.edu.co/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=1081&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 79</span></a><li data-level="3" class="maximenuck item2895 level3 " style="z-index : 11815;"><a class="maximenuck flecha_menu" href="https://economia.uniandes.edu.co/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=1081&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=1039&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 78</span></a><li data-level="3" class="maximenuck item2804 first level3 " style="z-index : 11814;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=1039&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=1012&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 77</span></a><li data-level="3" class="maximenuck item2776 first level3 " style="z-index : 11813;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=1012&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="https://economia.uniandes.edu.co/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=981&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 76</span></a><li data-level="3" class="maximenuck item2708 first level3 " style="z-index : 11812;"><a class="maximenuck flecha_menu" href="https://economia.uniandes.edu.co/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=981&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="https://economia.uniandes.edu.co/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=946&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 75</span></a><li data-level="3" class="maximenuck item2580 first level3 " style="z-index : 11811;"><a class="maximenuck flecha_menu" href="https://economia.uniandes.edu.co/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=946&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=923&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 74</span></a><li data-level="3" class="maximenuck item2452 first level3 " style="z-index : 11810;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=923&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=845&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 73 </span></a><li data-level="3" class="maximenuck item2125 first level3 " style="z-index : 11809;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=845&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=844&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 72</span></a><li data-level="3" class="maximenuck item2148 first level3 " style="z-index : 11808;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=844&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=843&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 71</span></a><li data-level="3" class="maximenuck item2149 first level3 " style="z-index : 11807;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=843&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=842&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 70</span></a><li data-level="3" class="maximenuck item2150 first level3 " style="z-index : 11806;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=842&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=841&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 69</span></a><li data-level="3" class="maximenuck item2151 first level3 " style="z-index : 11805;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=841&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=840&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 68</span></a><li data-level="3" class="maximenuck item2152 first level3 " style="z-index : 11804;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=840&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=839&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 67</span></a><li data-level="3" class="maximenuck item2153 first level3 " style="z-index : 11803;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=839&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=838&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 66</span></a><li data-level="3" class="maximenuck item2154 first level3 " style="z-index : 11802;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=838&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=819&amp;catid=82&amp;Itemid=478"><span class="titreck">No. 65</span></a><li data-level="3" class="maximenuck item2155 first level3 " style="z-index : 11801;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=819&amp;catid=82&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=865&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 64</span></a><li data-level="3" class="maximenuck item2156 first level3 " style="z-index : 11800;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=865&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=864&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 63</span></a><li data-level="3" class="maximenuck item2157 first level3 " style="z-index : 11799;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=864&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=863&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 62</span></a><li data-level="3" class="maximenuck item2158 first level3 " style="z-index : 11798;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=863&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=862&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 61</span></a><li data-level="3" class="maximenuck item2159 first level3 " style="z-index : 11797;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=862&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=861&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 60</span></a><li data-level="3" class="maximenuck item2160 first level3 " style="z-index : 11796;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=861&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=860&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 59</span></a><li data-level="3" class="maximenuck item2161 first level3 " style="z-index : 11795;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=860&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=859&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 58</span></a><li data-level="3" class="maximenuck item2162 first level3 " style="z-index : 11794;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=859&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=858&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 57</span></a><li data-level="3" class="maximenuck item2163 first level3 " style="z-index : 11793;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=858&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=857&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 56</span></a><li data-level="3" class="maximenuck item2164 first level3 " style="z-index : 11792;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=857&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=856&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 55</span></a><li data-level="3" class="maximenuck item2165 first level3 " style="z-index : 11791;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=856&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=855&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 54</span></a><li data-level="3" class="maximenuck item2166 first level3 " style="z-index : 11790;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=855&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=854&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 53</span></a><li data-level="3" class="maximenuck item2167 first level3 " style="z-index : 11789;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=854&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=853&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 52</span></a><li data-level="3" class="maximenuck item2168 first level3 " style="z-index : 11788;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=853&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=852&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 51</span></a><li data-level="3" class="maximenuck item2169 first level3 " style="z-index : 11787;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=852&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=851&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 50</span></a><li data-level="3" class="maximenuck item2170 first level3 " style="z-index : 11786;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=851&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=850&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 49</span></a><li data-level="3" class="maximenuck item2171 first level3 " style="z-index : 11785;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=850&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=849&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 48</span></a><li data-level="3" class="maximenuck item2172 first level3 " style="z-index : 11784;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=849&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=847&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 46</span></a><li data-level="3" class="maximenuck item2174 first level3 " style="z-index : 11783;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=847&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=846&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 45</span></a><li data-level="3" class="maximenuck item2175 first level3 " style="z-index : 11782;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=846&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=848&amp;catid=83&amp;Itemid=478"><span class="titreck">No. 47</span></a><li data-level="3" class="maximenuck item2173 first level3 " style="z-index : 11781;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=848&amp;catid=83&amp;Itemid=478"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/revista-desarrollo-y-sociedad/enlaces-a-otras-revistas"><span class="titreck">Enlaces a otras revistas </span></a><li data-level="3" class="maximenuck item2376 first last level3 " style="z-index : 11780;"><a class="maximenuck flecha_menu" href="/publicaciones/revista-desarrollo-y-sociedad/enlaces-a-otras-revistas"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/component/booklibrary/478/showCategory/46/Documentos CEDE?subcatid=99"><span class="titreck">Documentos CEDE</span></a><li data-level="2" class="maximenuck item606 level2 " style="z-index : 11779;"><a class="maximenuck flecha_menu" href="/component/booklibrary/478/showCategory/46/Documentos CEDE?subcatid=99"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=52"><span class="titreck">Notas de política</span></a><li data-level="2" class="maximenuck item607 level2 " style="z-index : 11778;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=52"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=53"><span class="titreck">Boletín CEDE</span></a><li data-level="2" class="maximenuck item608 parent level2 " style="z-index : 11777;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=53"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/boletin-cede/boletin-cede-2016"><span class="titreck">Boletín CEDE 2016</span></a><li data-level="3" class="maximenuck item2837 first level3 " style="z-index : 11776;"><a class="maximenuck flecha_menu" href="/publicaciones/boletin-cede/boletin-cede-2016"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/boletin-cede/boletin-cede-2015"><span class="titreck">Boletín CEDE 2015</span></a><li data-level="3" class="maximenuck item2758 first level3 " style="z-index : 11775;"><a class="maximenuck flecha_menu" href="/publicaciones/boletin-cede/boletin-cede-2015"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/boletin-cede/boletin-cede-2014"><span class="titreck">Boletín CEDE 2014</span></a><li data-level="3" class="maximenuck item2526 first level3 " style="z-index : 11774;"><a class="maximenuck flecha_menu" href="/publicaciones/boletin-cede/boletin-cede-2014"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/boletin-cede/boletin-cede-2013"><span class="titreck">Boletín CEDE 2013</span></a><li data-level="3" class="maximenuck item2131 first level3 " style="z-index : 11773;"><a class="maximenuck flecha_menu" href="/publicaciones/boletin-cede/boletin-cede-2013"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/boletin-cede/boletin-cede-2012"><span class="titreck">Boletín CEDE 2012</span></a><li data-level="3" class="maximenuck item2118 first last level3 " style="z-index : 11772;"><a class="maximenuck flecha_menu" href="/publicaciones/boletin-cede/boletin-cede-2012"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=85"><span class="titreck">Documentos Estudiantes</span></a><li data-level="2" class="maximenuck item1971 first level2 " style="z-index : 11771;"><a class="maximenuck flecha_menu" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=85"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/publicaciones/formulario-para-solicitud-de-libros"><span class="titreck">Formulario para solicitud de libros</span></a><li data-level="2" class="maximenuck item2446 last level2 " style="z-index : 11770;"><a class="maximenuck flecha_menu" href="/publicaciones/formulario-para-solicitud-de-libros"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos?view=form"><span class="titreck">Contáctenos</span></a><li data-level="1" class="maximenuck item479 parent level1 " style="z-index : 11769;"><a class="maximenuck flecha_menu" href="/contactenos?view=form"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos/directorio-activo-contactenos"><span class="titreck">Directorio activo </span></a><li data-level="2" class="maximenuck item1792 first level2 " style="z-index : 11768;"><a class="maximenuck flecha_menu" href="/contactenos/directorio-activo-contactenos"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/contactenos-facultad/ubiquenos-en-el-campus"><span class="titreck">Ubíquenos en el campus</span></a><li data-level="2" class="maximenuck item2463 level2 " style="z-index : 11767;"><a class="maximenuck flecha_menu" href="/facultad/contactenos-facultad/ubiquenos-en-el-campus"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos/registrese-aqui?view=form"><span class="titreck">Regístrese aquí</span></a><li data-level="2" class="maximenuck item609 level2 " style="z-index : 11766;"><a class="maximenuck flecha_menu" href="/contactenos/registrese-aqui?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos/buzon-de-sugerencias?view=form"><span class="titreck">Buzón de sugerencias</span></a><li data-level="2" class="maximenuck item611 level2 " style="z-index : 11765;"><a class="maximenuck flecha_menu" href="/contactenos/buzon-de-sugerencias?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/facultad/eventos-economia/cat.listevents/2017/09/08/-"><span class="titreck">Inscripciones a eventos</span></a><li data-level="2" class="maximenuck item612 parent level2 " style="z-index : 11764;"><a class="maximenuck flecha_menu" href="/facultad/eventos-economia/cat.listevents/2017/09/08/-"></a>
+	<div class="floatck" style=""><div class="maxidrop-top"><div class="maxidrop-top2"></div></div><div class="maxidrop-main" style=""><div class="maxidrop-main2"><div class="maximenuck2 first " >
+	<ul class="maximenuck2"><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos/inscripciones-a-eventos/sesion-meca?view=form"><span class="titreck">Sesión informativa Maestría en Economía Aplicada (MEcA)</span></a><li data-level="3" class="maximenuck item2432 first level3 " style="z-index : 11763;"><a class="maximenuck flecha_menu" href="/contactenos/inscripciones-a-eventos/sesion-meca?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos/inscripciones-a-eventos/sesion-especializacion?view=form"><span class="titreck">Sesión informativa Especialización en Evaluación Social de Proyectos</span></a><li data-level="3" class="maximenuck item2511 level3 " style="z-index : 11762;"><a class="maximenuck flecha_menu" href="/contactenos/inscripciones-a-eventos/sesion-especializacion?view=form"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos/inscripciones-a-eventos/posconflicto?view=form"><span class="titreck">Posconflicto</span></a><li data-level="3" class="maximenuck item2864 last level3 " style="z-index : 11761;"><a class="maximenuck flecha_menu" href="/contactenos/inscripciones-a-eventos/posconflicto?view=form"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos/enlaces-uniandes"><span class="titreck">Enlaces UniAndes</span></a><li data-level="2" class="maximenuck item613 level2 " style="z-index : 11760;"><a class="maximenuck flecha_menu" href="/contactenos/enlaces-uniandes"></a>
+		</li></div><div class='contenedor_enlace'><a class="maximenuck " href="/contactenos/login-pagina"><span class="titreck">Login</span></a><li data-level="2" class="maximenuck item2116 last level2 " style="z-index : 11759;"><a class="maximenuck flecha_menu" href="/contactenos/login-pagina"></a>
+	</li>
+	</ul>
+	<div class="clr"></div></div><div class="clr"></div></div></div><div class="maxidrop-bottom"><div class="maxidrop-bottom2"></div></div></div>
+	</li></div>            </ul>
+        </div>
+        <div class="maxiroundedright"></div>
+        <div style="clear:both;"></div>
+    </div>
+    <!-- fin maximenuCK -->
+
+					</div>
+					<div class="ruta">
+						
+<ul class="breadcrumb">
+	<li class="active"><span class="divider icon-location"></span></li><li class="active"><span>Inicio</span></li></ul>
+
+					</div>
+				</div>
+			</div>
+          	<div class="row marginRow busqueda">
+              	<div class="item-page">
+							
+	
+			
+			
+		
+								
+	
+						 </div>
+          	
+          	</div>          	
+			<div class="row marginRow contenidoHome">
+				<div id="contenedor_nv_vertical" class="col-xs-12 col-md-3 padd0">
+					<div id="zona_nv_vertical" class="col-xs-12 padd0">
+						<div id="pos_left_cabezote_nav" class="col-xs-12 padd0">
+							
+
+<div class="custom"  >
+	<p>Información para:</p></div>
+
+						</div>
+						<div id="pos_left_menu_nav" class="col-xs-12 padd0">
+							<ul class="nav menu">
+<li class="item-480"><a href="/aspirantes" >aspirantes</a></li><li class="item-481"><a href="/estudiantes" >estudiantes</a></li><li class="item-482"><a href="/egresados-left-nav" >egresados</a></li><li class="item-483"><a href="/profesores-vertical" >profesores</a></li><li class="item-484"><a href="/administrativos-vertical" >administrativos</a></li><li class="item-485"><a href="/otros-vertical" >otros</a></li></ul>
+
+						</div>
+						<div id="zona_registro" class="col-xs-12 padd0">
+							
+
+<div class="custom"  >
+	<div class="registro">
+<p id="titulo_link_grande"><a href="/contactenos/registrese-aqui?view=form">REGISTRESE AQUÍ</a></p>
+<p id="subtitulo_link_pequeno"><span style="color: #ffffff;"><a href="/contactenos/registrese-aqui?view=form"><span style="color: #ffffff;">PARA OBTENER INFORMACIÓN DE LA FACULTAD</span></a></span></p>
+</div></div>
+
+						</div>
+					</div>
+				</div>
+				<div class="col-xs-12 col-md-9 paddD0 padd-xs-0">
+					<div id="contenedor_carrucel" class="col-xs-12">
+						<div id="carrucel">
+							
+<!-- BEGIN: Vinaora Nivo Slider >> http://vinaora.com/ -->
+<div class="vt_nivo_slider">
+	<div id="vtnivo499" class="slider-wrapper theme-default theme-default499 nivocontrol-bottomright nivo-bullets05 nivo-arrows10 captionposition-topleft captionrounded-all" style="height: auto; width: auto;">
+		<div class="ribbon"></div>		<div id="vt_nivo_slider499" class="nivoSlider">
+			<a href="https://uniandes.edu.co/valores" target="_blank"><img src="/images/Slider1.jpg" alt="Vinaora Nivo Slider 3.x"/></a><a href="/programas-facultad-de-economia/especializaciones-economia/especializacion-evaluacion-social-de-proyectos/admisiones-y-matricula-esp-evaluacion-social-de-proyectos" target="_blank"><img src="/images/Slider2.png" alt="Vinaora Nivo Slider 3.x"/></a><a href="https://datoscede.uniandes.edu.co/" target="_blank"><img src="/images/Slider3.png" alt="Vinaora Nivo Slider 3.x"/></a><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/nuestra-oferta/1493_consejeria-para-la-prevencion-temprana-del-consumo-de-sustancias-psicoactivas" target="_blank"><img src="/images/Slider4.jpg" alt="Vinaora Nivo Slider 3.x"/></a><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/nuestra-oferta/1480_curso-introduccion-al-analisis-de-datos-para-la-toma-de-decisiones" target="_blank"><img src="/images/Slider5.jpg" alt="Vinaora Nivo Slider 3.x"/></a><a href="/programas-facultad-de-economia/maestria-meca/admisiones" target="_blank"><img src="/images/Slider6.png" alt="Vinaora Nivo Slider 3.x"/></a><a href="/programas-facultad-de-economia/maestria/admisiones-y-matricula-maestria" target="_blank"><img src="/images/Slider7.png" alt="Vinaora Nivo Slider 3.x"/></a><a href="/programas-facultad-de-economia/doctorado-economia/admisiones-y-matricula-doctorado" target="_blank"><img src="/images/Slider8.png" alt="Vinaora Nivo Slider 3.x"/></a><a href="/index.php/component/booklibrary/478/index.php?option=com_booklibrary&amp;task=view&amp;id=1081&amp;catid=82&amp;Itemid=478" target="_blank"><img src="/images/Slider9.png" alt="Vinaora Nivo Slider 3.x"/></a><a href="http://www.uniandes.edu.co/maad" target="_blank"><img src="/images/Slider10.jpg" alt="Vinaora Nivo Slider 3.x"/></a><a href="/programas-facultad-de-economia/especializaciones-economia/especializacion-en-economia-para-no-economistas/admisiones-y-matriculas-no-economistas" target="_blank"><img src="/images/Slider11.png" alt="Vinaora Nivo Slider 3.x"/></a><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/nuestra-oferta/1528_curso-gerencia-del-riesgo-e-implementacion-de-coberturas" target="_blank"><img src="/images/Slider12.jpg" alt="Vinaora Nivo Slider 3.x"/></a><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/nuestra-oferta/1534_curso-behavioral-economics-fundamentos_-aplicaciones-y-enfoque-experimental" target="_blank"><img src="/images/Slider13.jpg" alt="Vinaora Nivo Slider 3.x"/></a><a href="/facultad/eventos-economia/cesed/?task=item.listevents&amp;view=item&amp;layout=detailevents&amp;evento=548&amp;Workshop-CESED" target="_blank"><img src="/images/Slider14.png" alt="Vinaora Nivo Slider 3.x"/></a>
+		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+	jQuery.noConflict();
+	jQuery(window).load(function() {
+		jQuery('#vt_nivo_slider499').nivoSlider({
+			effect: 'fade', // Specify sets like: 'fold,fade,sliceDown'
+			slices: 15, // For slice animations
+			boxCols: 8, // For box animations
+			boxRows: 4, // For box animations
+			animSpeed: 500, // Slide transition speed
+			pauseTime: 3000, // How long each slide will show
+			startSlide: 9, // Set starting Slide (0 index)
+			directionNav: true, // Next & Prev navigation
+			controlNav: false, // 1,2,3... navigation
+			controlNavThumbs: false, // Use thumbnails for Control Nav
+			pauseOnHover: true, // Stop animation while hovering
+			manualAdvance: false, // Force manual transitions
+			prevText: 'Prev', // Prev directionNav text
+			nextText: 'Next', // Next directionNav text
+			randomStart: true, // Start on a random slide
+			beforeChange: function(){}, // Triggers before a slide transition
+			afterChange: function(){}, // Triggers after a slide transition
+			slideshowEnd: function(){}, // Triggers after all slides have been shown
+			lastSlide: function(){}, // Triggers when last slide is shown
+			afterLoad: function(){} // Triggers when slider has loaded
+		});
+	});
+</script>
+<!-- END: Vinaora Nivo Slider >> http://vinaora.com/ -->
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row marginRow contenidoHome" >
+				<div class="col-xs-12 col-md-3 padd0">
+					<div class="col-xs-12 padd0">
+						<div id="zona_investigaciones" class="col-xs-12 padd0">
+							
+
+<div class="custom"  >
+	<div class="k2ModuleBoxinvestigaciones">
+<ul>
+<li><a class="moduleItemTitle" href="/component/k2/102?Itemid=599">CEDE</a><br /><a class="descripcionInvestigacion" href="/component/k2/102?Itemid=599">Centro de Estudios sobre Desarrollo Económico – CEDE</a><img alt="CEDE" src="/images/CEDE.jpg" height="97" width="237" /><a class="moduleItemTitle" href="https://datoscede.uniandes.edu.co/">Centro de Datos - CEDE</a><br /> <a class="descripcionInvestigacion" href="https://datoscede.uniandes.edu.co/">Ingrese a las bases de datos del CEDE</a>
+<div class="clr">&nbsp;</div>
+</li>
+<li><a class="moduleItemTitle" href="https://encuestalongitudinal.uniandes.edu.co/">ELCA</a><br /><a class="descripcionInvestigacion" href="https://encuestalongitudinal.uniandes.edu.co/">Encuesta Longitudinal Colombiana de la Universidad de los Andes - ELCA</a>
+<div class="clr">&nbsp;</div>
+</li>
+<li><a class="moduleItemTitle" href="/centros-de-investigacion/cesed?id=94">CESED</a><br /><a class="descripcionInvestigacion" href="/centros-de-investigacion/cesed?id=94">Centro de Estudios sobre Seguridad y Drogas - CESED</a>
+<div class="clr">&nbsp;</div>
+</li>
+</ul>
+</div></div>
+
+						</div>					
+					</div>
+					<div class="col-xs-12 padd0">
+						<div id="zona_banner_mediano" class="col-xs-12 padd0">
+							
+<!-- BEGIN: Vinaora Nivo Slider >> http://vinaora.com/ -->
+<div class="vt_nivo_slider">
+	<div id="vtnivo508" class="slider-wrapper theme-default theme-default508 nivocontrol-bottomright nivo-bullets05 nivo-arrows10 captionposition-topleft captionrounded-all" style="height: auto; width: auto;">
+		<div class="ribbon"></div>		<div id="vt_nivo_slider508" class="nivoSlider">
+			<a href="/index.php/facultad/galeria-videos" target="_blank"><img src="/images/bannervideo.png" alt="Vinaora Nivo Slider 3.x"/></a><a href="http://www.uniandes.edu.co/noticias/informacion-general/uso-de-datos-personales" target="_blank"><img src="/images/bannervideo2.png" alt="Vinaora Nivo Slider 3.x"/></a>
+		</div>
+		
+	</div>
+</div>
+<script type="text/javascript">
+	jQuery.noConflict();
+	jQuery(window).load(function() {
+		jQuery('#vt_nivo_slider508').nivoSlider({
+			effect: 'fade', // Specify sets like: 'fold,fade,sliceDown'
+			slices: 15, // For slice animations
+			boxCols: 8, // For box animations
+			boxRows: 4, // For box animations
+			animSpeed: 500, // Slide transition speed
+			pauseTime: 3000, // How long each slide will show
+			startSlide: 1, // Set starting Slide (0 index)
+			directionNav: true, // Next & Prev navigation
+			controlNav: true, // 1,2,3... navigation
+			controlNavThumbs: false, // Use thumbnails for Control Nav
+			pauseOnHover: true, // Stop animation while hovering
+			manualAdvance: false, // Force manual transitions
+			prevText: 'Prev', // Prev directionNav text
+			nextText: 'Next', // Next directionNav text
+			randomStart: true, // Start on a random slide
+			beforeChange: function(){}, // Triggers before a slide transition
+			afterChange: function(){}, // Triggers after a slide transition
+			slideshowEnd: function(){}, // Triggers after all slides have been shown
+			lastSlide: function(){}, // Triggers when last slide is shown
+			afterLoad: function(){} // Triggers when slider has loaded
+		});
+	});
+</script>
+<!-- END: Vinaora Nivo Slider >> http://vinaora.com/ -->
+
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 padd-xs-0">				
+					<div class="col-xs-12 padd0">
+						<div id="zona_destacados" class="col-xs-12 padd0">
+							
+
+<div class="custom"  >
+	<div id="k2ModuleBox123" class="k2ItemsBlock">
+<div class="categoriaDestacados">
+<div class="tituloCategoriaDestacados">DESTACADOS</div>
+</div>
+<ul>
+<li class="even">
+<div class="contenedorImagenDestacados"><a href="/facultad/eventos-economia/?task=item.listevents&amp;view=item&amp;layout=detailevents&amp;evento=324&amp;Seminario-CEDE"><img src="/images/destacados_home/Seminario_CEDE_home.png" alt="Seminario CEDE home" width="141" height="95" /></a></div>
+<div class="contenedorTituloDescripcionDestacado">
+<div class="tituloItemDestacados"><a href="/facultad/eventos-economia/?task=item.listevents&amp;view=item&amp;layout=detailevents&amp;evento=324&amp;Seminario-CEDE">Seminario CEDE</a></div>
+<div class="contenedorDescripcionDestacados">Martes 12 en el W-102 a las 12:30 pm. Daniel Wills.</div>
+<div class="contenedorLinkDestacados"><a href="/facultad/eventos-economia/?task=item.listevents&amp;view=item&amp;layout=detailevents&amp;evento=324&amp;Seminario-CEDE">Ver más</a></div>
+</div>
+</li>
+<li class="odd">
+<div class="contenedorImagenDestacados"><a target="_blank" href="/programas-facultad-de-economia/pregrado-de-economia/premios-pregrado/premios-2016"><img alt="Premios pregrado2016 foto" src="/images/Pregrado/Premios_pregrado2016_foto.jpg" width="650" height="433" /></a></div>
+<div class="contenedorTituloDescripcionDestacado">
+<div class="tituloItemDestacados"><a target="_blank" href="/programas-facultad-de-economia/pregrado-de-economia/premios-pregrado/premios-2016">Premios</a></div>
+<div class="contenedorDescripcionDestacados">Mejores trabajos PEG y Pregrado en Economía.</div>
+<div class="contenedorLinkDestacados"><a target="_blank" href="/programas-facultad-de-economia/pregrado-de-economia/premios-pregrado/premios-2016">Ver más</a></div>
+</div>
+</li>
+<li class="even lastItem">
+<div class="contenedorImagenDestacados"><a target="_blank" href="/facultad/noticias-economia/?task=item.listevents&amp;view=item&amp;layout=detailevents&amp;evento=492&amp;Menciones-en-prensa"><img alt="menciones" src="/images/destacados_home/menciones.jpg" width="140" height="95" /></a></div>
+<div class="contenedorTituloDescripcionDestacado">
+<div class="tituloItemDestacados"><a target="_blank" href="/facultad/noticias-economia/?task=item.listevents&amp;view=item&amp;layout=detailevents&amp;evento=492&amp;Menciones-en-prensa">Menciones en prensa</a></div>
+<div class="contenedorDescripcionDestacados">Aquí encontrará artículos y comunicados de prensa publicados para referenciar la presencia que tiene la Facultad.<span style="font-size: 10pt; font-family: 'Arial',sans-serif; color: #1f497d;"> </span></div>
+<div class="contenedorLinkDestacados"><a href="/facultad/noticias-economia/?task=item.listevents&amp;view=item&amp;layout=detailevents&amp;evento=492&amp;Menciones-en-prensa">Ver más</a></div>
+</div>
+</li>
+</ul>
+</div></div>
+
+						</div>
+					</div>
+					
+					<div class="col-xs-12 padd0">
+						<div id="zona_tweets" class="col-xs-12 padd0">
+							
+
+<div class="custom"  >
+	<div class="contenedorBlogs">
+<div class="contenedorBlogsProfesores"><a href="/estudiandes/blog-estudiantes/1004-revoluciones-sociales-en-la-educacion"><img class="imagenBlogsProfesores" src="/images/imagenes/blogEstudiantes.png" alt="blogEstudiantes" height="145" width="216" /></a></div>
+<div class="contenedorBlogsEstudiantes"><a href="/profesores/blog-profesores/1062-como-debe-orientarse-la-politica-publica-de-habitantes-de-calle"><img class="imagenBlogsEstudiantes" src="/images/imagenes/blogProfesores.png" alt="blogProfesores" height="145" width="216" /></a></div>
+</div></div>
+
+						</div>
+					</div>
+				</div>					
+				<div class="col-xs-12 col-md-3 padd0">
+					<div class="col-xs-12 padd0">
+						<div id="zona_publicaciones" class="col-xs-12 padd0">
+							
+
+<div class="custom"  >
+	<div class="tituloPublicaciones">PUBLICACIONES</div>
+<ul>
+<li class="even">
+<div>
+<div class="moduleItemImage"><a href="/component/booklibrary/478/showCategory/47/Libros"><img src="/media/k2/items/cache/184b7cb84d7b456c96a0bdfbbeaa5f14_S.jpg" alt="LIBROS Y OTRAS PUBLICACIONES" /></a></div>
+<div class="moduleItemIntrotext"><a class="moduleItemTitle" href="/component/booklibrary/478/showCategory/47/Libros">LIBROS Y OTRAS PUBLICACIONES</a>
+<div class="descripcionPublicacion"><a class="descripcionPublicacion" href="/component/booklibrary/478/showCategory/47/Libros">En este enlace encontrará los libros editados por la Universidad de los Andes o...</a></div>
+</div>
+</div>
+</li>
+<li class="odd">
+<div>
+<div class="moduleItemImage"><a href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=48"><img src="/media/k2/items/cache/9caa2793658f3cc387f216157300b1ce_S.jpg" alt="LIBROS Y OTRAS PUBLICACIONES" /></a></div>
+<div class="moduleItemIntrotext"><a class="moduleItemTitle" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=48">REVISTA DESARROLLO Y SOCIEDAD</a>
+<div class="descripcionPublicacion"><a class="descripcionPublicacion" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=48">La revista Desarrollo y Sociedad es una de las revistas de economía más antiguas...</a></div>
+</div>
+</div>
+</li>
+<li class="even">
+<div>
+<div class="moduleItemImage"><a href="/component/booklibrary/478/showCategory/46/Documentos%20CEDE"><img src="/images/stories/publicaciones_2.jpg" alt="publicaciones 2" height="264" width="204" /></a></div>
+<div class="moduleItemIntrotext"><a class="moduleItemTitle" href="/component/booklibrary/478/showCategory/46/Documentos%20CEDE">DOCUMENTOS CEDE</a>
+<div class="descripcionPublicacion"><a class="descripcionPublicacion" href="/component/booklibrary/478/showCategory/46/Documentos%20CEDE">Documentos de trabajo de los investigadores del Centro de Estudios sobre Desarrollo...</a></div>
+</div>
+</div>
+</li>
+<li class="odd lastItem">
+<div>
+<div class="moduleItemImage"><a href="/component/booklibrary/478/showCategory/52/Notas%20de%20política"><img src="/images/stories/publicaciones_5.jpg" alt="publicaciones 5" height="170" width="120" /></a></div>
+<div class="moduleItemIntrotext"><a class="moduleItemTitle" href="/component/booklibrary/478/showCategory/52/Notas%20de%20política">NOTAS DE POLÍTICA</a>
+<div class="descripcionPublicacion"><a class="descripcionPublicacion" href="/component/booklibrary/478/showCategory/52/Notas%20de%20política">Con el ánimo de contribuir al diseño de mejores políticas públicas y de proveer...</a></div>
+</div>
+</div>
+</li>
+<li class="even last">
+<div>
+<div class="moduleItemImage"><a href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=85"><img src="/images/stories/publicaciones_7.jpg" alt="DOCUMENTOS ESTUDIANTES" height="316" width="200" /></a></div>
+<div class="moduleItemIntrotext"><a class="moduleItemTitle" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=85">DOCUMENTOS ESTUDIANTES</a>
+<div class="descripcionPublicacion"><a class="descripcionPublicacion" href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=85">Busca apoyar y hacer visible las investigaciones de los estudiantes...</a></div>
+</div>
+</div>
+</li>
+</ul></div>
+
+						</div>
+					</div>
+					<div class="col-xs-12 padd0">
+						<div id="zona_conect_redes" class="col-xs-12 padd0">
+							
+
+<div class="custom"  >
+	<div class="contenedorConnect">
+<div class="rotuloConnect">Connect:</div>
+<div class="contenedorFacebook"><a href="https://www.facebook.com/EconomiaUniandes" target="blank"><img class="imagenFacebook" src="/images/imagenes/home_icono_facebook.jpg" alt="" /></a></div>
+<div class="contenedorTwitter"><a href="https://twitter.com/EconomiaUAndes" target="blank"><img class="imagenTwitter" src="/images/imagenes/home_icono_twitter.jpg" alt="" /></a></div>
+</div></div>
+
+						</div>					
+					</div>					
+				</div>
+			</div>			
+		</div>
+		<div class='row'>
+			<div id="zona_mapa">
+				<div id="container_mapa">
+					
+
+<div class="custom"  >
+	<div class="contenedorMapa">
+<div class="columnaUno">
+<div class="filaUno"><a href="/facultad">FACULTAD</a></div>
+<div class="filaDos"><a href="/facultad/descripcion-economia">Descripción</a><a href="/facultad/decanos-anteriores">Decanos anteriores</a><a href="/facultad/equipo-de-trabajo-facultad/latest">Equipo de trabajo</a><a href="/facultad/noticias-economia/cat.listevents/2017/09/08/-">Noticias</a><a href="/facultad/eventos-economia/cat.listevents/2017/09/08/-">Eventos</a><a href="/facultad/destacados/cat.listevents/2017/09/08/-">Destacados</a><a href="/facultad/plan-de-desarrollo">Plan de Desarrollo</a><a href="/facultad/biblioteca-satelite">Biblioteca Satélite</a><a href="/facultad/consejo-facultad-y-comites">Consejo de Facultad y comités</a><a href="/facultad/reglamentos-facultad">Reglamentos</a><a href="/facultad/galeria-fotos">Galería Fotos</a><a href="/facultad/galeria-videos">Galería Videos</a><a href="/facultad/contactenos-facultad?view=form">Contáctenos</a></div>
+</div>
+<div class="columnaDos">
+<div class="filaUno"><a href="/programas-facultad-de-economia?id=71">PROGRAMAS</a></div>
+<div class="filaDos"><a href="/programas-facultad-de-economia/pregrado-de-economia?id=90">Pregrado de Economía</a><a href="/programas-facultad-de-economia/maestria?id=90">Maestría PEG</a><a href="/programas-facultad-de-economia/maestria-meca">Maestría MEcA</a><a href="/programas-facultad-de-economia/doctorado-economia?id=90">Doctorado</a><a href="/programas-facultad-de-economia/escuela-de-verano">Escuela de Verano</a><a href="/programas-facultad-de-economia/especializaciones-economia?id=90">Especializaciones</a><a href="/programas-facultad-de-economia/cursos-libres-y-educacion-continuada">Cursos libres y educación continuada</a><a><br /></a></div>
+</div>
+<div class="columnaTres">
+<div class="filaUno"><a href="/index.php?option=com_profesor&amp;view=profesor&amp;Itemid=474">PROFESORES</a></div>
+<div class="filaDos"><a href="/index.php?option=com_profesor&amp;view=profesor&amp;Itemid=578">Planta</a><a href="/profesores/visitantes">Visitantes</a><a href="/index.php/profesores/catedra">Cátedra</a><a href="/index.php/profesores/solicitudes-secretaria-general">Solicitudes Secretaría General</a><a href="/index.php/profesores/procesos-y-directrices-para-profesores">Procesos y directrices para profesores</a><a href="/profesores/practicas-docentes">Prácticas docentes</a><a href="/index.php/profesores/blog-profesores">Blog profesores</a></div>
+</div>
+<div class="columnaCuatro">
+<div class="filaUno"><a href="/estudiandes">ESTUDIANTES</a></div>
+<div class="filaDos"><a href="/estudiandes/consejo-estudiantil">Consejo estudiantil</a><a href="/estudiandes/copa-keynes">Copa Keynes</a><a href="/estudiandes/ecomami">Ecomami</a><a href="http://decanaturadeestudiantes.uniandes.edu.co/">Decanatura de estudiantes</a><a href="/estudiandes/fenadeco">FENADECO</a><a href="/index.php/estudiandes/revistas-estudiantiles">Revistas estudiantiles</a><a href="/programas-facultad-de-economia/pregrado-de-economia/consejeria-academica-pregrado/solicitud-de-citas-pregrado">Solicitud citas de consejería</a><a href="/estudiandes/blog-estudiantes">Blog estudiantes</a></div>
+</div>
+<div class="columnaCinco" style="width: 85px;">
+<div class="filaUno"><a href="/egresados?id=71">EGRESADOS</a></div>
+<div class="filaDos"><a href="/egresados/beneficios">Beneficios</a><a href="/egresados/capitulo-economia-asociacion-egresados">Capítulo de Economía en la Asociación de Egresados</a><a href="/index.php/egresados/ofertas-laborales">Ofertas laborales</a></div>
+</div>
+<div class="columnaSeis" style="width: 155px;">
+<div class="filaUno"><a href="/centros-de-investigacion?id=71">CENTROS DE INVESTIGACIÓN</a></div>
+<div class="filaDos"><a href="/index.php/centros-de-investigacion/cede">CEDE</a><a href="https://encuestalongitudinal.uniandes.edu.co/">ELCA</a><a href="/centros-de-investigacion/cesed?id=94">CESED</a><a><br /></a></div>
+</div>
+<div class="columnaSiete">
+<div class="filaUno"><a href="/component/booklibrary/478/all_categories?layout=categories">PUBLICACIONES</a></div>
+<div class="filaDos"><a href="/component/booklibrary/478/showCategory/47/Libros">Libros</a><a href="/component/booklibrary/478/showCategory/48/Revista%20Desarrollo%20y%20Sociedad">Revista Desarrollo y Sociedad</a><a href="/component/booklibrary/478/showCategory/46/Documentos%20CEDE">Documentos CEDE</a><a href="/component/booklibrary/478/showCategory/52/Notas%20de%20política">Notas de Política</a><a href="/component/booklibrary/478/showCategory/53/Boletín%20CEDE">Boletín CEDE</a><a href="/index.php/component/booklibrary/478/all_categories?layout=showCategory&amp;catid=85">Documentos Estudiantes</a></div>
+</div>
+<div class="columnaOcho">
+<div class="filaUno"><a href="/contactenos?view=form">CONTÁCTENOS</a></div>
+<div class="filaDos"><a href="/contactenos/directorio-activo-contactenos">Directorio activo</a><a href="/contactenos/registrese-aqui?view=form">Regístrese aquí</a><a href="/contactenos/buzon-de-sugerencias?view=form">Buzón de sugerencias</a><a href="/index.php/contactenos/inscripciones-a-eventos">Inscripciones a eventos</a><a href="/index.php/contactenos/enlaces-uniandes">Enlaces Uniandes</a></div>
+</div>
+</div></div>
+
+				</div>
+			</div>
+			<div id="footer">
+				
+
+<div class="custom"  >
+	<div class="fila_footer">Todos los derechos reservados por la Universidad de los Andes 2014 |</div>
+<div class="fila_footer">Facultad de Economía | Calle 19A No 1-37 Este. Bloque W</div>
+<div class="fila_footer">Tel: (571) 339 49 49 / Fax: (571) 332 44 92.</div>
+<div class="fila_footer">&nbsp;</div>
+<div style="text-align: center; font-size: 12px; margin-top: 25px; padding-bottom: 10px;">Universidad de los Andes | Vigilada Mineducación <br /> Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br /> Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.<br /> Cra 1 Nº 18A- 12 Bogotá, (Colombia) | Código postal: 111711 | Tels: +571 3394949 - +571 3394999</div></div>
+				
+			</div>
+		</div>		
+	</body>
+</html>

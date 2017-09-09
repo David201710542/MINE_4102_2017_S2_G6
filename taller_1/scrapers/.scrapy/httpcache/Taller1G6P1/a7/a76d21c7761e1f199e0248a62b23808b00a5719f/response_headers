@@ -1,0 +1,19 @@
+Cache-Control: private, max-age=0
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: Thu, 24 Aug 2017 18:13:50 GMT
+Last-Modified: Fri, 08 Sep 2017 18:13:50 GMT
+Vary: Accept-Encoding
+X-Sharepointhealthscore: 0
+Sprequestguid: f84d179e-3e71-60fa-86b4-eda3ec94bf3c
+Request-Id: f84d179e-3e71-60fa-86b4-eda3ec94bf3c
+X-Frame-Options: SAMEORIGIN
+Sprequestduration: 1479
+Spiislatency: 1
+Set-Cookie: ASP.NET_SessionId=zujfy11itsdm3on4iug0aaur; path=/; HttpOnly
+X-Aspnet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+X-Content-Type-Options: nosniff
+X-Ms-Invokeapp: 1; RequireReadOnly
+Microsoftsharepointteamservices: 15.0.0.4719
+Date: Fri, 08 Sep 2017 18:13:51 GMT

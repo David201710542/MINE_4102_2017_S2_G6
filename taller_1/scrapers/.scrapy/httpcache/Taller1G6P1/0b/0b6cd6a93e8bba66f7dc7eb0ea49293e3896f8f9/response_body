@@ -1,0 +1,967 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" >
+  <head>
+
+  <base href="https://filosofia.uniandes.edu.co/index.php/programas/pregrado/descripcion" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="nbarreto" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Descripción del programa</title>
+  <link href="/templates/ot_appoz/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/media/widgetkit/css/widgetkit.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/widgetkit_joomla/assets/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/accordion/styles/default/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/bigeasy/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/inside/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/inspire/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/radiance/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/revista_default/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/showcase/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/showcase_box/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/slider/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/tasty/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/gallery/styles/wall/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/lightbox/css/lightbox.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/mediaplayer/mediaelement/mediaelementplayer.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/catalyst/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/default/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/drive/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/inspire/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/micasa/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/radiance/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/revista/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/sphere/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/steam/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/streamline/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideset/styles/sync/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/balance_default/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/balance_tabs_bar/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/cloud_list/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/cloud_showcase_box/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/cloud_tabs/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/cloud_tabs_bar/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/default/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/downtown/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/drive_tabs/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/inspire/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/list/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/micasa/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/quantum/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/revista_articles/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/revista_tabs/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/screen/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/showcase_box/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/showcase_buttons/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/sphere_tabs/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/steam_tabs/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/streamline/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/subway/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/subway_list/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/sync/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/tabs/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/tabs_bar/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/slideshow/styles/tasty/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/spotlight/css/spotlight.css" type="text/css" />
+  <link rel="stylesheet" href="/media/widgetkit/widgets/twitter/styles/style.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ot_appoz/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans" type="text/css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Bitter" type="text/css" />
+  <link rel="stylesheet" href="https://filosofia.uniandes.edu.co/modules/mod_accordeonck/themes/simple/mod_accordeonck_css.php?cssid=accordeonck37044" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_pwebfblikebox/css/likebox.css" type="text/css" />
+  <style type="text/css">
+div.template-width {width: 960px;}div.ot-leftcolumn {width: 220px;}div.ot-header {background-color: #A52B17;}div.ot-banner {background-color: #FFFFFF;}div.ot-topboxes {background-color: #FFFFFF;}div.ot-mainbody {background-color: #FFFFFF;}div.ot-footer {background-color: #A52B17;}body#ot-body {font-family: "Open Sans";}body#ot-body {color: #000000;}a {color: #A52B17;}body#ot-body {font-size: 14px;}h1 {font-family: "Bitter";}h1 {color: #000000;}h1 {font-size: 25px;}h2 {font-family: "Bitter";}h2 {color: #000000;}h2 {font-size: 20px;}h3 {font-family: "Bitter";}h3 {color: #000000;}h3 {font-size: 18px;}h4 {font-family: "Bitter";}h4 {color: #000000;}h4 {font-size: 16px;}h5 {font-family: "Bitter";}h5 {color: #000000;}h5 {font-size: 15px;}h6 {font-family: "Bitter";}h6 {color: #000000;}h6 {font-size: 15px;}
+			.width100{ width: 100px; } 
+			 
+			.width50{ width: 50px; } 
+			 
+			.width33{ width: 33px; } 
+			 
+			.width25{ width: 25px; } 
+			 
+			.width20{ width: 20px; } 
+			 #accordeonck37044 li a.toggler { background: url(https://filosofia.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck37044 li a.toggler.open { background: url(https://filosofia.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }#accordeonck37044 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck37044 { padding: 5px;margin: 5px; } #accordeonck37044 li.level1 {  } #accordeonck37044 li.level1 > a { color: #FFFFFF;font-size: 13px; } #accordeonck37044 li.level1 > a:hover { color: #000000; } #accordeonck37044 li.level1 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck37044 li.level2 {  } #accordeonck37044 li.level2 > a { color: #FFFFFF;font-size: 13px; } #accordeonck37044 li.level2 > a:hover { color: #000000; } #accordeonck37044 li.level2 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck37044 li.level3 {  } #accordeonck37044 li.level3 a { color: #FFFFFF;font-size: 13px; } #accordeonck37044 li.level3 a:hover { color: #000000; } #accordeonck37044 li.level3 a span.accordeonckdesc { color: #000000;font-size: 13x; } 
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/jquery.plugins.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/responsive.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/widgets/accordion/js/accordion.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/widgets/gallery/js/lazyloader.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/widgets/map/js/lazyloader.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/widgets/slideset/js/lazyloader.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/widgets/slideshow/js/lazyloader.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/widgets/twitter/twitter.js" type="text/javascript"></script>
+  <script src="/templates/ot_appoz/scripts/menudropdown.js" type="text/javascript"></script>
+  <script src="https://filosofia.uniandes.edu.co/modules/mod_accordeonck/assets/mod_accordeonck.js" type="text/javascript"></script>
+  <script src="/media/mod_pwebfblikebox/js/mootools.likebox.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window["WIDGETKIT_URL"]="/media/widgetkit";function wk_ajax_render_url(widgetid){ return "/index.php/component/widgetkit/?format=raw&amp;id="+widgetid}$widgetkit.load('/media/widgetkit/widgets/lightbox/js/lightbox.js').done(function(){ 
+					jQuery(function($){
+						$('a[data-lightbox]').lightbox({"titlePosition":"float","transitionIn":"elastic","transitionOut":"fade","overlayShow":1,"overlayColor":"#777","overlayOpacity":0.7});
+					});
+			});$widgetkit.trans.addDic({"FROM_ADDRESS":"From address: ","GET_DIRECTIONS":"Get directions","FILL_IN_ADDRESS":"Please fill in your address.","ADDRESS_NOT_FOUND":"Sorry, address not found!","LOCATION_NOT_FOUND":", not found!"});if (!window['mejs']) { $widgetkit.load('/media/widgetkit/widgets/mediaplayer/mediaelement/mediaelement-and-player.js').done(function() { jQuery(function($){
+				mejs.MediaElementDefaults.pluginPath='/media/widgetkit/widgets/mediaplayer/mediaelement/'; 
+				$('video,audio').each(function(){
+					var ele = $(this);
+					if (!ele.parent().hasClass('mejs-mediaelement')) {
+						ele.data('mediaelement',new mejs.MediaElementPlayer(this, {"pluginPath":"\/media\/widgetkit\/widgets\/mediaplayer\/mediaelement\/"}));
+
+						var w = ele.data('mediaelement').width, h = ele.data('mediaelement').height;
+
+						$.onMediaQuery('(max-width: 767px)', {
+							valid: function(){
+								ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
+							},
+							invalid: function(){
+								var parent_width = ele.parent().width();
+
+								if (w>parent_width) {
+									ele.css({width:'',height:''}).data('mediaelement').setPlayerSize('100%', '100%');
+								} else {
+									ele.css({width:'',height:''}).data('mediaelement').setPlayerSize(w, h);
+								}
+							}
+						});
+
+						if ($(window).width() <= 767) {
+							ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
+						}
+					}
+				});
+			}); });} else { jQuery(function($){
+				mejs.MediaElementDefaults.pluginPath='/media/widgetkit/widgets/mediaplayer/mediaelement/'; 
+				$('video,audio').each(function(){
+					var ele = $(this);
+					if (!ele.parent().hasClass('mejs-mediaelement')) {
+						ele.data('mediaelement',new mejs.MediaElementPlayer(this, {"pluginPath":"\/media\/widgetkit\/widgets\/mediaplayer\/mediaelement\/"}));
+
+						var w = ele.data('mediaelement').width, h = ele.data('mediaelement').height;
+
+						$.onMediaQuery('(max-width: 767px)', {
+							valid: function(){
+								ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
+							},
+							invalid: function(){
+								var parent_width = ele.parent().width();
+
+								if (w>parent_width) {
+									ele.css({width:'',height:''}).data('mediaelement').setPlayerSize('100%', '100%');
+								} else {
+									ele.css({width:'',height:''}).data('mediaelement').setPlayerSize(w, h);
+								}
+							}
+						});
+
+						if ($(window).width() <= 767) {
+							ele.data('mediaelement').setPlayerSize('100%', ele.is('video') ? '100%':h);
+						}
+					}
+				});
+			});; }$widgetkit.load('/media/widgetkit/widgets/spotlight/js/spotlight.js').done(function(){jQuery(function($){ $('[data-spotlight]').spotlight({"duration":300}); });});$widgetkit.trans.addDic({"LESS_THAN_A_MINUTE_AGO":"less than a minute ago","ABOUT_A_MINUTE_AGO":"about a minute ago","X_MINUTES_AGO":"%s minutes ago","ABOUT_AN_HOUR_AGO":"about an hour ago","X_HOURS_AGO":"about %s hours ago","ONE_DAY_AGO":"1 day ago","X_DAYS_AGO":"%s days ago"});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck37044'),{fadetransition : true,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck37044',imagePlus : 'https://filosofia.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png',imageMinus : 'https://filosofia.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/es_ES/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,"script","facebook-jssdk"));
+
+/*===  EASY GOOGLE ANALYTICS : START TRACKING CODE  ===*/
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-51158885-15']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+/*===  EASY GOOGLE ANALYTICS : END TRACKING CODE  ===*/
+
+  </script>
+  <!--[if lte IE 8]>
+<link rel="stylesheet" href="/media/mod_pwebfblikebox/css/ie.css" />
+<![endif]-->
+
+
+  <link rel="stylesheet" href="https://filosofia.uniandes.edu.co/plugins/system/HDsocialbm/icons.css" type="text/css" />
+</head>
+
+
+
+
+
+  <body id="ot-body" class="left-content-right">
+<div id="ot-top" class="color">
+
+
+<div class="custom"  >
+	<div class="color">
+<div id="molde">.</div>
+</div></div>
+
+</div>
+
+
+
+
+  <div class="ot-wrap">
+    <div class="ot-wrap-i">
+      <!--******************** START HEADER ********************-->
+      <div class="ot-header">
+        <div class="ot-header-w template-width">
+          <div class="ot-header-i">
+            <div class="ot-logo">
+                            
+
+<div class="custom"  >
+	<div><a href="http://www.uniandes.edu.co" target="_blank"><img src="/images/logo.png" alt="" border="0" /></a></div></div>
+
+                            
+
+            </div>
+
+
+
+
+
+          </div>
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+
+
+      <!--******************** END HEADER ********************-->
+
+      
+
+
+                        <div class="ot-mainmenu">
+        <div class="ot-mainmenu-w template-width">
+          <div id="ot-mainmenu" class="ot-mainmenu-i">
+            <ul class="menu level0">
+<li id="item-102" class="level0 first"><a href="/" ><span>Inicio</span></a></li><li id="item-129" class="level0"><a href="/index.php/el-departamento" ><span>El Departamento</span></a></li><li id="item-105" class="active level0"><a href="/index.php/programas" ><span>Programas</span></a></li><li id="item-110" class="level0"><a href="/index.php/profesores" ><span>Profesores</span></a></li><li id="item-111" class="level0"><a href="/index.php/investigacion" ><span>Investigación</span></a></li><li id="item-112" class="level0"><a href="/index.php/publicaciones" ><span>Publicaciones</span></a></li><li id="item-114" class="level0"><a href="/index.php/noticias-y-eventos" ><span>Noticias y Eventos</span></a></li><li id="item-141" class="level0"><a href="/index.php/contacto" ><span>Contacto</span></a></li></ul>
+          </div>
+        </div>
+      </div>
+
+      
+      
+
+      <div class="ot-banner">
+        <div class="ot-banner-w template-width">
+
+
+          <div class="ot-banner-i">
+
+
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<!-- PWebFBLikeBox -->
+<div id="pwebfblikebox212" class="pwebfblikebox pwebfblikebox-left pwebfblikebox-radius pwebfblikebox-shadow slidebox ">
+	<div class="pwebfblikebox_tab f-white"></div>
+		<div class="pwebfblikebox_container" style="width:400px;"><div id="fb-root"></div><div class="fb-like-box" id="pwebfblikebox212_html5" data-href="https://www.facebook.com/facisouniandes" data-show-faces="true" data-stream="true" data-header="true" data-width="400" data-force-wall="true"></div></div>
+</div>
+
+<script type="text/javascript">
+(function(){
+	pwebFBLikeBox212 = new pwebFBLikeBox({
+		id: 		212,
+		prefix: 	'pwebfblikebox212',
+		open: 		'click',
+		close: 		'click',
+				position: 	'left',
+		top: 		-1,
+		layout: 	'slidebox'
+	});
+})();
+if(typeof window.fbAsyncInit=="function")window.fbAsyncInitPweb=window.fbAsyncInit;window.fbAsyncInit=function(){FB.Event.subscribe("edge.create",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","like",u])});FB.Event.subscribe("edge.remove",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","unlike",u])});if(typeof window.fbAsyncInitPweb=="function")window.fbAsyncInitPweb.apply(this,arguments)};</script>
+<!-- PWebFBLikeBox end -->			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+<div class="breadcrumbs">
+<a href="/" class="pathway">▲</a> » <a href="/index.php/programas" class="pathway">Programas</a> » <span>Pregrado en Filosofía</span> » <span>Descripción del programa</span></div>
+			</div>
+		</div>
+	</div>
+
+          </div>
+          <div class="botonera_deptos">
+            
+          </div>
+        </div>
+        
+
+</div>     
+ 
+
+         
+     
+
+
+       
+      <!--******************** START MAINBODY ********************-->
+      <div class="ot-mainbody">
+
+
+        <div class="ot-mainbody-w template-width"> 
+        
+       
+        <div class="ot-mainbody-i">
+            
+          
+                        <div class="ot-leftcolumn">
+              <div class="ot-leftcolumn-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div id="titular">
+<div id="cs">Programas</div>
+</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<div class="accordeonck ">
+<ul class="menu" id="accordeonck37044">
+<li id="item-106" class="item-106 active active parentparent  level2"><a class="toggler toggler_1  isactive " href="javascript:void(0);"><span class="separator">Pregrado en Filosofía</span></a><ul class="content_1" style=""><li id="item-147" class="item-147 level3"><a href="/index.php/programas/pregrado/por-que-hacer-el-pregrado-en-filosofia" >¿Por qué hacer el pregrado en Filosofía de Los Andes?</a></li><li id="item-116" class="item-116 current activecurrent  active level3"><a class="isactive " href="/index.php/programas/pregrado/descripcion" >Descripción del programa</a></li><li id="item-195" class="item-195 level3"><a href="/index.php/programas/pregrado/admisiones-y-apoyo-financiero" >Admisiones y Apoyo financiero</a></li><li id="item-119" class="item-119 level3"><a href="/index.php/programas/pregrado/opciones" >Opciones académicas</a></li></ul></li><li id="item-107" class="item-107 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Maestría en Filosofía</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-122" class="item-122 level3"><a href="/index.php/programas/maestria-en-filosofia/por-que-hacer-la-maestria-en-filosofia" >¿Por qué hacer la Maestría en Filosofía de Los Andes?</a></li><li id="item-157" class="item-157 level3"><a href="/index.php/programas/maestria-en-filosofia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-160" class="item-160 level3"><a href="/index.php/programas/maestria-en-filosofia/convenios" >Convenios</a></li><li id="item-161" class="item-161 level3"><a href="/index.php/programas/maestria-en-filosofia/admisiones" >Admisiones</a></li><li id="item-162" class="item-162 level3"><a href="/index.php/programas/maestria-en-filosofia/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li></ul></li><li id="item-109" class="item-109 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Doctorado en Filosofía</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-123" class="item-123 level3"><a href="/index.php/programas/doctorado-en-filosofia/por-que-hacer-el-doctorado-en-filosofia" >¿Por qué hacer el Doctorado en Filosofía de Los Andes? </a></li><li id="item-188" class="item-188 level3"><a href="/index.php/programas/doctorado-en-filosofia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-191" class="item-191 level3"><a href="/index.php/programas/doctorado-en-filosofia/convenios" >Convenios</a></li><li id="item-192" class="item-192 level3"><a href="/index.php/programas/doctorado-en-filosofia/admisiones" >Admisiones</a></li><li id="item-193" class="item-193 level3"><a href="/index.php/programas/doctorado-en-filosofia/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li></ul></li></ul></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        
+
+
+
+
+
+            <div class="ot-content">
+              <div class="ot-content-i">
+                
+<div id="system-message-container">
+</div>
+                	
+<div class="item-page">
+	<div class="item-page-bg">
+		<div class="heading-actions">
+						
+					<ul class="actions">
+												<li class="print-icon">
+					<a href="/index.php/programas/pregrado/descripcion?tmpl=component&amp;print=1&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Imprimir"  /></a>					</li>
+						
+						
+						
+					
+			</ul>
+				</div>
+				
+				
+				
+																				
+							<div id="b-texto"><img src="/images/recursos/barra_programa1.png" alt="" width="716" height="45" border="0" /></div>
+<div id="b-texto">
+<h1>Descripci&oacute;n del programa</h1>
+<strong><strong>C&oacute;digo SNIES:</strong> </strong>1537<strong><br />Bogot&aacute;<br />Formaci&oacute;n Universitaria: </strong>Pregrado<br /><strong>Modalidad: </strong>Presencial<strong><br />T&iacute;tulo: </strong>Fil&oacute;sofo (a)<br /> <strong>Duraci&oacute;n: </strong>8 semestres<br /> <strong>N&uacute;mero de cr&eacute;ditos:</strong> 126<br /> <strong>Jornada: </strong>Diurna<br />Ver programa completo <a href="https://filosofia.uniandes.edu.co/images/pdfs/Cursos_Filo201720ok.pdf">aqu&iacute;</a>
+<h1 style="text-align: left;">Estudiantes que inician cursos en el primer semestre del a&ntilde;o</h1>
+</div>
+<p>
+<div id="showcase-13-59b314b538ecc" class="wk-slideshow-showcasebox" data-widgetkit="showcase" data-options='{"style":"showcase_box","autoplay":1,"interval":5000,"width":730,"height":270,"duration":500,"index":0,"order":"default","buttons":1,"slices":20,"animated":"slide","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":4,"slideset_effect_duration":300}'>
+
+	<div id="slideshow-13-59b314b538ecc" class="wk-slideshow">
+		<div class="slides-container">
+			<ul class="slides">
+												<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="/images/pregrado/Boton1.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Introducción a la Filosofía<br /> (<strong>FILO 1010</strong>) 3 créditos</li>
+<li>Descartes<br /> (<strong>FILO 1120B</strong>) 3 créditos</li>
+<li>Aristóteles<br /> (<strong>FILO 1110B</strong>) 3 créditos</li>
+<li>Curso Año Básico: Pensadores: Weber, Durkheim y Marx<br /> (<strong>CISO 1200B</strong>) 3 créditos</li>
+<li>CBU 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton2.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Lógica 1<br /> (<strong>FILO 1000B</strong>) 3 créditos</li>
+<li>Empirismo<br /> (<strong>FILO 1130B</strong>) 3 créditos</li>
+<li>Platón<br /> (<strong>FILO 1100B</strong>) 3 créditos</li>
+<li>Historia de Colombia<br /> (<strong>CISO 1500B</strong>) 3 créditos</li>
+<li>Historia y Filosofía de la Ciencia<br /> (<strong>CISO 1403B</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton3.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma antiguo I (griego o latín)<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Lógica 2<br /> (<strong>FILO 2000</strong>) 3 créditos</li>
+<li>Curso Electivo Filosofía 1<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CLE 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton4.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma antiguo II<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Kant<br /> (<strong>FILO 2100</strong>) 3 créditos</li>
+<li>Filosofía Analítica<br /> (<strong>FILO 3110</strong>) 3 créditos</li>
+<li>Constitución y Democracia<br /> (<strong>DERE 1300</strong>) 3 créditos</li>
+<li>Requisito de Español<br /> (<strong>LITE 1611 o LENG 1501</strong>)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton5.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma antiguo III<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Hegel<br /> (<strong>FILO2110</strong>) 3 créditos</li>
+<li>Filosofía del Lenguaje<br /> (<strong>FILO 2530</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 1<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CBU 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton6.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma antiguo IV<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Heidegger<br /> (<strong>FILO 3100</strong>) 3 créditos</li>
+<li>Marx<br /> (<strong>FILO 2120B</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 2<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CBU 4<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU 5<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton7.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Nietzsche<br /> (<strong>FILO 2130</strong>) 3 créditos</li>
+<li>Curso Electivo Filosofía 2<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 3<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 4<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CLE 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU 6<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton8.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Código de Monografía<br /> (<strong>FILO 3010</strong>) 3 créditos</li>
+<li>Curso Electivo Filosofía 3<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Historia de Colombia<br /> (<strong>CISO 15XX</strong>) 3 créditos</li>
+<li>Curso Electivo Filosofía 4<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 5<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CLE 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+											</ul>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+
+	<div id="slideset-13-59b314b538ecc" class="wk-slideset ">
+		<div>
+			<div class="sets">
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque1.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque2.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque3.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque4.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque5.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque6.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque7.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque8.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+							</div>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+	
+</div>
+</p>
+<div id="b-texto">
+<h1 style="text-align: left;">Estudiantes que inician cursos en el segundo semestre del a&ntilde;o</h1>
+<p>
+<div id="showcase-44-59b314b53c554" class="wk-slideshow-showcasebox" data-widgetkit="showcase" data-options='{"style":"showcase_box","autoplay":1,"interval":5000,"width":730,"height":270,"duration":500,"index":0,"order":"default","buttons":1,"slices":20,"animated":"slide","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":4,"slideset_effect_duration":300}'>
+
+	<div id="slideshow-44-59b314b53c554" class="wk-slideshow">
+		<div class="slides-container">
+			<ul class="slides">
+												<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="/images/pregrado/Boton1.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Introducción a la Filosofía<br /> (<strong>FILO 1010</strong>) 3 créditos</li>
+<li>Lógica 1<br /> (<strong>FILO 1000B</strong>) 3 créditos</li>
+<li>Platón<br /> (<strong>FILO 1100B</strong>) 3 créditos</li>
+<li>Empirismo<br /> (<strong>FILO 1130B</strong>) 3 créditos</li>
+<li>Pensadores: Weber, Durkheim y Marx<br /> (<strong>CISO 1200B</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton2.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma Antiguo I (griego o latín)<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Lógica 2<br /> (<strong>FILO 2000</strong>) 3 créditos</li>
+<li>Descartes<br /> (<strong>FILO 1120B</strong>) 3 créditos</li>
+<li>Aristóteles<br /> (<strong>FILO 1110B</strong>) 3 créditos</li>
+<li>Historia de Colombia<br /> (<strong>CISO 1500B</strong>) 3 créditos</li>
+<li>Historia y Filosofía de la Ciencia<br /> (<strong>CISO 1403B</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton3.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma Antiguo II<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Kant<br /> (<strong>FILO 2100</strong>) 3 créditos</li>
+<li>Filosofía Analítica<br /> (<strong>FILO 3110</strong>) 3 créditos</li>
+<li>Requisito de Español<br /> (<strong>LITE 1611 o LENG 1501</strong>) 3 créditos</li>
+<li>CBU 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton4.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma Antiguo III<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Filosofía del Lenguaje<br /> (<strong>FILO 2530</strong>) 3 créditos</li>
+<li>Hegel<br /> (<strong>FILO2110</strong>) 3 créditos</li>
+<li>CBU 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>Constitución y Democracia<br /> (<strong>DERE 1300</strong>)</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton5.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma Antiguo IV<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Marx<br /> (<strong>FILO 2120B</strong>) 3 créditos</li>
+<li>Curso Electivo Filosofía 1<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 1<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CBU 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton6.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Nietzsche<br /> (<strong>FILO 2130</strong>) 3 créditos</li>
+<li>Curso Electivo Filosofía 2<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 2<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CLE 1<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CBU 4<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU 5<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton7.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Idioma Antiguo IV<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Heidegger<br /> (<strong>FILO 3100</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 3<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CLE 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU 6<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton8.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Código de Monografía<br /> (<strong>FILO 3010</strong>) 3 créditos</li>
+<li>Curso Electivo Filosofía 3<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Curso Electivo Filosofía 4<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>Seminario Electivo Filosofía 4<br /> (<strong>FILO XXXX</strong>) 3 créditos</li>
+<li>CLE 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+											</ul>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+
+	<div id="slideset-44-59b314b53c554" class="wk-slideset ">
+		<div>
+			<div class="sets">
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque1.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque2.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque3.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque4.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque5.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque6.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque7.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque8.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+							</div>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+	
+</div>
+</p>
+<h1>Ciclo B&aacute;sico Uniandino (CBU)</h1>
+<p>Con el objetivo de brindar una formaci&oacute;n integral a sus estudiantes, se plantea el CBU como instrumento de contacto obligatorio con &aacute;reas b&aacute;sicas del conocimiento (Artes y Humanidades, Ciencias Sociales y Ciencia y Tecnolog&iacute;a). El ciclo consta de seis cursos (18 cr&eacute;ditos) clasificados en dos categor&iacute;as: Tipo A y Tipo B. Los cursos Tipo A tratan temas generales de las mencionadas &aacute;reas de conocimiento, y el estudiante debe elegir una de cada &aacute;rea para un total de nueve cr&eacute;ditos. Los cursos Tipo B tratan problemas, autores, per&iacute;odos, teor&iacute;as y temas espec&iacute;ficos de las diferentes disciplinas, y el estudiante puede profundizar en las &aacute;reas que m&aacute;s le interesan con tres cursos (9 cr&eacute;ditos).</p>
+<p>Para consultar la oferta de cursos CBU vigente para el semestre acad&eacute;mico <a href="http://cbu.uniandes.edu.co/index.php"> ingrese aqu&iacute;</a></p>
+<h1>A&ntilde;o B&aacute;sico (cursos CISO)</h1>
+<p>El A&ntilde;o B&aacute;sico de la Facultad de Ciencias Sociales tiene los objetivos de desarrollar la capacidad cr&iacute;tica de los estudiantes, propiciar un di&aacute;logo entre las distintas disciplinas y construir perspectivas multifac&eacute;ticas para abordar los problemas y retos de la sociedad contempor&aacute;nea. As&iacute;, con el &aacute;nimo de lograr una formaci&oacute;n integral e interdisciplinaria en sus estudiantes, la Facultad ha dise&ntilde;ado el A&ntilde;o B&aacute;sico a partir de seis &aacute;reas: Pensadores cl&aacute;sicos I, Pensadores cl&aacute;sicos II, Filosof&iacute;a e Historia de las ciencias, Historia de Colombia, Historia de las Ciencia Sociales en Colombia y Am&eacute;rica Latina y Teor&iacute;as contempor&aacute;neas. Adicionalmente, el estudiante complementar&aacute; su a&ntilde;o b&aacute;sico con las introducciones y los cursos propios de su programa.</p>
+<h1>Cursos de Libre Elecci&oacute;n (CLE)</h1>
+<p>Consiste en cursos que pueden ser elegidos libremente de la oferta general de cursos de todos los programas acad&eacute;micos de la Universidad. Estos cursos pueden ser utilizados para cumplir con los requisitos de una opci&oacute;n, acumular cr&eacute;ditos del doble programa o incursionar en &aacute;reas extracurriculares.</p>
+<h1>Requisito de Espa&ntilde;ol</h1>
+<p>El requisito de espa&ntilde;ol pretende capacitar a todos los estudiantes de la Universidad en el uso adecuado de la lengua, con el fin de proporcionar las herramientas necesarias para elaborar textos acad&eacute;micos coherentes, apropiados y redactados de manera correcta. Los cursos para cumplir con este requisito son dictados &uacute;nicamente por el Departamento de Humanidades y Literatura (LITE1611), y el Departamento de Lenguajes y Estudios Socioculturales (LENG1501). El curso tiene 3 cr&eacute;ditos, su calificaci&oacute;n es num&eacute;rica, no puede ser validado ni homologado con el puntaje obtenido en las pruebas del ICFES, y debe cumplirse antes del tercer semestre del programa que adelante el estudiante.</p>
+<h1>Curso Constituci&oacute;n y Democracia</h1>
+<p>Cumpliendo con el mandato consignado en el Art&iacute;culo 41 de la Constituci&oacute;n, el curso busca, a trav&eacute;s de la ense&ntilde;anza de los principios constitucionales, fortalecer en los estudiantes el conocimiento cr&iacute;tico y la capacidad de actuaci&oacute;n de acuerdo a los valores que, como ciudadanos, es necesario poseer para ejercer de manera responsable los derechos y deberes. El curso (DERE1300) tiene 3 cr&eacute;ditos y es requisito obligatorio para todos los estudiantes de la Universidad, a excepci&oacute;n de los estudiantes de Derecho. <br /> Para mayor informaci&oacute;n <a href="https://cyd.uniandes.edu.co/"> ingrese aqu&iacute;</a></p>
+<h1>Idioma Extranjero</h1>
+<p>Como parte del proyecto de formaci&oacute;n de profesionales integrales, la Universidad promueve el aprendizaje y el dominio de una lengua extranjera. Por tal motivo, desde 1999 los estudiantes deben cumplir con dos requisitos de idioma: requisito de lectura en ingl&eacute;s y requisito de dominio de una segunda lengua. Todos los procesos relacionados con idiomas se realizan a trav&eacute;s del Departamento de Lenguajes y Estudios Socioculturales.</p>
+</div>
+<table border="0" id="contenido">
+<tbody>
+<tr>
+<td>
+<div class="bloque1">
+<h1>Convenios</h1>
+<p>La Universidad de los Andes cuenta con numerosos convenios y alianzas de intercambio de estudiantes con prestigiosas universidad en m&aacute;s de 20 pa&iacute;ses. Estos convenios promueven experiencias enriquecedoras que promueven en los estudiantes la integraci&oacute;n de la teor&iacute;a y la pr&aacute;ctica de su profesi&oacute;n en contextos y culturas diferentes, y la ampliaci&oacute;n de su visi&oacute;n del mundo. Los estudiantes pueden cursar hasta dos semestres en alguna de las universidades que hacen parte de los convenios de intercambio generales y espec&iacute;ficos (dirigidos a estudiantes de determinadas carreras). Algunas de las universidades que tienen convenios espec&iacute;ficos para los estudiantes de Ciencias Sociales son: Universit&eacute; Catholique de Louvain, Universit&eacute; de Bourgogne, University of Mannheim, Universit&eacute; de Paris X-Nanterre y Cologne Univeristy of Applied Sciences.</p>
+<p>Para m&aacute;s informaci&oacute;n sobre procedimientos y convenios de intercambio vigentes <a href="https://ctp.uniandes.edu.co/Estudiantes/Programas/Intercambios/Convenios/index.php"> ingrese aqu&iacute;<br /></a></p>
+<div class="bloque1">
+<h2 style="text-align: left;">Reglamento General de Estudiantes de Pregrado</h2>
+<a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoGralEstudiantesPregrado.pdf" target="_blank">Ver aqu&iacute;</a><br />
+<p>&nbsp;</p>
+</div>
+</div>
+</td>
+<td>
+<div class="bloque2">&nbsp;</div>
+<div id="destacado-1">
+<div class="bloque1"><strong>Cursos de&nbsp;Filosof&iacute;a 2017-2</strong>
+<p><a href="https://filosofia.uniandes.edu.co/images/pdfs/Cursos_Filo201720ok.pdf">Ver aqu&iacute;</a></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>		
+								</div>
+</div>
+              </div>
+                          </div>
+               
+<div class="ot-bottom-banner">      
+ 
+ </div>
+          
+            
+                    </div>
+        </div>
+      </div>
+                               
+
+      
+      <!--******************** END MAINBODY********************-->
+            
+      
+      
+      <!--******************** START FOOTER ********************-->
+    
+      <div class="ot-footer">
+        <div class="ot-footer-w template-width">
+          <div class="ot-footer-i">
+                        <div class="ot-bottom-1">
+              <div class="ot-bottom-1-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="pie"><strong>UNIVERSIDAD DE LOS ANDES | Vigilada MinEducaci&oacute;n<br /></strong>Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964<br />Reconocimiento personer&iacute;a jur&iacute;dica: Res. 28 del 23 de febrero de 1949 Min. Justicia.</div>
+<div class="pie"><br /><strong>FACULTAD DE CIENCIAS SOCIALES<br />DEPARTAMENTO DE FILOSOF&Iacute;A</strong><br />Carrera&nbsp;1 No. 18 A-10/12 - Edificio Franco,&nbsp;Piso 5, Bogot&aacute;, Colombia<br />Tel: +571 3394949 Ext.: 2530</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<p><a href="/index.php" target="_self" class="opacity"><img src="/images/iconos/01.png" alt="" border="0" /></a><a href="/index.php/contacto" target="_self" class="opacity"><img src="/images/iconos/02.png" alt="" border="0" /></a><a href="https://www.facebook.com/facisouniandes" target="_blank"><img src="/images/iconos/03.png" alt="" border="0" /></a><a href="https://twitter.com/facisouniandes" target="_blank"><img src="/images/iconos/07.png" alt="" border="0" /></a><a href="http://issuu.com/rfaciso" target="_blank"><img src="/images/iconos/04.png" alt="" border="0" /></a><script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy74309 = 'r&#101;lf&#97;c&#105;s&#111;' + '&#64;';
+ addy74309 = addy74309 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text74309 = '<img src="/images/iconos/05.png" alt="" border="0" />';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy74309 + '\'>');
+ document.write(addy_text74309);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Esta dirección de correo electrónico está protegida contra spambots. Usted necesita tener Javascript activado para poder verla.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><a href="/index.php/buscar"><img src="/images/iconos/06.png" alt="" border="0" /></a></p></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                                    <div class="ot-bottom-2">
+              <div class="ot-bottom-2-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><strong>REDES UNIANDES</strong><br />&bull; <a href="http://www.facebook.com/pages/Universidad-de-los-Andes/312867483159" target="_blank">Facebook</a><br />&bull; <a href="http://www.youtube.com/user/uniandes" target="_blank">YouTube</a><br />&bull; <a href="http://twitter.com/uniandes" target="_blank">Twitter</a><br />&bull; <a href="http://feeds.feedburner.com/NoticiasUniandinas" target="_blank">Canales RSS</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+             
+
+            <div class="ot-bottom-3">
+              <div class="ot-bottom-3-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/" target="_blank">Normatividad Institucional</a><br /><a href="https://apoyofinanciero.uniandes.edu.co/" target="_blank">Apoyo Financiero</a><br /><a href="http://registro.uniandes.edu.co/" target="_blank">Admisiones y Registro</a><br /><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/" target="_blank">Educaci&oacute;n continuada</a><br /><a href="http://biblioteca.uniandes.edu.co/" target="_blank">Sistema de Bibliotecas</a><br /><a href="http://egresados.uniandes.edu.co" target="_blank">Portal de egresados</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        <div class="ot-bottom-4">
+              <div class="ot-bottom-4-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos">Contacto<br /><a href="/index.php/site-map">Mapa del sitio</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+      <!--******************** END FOOTER ********************-->
+    </div>
+    
+
+
+  <div class="pata"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap"><span class="mainlevel"> </span><a href="/?view=featured" class="mainlevel" title="Inicio">Inicio</a><span class="mainlevel">  </span><a href="/index.php/el-departamento" class="mainlevel" title="El Departamento">El Departamento</a><span class="mainlevel">  </span><a href="/index.php/programas" class="mainlevel" title="Programas">Programas</a><span class="mainlevel">  </span><a href="/index.php/profesores" class="mainlevel" title="Profesores">Profesores</a><span class="mainlevel">  </span><a href="/index.php/investigacion" class="mainlevel" title="Investigación">Investigación</a><span class="mainlevel">  </span><a href="/index.php/publicaciones" class="mainlevel" title="Publicaciones">Publicaciones</a><span class="mainlevel">  </span><a href="/index.php/noticias-y-eventos?view=list" class="mainlevel" title="Noticias y Eventos">Noticias y Eventos</a><span class="mainlevel">  </span><a href="/index.php/contacto" class="mainlevel" title="Contacto">Contacto</a><span class="mainlevel">  </span></td></tr></table>
+
+<div class="custom"  >
+	<p style="text-align: center;">Departamento de&nbsp;Filosofía | Carrera 1 No 18A 10 Bogotá, D.C., Colombia Tels: +571 3394949 - +571 3394999 Ext.2530<br />&nbsp;2013 ©</p></div>
+</div>
+
+
+
+
+
+
+
+
+</body>
+</html>
+

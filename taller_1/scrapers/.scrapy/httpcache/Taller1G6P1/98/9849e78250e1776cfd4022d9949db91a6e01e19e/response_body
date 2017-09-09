@@ -1,0 +1,646 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" >
+  <head>
+
+  <base href="https://historia.uniandes.edu.co/index.php/programas/pregrado/descripcion" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Descripción del programa</title>
+  <link href="/templates/ot_appoz/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-35424751.css" type="text/css" />
+  <link rel="stylesheet" href="https://historia.uniandes.edu.co/plugins/content/plg_zoomin/plg_zoomin/zoomy1.2.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ot_appoz/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://historia.uniandes.edu.co/modules/mod_accordeonck/themes/simple/mod_accordeonck_css.php?cssid=accordeonck47594" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_pwebfblikebox/css/likebox.css" type="text/css" />
+  <style type="text/css">
+div.template-width {width: 960px;}div.ot-leftcolumn {width: 220px;}div.ot-header {background-color: #441513;}div.ot-banner {background-color: #FFFFFF;}div.ot-topboxes {background-color: #FFFFFF;}div.ot-mainbody {background-color: #FFFFFF;}div.ot-footer {background-color: #441513;}body#ot-body {color: #000000;}a {color: #A11A1C;}body#ot-body {font-size: 14px;}h1 {color: #000000;}h1 {font-size: 25px;}h2 {color: #000000;}h2 {font-size: 20px;}h3 {color: #000000;}h3 {font-size: 18px;}h4 {color: #000000;}h4 {font-size: 16px;}h5 {color: #000000;}h5 {font-size: 15px;}h6 {color: #000000;}h6 {font-size: 15px;}
+			.width100{ width: 100px; } 
+			 
+			.width50{ width: 50px; } 
+			 
+			.width33{ width: 33px; } 
+			 
+			.width25{ width: 25px; } 
+			 
+			.width20{ width: 20px; } 
+			 #accordeonck47594 li a.toggler { background: url(https://historia.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck47594 li a.toggler.open { background: url(https://historia.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }#accordeonck47594 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck47594 {  } #accordeonck47594 li.level1 {  } #accordeonck47594 li.level1 > a { color: #FFFFFF;font-size: 13px; } #accordeonck47594 li.level1 > a:hover { color: #000000; } #accordeonck47594 li.level1 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck47594 li.level2 {  } #accordeonck47594 li.level2 > a { color: #FFFFFF;font-size: 13px; } #accordeonck47594 li.level2 > a:hover { color: #CCCCCC; } #accordeonck47594 li.level2 > a span.accordeonckdesc { color: #CCCCCC;font-size: 13px; } #accordeonck47594 li.level3 {  } #accordeonck47594 li.level3 a { color: #ABABAB;font-size: 12px; } #accordeonck47594 li.level3 a:hover { color: #000000; } #accordeonck47594 li.level3 a span.accordeonckdesc { color: #000000;font-size: 13x; } 
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-78be7254.js" type="text/javascript"></script>
+  <script src="https://historia.uniandes.edu.co/plugins/content/plg_zoomin/plg_zoomin/jquery.zoomy1.2.js" type="text/javascript"></script>
+  <script src="/templates/ot_appoz/scripts/menudropdown.js" type="text/javascript"></script>
+  <script src="https://historia.uniandes.edu.co/modules/mod_accordeonck/assets/mod_accordeonck.js" type="text/javascript"></script>
+  <script src="/media/mod_pwebfblikebox/js/mootools.likebox.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck47594'),{fadetransition : true,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck47594',imagePlus : 'https://historia.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png',imageMinus : 'https://historia.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/es_ES/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,"script","facebook-jssdk"));
+
+/*===  EASY GOOGLE ANALYTICS : START TRACKING CODE  ===*/
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-51158885-16']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+/*===  EASY GOOGLE ANALYTICS : END TRACKING CODE  ===*/
+
+  </script>
+  <!--[if lte IE 8]>
+<link rel="stylesheet" href="/media/mod_pwebfblikebox/css/ie.css" />
+<![endif]-->
+
+
+  <link rel="stylesheet" href="https://historia.uniandes.edu.co/plugins/system/HDsocialbm/icons.css" type="text/css" />
+</head>
+
+
+
+
+
+  <body id="ot-body" class="left-content-right">
+
+<div id="ot-top" class="color">
+
+
+<div class="custom"  >
+	<div class="color">
+<div id="molde">.</div>
+</div></div>
+
+</div>
+
+
+
+
+  <div class="ot-wrap">
+    <div class="ot-wrap-i">
+      <!--******************** START HEADER ********************-->
+      <div class="ot-header">
+        <div class="ot-header-w template-width">
+          <div class="ot-header-i">
+            <div class="ot-logo">
+                            
+
+<div class="custom"  >
+	<div><a href="http://www.uniandes.edu.co" target="_blank"><img src="/images/logo.png" alt="" border="0" /></a></div></div>
+
+                            
+
+            </div>
+
+
+
+
+
+          </div>
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+
+
+      <!--******************** END HEADER ********************-->
+
+      
+
+
+                        <div class="ot-mainmenu">
+        <div class="ot-mainmenu-w template-width">
+          <div id="ot-mainmenu" class="ot-mainmenu-i">
+            <ul class="menu level0">
+<li id="item-102" class="level0 first"><a href="/" ><span>Inicio</span></a></li><li id="item-129" class="level0"><a href="/index.php/el-departamento" ><span>El Departamento</span></a></li><li id="item-105" class="active level0"><a href="/index.php/programas" ><span>Programas</span></a></li><li id="item-110" class="level0"><a href="/index.php/profesores" ><span>Profesores</span></a></li><li id="item-111" class="level0"><a href="/index.php/investigacion" ><span>Investigación</span></a></li><li id="item-112" class="level0"><a href="/index.php/publicaciones/facultad-de-ciencias-sociales" ><span>Publicaciones</span></a></li><li id="item-140" class="level0"><a href="/index.php/laboratorios" ><span>Laboratorios</span></a></li><li id="item-113" class="level0"><a href="/index.php/servicios" ><span>Servicios</span></a></li><li id="item-114" class="level0"><a href="/index.php/noticias-y-eventos" ><span>Noticias y Eventos</span></a></li><li id="item-141" class="level0"><a href="/index.php/contacto" ><span>Contacto</span></a></li></ul>
+          </div>
+        </div>
+      </div>
+
+      
+      
+
+      <div class="ot-banner">
+        <div class="ot-banner-w template-width">
+
+
+          <div class="ot-banner-i">
+
+
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<!-- PWebFBLikeBox -->
+<div id="pwebfblikebox208" class="pwebfblikebox pwebfblikebox-left pwebfblikebox-radius slidebox ">
+	<div class="pwebfblikebox_tab f-white"></div>
+		<div class="pwebfblikebox_container" style="width:400px;"><div id="fb-root"></div><fb:like-box id="pwebfblikebox208_xfbml" href="https://www.facebook.com/facisouniandes" show_faces="true" stream="true" header="true" width="400" force_wall="true"></fb:like-box></div>
+</div>
+
+<script type="text/javascript">
+(function(){
+	pwebFBLikeBox208 = new pwebFBLikeBox({
+		id: 		208,
+		prefix: 	'pwebfblikebox208',
+		open: 		'click',
+		close: 		'click',
+				position: 	'left',
+		top: 		-1,
+		layout: 	'slidebox'
+	});
+})();
+if(typeof window.fbAsyncInit=="function")window.fbAsyncInitPweb=window.fbAsyncInit;window.fbAsyncInit=function(){FB.Event.subscribe("edge.create",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","like",u])});FB.Event.subscribe("edge.remove",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","unlike",u])});if(typeof window.fbAsyncInitPweb=="function")window.fbAsyncInitPweb.apply(this,arguments)};</script>
+<!-- PWebFBLikeBox end -->			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+<div class="breadcrumbs">
+<a href="/" class="pathway">▲</a> » <a href="/index.php/programas" class="pathway">Programas</a> » <span>Pregrado en Historia</span> » <span>Descripción del programa</span></div>
+			</div>
+		</div>
+	</div>
+
+          </div>
+          <div class="botonera_deptos">
+            
+          </div>
+        </div>
+        
+
+</div>     
+ 
+
+         
+     
+
+
+       
+      <!--******************** START MAINBODY ********************-->
+      <div class="ot-mainbody">
+
+
+        <div class="ot-mainbody-w template-width"> 
+        
+       
+        <div class="ot-mainbody-i">
+            
+          
+                        <div class="ot-leftcolumn">
+              <div class="ot-leftcolumn-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div id="titular">
+<div id="cs">Programas</div>
+</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<div class="accordeonck ">
+<ul class="menu" id="accordeonck47594">
+<li id="item-106" class="item-106 active active parentparent  level2"><a class="toggler toggler_1  isactive " href="javascript:void(0);"><span class="separator">Pregrado en Historia</span></a><ul class="content_1" style=""><li id="item-147" class="item-147 level3"><a href="/index.php/programas/pregrado/por-que-hacer-el-pregrado-en-historia" >¿Por qué hacer el pregrado en Historia de Los Andes?</a></li><li id="item-116" class="item-116 current activecurrent  active level3"><a class="isactive " href="/index.php/programas/pregrado/descripcion" >Descripción del programa</a></li><li id="item-119" class="item-119 level3"><a href="/index.php/programas/pregrado/opciones" >Opciones académicas</a></li><li id="item-204" class="item-204 level3"><a href="https://historia.uniandes.edu.co/index.php/profesores" >Profesores</a></li><li id="item-195" class="item-195 level3"><a href="/index.php/programas/pregrado/admisiones-y-apoyo-financiero" >Admisiones y Apoyo financiero</a></li></ul></li><li id="item-107" class="item-107 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Maestría en Historia</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-122" class="item-122 level3"><a href="/index.php/programas/maestria-en-historia/por-que-hacer-la-maestria-en-historia" >¿Por qué hacer la Maestría en Historia de Los Andes?</a></li><li id="item-157" class="item-157 level3"><a href="/index.php/programas/maestria-en-historia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-160" class="item-160 level3"><a href="/index.php/programas/maestria-en-historia/convenios" >Convenios</a></li><li id="item-161" class="item-161 level3"><a href="/index.php/programas/maestria-en-historia/admisiones" >Admisiones</a></li><li id="item-162" class="item-162 level3"><a href="/index.php/programas/maestria-en-historia/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li></ul></li><li id="item-108" class="item-108 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Maestría en Geografía</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-124" class="item-124 level3"><a href="/index.php/programas/maestria-en-geografia/por-que-hacer-la-maestria-en-geografia" >¿Por qué hacer la Maestría en Geografía de Los Andes?</a></li><li id="item-165" class="item-165 level3"><a href="/index.php/programas/maestria-en-geografia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-168" class="item-168 level3"><a href="/index.php/programas/maestria-en-geografia/convenios" >Convenios</a></li><li id="item-169" class="item-169 level3"><a href="/index.php/programas/maestria-en-geografia/admisiones" >Admisiones</a></li><li id="item-170" class="item-170 level3"><a href="/index.php/programas/maestria-en-geografia/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li></ul></li><li id="item-109" class="item-109 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Doctorado en Historia</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-123" class="item-123 level3"><a href="/index.php/programas/doctorado-en-historia/porque-hacer-el-doctorado-en-historia" >¿Porqué hacer el Doctorado en Historia de Los Andes?</a></li><li id="item-188" class="item-188 level3"><a href="/index.php/programas/doctorado-en-historia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-205" class="item-205 level3"><a href="/index.php/programas/doctorado-en-historia/estudiantes-doctorado" >Estudiantes</a></li><li id="item-191" class="item-191 level3"><a href="/index.php/programas/doctorado-en-historia/convenios" >Convenios</a></li><li id="item-192" class="item-192 level3"><a href="/index.php/programas/doctorado-en-historia/admisiones" >Admisiones</a></li><li id="item-193" class="item-193 level3"><a href="/index.php/programas/doctorado-en-historia/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li><li id="item-277" class="item-277 level3"><a href="/index.php/programas/doctorado-en-historia/becas-colciencias" >Becas Colciencias</a></li></ul></li></ul></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        
+
+
+
+
+
+            <div class="ot-content">
+              <div class="ot-content-i">
+                
+<div id="system-message-container">
+</div>
+                <div class="item-page">
+	<div class="item-page-bg">
+		<div class="heading-actions">
+						
+					<ul class="actions">
+												<li class="print-icon">
+					<a href="/index.php/programas/pregrado/descripcion?tmpl=component&amp;print=1&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Imprimir"  /></a>					</li>
+						
+						
+						
+					
+			</ul>
+				</div>
+				
+				
+				
+																				
+							<div id="b-texto"><img src="/images/pregrado/barra_programa4.png" alt="" width="716" height="45" border="0" /></div>
+<div id="b-texto">
+<h1>Descripción del programa</h1>
+<p><strong><strong>Código SNIES:</strong> </strong>3918<br /><strong>Bogotá<br />Formación Universitaria: </strong>Pregrado<br /><strong>Modalidad: </strong>Presencial<strong><br />Título: </strong>Historiador(a)<br /> <strong>Duración:</strong> 8 semestres<strong><br /> Número de créditos:</strong> 123<br /> <strong>Jornada:</strong> Diurna<br /><strong>Acreditación Nacional:</strong> Resolución 2586 de Julio 1 de 2005 (8 años)</p>
+</div>
+<p>
+<div id="showcase-13-59b315535e7d9" class="wk-slideshow-showcasebox" data-widgetkit="showcase" data-options='{"style":"showcase_box","autoplay":1,"interval":5000,"width":730,"height":270,"duration":500,"index":0,"order":"default","buttons":1,"slices":20,"animated":"slide","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":4,"slideset_effect_duration":300}'>
+
+	<div id="slideshow-13-59b315535e7d9" class="wk-slideshow">
+		<div class="slides-container">
+			<ul class="slides">
+												<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="/images/pregrado/Boton1.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Introducción I: Problemas del conocimiento histórico<br /> (<strong>HIST 1101</strong>) 3 créditos</li>
+<li>Pensadores clásicos: Marx, Weber y Durkheim<br /> (<strong>CISO 1500</strong>) 3 créditos</li>
+<li>Colombia Contemporánea<br /> (<strong>CISO 15XX</strong>) 3 créditos</li>
+<li>Historia y filosofía de la Ciencia<br /> (<strong>CISO 14XX</strong>) 3 créditos</li>
+<li>Español: escritura de textos<br /> (<strong>LENG 1501</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton2.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Introducción II: Conceptos historiográficos<br /> (<strong>HIST 1102</strong>) 3 créditos</li>
+<li>Pensadores <br /> (<strong>CISO 12XX</strong>) 3 créditos</li>
+<li>Historia de las Ciencias Sociales en Colombia y América Latina<br /> (<strong>CISO 19XX</strong>)3 créditos</li>
+<li>Teoría Contemporánea<br /> (<strong>CISO 16XX</strong>)3 créditos</li>
+<li>Introducción a la Geografía, Geografía General o Pensamiento Geográfico<br /> (<strong>HIST XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton3.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Fuentes I : Archivos y documentos<br /> (<strong>HIST 2104</strong>) 3 créditos</li>
+<li>Estadística I<br /> (<strong>MATE 1501</strong>) 3 créditos</li>
+<li>Mundo Antiguo<br /> (<strong>HIST 2406</strong>) 3 créditos</li>
+<li>Geografía de Colombia/América Latina<br /> (<strong>HIST 2204/2206</strong>) 3 créditos</li>
+<li>Etnohistoria<br /> (<strong>ANTR 2106</strong>) 3 créditos</li>
+<li>CBU A 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton4.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Fuentes II<br /> (<strong>HIST 2102</strong>) 3 créditos</li>
+<li>Edad Media<br /> (<strong>HIST 2404</strong>) 3 créditos</li>
+<li>Historia Colonial Comparada<br /> (<strong>HIST 2300</strong>) 3 créditos</li>
+<li>CBU A 2<br /> (<strong>XXXX/2206</strong>) 3 créditos</li>
+<li>Requisito Lectura Inglés</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton5.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Corrientes Historiográficas<br /> (<strong>HIST 2104</strong>) 3 créditos</li>
+<li>Colombia siglo XIX<br /> (<strong>HIST 2202</strong>) 3 créditos</li>
+<li>Historia Moderna<br /> (<strong>HIST 24XX</strong>) 3 créditos</li>
+<li>América Latina siglo XIX<br /> (<strong>HIST 2302</strong>) 3 créditos</li>
+<li>Seminario Perspectivas Historiográficas<br /> (<strong>HIST 3XXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton6.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Historiografía de Colombia<br /> (<strong>HIST 2103</strong>) 3 créditos</li>
+<li>Historia de Colombia siglo XX<br /> (<strong>HIST 2205</strong>) 3 créditos</li>
+<li>Área Época Contemporánea<br /> (<strong>HIST 24XX</strong>) 3 créditos</li>
+<li>América Latina siglo XX<br /> (<strong>HIST 2303</strong>) 3 créditos</li>
+<li>Seminario electivo 1<br /> (<strong>HIST 3XXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton7.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Seminario Monografía de Grado<br /> (<strong>HIST 3103</strong>) 3 créditos</li>
+<li>CBU A 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU B 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CLE 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>Seminario electivo 2<br /> (<strong>HIST 3XXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton8.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Opción de Grado<br /> (<strong>HIST 3101/HIST 3106/HIST 3993 </strong>) 6 créditos</li>
+<li>CBU B 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU B 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CLE 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+											</ul>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+
+	<div id="slideset-13-59b315535e7d9" class="wk-slideset ">
+		<div>
+			<div class="sets">
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque1.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque2.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque3.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque4.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque5.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque6.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque7.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque8.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+							</div>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+	
+</div>
+</p>
+<div id="b-texto">
+<h1>Ciclo Básico Uniandino (CBU)</h1>
+<p>Con el objetivo de brindar una formación integral a sus estudiantes, se plantea el CBU como instrumento de contacto obligatorio con áreas básicas del conocimiento (Artes y Humanidades, Ciencias Sociales y Ciencia y Tecnología). El ciclo consta de seis cursos (18 créditos) clasificados en dos categorías: Tipo A y Tipo B. Los cursos Tipo A tratan temas generales de las mencionadas áreas de conocimiento, y el estudiante debe elegir una de cada área para un total de nueve créditos. Los cursos Tipo B tratan problemas, autores, períodos, teorías y temas específicos de las diferentes disciplinas, y el estudiante puede profundizar en las áreas que más le interesan con tres cursos (9 créditos).</p>
+<p>Para consultar la oferta de cursos CBU vigente para el semestre académico <a href="http://cbu.uniandes.edu.co/index.php"> ingrese aquí</a></p>
+<h1>Año Básico (cursos CISO)</h1>
+<p>El Año Básico de la Facultad de Ciencias Sociales tiene los objetivos de desarrollar la capacidad crítica de los estudiantes, propiciar un diálogo entre las distintas disciplinas y construir perspectivas multifacéticas para abordar los problemas y retos de la sociedad contemporánea. Así, con el ánimo de lograr una formación integral e interdisciplinaria en sus estudiantes, la Facultad ha diseñado el Año Básico a partir de seis áreas: Pensadores clásicos I, Pensadores clásicos II, Filosofía e Historia de las ciencias, Historia de Colombia, Historia de las Ciencia Sociales en Colombia y América Latina y Teorías contemporáneas. Adicionalmente, el estudiante complementará su año básico con las introducciones y los cursos propios de su programa.</p>
+<h1>Cursos de Libre Elección (CLE)</h1>
+<p>Consiste en cursos que pueden ser elegidos libremente de la oferta general de cursos de todos los programas académicos de la Universidad. Estos cursos pueden ser utilizados para cumplir con los requisitos de una opción, acumular créditos del doble programa o incursionar en áreas extracurriculares.</p>
+<h1>Requisito de Español</h1>
+<p>El requisito de español pretende capacitar a todos los estudiantes de la Universidad en el uso adecuado de la lengua, con el fin de proporcionar las herramientas necesarias para elaborar textos académicos coherentes, apropiados y redactados de manera correcta. Los cursos para cumplir con este requisito son dictados únicamente por el Departamento de Humanidades y Literatura (LITE1611), y el Departamento de Lenguas y Cultura (LENG1501). El curso tiene 3 créditos, su calificación es numérica, no puede ser validado ni homologado con el puntaje obtenido en las pruebas del ICFES, y debe cumplirse antes del tercer semestre del programa que adelante el estudiante.</p>
+<h1>Curso Constitución y Democracia</h1>
+<p>Cumpliendo con el mandato consignado en el Artículo 41 de la Constitución, el curso busca, a través de la enseñanza de los principios constitucionales, fortalecer en los estudiantes el conocimiento crítico y la capacidad de actuación de acuerdo a los valores que, como ciudadanos, es necesario poseer para ejercer de manera responsable los derechos y deberes. El curso (DERE1300) tiene 3 créditos y es requisito obligatorio para todos los estudiantes de la Universidad, a excepción de los estudiantes de Derecho. <br /> Para mayor información <a href="https://cyd.uniandes.edu.co/"> ingrese aquí</a></p>
+<h1>Idioma Extranjero</h1>
+<p>Como parte del proyecto de formación de profesionales integrales, la Universidad promueve el aprendizaje y el dominio de una lengua extranjera. Por tal motivo, desde 1999 los estudiantes deben cumplir con dos requisitos de idioma: requisito de lectura en inglés y requisito de dominio de una segunda lengua. Todos los procesos relacionados con idiomas se realizan a través del Departamento de Lenguajes y Estudios Socioculturales.</p>
+</div>
+<table id="contenido" border="0">
+<tbody>
+<tr>
+<td>
+<div class="bloque1">
+<h1>Convenios</h1>
+<p>La Universidad de los Andes cuenta con numerosos convenios y alianzas de intercambio de estudiantes con prestigiosas universidad en más de 20 países. Estos convenios promueven experiencias enriquecedoras que promueven en los estudiantes la integración de la teoría y la práctica de su profesión en contextos y culturas diferentes, y la ampliación de su visión del mundo. Los estudiantes pueden cursar hasta dos semestres en alguna de las universidades que hacen parte de los convenios de intercambio generales y específicos (dirigidos a estudiantes de determinadas carreras). Algunas de las universidades que tienen convenios específicos para los estudiantes de Ciencias Sociales son: Université Catholique de Louvain, Université de Bourgogne, University of Mannheim, Université de Paris X-Nanterre y Cologne Univeristy of Applied Sciences.</p>
+<p>Para más información sobre procedimientos y convenios de intercambio vigentes <a href="https://ctp.uniandes.edu.co/Estudiantes/Programas/Intercambios/Convenios/index.php"> ingrese aquí<br /></a></p>
+<div class="bloque1">
+<h2 style="text-align: left;">Reglamento General de Estudiantes de Pregrado</h2>
+<a href="http://secretariageneral.uniandes.edu.co/index.php/es/component/content/article/11-asuntos-estudiantiles/24-reglamentos-estudiantiles" target="_blank">Ver aquí</a><br />
+<p>&nbsp;</p>
+</div>
+</div>
+</td>
+<td>
+<div class="bloque2">&nbsp;</div>
+<div id="destacado-1">
+<div class="bloque1"><strong>Cursos de Historia</strong>
+<p><a href="http://registro.uniandes.edu.co/index.php/elaboracion-de-horario/oferta-de-cursos" target="blank"> Ver aquí</a></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>		
+								</div>
+</div>
+              </div>
+                          </div>
+               
+<div class="ot-bottom-banner">      
+ 
+ </div>
+          
+            
+                    </div>
+        </div>
+      </div>
+                               
+
+      
+      <!--******************** END MAINBODY********************-->
+            
+      
+      
+      <!--******************** START FOOTER ********************-->
+    
+      <div class="ot-footer">
+        <div class="ot-footer-w template-width">
+          <div class="ot-footer-i">
+                        <div class="ot-bottom-1">
+              <div class="ot-bottom-1-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="pie"><strong>UNIVERSIDAD DE LOS ANDES | Vigilada MinEducación<br /></strong>Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964<br />Reconocimiento personería jurídica: Res. 28 del 23 de febrero de 1949 Min. Justicia.</div>
+<div class="pie"><br /><strong>FACULTAD DE CIENCIAS SOCIALES<br />DEPARTAMENTO DE HISTORIA</strong><br />Carrera 1 No. 18 A-10/12 - Edificio Franco, Piso 4, Bogotá, Colombia<br />Tel: +571 332 45 06</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<p>&nbsp;<a href="/index.php" target="_self" class="opacity"><img src="/images/iconos/01.png" alt="" border="0" /></a><a href="/index.php/contacto" target="_self" class="opacity"><img src="/images/iconos/02.png" alt="" border="0" /></a><a href="https://www.facebook.com/facisouniandes" target="_blank"><img src="/images/iconos/03.png" alt="" border="0" /></a><a href="https://twitter.com/facisouniandes" target="_blank"><img src="/images/iconos/07.png" alt="" border="0" /></a><a href="http://issuu.com/rfaciso" target="_blank"><img src="/images/iconos/04.png" alt="" border="0" /></a><script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy81788 = 'r&#101;lf&#97;c&#105;s&#111;' + '&#64;';
+ addy81788 = addy81788 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text81788 = '<img src="/images/iconos/05.png" alt="" border="0" />';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy81788 + '\'>');
+ document.write(addy_text81788);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Esta dirección de correo electrónico está protegida contra spambots. Usted necesita tener Javascript activado para poder verla.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><a href="/index.php/buscar"><img src="/images/iconos/06.png" alt="" border="0" /></a> &nbsp;</p></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                                    <div class="ot-bottom-2">
+              <div class="ot-bottom-2-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><strong>REDES UNIANDES</strong><br />• <a href="http://www.facebook.com/pages/Universidad-de-los-Andes/312867483159" target="_blank">Facebook</a><br />• <a href="http://www.youtube.com/user/uniandes" target="_blank">YouTube</a><br />• <a href="http://twitter.com/uniandes" target="_blank">Twitter</a><br />• <a href="http://feeds.feedburner.com/NoticiasUniandinas" target="_blank">Canales RSS</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+             
+
+            <div class="ot-bottom-3">
+              <div class="ot-bottom-3-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/" target="_blank">Normatividad Institucional&nbsp;</a><br /><a href="https://apoyofinanciero.uniandes.edu.co/" target="_blank">Apoyo Financiero</a><br /><a href="http://registro.uniandes.edu.co/" target="_blank">Admisiones y Registro</a><br /><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/" target="_blank">Educación continuada</a><br /><a href="http://biblioteca.uniandes.edu.co/" target="_blank">Sistema de Bibliotecas</a><br /><a href="http://egresados.uniandes.edu.co" target="_blank">Portal de egresados</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        <div class="ot-bottom-4">
+              <div class="ot-bottom-4-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos">Contacto<br /><a href="/index.php/site-map">Mapa del sitio</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+      <!--******************** END FOOTER ********************-->
+    </div>
+    
+
+
+  <div class="pata"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap"><span class="mainlevel"> </span><a href="/?view=featured" class="mainlevel" title="Inicio">Inicio</a><span class="mainlevel">  </span><a href="/index.php/el-departamento" class="mainlevel" title="El Departamento">El Departamento</a><span class="mainlevel">  </span><a href="/index.php/programas" class="mainlevel" title="Programas">Programas</a><span class="mainlevel">  </span><a href="/index.php/profesores" class="mainlevel" title="Profesores">Profesores</a><span class="mainlevel">  </span><a href="/index.php/investigacion" class="mainlevel" title="Investigación">Investigación</a><span class="mainlevel">  </span><a href="/index.php/publicaciones/facultad-de-ciencias-sociales" class="mainlevel" title="Publicaciones">Publicaciones</a><span class="mainlevel">  </span><a href="/index.php/laboratorios" class="mainlevel" title="Laboratorios">Laboratorios</a><span class="mainlevel">  </span><a href="/index.php/servicios" class="mainlevel" title="Servicios">Servicios</a><span class="mainlevel">  </span><a href="/index.php/noticias-y-eventos?view=list" class="mainlevel" title="Noticias y Eventos">Noticias y Eventos</a><span class="mainlevel">  </span><a href="/index.php/contacto" class="mainlevel" title="Contacto">Contacto</a><span class="mainlevel">  </span></td></tr></table>
+
+<div class="custom"  >
+	<p style="text-align: center;">Departamento de Historia | Carrera 1 No 18A 10 Edificio Franco 4 piso | Bogotá, D.C., Colombia Tel: +57(1) 3394999 Ext 2525<br />2013 ©</p></div>
+</div>
+
+
+
+
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e12ab96101","applicationID":"12714476","transactionName":"blMDZEECXEVUVUcMDFcZIFNHCl1YGnVcCxdcWBVzXA1GRFpaXwARFlIIQ0MPU08=","queueTime":0,"applicationTime":613,"atts":"QhQAEgkYT0s=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+

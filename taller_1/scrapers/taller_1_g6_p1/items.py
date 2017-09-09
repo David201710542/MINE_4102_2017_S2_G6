@@ -11,3 +11,6 @@ class Taller1G6P1Item(scrapy.Item):
 	facultad = scrapy.Field()
 	url = scrapy.Field()
 	fuente = scrapy.Field()
+	orden = scrapy.Field()
+	origen = scrapy.Field()
+	nivel = scrapy.Field()

@@ -1,0 +1,221 @@
+<!DOCTYPE HTML>
+<html lang="es-es" dir="ltr"  data-config='{"twitter":0,"plusone":0,"facebook":0,"style":"default"}'>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="https://educacion.uniandes.edu.co/index.php/licenciatura-en-arte" />
+  <meta name="keywords" content="facultad de educacion, maestría en educación, coloquio, licenciaturas, Doctor en educación,Licenciatura en Ciencias Sociales, Opción en educación, Maestría en Educación" />
+  <meta name="author" content="aquitian" />
+  <meta name="description" content="La Facultad de Educación nace del Centro de Investigación y Formación en Educación- CIFE. Este centro, creado en el 2001, responde a través de sus programas académicos, investigación y proyectos, a la creciente preocupación de la Universidad de los Andes por analizar críticamente su prácrica pedagógica y poner su acción educativa y producción científica al servicio de la educación. Los programas académicos de la Facultad promueven procesos de enseñanza/aprendizaje basados en resultados de investigación, siguen los principios de participación crítica y reflexión, y están contextualizados en las disciplinas. Además, la Facultad cuenta con un equipo docente interdisciplinario altamente calificado, que permite que los programas sean flexibles y puedan ser adaptados a las necesidades de los estudiantes. Asimismo, la Facultad participa en el diseño y generación de políticas públicas y en la gestión educativa para apoyar el mejoramiento del sistema educativo del país. " />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Licenciatura en Arte</title>
+  <link href="/templates/yoo_aurora/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/uikit-2f9b079b.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/wk-scripts-19bde704.js" type="text/javascript"></script>
+
+<link rel="apple-touch-icon-precomposed" href="/templates/yoo_aurora/apple_touch_icon.png">
+<link rel="stylesheet" href="/templates/yoo_aurora/css/bootstrap.css">
+<link rel="stylesheet" href="/templates/yoo_aurora/css/theme.css">
+<link rel="stylesheet" href="/templates/yoo_aurora/css/custom.css">
+<link rel="stylesheet" href="/templates/yoo_aurora/css/custom_styles.css">
+<link rel="stylesheet" href="css:bootstrap.min.css">
+<script src="/templates/yoo_aurora/warp/vendor/uikit/js/uikit.js"></script>
+<script src="/templates/yoo_aurora/warp/vendor/uikit/js/components/autocomplete.js"></script>
+<script src="/templates/yoo_aurora/warp/vendor/uikit/js/components/search.js"></script>
+<script src="/templates/yoo_aurora/warp/vendor/uikit/js/components/sticky.js"></script>
+<script src="/templates/yoo_aurora/warp/vendor/uikit/js/components/tooltip.js"></script>
+<script src="/templates/yoo_aurora/js/verticalDropdown.js"></script>
+<script src="/templates/yoo_aurora/warp/js/social.js"></script>
+<script src="/templates/yoo_aurora/js/theme.js"></script>
+ <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84595856-9', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+
+<body class="tm-sidebar-b-right tm-sidebars-1 tm-isblog  tm-section-divider tm-sidebar-width-33 tm-sidebar-parallax tm-sidebar-background-fixed">
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M9JVSR');</script>
+<!-- End Google Tag Manager -->
+
+<div class="uk-grid tm-wrapper" data-uk-grid-match>
+
+        <div class="uk-width-1-1 tm-sidebar-wrapper uk-hidden-medium uk-hidden-small">
+
+                <div class="tm-sidebar-menu-container" data-uk-sticky>
+
+                        <a class="tm-sidebar-logo" target="_blank"  href="http://uniandes.edu.co">
+	<p><img src="/images/logo_uniandes_w.png" alt="logo uniandes w" /></p></a>
+            
+                        <nav class="tm-sidebar-nav">
+                <ul class="uk-navbar-nav uk-hidden-small"><li><a href="/index.php">inicio</a></li><li><a href="/index.php/facultad">Facultad</a></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="#">Programas</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/programas/doctorado">Doctorado</a></li><li><a href="/index.php/programas/maestrias">Maestrías </a></li><li><a href="/index.php/programas/2016-05-01-03-59-02">Especializaciones </a></li><li><a href="/index.php/programas/pregrado">Pregrados</a></li></ul></div></div></div></li><li><a href="/index.php/profesores">Profesores</a></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="#">Centros</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/centros/cife-facultad-de-educacion">CIFE</a></li><li><a href="/index.php/centros/centro-de-evaluacion">Centro de evaluación</a></li><li><a href="/index.php/centros/centro-de-apoyo-al-aprendizaje">Unidad de Acompañamiento </a></li><li><a href="http://conectate.uniandes.edu.co/" target="_blank">Conecta-te</a></li><li><a href="http://ued.uniandes.edu.co/" target="_blank">una empresa docente</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/index.php/convocatorias-facultad-de-educacion">Convocatorias</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/convocatorias-facultad-de-educacion/interna">Interna </a></li><li><a href="https://investigaciones.uniandes.edu.co/es/convocatoria-interdisciplinaria/" target="_blank">interdisciplinaria</a></li><li><a href="http://www.colciencias.gov.co/convocatorias/investigacion/convocatoria-nacional-para-el-reconocimiento-y-medicion-grupos">Convocatoria 781 Medición de grupos</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="#">Noticias y eventos</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/noticias-y-eventos/noticias">Noticias</a></li><li><a href="/index.php/noticias-y-eventos/eventos">Eventos</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/*">Galería</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="https://www.instagram.com/facueducacion/">Galería de fotos</a></li><li><a href="/index.php/2017-03-16-20-42-12/galeria-de-videos">Galería de videos</a></li></ul></div></div></div></li></ul>            </nav>
+            
+        </div>
+        
+                <div class="tm-sidebar-widget-container">
+
+            
+                        <div class="tm-sidebar-social uk-flex uk-flex-middle uk-flex-center">
+                <div class="">
+	<a href="/index.php/contactenos">
+<i class="uk-icon-envelope-o"></i>
+</a>
+
+<a href="/index.php/preguntas-frecuentes">
+<i class="uk-icon-question-circle"></i>
+</a>
+
+<a href="https://www.facebook.com/cifeuniversidadlosandes/?fref=ts" target="_blank">
+<i class="uk-icon-facebook-square"></i>
+</a>
+
+<a href="https://twitter.com/FacuEducacion" target="_blank">
+<i class="uk-icon-twitter-square"></i>
+</a></div>            </div>
+            
+        </div>
+        
+    </div>
+    
+    <div class="uk-width-1-1 tm-content-wrapper tm-footer-true">
+
+    
+            <nav class="tm-navbar uk-navbar uk-hidden-large">
+
+                            <a href="#offcanvas" class="uk-navbar-toggle" data-uk-offcanvas></a>
+            
+                            <div class="uk-navbar-content uk-navbar-center"><a class="tm-logo-small" href="https://educacion.uniandes.edu.co">
+	<p><img src="/images/logo_uniandes_w.png" alt="logo uniandes w" /></p></a></div>
+            
+        </nav>
+    
+        
+        <div class="tm-content-container">
+
+            
+            
+            
+                        <hr class="tm-grid-divider">
+            <div class="tm-middle uk-grid" data-uk-grid-match data-uk-grid-margin>
+
+                                <div class="tm-main uk-width-medium-2-3">
+
+                    
+                                        <main class="tm-content">
+
+                        
+                        <div id="system-message-container">
+</div>
+<article class="uk-article" >
+
+	
+		<h1 class="uk-article-title">
+					Licenciatura en Arte			</h1>
+	
+	
+	
+	
+	
+			
+<p><img src="/images/programas/licenciaturas/primera_infancia.jpg" alt="primera infancia" /></p>
+<p>&nbsp;</p>
+<h3>Descripci&oacute;n del programa</h3>
+<ul class="gral">
+<li><strong>T&iacute;tulo: Licenciado en Artes</strong></li>
+<li><strong>C&oacute;digo SNIES:&nbsp;</strong>105047</li>
+<li><strong>Lugar donde se ofrece:&nbsp;</strong>Bogot&aacute; D.C</li>
+<li><strong>Duraci&oacute;n: 8 semestres</strong></li>
+<li><strong>Cr&eacute;ditos acad&eacute;micos:&nbsp;</strong>118</li>
+<li><strong>Modalidad:&nbsp;</strong>Presencial</li>
+<li><strong>Jornada:&nbsp;</strong>Diurna</li>
+<li><strong>Registro calificado:</strong> Resoluci&oacute;n 16243 del 30 de septiembre de 2015 por 7 a&ntilde;os</li>
+</ul>
+<h3>La carrera</h3>
+<p style="text-align: justify;">Los procesos art&iacute;sticos como la expresi&oacute;n y la creaci&oacute;n, la capacidad de contextualizar las emociones, asumir una posici&oacute;n cr&iacute;tica y reflexionada sobre los conflictos humanos, comprender las intenciones propias y ajenas, mejorar las relaciones interpersonales y avanzar en el desarrollo de las interacciones con los pares, se asocian con la experiencia art&iacute;stica. En este programa, los estudiantes aprender&aacute;n a construir relaciones educativas mediadas por la libertad creativa propia de la producci&oacute;n art&iacute;stica.</p>
+<h3>Perfil del aspirante</h3>
+<p style="text-align: justify;">Dirigido a personas din&aacute;micas y creativas, con intereses acad&eacute;micos y cient&iacute;ficos de alta calidad, que quieran aportar a la educaci&oacute;n de la sociedad para construir un mejor pa&iacute;s.Los candidatos a esta licenciatura deben combinar el rigor y la pasi&oacute;n propia de los estudios art&iacute;sticos, con el inter&eacute;s por ayudar a otras personas a utilizar sus recursos creativos para expresar emociones, comprender e interpretar las producciones art&iacute;sticas de otros.</p>
+<h3>Plan de estudios</h3>
+<p><a href="/images/Licarte.jpg" target="_blank"><img src="/images/Licarte.jpg" alt="Licarte" width="790" height="633" /></a></p>
+<p>Para m&aacute;s informaci&oacute;n</p>
+<p><span id="cloak76481">Esta dirección de correo electrónico está siendo protegida contra los robots de spam. Necesita tener JavaScript habilitado para poder verlo.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak76481').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy76481 = 'l&#105;c&#101;nc&#105;&#97;t&#117;r&#97;s' + '&#64;';
+ addy76481 = addy76481 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text76481 = 'l&#105;c&#101;nc&#105;&#97;t&#117;r&#97;s' + '&#64;' + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ document.getElementById('cloak76481').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy76481 + '\'>'+addy_text76481+'<\/a>';
+ //-->
+ </script></p>
+<h3>Inscripciones <a href="https://registro.uniandes.edu.co/index.php/proceso-admisiones/pregrado" target="_blank" class="uk-button"> Clic aqu&iacute;</a></h3>	
+	
+	
+	
+	
+	
+	
+</article>
+
+                    </main>
+                    
+                    
+                </div>
+                
+                                                                                <aside class="tm-sidebar-b uk-width-medium-1-3"><div class="uk-panel"><h3 class="uk-panel-title">Programas </h3><ul class="uk-nav uk-nav-parent-icon uk-nav-side" data-uk-nav="{}"><li><a href="/index.php/info-general-lic">Información general </a></li><li><a href="/index.php/licenciatura-en-ciencias-sociales">Licenciatura en Ciencias Sociales</a></li><li><a href="/index.php/licenciatura-en-matematicas">Licenciatura en Matemáticas</a></li><li><a href="/index.php/licenciatura-en-ciencias-naturales">Licenciatura en Ciencias Naturales</a></li><li><a href="/index.php/licenciatura-en-humanidades">Licenciatura en Humanidades</a></li><li><a href="/index.php/licenciatura-en-primera-infancia">Licenciatura en Primera Infancia</a></li><li class="uk-active"><a href="/index.php/licenciatura-en-arte">Licenciatura en Arte</a></li><li><a href="/index.php/opcion-educ">Opción en Educación </a></li><li><a href="/index.php/desarrollo-profesional-lic">Desarrollo Profesional</a></li><li><a href="/index.php/preguntas-frecuentes-lic">Preguntas frecuentes</a></li></ul></div></aside>
+                                
+                
+
+            </div>
+            
+            
+            
+            
+        </div>
+
+        
+        
+                <footer class="tm-footer uk-flex uk-flex-middle uk-flex-center">
+
+                        <a class="tm-totop-scroller" data-uk-smooth-scroll href="#"></a>
+            
+            <div class="uk-panel">
+	<br/>
+<h6>
+<strong class="text-green">Universidad de los Andes | Vigilada Mineducaci&oacute;n</strong>
+<br/>
+Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br/>
+Reconocimiento personer&iacute;a jur&iacute;dica: Resoluci&oacute;n 28 del 23 de febrero de 1949 Minjusticia.<br/>
+<strong>Direcci&oacute;n</strong>: Calle 18 A#0-19 Este. Casita Rosada . Segundo piso <strong>Tel&eacute;fono</strong>: 3394999 Ext 2282.</h6>
+<br/>
+<br/>
+</div>
+        </footer>
+        
+    </div>
+
+</div>
+
+
+<div id="offcanvas" class="uk-offcanvas">
+    <div class="uk-offcanvas-bar"><ul class="uk-nav uk-nav-offcanvas"><li><a href="/index.php">inicio</a></li><li><a href="/index.php/facultad">Facultad</a></li><li class="uk-parent"><a href="#">Programas</a><ul class="uk-nav-sub"><li><a href="/index.php/programas/doctorado">Doctorado</a></li><li><a href="/index.php/programas/maestrias">Maestrías </a></li><li><a href="/index.php/programas/2016-05-01-03-59-02">Especializaciones </a></li><li><a href="/index.php/programas/pregrado">Pregrados</a></li></ul></li><li><a href="/index.php/profesores">Profesores</a></li><li class="uk-parent"><a href="#">Centros</a><ul class="uk-nav-sub"><li><a href="/index.php/centros/cife-facultad-de-educacion">CIFE</a></li><li><a href="/index.php/centros/centro-de-evaluacion">Centro de evaluación</a></li><li><a href="/index.php/centros/centro-de-apoyo-al-aprendizaje">Unidad de Acompañamiento </a></li><li><a href="http://conectate.uniandes.edu.co/" target="_blank">Conecta-te</a></li><li><a href="http://ued.uniandes.edu.co/" target="_blank">una empresa docente</a></li></ul></li><li class="uk-parent"><a href="/index.php/convocatorias-facultad-de-educacion">Convocatorias</a><ul class="uk-nav-sub"><li><a href="/index.php/convocatorias-facultad-de-educacion/interna">Interna </a></li><li><a href="https://investigaciones.uniandes.edu.co/es/convocatoria-interdisciplinaria/" target="_blank">interdisciplinaria</a></li><li><a href="http://www.colciencias.gov.co/convocatorias/investigacion/convocatoria-nacional-para-el-reconocimiento-y-medicion-grupos">Convocatoria 781 Medición de grupos</a></li></ul></li><li class="uk-parent"><a href="#">Noticias y eventos</a><ul class="uk-nav-sub"><li><a href="/index.php/noticias-y-eventos/noticias">Noticias</a></li><li><a href="/index.php/noticias-y-eventos/eventos">Eventos</a></li></ul></li><li class="uk-parent"><a href="/*">Galería</a><ul class="uk-nav-sub"><li><a href="https://www.instagram.com/facueducacion/">Galería de fotos</a></li><li><a href="/index.php/2017-03-16-20-42-12/galeria-de-videos">Galería de videos</a></li></ul></li></ul></div>
+</div>
+
+</body>
+</html>

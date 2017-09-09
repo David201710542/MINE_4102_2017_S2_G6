@@ -1,0 +1,2220 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" >
+  <head>
+
+  <base href="https://lenguas.uniandes.edu.co/index.php/programas/pregrado-en-lenguas-y-cultura/descripcion-del-programa" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <meta name="author" content="Fredy Cortés" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Descripción del Programa</title>
+  <link href="/templates/ot_appoz/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-44fb5f01.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ot_appoz/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://lenguas.uniandes.edu.co/modules/mod_accordeonck/themes/simple/mod_accordeonck_css.php?cssid=accordeonck41121" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_pwebfblikebox/css/likebox.css" type="text/css" />
+  <style type="text/css">
+div.template-width {width: 960px;}div.ot-leftcolumn {width: 220px;}div.ot-header {background-color: #213136;}div.ot-banner {background-color: #FFFFFF;}div.ot-topboxes {background-color: #FFFFFF;}div.ot-mainbody {background-color: #FFFFFF;}div.ot-footer {background-color: #213136;}
+			.width100{ width: 100%; } 
+			 
+			.width50{ width: 50%; } 
+			 
+			.width33{ width: 33%; } 
+			 
+			.width25{ width: 25%; } 
+			 
+			.width20{ width: 20%; } 
+			 #smoothtop{
+	height:45px;
+	width:45px;
+background:url(/es/plugins/system/smoothtop/images/up-arrow.gif) center top no-repeat;
+	
+}
+
+#smoothtop:hover{background-position: center bottom;}#accordeonck41121 li a.toggler { background: url(https://lenguas.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck41121 li a.toggler.open { background: url(https://lenguas.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }#accordeonck41121 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck41121 {  } #accordeonck41121 li.level1 {  } #accordeonck41121 li.level1 > a { color: #58595B;font-size: 13px; } #accordeonck41121 li.level1 > a:hover { color: #000000; } #accordeonck41121 li.level1 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck41121 li.level2 { padding: 1px;margin: 2px; } #accordeonck41121 li.level2 > a { color: #FFFFFF;font-size: 9pt; } #accordeonck41121 li.level2 > a:hover { color: #213136; } #accordeonck41121 li.level2 > a span.accordeonckdesc { color: #DDDDDD;font-size: 11px; } #accordeonck41121 li.level3 {  } #accordeonck41121 li.level3 a { color: #FFFFFF;font-size: 13px; } #accordeonck41121 li.level3 a:hover { color: #000000; } #accordeonck41121 li.level3 a span.accordeonckdesc { color: #000000;font-size: 13x; } 
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-8659bc5c.js" type="text/javascript"></script>
+  <script src="/templates/ot_appoz/scripts/menudropdown.js" type="text/javascript"></script>
+  <script src="https://lenguas.uniandes.edu.co/modules/mod_accordeonck/assets/mod_accordeonck.js" type="text/javascript"></script>
+  <script src="/media/mod_pwebfblikebox/js/mootools.likebox.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});// Fade our <div> tag to 0 or 'num'
+function fade_me(num){
+	var smoothtop=document.id('smoothtop');
+	if(smoothtop){smoothtop.fade(window.getScrollTop()<250?0:num);}
+}
+window.addEvent('domready',function(){
+	// Create Fx.Scroll object
+	var scroll=new Fx.Scroll(window,{
+		'duration':	500,
+		'transition':	Fx.Transitions.linear,
+		'wait':		false
+	});
+	// Create an <div> tag for SmoothTop
+	var smoothtop=new Element('div',{
+		'id':		'smoothtop',
+		'class':	'smoothtop',
+		'style':	'position:fixed; display:block; visibility:visible; zoom:1; opacity:0; cursor:pointer; right:170px; bottom:5px;',
+		'title':	'',
+		'html':		'',
+		'events':{
+			// No transparent when hover
+			mouseover: function(){fade_me(1);},
+			// Transparent when no hover
+			mouseout: function(){fade_me(0.7);},
+			// Scroll Up on click
+			click: function(){scroll.toTop();}
+		}
+	// Inject our <div> tag into the document body
+	}).inject(document.body);
+	// Gottta do this for stupid IE
+	document.id('smoothtop').setStyle('opacity','0');
+});
+// Show/Hide our <div> tag
+window.addEvent('scroll',function(){fade_me(0.7);});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck41121'),{fadetransition : true,eventtype : 'click',mooTransition : 'Pow:Out',menuID : 'accordeonck41121',imagePlus : 'https://lenguas.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png',imageMinus : 'https://lenguas.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/es_ES/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,"script","facebook-jssdk"));
+
+/*===  EASY GOOGLE ANALYTICS : START TRACKING CODE  ===*/
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-51158885-17']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+/*===  EASY GOOGLE ANALYTICS : END TRACKING CODE  ===*/
+
+  </script>
+  <!--[if lte IE 8]>
+<link rel="stylesheet" href="/media/mod_pwebfblikebox/css/ie.css" />
+<![endif]-->
+
+
+  <link rel="stylesheet" href="https://lenguas.uniandes.edu.co/plugins/system/HDsocialbm/icons.css" type="text/css" />
+</head>
+
+
+
+
+
+  <body id="ot-body" class="left-content-right">
+<div id="ot-top" class="color">
+
+
+<div class="custom"  >
+	<div class="color">
+<div id="molde">.</div>
+</div></div>
+
+</div>
+
+
+
+
+  <div class="ot-wrap">
+    <div class="ot-wrap-i">
+      <!--******************** START HEADER ********************-->
+      <div class="ot-header">
+        <div class="ot-header-w template-width">
+          <div class="ot-header-i">
+            <div class="ot-logo">
+                            
+
+<div class="custom"  >
+	<div><a href="http://www.uniandes.edu.co" target="_blank"><img src="/images/logo.png" border="0" alt="" /></a></div></div>
+
+                            
+
+            </div>
+
+
+
+
+
+          </div>
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+
+
+      <!--******************** END HEADER ********************-->
+
+      
+
+
+                        <div class="ot-mainmenu">
+        <div class="ot-mainmenu-w template-width">
+          <div id="ot-mainmenu" class="ot-mainmenu-i">
+            <ul class="menu level0">
+<li id="item-248" class="level0 first"><a href="/" ><span>Inicio</span></a></li><li id="item-249" class="level0"><a href="/index.php/el-departamento" ><span>El Departamento</span></a></li><li id="item-370" class="active level0"><a href="/index.php/programas" ><span>Programas</span></a></li><li id="item-371" class="level0"><a href="/index.php/idiomas" ><span>Lenguas</span></a></li><li id="item-372" class="level0"><a href="/index.php/profesores" ><span>Profesores</span></a></li><li id="item-250" class="level0"><a href="/index.php/investigacion" ><span>Investigación</span></a></li><li id="item-252" class="level0"><a href="/index.php/publicaciones" ><span>Publicaciones</span></a></li><li id="item-373" class="level0"><a href="/index.php/centros-y-laboratorios" ><span>Centros</span></a></li><li id="item-374" class="level0"><a href="/index.php/servicios" ><span>Servicios</span></a></li><li id="item-338" class="level0"><a class="b-texto" href="/index.php/noticias" ><span>Noticias</span></a></li><li id="item-339" class="level0"><a href="/index.php/contacto" ><span>Contacto</span></a></li></ul>
+          </div>
+        </div>
+      </div>
+
+      
+      
+
+      <div class="ot-banner">
+        <div class="ot-banner-w template-width">
+
+
+          <div class="ot-banner-i">
+
+
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<!-- PWebFBLikeBox -->
+<div id="pwebfblikebox252" class="pwebfblikebox pwebfblikebox-left pwebfblikebox-radius pwebfblikebox-shadow slidebox ">
+	<div class="pwebfblikebox_tab f-white"></div>
+		<div class="pwebfblikebox_container" style="width:400px;"><div id="fb-root"></div><div class="fb-like-box" id="pwebfblikebox252_html5" data-href="https://www.facebook.com/facisouniandes" data-show-faces="true" data-stream="true" data-header="true" data-width="400" data-force-wall="true"></div></div>
+</div>
+
+<script type="text/javascript">
+(function(){
+	pwebFBLikeBox252 = new pwebFBLikeBox({
+		id: 		252,
+		prefix: 	'pwebfblikebox252',
+		open: 		'mouseenter',
+		close: 		'mouseleave',
+				position: 	'left',
+		top: 		-1,
+		layout: 	'slidebox'
+	});
+})();
+if(typeof window.fbAsyncInit=="function")window.fbAsyncInitPweb=window.fbAsyncInit;window.fbAsyncInit=function(){FB.Event.subscribe("edge.create",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","like",u])});FB.Event.subscribe("edge.remove",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","unlike",u])});if(typeof window.fbAsyncInitPweb=="function")window.fbAsyncInitPweb.apply(this,arguments)};</script>
+<!-- PWebFBLikeBox end -->			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+<div class="breadcrumbs">
+<a href="/" class="pathway">▲</a> » <a href="/index.php/programas" class="pathway">Programas</a> » <a href="/index.php/programas/pregrado-en-lenguas-y-cultura" class="pathway">Pregrado en Lenguas y Cultura</a> » <span>Descripción del Programa</span></div>
+			</div>
+		</div>
+	</div>
+
+          </div>
+          <div class="botonera_deptos">
+            
+          </div>
+        </div>
+        
+
+</div>     
+ 
+
+         
+     
+
+
+       
+      <!--******************** START MAINBODY ********************-->
+      <div class="ot-mainbody">
+
+
+        <div class="ot-mainbody-w template-width"> 
+        
+       
+        <div class="ot-mainbody-i">
+            
+          
+                        <div class="ot-leftcolumn">
+              <div class="ot-leftcolumn-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div id="titular">
+<div id="cs">Programas</div>
+</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<div class="accordeonck ">
+<ul class="menu" id="accordeonck41121">
+<li id="item-376" class="item-376 active active parentparent  level2"><a class="toggler toggler_1  isactive " href="javascript:void(0);" >Pregrado en Lenguas y Cultura</a><ul class="content_1" style=""><li id="item-580" class="item-580 level3"><a href="/index.php/programas/pregrado-en-lenguas-y-cultura/por-que-hacer-el-pregrado-en-lenguas-y-cultura-de-los-andes" >¿Por qué hacer el pregrado en Lenguas y Cultura de Los Andes?</a></li><li id="item-378" class="item-378 current activecurrent  active level3"><a class="isactive " href="/index.php/programas/pregrado-en-lenguas-y-cultura/descripcion-del-programa" >Descripción del Programa</a></li><li id="item-380" class="item-380 level3"><a href="/index.php/programas/pregrado-en-lenguas-y-cultura/admisiones-y-apoyo-financiero" >Admisiones y apoyo financiero</a></li><li id="item-379" class="item-379 level3"><a href="/index.php/programas/pregrado-en-lenguas-y-cultura/opciones-academicas" >Opciones Académicas</a></li></ul></li><li id="item-381" class="item-381 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Maestría en  Estudios Culturales</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-382" class="item-382 level3"><a href="/index.php/programas/maestria-en-estudios-culturales/por-que-hacer-la-maestria-en-estudios-culturales" >¿Por qué hacer la Maestría en Estudios Culturales de Los Andes?</a></li><li id="item-383" class="item-383 level3"><a href="/index.php/programas/maestria-en-estudios-culturales/descripcion-del-programa" >Descripción del programa</a></li><li id="item-384" class="item-384 level3"><a href="/index.php/programas/maestria-en-estudios-culturales/convenios" >Convenios</a></li><li id="item-385" class="item-385 level3"><a href="/index.php/programas/maestria-en-estudios-culturales/admisiones" >Admisiones</a></li><li id="item-386" class="item-386 level3"><a href="/index.php/programas/maestria-en-estudios-culturales/costos-y-apoyo-financiero" >Costos y apoyo financiero</a></li><li id="item-530" class="item-530 level3"><a href="/index.php/programas/maestria-en-estudios-culturales/admitidos" >Admitidos</a></li><li id="item-545" class="item-545 level3"><a href="/index.php/programas/maestria-en-estudios-culturales/cursos-electivos-2015-20" >Cursos electivos 2015-20</a></li><li id="item-536" class="item-536 level3"><a href="/index.php/programas/maestria-en-estudios-culturales/cursos-electivos-2016-10" >Cursos electivos 2016-10</a></li></ul></li><li id="item-387" class="item-387 level2"><a href="/index.php/programas/maestria-en-pedagogia-de-las-lenguas-extranjeras" >Maestria en Pedagogía de  Lenguas Extranjeras</a></li></ul></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        
+
+
+
+
+
+            <div class="ot-content">
+              <div class="ot-content-i">
+                
+<div id="system-message-container">
+</div>
+                <div class="item-page">
+	<div class="item-page-bg">
+		<div class="heading-actions">
+						
+					<ul class="actions">
+												<li class="print-icon">
+					<a href="/index.php/pregrado-en-lenguas-y-cultura/descripcion-del-programa?tmpl=component&amp;print=1&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Imprimir"  /></a>					</li>
+						
+						
+						
+					
+			</ul>
+				</div>
+				
+				
+				
+																				
+							<div id="b-texto"><img src="/images/recursos/barra_programa1.png" border="0" alt="" width="716" height="45" /></div>
+<div id="b-texto">
+<p><strong><strong>Código SNIES:</strong> 104693<br />Bogotá<br />Formación Universitaria: Pregrado<br />Modalidad: Presencial<br />Título:</strong> Profesional en Lenguas y Cultura<br /><strong>Duración:</strong> 8 semestres<br /><strong>Número de créditos:</strong> 131<br /><strong>Jornada:</strong> Diurna<br /><br /><strong>Acreditación Nacional: </strong>El programa de <em>Lenguas y Cultura</em> tiene acreditación de alta calidad hasta noviembre de 2018; esta acreditación fue emitida por el Ministerio de Educación Nacional, mediante resolución número 15255 del 23 de noviembre de 2012. La acreditación cobija también al nuevo programa de <em>Lenguas y cultura</em>; programa que se empezará a implementar a partir del primer semestre de 2016”.</p>
+<p>Los estudiantes del programa de <em>Lenguas y Cultura</em> reciben el título de <em>Profesional en Lenguas y Cultura</em>, ya sea que escojan la concentración en estudios culturales, en pedagogía de lengua, o en segunda lengua. En este sentido, es necesario precisar que el programa de <em>Lenguas y Cultura</em> no es una licenciatura en lenguas modernas. Los estudiantes tienen la posibilidad de realizar prácticas pedagógicas en el campo de las lenguas, pero concentrar la formación en los aspectos pedagógicos no hace parte de los objetivos del proyecto curricular sino brindar a los estudiantes una experiencia pedagógica, entre otras que también hacen parte de su perfil profesional. </p>
+<h3 style="text-align: center;">Descargue el programa modelo según la lengua principal: </h3>
+<h3 style="text-align: center;"><a href="/images/documentos/Programa%20Modelo_LC_INGLES.pdf" target="_blank">Inglés</a> | <a href="/images/documentos/Programa%20Modelo_LC_FRANCES.pdf" target="_blank">Francés</a> | <a href="/images/documentos/Programa%20Modelo_LC_ALEMAN.pdf" target="_blank">Alemán</a>.</h3>
+<p><strong style="font-family: BitterBold; font-size: 25px;">Lenguas principales de la carrera</strong></p>
+<p>Los estudiantes del programa deben escoger una de las llamadas lenguas principales (inglés, francés, alemán) como parte de su currículo. El programa de cada una de estas áreas consta de seis cursos orientados al aprendizaje de la lengua, cuatro cursos de profundización y cuatro seminarios en los que se afianza el conocimiento adquirido a través del estudio de los contextos socioculturales de las respectivas lenguas.</p>
+<p style="text-align: center;"><strong><span style="font-size: 14pt;">INGLÉS</span></strong></p>
+<table style="border-collapse: collapse; width: 716px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 56pt;" width="75" /><col style="width: 152pt;" width="203" /><col style="width: 61pt;" width="81" /><col style="width: 56pt;" width="75" /><col style="width: 158pt;" width="210" /><col style="width: 54pt;" width="72" /></colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl71" style="height: 15pt; border-top: none;" height="20"><strong>CODIGO</strong></td>
+<td class="xl72" style="border-top: none; border-left: none; width: 152pt;" width="203"><strong>CURSO</strong></td>
+<td class="xl97" style="border-top: none; border-left: none; width: 61pt;" width="81"><strong>CRÉDITOS</strong></td>
+<td class="xl83" style="border-top: none;"><strong>CODIGO</strong></td>
+<td class="xl84" style="border-top: none; border-left: none; width: 158pt;" width="210"><strong>PROFUNDIZACIÓN</strong></td>
+<td class="xl98" style="border-top: none; border-left: none; width: 54pt;" width="72"><strong>CRÉDITOS</strong></td>
+</tr>
+<tr style="height: 28.5pt;">
+<td class="xl66" style="height: 28.5pt; border-top: none; text-align: left;" height="38">LENG1100 </td>
+<td class="xl70" style="width: 152pt; text-align: left;" width="203">NIVELATORIO INGLÉS LENGUAS Y CULTURAS</td>
+<td class="xl81" style="border-top: none; border-left: none; text-align: left;">0</td>
+<td class="xl64" style="text-align: left;"> </td>
+<td class="xl77" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl78" style="width: 54pt; text-align: left;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG1116 </td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">INGLÉS 1 LENGUAS Y CULTURAS </td>
+<td class="xl82" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl74" style="text-align: left;"> </td>
+<td class="xl86" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl87" style="width: 54pt; text-align: left;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG1117 </td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">INGLÉS 2 LENGUAS Y CULTURAS</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl89" style="text-align: left;">LENG1119 </td>
+<td class="xl80" style="width: 158pt; text-align: left;" width="210">EFFECTIVE WRITTING</td>
+<td class="xl90" style="border-left: none; width: 54pt; text-align: left;" width="72">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG1118 </td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">INGLÉS 3 LENGUAS Y CULTURAS</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl101" style="border-top: none; text-align: left;">LENG1120 </td>
+<td class="xl102" style="border-top: none; width: 158pt; text-align: left;" width="210">EFFECTIVE SPEAKING</td>
+<td class="xl103" style="border-top: none; border-left: none; width: 54pt; text-align: left;" width="72">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG2114</td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">INGLÉS 4 LENGUAS Y CULTURAS</td>
+<td class="xl82" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl92" style="text-align: left;"> </td>
+<td class="xl94" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl95" style="width: 54pt; text-align: left;" width="72"> </td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl66" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG2115</td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">INGLÉS 5 LENGUAS Y CULTURAS</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl89" style="text-align: left;">LENG2117 </td>
+<td class="xl80" style="width: 158pt; text-align: left;" width="210">ADVANCED EFFECTIVE SPEAKING</td>
+<td class="xl90" style="border-left: none; width: 54pt; text-align: left;" width="72">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG2118</td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">INGLÉS 6 LENGUAS Y CULTURAS</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl68" style="border-top: none; text-align: left;">LENG2116 </td>
+<td class="xl70" style="border-top: none; width: 158pt; text-align: left;" width="210">ADVANCED EFFECTIVE WRITING</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 54pt; text-align: left;" width="72">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG31XX</td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">SEMINARIO INGLÉS 1</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl65" style="text-align: left;"> </td>
+<td class="xl73" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl100" style="width: 54pt; text-align: left;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG31XX</td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">SEMINARIO INGLÉS 2</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl65" style="text-align: left;"> </td>
+<td class="xl73" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl100" style="width: 54pt; text-align: left;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG31XX</td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">SEMINARIO INGLÉS 3</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl65" style="text-align: left;"> </td>
+<td class="xl73" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl100" style="width: 54pt; text-align: left;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG31XX</td>
+<td class="xl70" style="border-top: none; width: 152pt; text-align: left;" width="203">SEMINARIO INGLÉS 4</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl65" style="text-align: left;"> </td>
+<td class="xl73" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl100" style="width: 54pt; text-align: left;" width="72"> </td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong><span style="font-size: 14pt;">FRANCÉS</span></strong></p>
+<table style="border-collapse: collapse; width: 716px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 56pt;" width="75" /> <col style="width: 152pt;" width="203" /> <col style="width: 61pt;" width="81" /> <col style="width: 56pt;" width="75" /> <col style="width: 158pt;" width="210" /> <col style="width: 54pt;" width="72" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl68" style="height: 15pt; width: 56pt; text-align: left;" width="75" height="20"><strong>CODIGO</strong></td>
+<td class="xl69" style="border-left: none; width: 152pt; text-align: left;" width="203"><strong>CURSO</strong></td>
+<td class="xl84" style="border-left: none; width: 61pt; text-align: left;" width="81"><strong>CRÉDITOS</strong></td>
+<td class="xl78" style="border-left: none; width: 56pt; text-align: left;" width="75"><strong>CODIGO</strong></td>
+<td class="xl77" style="border-left: none; width: 158pt; text-align: left;" width="210"><strong>PROFUNDIZACIÓN L&amp;C</strong></td>
+<td class="xl85" style="border-left: none; width: 54pt;" width="72"><strong>CRÉDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG1201</td>
+<td class="xl72" style="border-left: none; width: 152pt; text-align: left;" width="203">FRANCÉS 1</td>
+<td class="xl76" style="border-top: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl82" style="text-align: left;"> </td>
+<td class="xl83" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl87" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl65" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG1202</td>
+<td class="xl72" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">FRANCÉS 2</td>
+<td class="xl76" style="border-top: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl73" style="text-align: left;">LENG1225</td>
+<td class="xl74" style="border-left: none; width: 158pt; text-align: left;" width="210">EXPRESSION ORALE ET PHONÉTIQUE</td>
+<td class="xl81" style="border-left: none; width: 54pt;" width="72">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl65" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG1203</td>
+<td class="xl72" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">FRANCÉS 3</td>
+<td class="xl76" style="border-top: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl73" style="text-align: left;">LENG2228</td>
+<td class="xl74" style="border-left: none; width: 158pt; text-align: left;" width="210">GRAMMAIRE EN CONTEXTE</td>
+<td class="xl75" style="border-top: none; border-left: none; width: 54pt;" width="72">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl65" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG1204</td>
+<td class="xl72" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">FRANCÉS 4</td>
+<td class="xl76" style="border-top: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl65" style="border-top: none; text-align: left;">LENG2224</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 158pt; text-align: left;" width="210">ATELIER DÉCRITURE ACADÉMIQUE 1 </td>
+<td class="xl75" style="border-top: none; border-left: none; width: 54pt;" width="72">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl65" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG2211</td>
+<td class="xl72" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">FRANCÉS 5</td>
+<td class="xl76" style="border-top: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl79" style="border-top: none; width: 56pt; text-align: left;" width="75">LENG2226</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 158pt; text-align: left;" width="210">ATELIER DÉCRITURE ACADÉMIQUE 2</td>
+<td class="xl80" style="border-top: none; border-left: none; width: 54pt;" width="72">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG2212</td>
+<td class="xl72" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">FRANCÉS 6</td>
+<td class="xl76" style="border-top: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl82" style="text-align: left;"> </td>
+<td class="xl83" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl87" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG32XX</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">SEMINARIO FRANCÉS 1</td>
+<td class="xl75" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl67" style="text-align: left;"> </td>
+<td class="xl70" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl86" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG32XX</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">SEMINARIO FRANCÉS 2</td>
+<td class="xl75" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl67" style="text-align: left;"> </td>
+<td class="xl70" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl86" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG32XX</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">SEMINARIO FRANCÉS 3</td>
+<td class="xl75" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl67" style="text-align: left;"> </td>
+<td class="xl70" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl86" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG32XX</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">SEMINARIO FRANCÉS 4</td>
+<td class="xl75" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl67" style="text-align: left;"> </td>
+<td class="xl70" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl86" style="width: 54pt;" width="72"> </td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;"><strong><span style="font-size: 14pt;">ALEMÁN</span></strong></p>
+<table style="border-collapse: collapse; width: 716px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 56pt;" width="75" /> <col style="width: 152pt;" width="203" /> <col style="width: 61pt;" width="81" /> <col style="width: 56pt;" width="75" /> <col style="width: 158pt;" width="210" /> <col style="width: 54pt;" width="72" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl69" style="height: 15pt; width: 56pt;" width="75" height="20"><strong>CODIGO</strong></td>
+<td class="xl70" style="border-left: none; width: 152pt;" width="203"><strong>CURSO</strong></td>
+<td class="xl85" style="border-left: none; width: 61pt;" width="81"><strong>CRÉDITOS</strong></td>
+<td class="xl76" style="border-left: none; width: 56pt;" width="75"><strong>CODIGO</strong></td>
+<td class="xl77" style="border-left: none; width: 158pt;" width="210"><strong>PROFUNDIZACIÓN L&amp;C</strong></td>
+<td class="xl87" style="border-left: none; width: 54pt;" width="72"><strong>CRÉDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG1301</td>
+<td class="xl66" style="border-left: none; width: 152pt; text-align: left;" width="203">ALEMÁN 1</td>
+<td class="xl81" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl67" style="border-top: none; text-align: left;"> </td>
+<td class="xl78" style="border-top: none; width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl80" style="border-top: none; width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG1302</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">ALEMÁN 2</td>
+<td class="xl81" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl72" style="text-align: left;"> </td>
+<td class="xl82" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl83" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl65" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG1303</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">ALEMÁN 3</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl74" style="border-left: none; text-align: left;">LENG1328</td>
+<td class="xl75" style="border-left: none; width: 158pt; text-align: left;" width="210">PHONETIK UN MÜNDLICHER AUSDRUCK</td>
+<td class="xl84" style="border-left: none; width: 54pt;" width="72">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl65" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG1304</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">ALEMÁN 4</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">LENG1329</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 158pt; text-align: left;" width="210">DEUTSCHE GRAMMATIK</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 54pt;" width="72">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl65" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG2311</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">ALEMÁN 5</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">LENG2315</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 158pt; text-align: left;" width="210">KREATIVES SPRECHEN UND SCHREIBEN</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 54pt;" width="72">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl65" style="height: 30pt; border-top: none; text-align: left;" height="40">LENG2312</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">ALEMÁN 6</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">LENG2316</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 158pt; text-align: left;" width="210">WISSENSCHAFFLICHES SCHREIBEN</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 54pt;" width="72">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG33XX</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">SEMINARIO ALEMÁN 1</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl68" style="text-align: left;"> </td>
+<td class="xl71" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl86" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG33XX</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">SEMINARIO ALEMÁN 2</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl68" style="text-align: left;"> </td>
+<td class="xl71" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl86" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG33XX</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">SEMINARIO ALEMÁN 3</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl68" style="text-align: left;"> </td>
+<td class="xl71" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl86" style="width: 54pt;" width="72"> </td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG33XX</td>
+<td class="xl66" style="border-top: none; border-left: none; width: 152pt; text-align: left;" width="203">SEMINARIO ALEMÁN 4</td>
+<td class="xl79" style="border-top: none; border-left: none; width: 61pt; text-align: left;" width="81">3</td>
+<td class="xl68" style="text-align: left;"> </td>
+<td class="xl71" style="width: 158pt; text-align: left;" width="210"> </td>
+<td class="xl86" style="width: 54pt;" width="72"> </td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong style="font-family: BitterBold; font-size: 18px;">PROGRAMAS MODELO SEGÚN CONCENTRACIÓN</strong></p>
+<p><strong>Concentración en Estudios Culturales</strong></p>
+<p>Se trata de una secuencia de cinco asignaturas en la que se estudian diversos problemas generales de las relaciones entre prácticas culturales y poder, con un especial énfasis en el lenguaje como vehículo de ideologías, valores y visiones del mundo. Contempla la posibilidad de grado con una monografía, o con una práctica, o con dos seminarios de la maestría en Estudios Culturales.</p>
+<p>
+<div id="showcase-64-59b3154948ab0" class="wk-slideshow-showcasebuttons" data-widgetkit="showcase" data-options='{"style":"showcase_buttons","autoplay":1,"interval":5000,"width":"auto","height":"auto","duration":500,"index":0,"order":"default","buttons":0,"slices":20,"animated":"slide","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":4,"slideset_effect_duration":300}'>
+
+	<div id="slideshow-64-59b3154948ab0" class="wk-slideshow">
+		<div class="slides-container">
+			<ul class="slides">
+												<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="/images/pregrado/Boton1.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 30pt;">
+<td class="xl64" style="height: 30pt; width: 83pt;" width="110" height="40"><strong>CODIGO</strong></td>
+<td class="xl64" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl66" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">NIVEL 1 LENGUA PRINCIPAL</td>
+<td class="xl67" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 1 LENGUA PRINCIPAL</td>
+<td class="xl67" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl65" style="height: 14.25pt; border-top: none;" height="19">LENG1906&nbsp;</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">INTRODUCCIÓN: LINGÜÍSTICA, LENGUAS Y CULTURA</td>
+<td class="xl67" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none;" height="20">CISO1200B</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">PENSADORES: WEBER, DURKHEIM&nbsp; Y MARX</td>
+<td class="xl67" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none;" height="20">CISO1500B</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">COLOMBIA CONTEMPORÁNEA</td>
+<td class="xl67" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; border-top: none;" height="20">LENG1501</td>
+<td class="xl65" style="border-top: none; border-left: none; text-align: left;">ESPAÑOL</td>
+<td class="xl67" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl63" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl66" style="border-top: none; text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl67" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton2.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 2 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 2 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1907&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">LINGÜÍSTICA GENERAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">CISO2000</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">HISTORIA Y SOCIOLOGÍA DE LA CIENCIA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30.75pt;">
+<td class="xl67" style="height: 30.75pt; border-top: none;" height="41">CISO210X</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">TEORÍAS Y ESCUELAS FUNDAMENTALES DEL SIGLO XX</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30.75pt;">
+<td class="xl67" style="height: 30.75pt; border-top: none;" height="41">CISO2200</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROBLEMAS DE LA INVESTIGACIÓN SOCIAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton3.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 3 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 3 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1908</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">SOCIOLINGÜÍSTICA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl67" style="height: 30pt; border-top: none;" height="40">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">INTRODUCCIÓN A OTRA DISCIPLINA DE LAS CIENCIAS SOCIALES</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 37.5pt;">
+<td class="xl67" style="height: 37.5pt; border-top: none;" height="50">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CONCENTRACIÓN: ÁREA DE DISCURSO, LENGUAJES Y PODER</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl72" style="border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton4.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 4 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 4 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1909</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">FILOSOFÍA DEL LENGUAJE</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 36pt;">
+<td class="xl67" style="height: 36pt; border-top: none;" height="48">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 2</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 36pt;">
+<td class="xl67" style="height: 36pt; border-top: none;" height="48">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 3</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CONCENTRACIÓN: ÁREA ESTUDIOS CULTURALES Y AMÉRICA LATINA</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="border-top: none; text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl69" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton5.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 5 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO OPTATIVO LINGÜÍSTICA</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 4</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 5</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CONCENTRACIÓN: ÁREA DIFERENCIA Y ALTERIDAD</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="border-top: none; text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl69" style="border-top: none; border-left: none;">15</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton6.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 6 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">ANTR1104</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">MÉTODOS DE INVESTIGACIÓN CUALITATIVA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">DERE1300</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CONSTITUCIÓN Y DEMOCRACIA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 6</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CONCENTRACIÓN: MÉTODOLOGÍA EN ESTUDIOS CULTURALES</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">15</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton7.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">SEMINARIO DE LENGUA 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">SEMINARIO DE LENGUA 2</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DE LIBRE ELECCIÓN (CLE) 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CONCENTRACIÓN: SEMINARIO EN ESTUDIOS CULTURALES</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">12</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton8.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl65" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl67" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none;">SEMINARIO DE LENGUA 3</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none;">SEMINARIO DE LENGUA 4</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">&nbsp;</td>
+<td class="xl66" style="border-top: none; border-left: none;">CURSO DE LIBRE ELECCIÓN (CLE) 2</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none;">REQUISITO DE GRADO: MONOGRAFÍA DE GRADO, PASANTÍA ó 2 CURSOS DE LA MAESTRÍA EN E.C.</td>
+<td class="xl69" style="border-top: none; border-left: none;">8</td>
+</tr>
+<tr style="height: 15pt;">
+<td style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl71" style="border-top: none; border-left: none;">17</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+											</ul>
+					</div>
+	</div>
+
+	<div id="slideset-64-59b3154948ab0" class="wk-slideset ">
+		<div>
+			<div class="sets">
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque1.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque2.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque3.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque4.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque5.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque6.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque7.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque8.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+							</div>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+	
+</div></p>
+<p><strong>Concentración en Pedagogía</strong></p>
+<p>Esta formación está dirigida a estudiantes que tienen especial interés en la enseñanza de lengua extranjera, quienes podrán tener la experiencia pedagógica de enseñar la lengua que estudian en el contexto sociocultural que la define. A través de una pedagogía crítica, analizarán la enseñanza de la lengua en ese contexto sociocultural y en las construcciones y prácticas sociales que se configuran en ella. Esto les permitirá, además, adquirir una competencia intercultural.</p>
+<p>
+<div id="showcase-67-59b315494ca1f" class="wk-slideshow-showcasebuttons" data-widgetkit="showcase" data-options='{"style":"showcase_buttons","autoplay":1,"interval":5000,"width":"auto","height":"auto","duration":500,"index":0,"order":"default","buttons":0,"slices":20,"animated":"slide","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":4,"slideset_effect_duration":300}'>
+
+	<div id="slideshow-67-59b315494ca1f" class="wk-slideshow">
+		<div class="slides-container">
+			<ul class="slides">
+												<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="/images/pregrado/Boton1.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 30pt;">
+<td class="xl66" style="height: 30pt; width: 83pt;" width="110" height="40"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 1 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 1 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl67" style="height: 14.25pt; border-top: none;" height="19">LENG1906&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">INTRODUCCIÓN: LINGÜÍSTICA, LENGUAS Y CULTURA</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">CISO1200B</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PENSADORES: WEBER, DURKHEIM&nbsp; Y MARX</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">CISO1500B</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">COLOMBIA CONTEMPORÁNEA</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1501</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">ESPAÑOL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="border-top: none; text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl69" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton2.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 2 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 2 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1907&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">LINGÜÍSTICA GENERAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">CISO2000</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">HISTORIA Y SOCIOLOGÍA DE LA CIENCIA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30.75pt;">
+<td class="xl67" style="height: 30.75pt; border-top: none;" height="41">CISO210X</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">TEORÍAS Y ESCUELAS FUNDAMENTALES DEL SIGLO XX</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30.75pt;">
+<td class="xl67" style="height: 30.75pt; border-top: none;" height="41">CISO2200</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROBLEMAS DE LA INVESTIGACIÓN SOCIAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton3.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 3 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 3 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1908</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">SOCIOLINGÜÍSTICA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl67" style="height: 30pt; border-top: none;" height="40">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">INTRODUCCIÓN A OTRA DISCIPLINA DE LAS CIENCIAS SOCIALES</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 37.5pt;">
+<td class="xl67" style="height: 37.5pt; border-top: none;" height="50">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CONCENTRACIÓN: LINGUÍSTICA APLICADA&nbsp;</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl72" style="border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton4.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">NIVEL 4 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">PROFUNDIZACIÓN 4 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1909</td>
+<td class="xl67" style="border-top: none; border-left: none;">FILOSOFÍA DEL LENGUAJE</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 36pt;">
+<td class="xl67" style="height: 36pt; border-top: none;" height="48">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 2</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 36pt;">
+<td class="xl67" style="height: 36pt; border-top: none;" height="48">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 3</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONCENTRACIÓN: DISEÑO CURRICULAR</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="border-top: none; text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl69" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton5.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 5 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO OPTATIVO LINGÜÍSTICA</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 4</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 5</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">CONCENTRACIÓN: METODOLOGÍAS</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="border-top: none; text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl69" style="border-top: none; border-left: none;">15</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton6.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">NIVEL 6 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">ANTR1104</td>
+<td class="xl67" style="border-top: none; border-left: none;">MÉTODOS DE INVESTIGACIÓN CUALITATIVA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">DERE1300</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONSTITUCIÓN Y DEMOCRACIA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 6</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONCENTRACIÓN: PRÁCTICA 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">15</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton7.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">SEMINARIO DE LENGUA 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">SEMINARIO DE LENGUA 2</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DE LIBRE ELECCIÓN (CLE) 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONCENTRACIÓN: PRÁCTICA 2</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">12</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton8.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl65" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl67" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none; text-align: left;">SEMINARIO DE LENGUA 3</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none; text-align: left;">SEMINARIO DE LENGUA 4</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">&nbsp;</td>
+<td class="xl66" style="border-top: none; border-left: none; text-align: left;">CURSO DE LIBRE ELECCIÓN (CLE) 2</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none; text-align: left;">REQUISITO DE GRADO: MONOGRAFÍA DE INVESTIGACIÓN-ACCIÓN o PRÁCTICA</td>
+<td class="xl69" style="border-top: none; border-left: none;">8</td>
+</tr>
+<tr style="height: 15pt;">
+<td style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl71" style="border-top: none; border-left: none;">17</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+											</ul>
+					</div>
+	</div>
+
+	<div id="slideset-67-59b315494ca1f" class="wk-slideset ">
+		<div>
+			<div class="sets">
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque1.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque2.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque3.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque4.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque5.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque6.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque7.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque8.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+							</div>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+	
+</div></p>
+<p><strong>Concentración en Segunda Lengua</strong></p>
+<p>Los estudiantes que elijan esta concentración podrán satisfacer el estudio de más de una lengua extranjera. Podrán orientar su vida profesional a asuntos relacionados con traducción, lingüística, estudio de literatura comparada o con profesiones o saberes en los que es indispensable el dominio de tres lenguas. Este énfasis puede complementarse con la concentración en Pedagogía o en Estudios Culturales. En esta concentración se ofrecen las siguientes lenguas:</p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Inglés</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Alemán</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Francés</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Portugués</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Japonés</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Chino-mandarín</strong></span></p>
+<p style="text-align: center;"><span style="font-size: 14pt;"><strong>Italiano</strong></span></p>
+<p>
+<div id="showcase-69-59b315494dd21" class="wk-slideshow-showcasebuttons" data-widgetkit="showcase" data-options='{"style":"showcase_buttons","autoplay":1,"interval":5000,"width":"auto","height":"auto","duration":500,"index":0,"order":"default","buttons":0,"slices":20,"animated":"slide","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":4,"slideset_effect_duration":300}'>
+
+	<div id="slideshow-69-59b315494dd21" class="wk-slideshow">
+		<div class="slides-container">
+			<ul class="slides">
+												<li>
+					<article class="wk-content clearfix"><table id="wig" style="height: 224px; width: 1032px;" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="/images/pregrado/Boton1.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 452px; height: 216px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 30pt;">
+<td class="xl66" style="height: 30pt; width: 83pt;" width="110" height="40"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 1 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 1 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 14.25pt;">
+<td class="xl67" style="height: 14.25pt; border-top: none;" height="19">LENG1906&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">INTRODUCCIÓN: LINGÜÍSTICA, LENGUAS Y CULTURA</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">CISO1200B</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PENSADORES: WEBER, DURKHEIM&nbsp; Y MARX</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">CISO1500B</td>
+<td class="xl67" style="border-top: none; border-left: none;">COLOMBIA CONTEMPORÁNEA</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1501</td>
+<td class="xl67" style="border-top: none; border-left: none;">ESPAÑOL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="border-top: none;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl69" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton2.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none; text-align: left;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">NIVEL 2 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none; text-align: left;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROFUNDIZACIÓN 2 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none; text-align: left;" height="20">LENG1907&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">LINGÜÍSTICA GENERAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none; text-align: left;" height="20">CISO2000</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">HISTORIA Y SOCIOLOGÍA DE LA CIENCIA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30.75pt;">
+<td class="xl67" style="height: 30.75pt; border-top: none; text-align: left;" height="41">CISO210X</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">TEORÍAS Y ESCUELAS FUNDAMENTALES DEL SIGLO XX</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30.75pt;">
+<td class="xl67" style="height: 30.75pt; border-top: none; text-align: left;" height="41">CISO2200</td>
+<td class="xl67" style="border-top: none; border-left: none; text-align: left;">PROBLEMAS DE LA INVESTIGACIÓN SOCIAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69" style="text-align: right;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton3.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">NIVEL 3 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">PROFUNDIZACIÓN 3 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1908</td>
+<td class="xl67" style="border-top: none; border-left: none;">SOCIOLINGÜÍSTICA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 30pt;">
+<td class="xl67" style="height: 30pt; border-top: none;" height="40">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">INTRODUCCIÓN A OTRA DISCIPLINA DE LAS CIENCIAS SOCIALES</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 37.5pt;">
+<td class="xl67" style="height: 37.5pt; border-top: none;" height="50">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONCENTRACIÓN: SEGUNDA LENGUA NIVEL 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl72" style="border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton4.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">NIVEL 4 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">PROFUNDIZACIÓN 4 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENG1909</td>
+<td class="xl67" style="border-top: none; border-left: none;">FILOSOFÍA DEL LENGUAJE</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 36pt;">
+<td class="xl67" style="height: 36pt; border-top: none;" height="48">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 2</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 36pt;">
+<td class="xl67" style="height: 36pt; border-top: none;" height="48">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 3</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONCENTRACIÓN:&nbsp;<span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; text-align: start;">SEGUNDA LENGUA NIVEL 2</span></td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="border-top: none;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl69" style="border-top: none; border-left: none;">18</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton5.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">NIVEL 5 LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO OPTATIVO LINGÜÍSTICA</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 4</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 5</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONCENTRACIÓN:&nbsp;<span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; text-align: start;">SEGUNDA LENGUA NIVEL 3</span></td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68" style="border-top: none;">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl69" style="border-top: none; border-left: none;">15</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton6.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">NIVEL 6 LENGUA PRINCIPAL</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">ANTR1104</td>
+<td class="xl67" style="border-top: none; border-left: none;">MÉTODOS DE INVESTIGACIÓN CUALITATIVA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">DERE1300</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONSTITUCIÓN Y DEMOCRACIA</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 31.5pt;">
+<td class="xl67" style="height: 31.5pt; border-top: none;" height="42">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DEL CICLO BÁSICO UNIANDINO (CBU) 6</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONCENTRACIÓN:&nbsp;<span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; text-align: start;">SEGUNDA LENGUA NIVEL 4</span></td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">15</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton7.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl66" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl68" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">SEMINARIO DE LENGUA 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">SEMINARIO DE LENGUA 2</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">&nbsp;</td>
+<td class="xl67" style="border-top: none; border-left: none;">CURSO DE LIBRE ELECCIÓN (CLE) 1</td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl67" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl67" style="border-top: none; border-left: none;">CONCENTRACIÓN:&nbsp;<span style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; text-align: start;">SEGUNDA LENGUA NIVEL 5</span></td>
+<td class="xl70" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl69">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl70" style="border-top: none; border-left: none;">12</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton8.jpg" alt="" width="210" height="210" border="0" /></td>
+<td valign="top">
+<table style="border-collapse: collapse; width: 519px;" border="0" cellspacing="0" cellpadding="0"><colgroup><col style="width: 83pt;" width="110" /> <col style="width: 255pt;" width="340" /> <col style="width: 52pt;" width="69" /> </colgroup>
+<tbody>
+<tr style="height: 15pt;">
+<td class="xl65" style="height: 15pt; width: 83pt;" width="110" height="20"><strong>CODIGO</strong></td>
+<td class="xl65" style="border-left: none; width: 255pt;" width="340"><strong>NOMBRE</strong></td>
+<td class="xl67" style="border-left: none; width: 52pt;" width="69"><strong>CREDITOS</strong></td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none;">SEMINARIO DE LENGUA 3</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none;">SEMINARIO DE LENGUA 4</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none;">CONCENTRACIÓN: SEGUNDA LENGUA NIVEL 6</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">&nbsp;</td>
+<td class="xl66" style="border-top: none; border-left: none;">CURSO DE LIBRE ELECCIÓN (CLE) 2</td>
+<td class="xl69" style="border-top: none; border-left: none;">3</td>
+</tr>
+<tr style="height: 15pt;">
+<td class="xl66" style="height: 15pt; border-top: none;" height="20">LENGXXXX</td>
+<td class="xl66" style="border-top: none; border-left: none;">REQUISITO DE GRADO: ENSAYO EN LA LENGUA PRINCIPAL</td>
+<td class="xl69" style="border-top: none; border-left: none;">5</td>
+</tr>
+<tr style="height: 15pt;">
+<td style="height: 15pt;" height="20">&nbsp;</td>
+<td class="xl68">TOTAL CRÉDITOS SEMESTRE</td>
+<td class="xl71" style="border-top: none; border-left: none;">17</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+											</ul>
+					</div>
+	</div>
+
+	<div id="slideset-69-59b315494dd21" class="wk-slideset ">
+		<div>
+			<div class="sets">
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque1.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque2.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque3.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque4.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque5.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque6.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque7.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque8.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+							</div>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+	
+</div></p>
+<p> </p>
+<p><strong style="font-family: BitterBold; font-size: 25px;">Opciones de grado</strong></p>
+<p align="justify">Dependiendo de la concentración cursada por cada estudiante, éste deberá elegir una opción para cumplir con el último requisito para su grado.</p>
+<p align="justify"><strong>Concentración en Estudios Culturales:</strong></p>
+<ol id="numpq" class="num">
+<li>
+<p>Monografía de tesis para aquellos que quieran iniciar una investigación en el campo de los Estudios Culturales.</p>
+</li>
+<li>
+<p>Pasantía Profesional en alguna institución relevante para los Estudios Culturales; práctica acordada con el Director de la Red de Estudios Culturales para su seguimiento y evaluación.</p>
+</li>
+<li>
+<p>Tomar dos cursos dentro de la Maestría en Estudios Culturales.</p>
+</li>
+</ol>
+<p align="justify"><strong>Concentración en Pedagogía:</strong></p>
+<ol id="numpq" class="num">
+<li>
+<p align="justify">Práctica externa que se llevará a cabo en una institución diferente a la Universidad, como la Alianza Francesa, el Colombo Americano y el Colegio Andino, dependiendo de la lengua de estudios del aspirante a grado.</p>
+</li>
+<li>
+<p align="justify">Monografía que dé cuenta de los saberes y conocimientos pedagógicos del estudiante, en el marco de los procesos de enseñanza y aprendizaje de lenguas extranjeras.</p>
+</li>
+</ol>
+<p align="justify"><strong>Concentración en Segunda Lengua:</strong></p>
+<p align="justify">Ensayo ligado con alguno de los seminarios que haya cursado en la lengua principal. Deberá escribirse en el idioma respectivo, y será dirigido por algún profesor del departamento.</p>
+<h1><strong>Requisito LENG 3000 (examen de lengua extranjera para la carrera</strong><strong>)</strong></h1>
+<p>Atención: Este requisito sólo aplica para estudiantes inscritos en el programa de Lenguajes y Estudios Socioculturales.</p>
+<p>Para ingresar a los seminarios de lengua, los estudiantes inscritos en el antiguo programa de Lenguajes y Estudios Socioculturales deben presentar un examen internacional que evalúa el conocimiento de la lengua escogida como lengua principal después de haber cursado los primeros seis niveles del programa.</p>
+<p>En la siguiente tabla se muestra el examen y el puntaje que se debe obtener por lengua.</p>
+<p><strong>Estudiantes 2004-1 y posteriores:</strong></p>
+<table id="table1" class="style5" summary="Plain Rows style">
+<thead>
+<tr class="odd"><th scope="col">LENGUA</th><th scope="col"><strong>EXAMEN</strong></th><th scope="col"><strong>PUNTAJE</strong></th></tr>
+</thead>
+<tfoot></tfoot>
+<tbody>
+<tr class="odd">
+<td class="num" align="left">Inglés</td>
+<td class="num" align="left">TOEFL-IBT<br /> IELTS</td>
+<td class="num" align="left">MÍNIMO 80<br /> 6,5</td>
+</tr>
+<tr class="odd">
+<td class="num" align="left">Francés</td>
+<td class="num" align="left">DELF B2</td>
+<td class="num" align="left">Aprobar</td>
+</tr>
+<tr class="odd">
+<td class="num" align="left">Alemán</td>
+<td class="num" align="left">Zertifikat Deutsch B1<br /> B2</td>
+<td class="num" align="left">gut<br /> Suficiente</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p><strong>Agencias que administran los exámenes:</strong></p>
+<p>TOEFL: Gimnasio Británico<br /> IELTS: Consejo Británico<br /> DELF y DALF: Alliance Française-Alianza Colombo Francesa<br /> Zertifikat Deutsch: Goethe-Institut<br />Nota 1. Es responsabilidad de los estudiantes informarse oportunamente sobre las agencias, fechas y trámites necesarios para tomar los exámenes. Algunos exámenes solo se administran una vez al año. Ningún estudiante podrá tomar los seminarios de lengua en estudios socioculturales antes de aprobar este requisito.</p>
+<p>Nota 2. Los estudiantes cuyo código es anterior a 2002-2 no están sujetos a esta reglamentación. Para mayores informes dirigirse a la coordinación del Departamento.</p>
+<p><strong>Consejería</strong></p>
+<ul class="lista0">
+<li>Consejería Académica: el Departamento de <em>Lenguas y Cultura</em> ofrece a sus estudiantes consejerías académicas en las fechas estipuladas por la Universidad durante la semana de Planeación Académica y Consejería (calendario académico disponible en: <a href="http://registro.uniandes.edu.co/" target="_blank">http://registro.uniandes.edu.co/</a>). Estas consejerías son el espacio dispuesto para que, junto con el coordinador académico, cada estudiante resuelva sus inquietudes con respecto al programa. A través de estas consejerías, el Departamento garantiza que cada estudiante esté informado de las materias que debe inscribir en el momento de la producción de su horario.</li>
+<li>Consejería de profesores: además de la consejería académica, los estudiantes reciben el apoyo y la orientación de un profesor o profesora para resolver sus inquietudes con respecto a su desempeño académico en la carrera y a su trabajo en los cursos.</li>
+</ul>
+<p>
+<div id="accordion-51-59b315494ee93" class="wk-accordion wk-accordion-default clearfix"  data-widgetkit="accordion" data-options='{"style":"default","collapseall":1,"matchheight":1,"index":5,"duration":500,"width":"auto","order":"default"}'>
+			<h3 class="toggler">Ciclo Básico Uniandino (CBU)</h3>
+		<div><div class="content wk-content clearfix"><p>Con el objetivo de brindar una formación integral a sus estudiantes, se plantea el CBU como instrumento de contacto obligatorio con áreas básicas del conocimiento (Artes y Humanidades, Ciencias Sociales y Ciencia y Tecnología). El ciclo consta de seis cursos (18 créditos) clasificados en dos categorías: Tipo A y Tipo B. Los cursos Tipo A tratan temas generales de las mencionadas áreas de conocimiento, y el estudiante debe elegir una de cada área para un total de nueve créditos. Los cursos Tipo B tratan problemas, autores, períodos, teorías y temas específicos de las diferentes disciplinas, y el estudiante puede profundizar en las áreas que más le interesan con tres cursos (9 créditos).</p>
+<p>Para consultar la oferta de cursos CBU vigente para el semestre académico <a href="http://cbu.uniandes.edu.co/index.php" target="_blank">ingrese aquí</a></p></div></div>
+			<h3 class="toggler">Año Básico (Cursos CISO)</h3>
+		<div><div class="content wk-content clearfix">Los cursos del Año Básico de la Facultad de Ciencias Sociales (CISO) tienen el objetivo de desarrollar la capacidad crítica de los estudiantes, informándolos acerca de las metodologías y los conceptos fundamentales con los que trabajan estas disciplinas. Estos cursos propician un diálogo multidisciplinario, y les permiten a los alumnos construir perspectivas diversas para abordar los problemas y paradigmas de las sociedades actuales.</div></div>
+			<h3 class="toggler">Cursos de Libre Elección (CLE)</h3>
+		<div><div class="content wk-content clearfix">Consiste en cursos que pueden ser elegidos libremente de la oferta general de cursos de todos los programas académicos de la Universidad. Estos cursos pueden ser utilizados para cumplir con los requisitos de una opción, acumular créditos del doble programa o incursionar en áreas extracurriculares.</div></div>
+			<h3 class="toggler">Requisito de Español</h3>
+		<div><div class="content wk-content clearfix">El requisito de español pretende capacitar a todos los estudiantes de la Universidad en el uso adecuado de la lengua, con el fin de proporcionar las herramientas necesarias para elaborar textos académicos coherentes, apropiados y redactados de manera correcta. Los cursos para cumplir con este requisito son dictados únicamente por el Departamento de Humanidades y Literatura (LITE1611), y el Departamento de Lenguas y Cultura (LENG1501). El curso tiene 3 créditos, su calificación es numérica, no puede ser validado ni homologado con el puntaje obtenido en las pruebas del ICFES, y debe cumplirse antes del tercer semestre del programa que adelante el estudiante.</div></div>
+			<h3 class="toggler">Curso Constitución y Democracia</h3>
+		<div><div class="content wk-content clearfix"><p>Cumpliendo con el mandato consignado en el Artículo 41 de la Constitución, el curso busca, a través de la enseñanza de los principios constitucionales, fortalecer en los estudiantes el conocimiento crítico y la capacidad de actuación de acuerdo a los valores que, como ciudadanos, es necesario poseer para ejercer de manera responsable los derechos y deberes. El curso (DERE1300) tiene 3 créditos y es requisito obligatorio para todos los estudiantes de la Universidad, a excepción de los estudiantes de Derecho.</p>
+<p>Para mayor información <a href="https://cyd.uniandes.edu.co/" target="_blank">ingrese aquí</a></p></div></div>
+			<h3 class="toggler">Idioma Extranjero</h3>
+		<div><div class="content wk-content clearfix"><p>Como parte del proyecto de formación de profesionales integrales, la Universidad promueve el aprendizaje y el dominio de una lengua extranjera. Por tal motivo, desde 1999 los estudiantes deben cumplir con dos requisitos de idioma:</p>
+<h2 style="margin: 0cm; margin-bottom: .0001pt; line-height: 115%;"><a></a><strong>Requisito de dominio de segunda lengua (LENG 3999)</strong></h2>
+<p>Todos los estudiantes de pregrado de la Universidad de los Andes deben demostrar el dominio de una lengua extranjera, tanto en comprensión como en expresión oral y escrita. Este requisito puede cumplirse en cualquiera de las siguientes lenguas: <a href="/index.php/idiomas/?id=62" target="_blank"> inglés</a>,&nbsp; <a href="/index.php/idiomas/?id=63" target="_blank"> francés</a>, <a href="/index.php/idiomas/?id=64" target="_blank"> alemán</a> e <a href="/index.php/idiomas/?id=67" target="_blank"> italiano</a>.</p>
+<h2 style="margin: 0cm; margin-bottom: .0001pt; line-height: 115%;"><a></a><strong>Requisito de lectura en inglés (LENG 2999)</strong></h2>
+El requisito LENG 2999 demuestra un alto nivel de comprensión de lectura en inglés y debe cumplirse antes de iniciar el quinto semestre de la carrera. Para cumplir con este requisito de lectura, los estudiantes deben presentar el <a href="/index.php/idiomas/area-de-ingles/examenes-de-clasificacion-de-ingles" target="_blank"> examen de clasificación de inglés</a> que administra el Departamento de&nbsp; Lenguas y Cultura para conocer su nivel de comprensión de lectura en inglés.
+<p>Los estudiantes que ya tienen un examen internacional en inglés con los puntajes exigidos por la Universidad cumplen también con este requisito y no tienen que tomar el examen de clasificación.</p>
+<p>Para mayor información sobre este requisito ingrese a <a href="http://registro.uniandes.edu.co/index.php/reglamentos-cursos/requisito-extranjero" target="_blank"> http://registro.uniandes.edu.co/index.php/reglamentos-cursos/requisito-extranjero</a></p></div></div>
+			<h3 class="toggler">Convenios</h3>
+		<div><div class="content wk-content clearfix">La Universidad de los Andes cuenta con numerosos convenios y alianzas de intercambio de estudiantes con prestigiosas universidad en más de 20 países. Estos convenios promueven experiencias enriquecedoras que promueven en los estudiantes la integración de la teoría y la práctica de su profesión en contextos y culturas diferentes, y la ampliación de su visión del mundo. Los estudiantes pueden cursar hasta dos semestres en alguna de las universidades que hacen parte de los convenios de intercambio generales y específicos (dirigidos a estudiantes de determinadas carreras). Algunas de las universidades que tienen convenios específicos para los estudiantes de Ciencias Sociales son: Université Catholique de Louvain, Université de Bourgogne, University of Mannheim, Université de Paris X-Nanterre y Cologne Univeristy of Applied Sciences.<br />Para más información sobre procedimientos y convenios de intercambio vigentes <a href="https://ctp.uniandes.edu.co/Estudiantes/Programas/Intercambios/Convenios/index.php" target="_blank">ingrese aquí</a></div></div>
+	</div></p>
+<h1><a href="http://secretariageneral.uniandes.edu.co/images/documents/ReglamentoGralEstudiantesPregrado.pdf" target="_blank">Reglamento General de Estudiantes de Pregrado</a></h1>
+</div>		
+								</div>
+</div>
+              </div>
+                          </div>
+               
+<div class="ot-bottom-banner">      
+ 
+ </div>
+          
+            
+                    </div>
+        </div>
+      </div>
+                               
+
+      
+      <!--******************** END MAINBODY********************-->
+            
+      
+      
+      <!--******************** START FOOTER ********************-->
+    
+      <div class="ot-footer">
+        <div class="ot-footer-w template-width">
+          <div class="ot-footer-i">
+                        <div class="ot-bottom-1">
+              <div class="ot-bottom-1-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="pie"><strong>UNIVERSIDAD DE LOS ANDES | Vigilada MinEducación<br /></strong>Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964<br />Reconocimiento personería jurídica: Res. 28 del 23 de febrero de 1949 Min. Justicia.</div>
+<div class="pie"><strong><br /><strong>FACULTAD DE CIENCIAS SOCIALES</strong><br />DEPARTAMENTO DE LENGUAS Y CULTURA</strong><br />Carrera 1 No. 18A-10 - Piso 5, Bloque G -GB, Bogotá, Colombia<br />Tel: +571 332 43 37</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<p><a class="opacity" href="/index.php" target="_self"><img src="/images/iconos/01.png" border="0" alt="" /></a><a class="opacity" href="/index.php/contacto" target="_self"><img src="/images/iconos/02.png" border="0" alt="" /></a><a href="https://www.facebook.com/facisouniandes" target="_blank"><img src="/images/iconos/03.png" border="0" alt="" /></a><a href="https://twitter.com/facisouniandes" target="_blank"><img src="/images/iconos/07.png" border="0" alt="" /></a><a href="http://issuu.com/rfaciso" target="_blank"><img src="/images/iconos/04.png" border="0" alt="" /></a>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy22347 = 'r&#101;lf&#97;c&#105;s&#111;' + '&#64;';
+ addy22347 = addy22347 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text22347 = '<img src="/images/iconos/05.png" border="0" alt="" />';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy22347 + '\'>');
+ document.write(addy_text22347);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Esta dirección de correo electrónico está protegida contra spambots. Usted necesita tener Javascript activado para poder verla.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><a href="/index.php/buscar"><img src="/images/iconos/06.png" border="0" alt="" /></a></p></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                                    <div class="ot-bottom-2">
+              <div class="ot-bottom-2-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><strong>REDES UNIANDES</strong><br />• <a href="http://www.facebook.com/pages/Universidad-de-los-Andes/312867483159" target="_blank">Facebook</a><br />• <a href="http://www.youtube.com/user/uniandes" target="_blank">YouTube</a><br />• <a href="http://twitter.com/uniandes" target="_blank">Twitter</a><br />• <a href="http://feeds.feedburner.com/NoticiasUniandinas" target="_blank">Canales RSS</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+             
+
+            <div class="ot-bottom-3">
+              <div class="ot-bottom-3-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/" target="_blank">Normatividad Institucional</a><br /><a href="https://apoyofinanciero.uniandes.edu.co/" target="_blank">Apoyo Financiero</a><br /><a href="http://registro.uniandes.edu.co/" target="_blank">Admisiones y Registro</a><br /><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/" target="_blank">Educación continuada</a><br /><a href="http://biblioteca.uniandes.edu.co/" target="_blank">Sistema de Bibliotecas</a><br /><a href="http://egresados.uniandes.edu.co/" target="_blank">Portal de egresados</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        <div class="ot-bottom-4">
+              <div class="ot-bottom-4-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos">Contacto<br /><a href="/index.php/map">Mapa del sitio</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+      <!--******************** END FOOTER ********************-->
+    </div>
+    
+
+
+  <div class="pata"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap"><span class="mainlevel"> </span><a href="/" class="mainlevel" title="Inicio">Inicio</a><span class="mainlevel">  </span><a href="/index.php/el-departamento" class="mainlevel" title="El Departamento">El Departamento</a><span class="mainlevel">  </span><a href="/index.php/programas" class="mainlevel" title="Programas">Programas</a><span class="mainlevel">  </span><a href="/index.php/idiomas" class="mainlevel" title="Lenguas">Lenguas</a><span class="mainlevel">  </span><a href="/index.php/profesores" class="mainlevel" title="Profesores">Profesores</a><span class="mainlevel">  </span><a href="/index.php/investigacion" class="mainlevel" title="Investigación">Investigación</a><span class="mainlevel">  </span><a href="/index.php/publicaciones" class="mainlevel" title="Publicaciones">Publicaciones</a><span class="mainlevel">  </span><a href="/index.php/centros-y-laboratorios" class="mainlevel" title="Centros">Centros</a><span class="mainlevel">  </span><a href="/index.php/servicios" class="mainlevel" title="Servicios">Servicios</a><span class="mainlevel">  </span><a href="/index.php/noticias?view=list" class="mainlevel" title="Noticias">Noticias</a><span class="mainlevel">  </span><a href="/index.php/contacto" class="mainlevel" title="Contacto">Contacto</a><span class="mainlevel">  </span></td></tr></table>
+
+<div class="custom"  >
+	<p style="text-align: center;">Lenguas y Cultura | Carrera 1 No 18A 10 Bogotá, D.C., Colombia Tels: +571 3394999 Ext 2573 y 3515 / 2013 ©</p></div>
+</div>
+
+
+
+
+
+
+
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e12ab96101","applicationID":"23499169","transactionName":"blMDZEECXEVUVUcMDFcZIFNHCl1YGnVcCxdcWBVzXA1GRFpaXwARFlIIQ0MPU08=","queueTime":0,"applicationTime":795,"atts":"QhQAEgkYT0s=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+

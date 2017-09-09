@@ -1,0 +1,20 @@
+Cache-Control: public, max-age=0
+Content-Encoding: gzip
+Content-Language: es
+Content-Type: text/html; charset=utf-8
+Date: Fri, 08 Sep 2017 21:46:22 GMT
+Etag: "1504907182-1"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+From-Origin: same
+Last-Modified: Fri, 08 Sep 2017 21:46:22 GMT
+Link: <https://uniandes.edu.co/es/universidad/informacion-general/nuestros-simbolos/>; rel="canonical",<https://uniandes.edu.co/es/node/38/>; rel="shortlink",<https://wwwtest.uniandes.edu.co/sites/default/files/favicon.ico>; rel="shortcut icon"
+Server: Apache
+Strict-Transport-Security: max-age=360;
+Vary: Cookie,Accept-Encoding
+X-Content-Security-Policy: allow 'self';
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: MISS
+X-Frame-Options: ALLOW-FROM https://apps.uniandes.edu.co/
+X-Generator: Drupal 7 (http://drupal.org)
+X-Xss-Protection: 1; mode=block

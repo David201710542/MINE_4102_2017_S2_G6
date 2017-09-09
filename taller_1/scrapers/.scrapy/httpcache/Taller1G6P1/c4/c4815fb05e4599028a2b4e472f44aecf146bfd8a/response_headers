@@ -1,0 +1,9 @@
+Server: Virb <3's You!
+Date: Fri, 08 Sep 2017 21:58:54 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+X-Powered-By: PHP/5.3.9-1virb1
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Max-Age: 86400

@@ -40,7 +40,7 @@ class Taller1G6P1Pipeline(object):
         file = open('%s_items.csv' % spider.name, 'w+b')
         self.files[spider] = file
         self.exporter = CsvItemExporter(file)
-        self.exporter.fields_to_export = ['facultad', 'url']
+        self.exporter.fields_to_export = ['facultad', 'url', 'fuente', 'orden', 'origen', 'nivel']
         self.exporter.start_exporting()
 
     def spider_closed(self, spider):

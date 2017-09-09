@@ -1,0 +1,810 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" >
+  <head>
+
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1044.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Facultad de Ciencias Sociales - Inicio</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/ot_appoz/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-18ab2cbd.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_rsform/assets/calendar/calendar.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_rsform/assets/css/front.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ot_appoz/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://faciso.uniandes.edu.co/modules/mod_accordeonck/themes/simple/mod_accordeonck_css.php?cssid=accordeonck84210" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_pwebfblikebox/css/likebox.css" type="text/css" />
+  <style type="text/css">
+div.ot-header {background-color: #424243;}div.ot-banner {background-color: #FFFFFF;}div.ot-topboxes {background-color: #F1EEE7;}div.ot-mainbody {background-color: #FFFFFF;}div.ot-footer {background-color: #424243;}
+			.width100{ width: 100%; } 
+			 
+			.width50{ width: 50%; } 
+			 
+			.width33{ width: 33%; } 
+			 
+			.width25{ width: 25%; } 
+			 
+			.width20{ width: 20%; } 
+			 #smoothtop{
+	height:45px;
+	width:45px;
+	background:url(/plugins/system/smoothtop/images/up-arrow.gif) center top no-repeat;
+	
+}
+
+#smoothtop:hover{background-position: center bottom;}#accordeonck84210 li a.toggler { background: url(https://faciso.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck84210 li a.toggler.open { background: url(https://faciso.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }#accordeonck84210 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck84210 { padding: 10px;margin: 3px; } #accordeonck84210 li.level1 { padding: 2px; } #accordeonck84210 li.level1 > a { color: #333333;font-size: 13px; } #accordeonck84210 li.level1 > a:hover { color: #000000; } #accordeonck84210 li.level1 > a span.accordeonckdesc { color: #FFFFFF;font-size: 13px; } #accordeonck84210 li.level2 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck84210 li.level2 > a { color: #333333;font-size: 12px; } #accordeonck84210 li.level2 > a:hover { color: #000000; } #accordeonck84210 li.level2 > a span.accordeonckdesc { font-size: 10px; } #accordeonck84210 li.level3 { -moz-border-radius: 0px 0px 0px 0px;-webkit-border-radius: 0px 0px 0px 0px;border-radius: 0px 0px 0px 0px; } #accordeonck84210 li.level3 a { font-size: 12px; } #accordeonck84210 li.level3 a:hover {  } #accordeonck84210 li.level3 a span.accordeonckdesc { font-size: 10px; } 
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-993270bb.js" type="text/javascript"></script>
+  <script src="/components/com_rsform/assets/js/script.js" type="text/javascript"></script>
+  <script src="/templates/ot_appoz/scripts/menudropdown.js" type="text/javascript"></script>
+  <script src="https://faciso.uniandes.edu.co/modules/mod_accordeonck/assets/mod_accordeonck.js" type="text/javascript"></script>
+  <script src="/media/mod_pwebfblikebox/js/mootools.likebox.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {
+			$$('.hasTip').each(function(el) {
+				var title = el.get('title');
+				if (title) {
+					var parts = title.split('::', 2);
+					el.store('tip:title', parts[0]);
+					el.store('tip:text', parts[1]);
+				}
+			});
+			var JTooltips = new Tips($$('.hasTip'), { maxTitleChars: 50, fixed: false});
+		});// Fade our <div> tag to 0 or 'num'
+function fade_me(num){
+	var smoothtop=document.id('smoothtop');
+	if(smoothtop){smoothtop.fade(window.getScrollTop()<250?0:num);}
+}
+window.addEvent('domready',function(){
+	// Create Fx.Scroll object
+	var scroll=new Fx.Scroll(window,{
+		'duration':	500,
+		'transition':	Fx.Transitions.Expo.easeInOut,
+		'wait':		false
+	});
+	// Create an <div> tag for SmoothTop
+	var smoothtop=new Element('div',{
+		'id':		'smoothtop',
+		'class':	'smoothtop',
+		'style':	'position:fixed; display:block; visibility:visible; zoom:1; opacity:0; cursor:pointer; right:5px; bottom:5px;',
+		'title':	'',
+		'html':		'',
+		'events':{
+			// No transparent when hover
+			mouseover: function(){fade_me(1);},
+			// Transparent when no hover
+			mouseout: function(){fade_me(0.7);},
+			// Scroll Up on click
+			click: function(){scroll.toTop();}
+		}
+	// Inject our <div> tag into the document body
+	}).inject(document.body);
+	// Gottta do this for stupid IE
+	document.id('smoothtop').setStyle('opacity','0');
+});
+// Show/Hide our <div> tag
+window.addEvent('scroll',function(){fade_me(0.7);});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck84210'),{fadetransition : false,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck84210',imagePlus : 'https://faciso.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png',imageMinus : 'https://faciso.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/es_ES/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,"script","facebook-jssdk"));
+
+/*===  EASY GOOGLE ANALYTICS : START TRACKING CODE  ===*/
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-51158885-1']);
+	_gaq.push(['_setDomainName', '.uniandes.edu.co']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+/*===  EASY GOOGLE ANALYTICS : END TRACKING CODE  ===*/
+
+  </script>
+  <!--[if lte IE 8]>
+<link rel="stylesheet" href="/media/mod_pwebfblikebox/css/ie.css" />
+<![endif]-->
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '123850567958447');
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=123850567958447&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+
+<!-- Google Code for Remarketing Tag -->
+<!--Remarketing tags may not be associated with personally identifiable information or placed -->
+<!--on pages related to sensitive categories. See more information and instructions on how -->
+<!--to setup the tag on: http://google.com/ads/remarketingsetup-->
+
+<script type="text/javascript">
+var google_tag_params = {
+edu_pid: 'REPLACE_WITH_VALUE',
+edu_plocid: 'REPLACE_WITH_VALUE',
+edu_pagetype: 'REPLACE_WITH_VALUE',
+edu_totalvalue: 'REPLACE_WITH_VALUE',
+};
+</script>
+<script type="text/javascript">
+ var submitButton= document.getElementById('Registrarse');
+
+addListener(submitButton, 'click', function() {
+
+  ga('send', 'event', 'button', 'click', 'envioformulario');
+
+});
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 943372924;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/943372924/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+
+
+
+  <link rel="stylesheet" href="https://faciso.uniandes.edu.co/plugins/system/HDsocialbm/icons.css" type="text/css" />
+</head>
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MM45NP"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MM45NP');</script>
+<!-- End Google Tag Manager -->
+
+
+<body id="ot-body" class="left-content-right">
+
+<div id="ot-top" class="color">
+
+
+<div class="custom"  >
+	<div class="color">
+<div id="molde">.</div>
+</div></div>
+
+</div>
+
+  <div class="ot-wrap">
+    <div class="ot-wrap-i">
+      <!--******************** START HEADER ********************-->
+      <div class="ot-header">
+        <div class="ot-header-w template-width">
+          <div class="ot-header-i">
+            <div class="ot-logo">
+                            
+
+<div class="custom"  >
+	<div><a href="http://www.uniandes.edu.co" target="_blank"><img src="images/logo.png" alt="" border="0" /></a></div></div>
+
+                            
+
+            </div>
+
+
+
+
+
+          </div>
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+
+
+      <!--******************** END HEADER ********************-->
+
+      
+
+
+                        <div class="ot-mainmenu">
+        <div class="ot-mainmenu-w template-width">
+          <div id="ot-mainmenu" class="ot-mainmenu-i">
+            <ul class="menu level0">
+<li id="item-377" class="current active level0 first"><a href="/index.php?option=com_content&amp;view=category&amp;id=17&amp;Itemid=377" ><span>Inicio</span></a></li><li id="item-498" class="level0"><a href="/index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=498" ><span>La Facultad</span></a></li><li id="item-383" class="level0"><a href="/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=383" ><span>Programas</span></a></li><li id="item-499" class="level0"><a href="/index.php?option=com_content&amp;view=category&amp;id=17&amp;Itemid=499" ><span>Profesores</span></a></li><li id="item-500" class="level0"><a href="vicedecanatura/" target="_blank" ><span>Investigación</span></a></li><li id="item-501" class="level0"><a href="https://publicacionesfaciso.uniandes.edu.co/" target="_blank" ><span>Publicaciones</span></a></li><li id="item-502" class="level0"><a href="/index.php?option=com_content&amp;view=article&amp;id=23&amp;Itemid=502" ><span>Recursos</span></a></li><li id="item-503" class="level0"><a href="/index.php?option=com_content&amp;view=article&amp;id=25&amp;Itemid=503" ><span>Servicios</span></a></li><li id="item-504" class="level0"><a href="/index.php?option=com_icagenda&amp;view=list&amp;Itemid=504" ><span>Noticias y eventos</span></a></li><li id="item-505" class="level0"><a href="/index.php?option=com_content&amp;view=categories&amp;id=17&amp;Itemid=505" ><span>Contacto</span></a></li></ul>
+          </div>
+        </div>
+      </div>
+
+      
+      
+
+      <div class="ot-banner">
+        <div class="ot-banner-w template-width">
+
+
+          <div class="ot-banner-i">
+
+
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+<div id="gallery-83-59b2ddc6cf581" class="wk-slideshow wk-slideshow-subway" data-widgetkit="slideshow" data-options='{"style":"subway","width":960,"height":385,"autoplay":1,"order":"default","interval":8000,"duration":0,"index":0,"navigation":1,"buttons":1,"slices":20,"animated":"fade","caption_animation_duration":500,"lightbox":0}'>
+	<div>
+		<ul class="slides">
+
+			            
+				
+									<li><a class="" href="http://www.e-encuesta.com/r/g5blLahEl1uje1UX3XIeMg/" ><img src="/cache/widgetkit/gallery/83/00000000000Rotador Represente Estudiantil-eefc6be56d.png" width="960" height="385" alt="00000000000Rotador Represente Estudiantil" /></a></li>
+								
+							            
+				
+									<li><a class="" href="https://faciso.uniandes.edu.co/index.php?option=com_content&view=article&id=7&Itemid=383" ><img src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/cache/widgetkit/gallery/83/0000000000Piezas_Banner15-9499de6282.jpg" width="960" height="385" alt="0000000000Piezas_Banner15" /></a></li>
+								
+										
+		</ul>
+        <a class="buttons" href="JavaScript:void(0);"><div class="prev"></div><div class="next"></div></a>		<div class="caption"></div><ul class="captions"><li></li><li></li></ul>
+	</div>
+	<ul class="nav"><li><span></span></li><li><span></span></li></ul></div>
+	
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<!-- PWebFBLikeBox -->
+<div id="pwebfblikebox254" class="pwebfblikebox pwebfblikebox-left pwebfblikebox-radius pwebfblikebox-shadow slidebox ">
+	<div class="pwebfblikebox_tab f-white"></div>
+		<div class="pwebfblikebox_container" style="width:400px;"><div id="fb-root"></div><div class="fb-like-box" id="pwebfblikebox254_html5" data-href="https://www.facebook.com/facisouniandes" data-show-faces="true" data-stream="true" data-header="true" data-width="400" data-force-wall="true"></div></div>
+</div>
+
+<script type="text/javascript">
+(function(){
+	pwebFBLikeBox254 = new pwebFBLikeBox({
+		id: 		254,
+		prefix: 	'pwebfblikebox254',
+		open: 		'click',
+		close: 		'click',
+				position: 	'left',
+		top: 		-1,
+		layout: 	'slidebox'
+	});
+})();
+if(typeof window.fbAsyncInit=="function")window.fbAsyncInitPweb=window.fbAsyncInit;window.fbAsyncInit=function(){FB.Event.subscribe("edge.create",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","like",u])});FB.Event.subscribe("edge.remove",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","unlike",u])});if(typeof window.fbAsyncInitPweb=="function")window.fbAsyncInitPweb.apply(this,arguments)};</script>
+<!-- PWebFBLikeBox end -->			</div>
+		</div>
+	</div>
+
+          </div>
+          <div class="botonera_deptos">
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div><a href="https://antropologia.uniandes.edu.co/" target="_blank" class="opacity" title=""><img src="images/dptos/boton_depto_1.png" alt="" border="0" /></a><a href="http://c-politica.uniandes.edu.co/" target="_blank" class="opacity"><img src="images/dptos/boton_depto_2.png" alt="" border="0" /></a><a href="https://filosofia.uniandes.edu.co/" target="_blank" class="opacity" title=""><img src="images/dptos/boton_depto_3.png" alt="" border="0" /></a><a href="https://historia.uniandes.edu.co/" target="_blank" class="opacity" title=""><img src="images/dptos/boton_depto_6.png" alt="" border="0" /></a><a href="https://lenguas.uniandes.edu.co/" target="_blank" class="opacity"><img src="images/dptos/boton_depto_5.png" alt="" border="0" /></a><a href="https://psicologia.uniandes.edu.co/" target="_blank" class="opacity" title=""><img src="images/dptos/boton_depto_4.png" alt="" border="0" /></a></div></div>
+			</div>
+		</div>
+	</div>
+
+          </div>
+        </div>
+        
+
+</div>     
+ 
+
+         
+     
+
+
+       
+      <!--******************** START MAINBODY ********************-->
+      <div class="ot-mainbody">
+
+
+        <div class="ot-mainbody-w template-width"> 
+        
+       
+        <div class="ot-mainbody-i">
+            
+          
+                        <div class="ot-leftcolumn">
+              <div class="ot-leftcolumn-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div id="comunidad">
+<div class="ccs">INFORMACIÓN PARA</div>
+</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<div class="accordeonck ">
+<ul class="menu" id="accordeonck84210">
+<li id="item-508" class="item-508 level1"><a href="https://faciso.uniandes.edu.co/index.php?option=com_content&view=article&id=7&Itemid=383" >Aspirantes de pregrado</a></li><li id="item-509" class="item-509 level1"><a href="https://faciso.uniandes.edu.co/index.php?option=com_content&view=article&id=7&Itemid=383" >Aspirantes de posgrado</a></li><li id="item-510" class="item-510 level1"><a href="/index.php?option=com_content&amp;view=category&amp;id=17&amp;Itemid=510" >Estudiantes</a></li><li id="item-511" class="item-511 level1"><a href="/index.php?option=com_content&amp;view=category&amp;id=17&amp;Itemid=511" >Profesores</a></li><li id="item-512" class="item-512 level1"><a href="/index.php?option=com_content&amp;view=category&amp;id=17&amp;Itemid=512" >Egresados</a></li><li id="item-514" class="item-514 level1"><a href="http://www.uniandes.edu.co/institucional/informacion-para/empresas-y-organizaciones" target="_blank" >Empresas y organizaciones</a></li><li id="item-515" class="item-515 level1"><a href="http://donaciones.uniandes.edu.co/s/1384/25/start.aspx?gid=25&pgid=61" target="_blank" >Donantes y financiadores</a></li><li id="item-735" class="item-735 level1"><a href="https://apoyofinanciero.uniandes.edu.co/" target="_blank" >Apoyo Financiero</a></li></ul></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        
+
+
+
+
+
+            <div class="ot-content">
+              <div class="ot-content-i">
+                
+<div id="system-message-container">
+</div>
+                <div class="category-list">
+
+	
+	
+	
+	<div class="cat-items">
+		
+
+	
+
+
+	</div>
+
+	</div>
+
+              </div>
+                            <div class="ot-bottom-content">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div id="novedades">
+<div id="slideset-44-59b2ddc6c3ec3" class="wk-slideset wk-slideset-micasa" data-widgetkit="slideset" data-options='{"style":"micasa","width":680,"height":680,"effect":"slide","index":0,"autoplay":1,"interval":10000,"items_per_set":3,"navigation":1,"buttons":1,"title":0,"duration":200}'>
+	<div>
+		<div class="sets">
+							<ul class="set">
+										<li>
+						<article class="wk-content"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><a href="images/insumos/admitidos_2017-2.pdf"><img src="images/img/Captura_admitidos20172.JPG" alt="" /><br /></a><a href="images/insumos/admitidos_2017-2.pdf"><span style="color: #000000;">Aqu&iacute; el listado de&nbsp;</span></a><br /><span style="color: #000000;"><a href="images/insumos/admitidos_2017-2.pdf">admitidos de pregrado<br /> para el</a>&nbsp;</span><span style="color: #000000;"><a href="images/insumos/admitidos_2017-2.pdf">2017-2</a><a href="images/insumos/admitidos_2017-2.pdf"></a></span><a href="images/insumos/admitidos_2017-2.pdf"><br /></a><br /><br /></strong></span></strong></strong></strong></strong></span><a href="http://ow.ly/4cqJ30axcRO" target="_blank"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;"><br /></span></span></strong></strong></span></a></strong></strong></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://registro.uniandes.edu.co/images/stories/SCOUTING_POSGRADO/guia_posgrado_uniandes_20172.pdf"><img src="images/insumos/guia_pos.JPG" alt="" /></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="http://ow.ly/AtTN30axcQg"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/Egresadosquecuentan2.jpg" alt="" width="167" height="101" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong>As&iacute; fue Egresados <br />que cuentan &ndash; <br />Historia y Educaci&oacute;n<br /></strong></span></strong></strong></strong></strong></span><a href="http://ow.ly/AtTN30axcQg" target="_blank"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></strong></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><p><a href="https://revestudsoc.uniandes.edu.co/index.php/es/"><img src="images/insumos/RES_61_boletin.jpg" alt="" /></a></p>
+<p><strong>Ya lleg&oacute; el nuevo n&uacute;mero de la Revista de </strong><br /><strong>Estudios Sociales, y &nbsp;&iexcl;<a href="https://revestudsoc.uniandes.edu.co/index.php/es/">AQU&Iacute;</a> lo tenemos!</strong></p></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="index.php?option=com_content&amp;view=article&amp;id=106&amp;Itemid=1168"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="cache/widgetkit/gallery/124/1ganadores%20algunos-6b9262fe02.jpg" alt="" width="167" height="109" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong>As&iacute; fue el Concurso<br />de Oratoria Japonesa<br />2017</strong></span><br /></strong></strong></strong></strong></span><a href="index.php?option=com_content&amp;view=article&amp;id=106&amp;Itemid=1168" target="_blank"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></strong></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=1168"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/SeminarioImpactoSocial01032017/SeminarioImpactoAmbiental0103_3.jpg" alt="" width="167" height="99" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Di&aacute;logo entre el sector<br />minero energ&eacute;tico y<br />las comunidades, tema<br />del Primer Seminario de<br />#ImpactoSocial <br /></strong></strong></strong></strong></span><a href="index.php?option=com_content&amp;view=article&amp;id=105&amp;Itemid=1168" target="_blank"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></strong></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=1168"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/ComunicacionesFaciso/FotoKraantiSamuel.jpg" alt="" width="110" height="151" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Hablar como ette, <br />pensar como ette. <br />Por Daniel Kraus<br /></strong></strong></strong></strong></span><a href="http://ow.ly/tEQw309eeTI" target="_blank"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></strong></article>
+											</li>
+										<li>
+						<article class="wk-content"><img style="display: block; border: 0px none;" src="images/ComunicacionesFaciso/eliteseindianidad.jpg" alt="eliteseindianidad" width="108" height="108" /> <span style="font-size: 14pt;"><strong>La Cosecha de<br />Ciencia Pol&iacute;tica<br />en 2016</strong></span><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /></strong></strong></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">Nuestros profesores<br />tuvieron un productivo 2016 <br />con la escritura de Libros, <br />cap&iacute;tulos de libros y <br />art&iacute;culos en revistas <br /></span><a href="index.php?option=com_content&amp;view=article&amp;id=98&amp;Itemid=1168"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="index.php?option=com_content&amp;view=article&amp;id=96&amp;Itemid=1168"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/ComunicacionesFaciso/Egresadosquecuentan_peq.jpg" alt="" width="176" height="85" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">En los 20 a&ntilde;os del<br />Pregrado de Historia,<br />los Egresados <br />cuentan<br /></strong></strong></strong></strong></span><a href="index.php?option=com_content&amp;view=article&amp;id=96&amp;Itemid=1168"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></strong></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=1168"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/ComunicacionesFaciso/DSC_1138.JPG" alt="" width="176" height="113" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Las reflexiones de <br />Sentir y o&iacute;r el porvenir <br />en Colombia:<br />Caravana por la <br />Paz 2016<br /></strong></strong></strong></strong></span><a href="index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=1168"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></strong></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://www.facebook.com/pg/facisouniandes/photos/?tab=album&amp;album_id=701773806671920"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/DSC_1026.jpg" alt="https://faciso.uniandes.edu.co/images/DSC_1026.jpg" width="144" height="101" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">&iquest;Se perdi&oacute; nuestra <br />Presentaci&oacute;n de <br />Publicaciones 2016? <br />Les compartimos <br />algunos momentos</strong></strong></strong></span><br /><a href="https://www.facebook.com/pg/facisouniandes/photos/?tab=album&amp;album_id=701773806671920"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong> </span> </a></strong></strong></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="index.php?option=com_content&amp;view=article&amp;id=93&amp;Itemid=1168"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/NotaEscueladeCampo.jpg" alt="" width="156" height="141" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Escuela de Campo: <br />Antropolog&iacute;a en <br />cuerpo y mente</strong></strong></strong></span><br /><a href="index.php?option=com_content&amp;view=article&amp;id=93&amp;Itemid=1168"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong> </span> </a></strong></strong></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="http://ow.ly/Hcpt306hr9R"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/ComunicacionesFaciso/FI015-R-SECUNDARIO.png" alt="" width="180" height="120" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Felicitaciones <br />Fil&oacute;sofos <br />y Fil&oacute;sofas en el <br />D&iacute;a Mundial <br />de la Filosof&iacute;a</strong></strong></strong></span><br /><a href="http://ow.ly/Hcpt306hr9R"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong> </span> </a></strong><br /> </strong></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="index.php?option=com_content&amp;view=article&amp;id=90&amp;Itemid=1168%20"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><img src="images/AntropologiayPlebiscito.jpg" alt="" width="176" height="113" /></strong></a><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; letter-spacing: normal; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">El Plebiscito <br />a trav&eacute;s de la <br />Antropolog&iacute;a</strong></strong></strong></strong></span><br /><a href="index.php?option=com_content&amp;view=article&amp;id=90&amp;Itemid=1168%20"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></strong></article>
+											</li>
+										<li>
+						<article class="wk-content"><p><a href="http://goo.gl/aC3WxJ"><img style="display: block;" src="images/ComunicacionesFaciso/EntrevistaFelipeBotero_Redes.png" alt="" width="130" height="92" /></a> <span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Uniandes presente <br />en el IV Congreso<br />Nacional de <br />Ciencia Pol&iacute;tica<br /></strong></strong></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">Felipe Botero, profesor del<br />Departamento de Ciencia<br />Pol&iacute;tica, habla sobre el aporte <br />de Uniandes.</span><br /><a href="http://goo.gl/aC3WxJ"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></p></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="http://goo.gl/tbcRSq"><img style="display: block;" src="images/ComunicacionesFaciso/Nota_Neurociencia.png" alt="" width="130" height="92" /></a> <span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">10 a&ntilde;os de aporte<br />a la Neurociencia<br />en Colombia<br /></strong></strong></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">Entrevista con Fernando<br />C&aacute;rdenas con ocasi&oacute;n<br />del d&eacute;cimo aniversario<br />del Laboratorio<span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">.</span></span><br /><a href="http://goo.gl/tbcRSq"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://goo.gl/PGjI80"><img style="display: block;" src="images/ComunicacionesFaciso/7agosto/7Agosto_Redes.jpg" alt="" width="130" height="92" /></a> <span style="font-size: 14pt;"><strong><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Participaci&oacute;n <br />pol&iacute;tica:<br />preocupaci&oacute;n que <br />persiste<br /></strong></strong></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">An&aacute;lisis sobre<span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;"> participaci&oacute;n<br />pol&iacute;tica en Colombia con<br />ocasi&oacute;n del 7 de agosto.</span></span><br /><a href="https://goo.gl/PGjI80"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><p><a href="https://goo.gl/a7B5HI"><img style="display: block;" src="images/ComunicacionesFaciso/20julio_redes.jpg" alt="" width="130" height="92" /></a> <span style="font-size: 14pt;"><strong><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">20 de julio:<br />&iquest;Conmemorar o<br />repensar la patria?</strong><br /></strong></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">An&aacute;lisis sobre<span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;"> democracia,<br />instituciones del sistema<br />pol&iacute;tico, gobierno actual,<br />la paz y el posconflicto.</span></span><br /><a href="https://goo.gl/a7B5HI"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></p></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="https://goo.gl/KowQuG"><img style="display: block;" src="images/ComunicacionesFaciso/ExpandedField3.jpg" alt="" width="130" height="92" /></a> <span style="font-size: 14pt;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Uniandinos en<br />la exposici&oacute;n<br />`Ethnography<br />in the Expanded<br />Field&acute;<br /></strong></strong></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">Estudiantes de Antropolog&iacute;a<br />fueron expositores este <br />performance.</span><br /><a href="https://goo.gl/KowQuG"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://goo.gl/wUdMNV"><img style="display: block;" src="images/ComunicacionesFaciso/Memespaz.jpg" alt="" width="130" height="92" /></a> <span style="font-size: 14pt;"><strong><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">&iquest;Proceso de Paz? <br />Tres elementos <br />para entenderlo<br /></strong></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">Compartimos algunos<br />elementos para entender<br />el proceso de paz y<br />aportar al debate informado.</span><br /><a href="https://goo.gl/wUdMNV"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://goo.gl/tta93X"><img style="display: block;" src="images/ComunicacionesFaciso/Publiconference.png" alt="" width="130" height="92" /></a> <span style="font-size: 14pt;"><strong><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">La Historia P&uacute;blica<br />se toma Am&eacute;rica <br />Latina</strong><br /></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">M&aacute;s de 20 paneles con 4<br />ponencias cada uno; unas <br />60 ponencias internacionales<br />y posters sobre esta tem&aacute;tica.</span><br /><a href="https://goo.gl/tta93X"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="https://goo.gl/Zl7VYG"><img style="display: block;" src="images/ComunicacionesFaciso/DSC_6950.JPG" alt="" width="151" height="107" /></a> <span style="font-size: 14pt;"><strong><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Andr&eacute;s Felipe <br />Salazar, el ut&oacute;pico</strong></strong><br /></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">Sus amigos y conocidos lo<br />describen como un <br />comprometido. Entrevista<br />con el representante <br />estudiantil 2015-2016.</span><br /><a href="https://goo.gl/Zl7VYG"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://goo.gl/oaPTYF"><img src="images/ComunicacionesFaciso/Antipoda25_Correo.png" alt="" width="228" height="272" /></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://goo.gl/RCpZm7"><img style="display: block;" src="images/ComunicacionesFaciso/topd.jpg" alt="" width="150" height="92" /></a>
+<div style="text-align: left;">&nbsp;</div>
+<div style="text-align: left;"><span style="font-size: 14pt;"><strong><br />Top 5 de Ciencias <br />Sociales en la <br />FILBO 2016<br /></strong></span></div>
+La Universidad hizo 15 eventos,<br />en los cuales tres obras de<br />profesores de Ciencias sociales <br />fueron presentadas.<br /><a href="https://goo.gl/RCpZm7"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="http://ht.ly/4nuViC"><img style="display: block;" src="images/ComunicacionesFaciso/Foto%20Susana%20Icanh%203.jpg" alt="" width="151" height="107" /></a> <span style="font-size: 14pt;"><strong><br /><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 18.6667px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;">Susana Carmona,<br />la antrop&oacute;loga que<br />estudia la RSE.<br /></strong></strong></span><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;"><span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 22.4px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">Entrevista con la estudiante<br />ganadora de<span style="color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14.6667px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: 18.9px; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; float: none; background-color: #ffffff;">l Programa de <br />Fomento a la Investigaci&oacute;n <br />del ICANH.</span></span></span><br /><a href="http://ht.ly/4nuViC" data-mce-tmp="1"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="http://ht.ly/4nfdpn"><img style="display: block;" src="images/Santiago.jpg" alt="" width="150" height="92" /></a><span style="font-size: 14pt;"><strong><br />Santiago Roa, ganador<br />de una Beca para la<br />Universidad de Cornell<br /></strong></span>La experiencia de uno de los <br />ganadores de esta beca.<br /><a href="http://ht.ly/4nfdpn"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="http://ht.ly/4mZbbM"><img style="display: block;" src="images/JuanPabloAranguren.jpg" alt="" width="150" height="103" /></a><span style="font-size: 14pt;"><strong><br />Presentaci&oacute;n: "Cuerpos <br />al l&iacute;mite, tortura y<br />subjetividad en Colombia&rdquo;<br /></strong></span>Comprender las formas en las que<br />la violencia se inscribi&oacute; en los <br />cuerpos individuales y sociales.<br /><a href="http://ht.ly/4mZbbM"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><img style="display: block;" src="images/AlhenaFilbo_.jpg" alt="" width="150" height="97" /><span style="font-size: 14pt;"><strong><br />La alteridad radical. <br />Neochamanismos <br />yajeceros en Colombia, <br />de Alhena Caicedo<br />en la #FILBo2016<br /></strong></span>Los temas que guiaron la<br />investigaci&oacute;n y m&aacute;s en este<br />art&iacute;culo<br /><a href="http://ht.ly/4mK7Np"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><div><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; font-size: 14pt;"><br /><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/CursoAmericaInSitu.png" alt="" width="200" height="86" /></span></strong></div>
+<strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; font-size: 14pt;"><br />Geograf&iacute;a de Am&eacute;rica <br />Latina in situ<br /></span></strong><span style="margin: 0px; padding: 0px; font-size: 14pt;"><span style="font-size: 14pt;"><span style="font-size: 10pt;">Curso intersemestral ofrecido en<br />diferentes zonas de la regi&oacute;n<br />latinoamericana. </span></span></span><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 22.4px; text-align: center; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; font-size: 14pt;"><br /><a href="http://ht.ly/ZGcHA"><span style="font-size: 14pt;"><span style="font-size: 10pt;"><strong><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></strong></span></span></a><br /></span></strong></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="http://admitidos.uniandes.edu.co/images/stories/guia_uniandina_2016-2.pdf"><img src="images/notas/guia_pregrado.png" alt="uniandino" width="210" height="249" /></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><div><a href="http://ow.ly/YIxbX"><img style="display: block; margin-left: auto; margin-right: auto;" src="cache/widgetkit/gallery/103/image8-3c57bcf2eb.jpg" alt="" width="110" height="115" /></a><span style="font-size: 14pt;"><strong>Lanzamiento del<br />Libro<br />Memoria y Conflicto<br /></strong><span style="font-size: 10pt;"><span style="font-size: 14pt;"><span style="font-size: 10pt;">Producto de la cooperaci&oacute;n </span></span><br />entre las dos instituciones se <br />hace esta Publicaci&oacute;n.<strong><br /><a href="http://ow.ly/YIxbX"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a> </strong> </span> </span></div></article>
+											</li>
+										<li>
+						<article class="wk-content"><div><a href="http://ow.ly/UC5gz"><span style="font-size: 14pt;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="cache/widgetkit/gallery/102/Publicaciones3-b706add2c3.jpg" alt="Logros y Desaf&iacute;os en la Psicolog&iacute;a" width="150" height="97" /></strong></span></a></div>
+<span style="font-size: 14pt;"><strong>Presentaci&oacute;n de <br />Publicaciones<br />2015<br /></strong><span style="font-size: 10pt;">M&aacute;s de 20 novedades de las <br />diferentes colecciones fueron <br />puestas a consideraci&oacute;n del <br />p&uacute;blico en la Presentaci&oacute;n de <br />Publicaciones 2015.<strong><br /><a href="http://ow.ly/UC5gz"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span> </strong> </strong> </span> </a> </strong> </span> </span></article>
+											</li>
+										<li>
+						<article class="wk-content"><div><a href="http://ow.ly/UMbxR"><span style="font-size: 14pt;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/La%20Naturaleza%20Humana%20y%20La%20Paz0002.jpg" alt="La Naturaleza Humana y la Paz" width="150" height="97" /></strong></span></a></div>
+<span style="font-size: 14pt;"><strong>&iquest;Se perdi&oacute; la conferencia<br />"Naturaleza Humana<br />y Paz"?<br /></strong><span style="font-size: 10pt;">Reflexiones sobre la violencia, <br />la guerra, las narrativas sociales,<br />la institucionalidad fueron parte<br />de este evento.<strong><br /><a href="http://ow.ly/UMbxR"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span> </strong> </strong> </span> </a> </strong> </span> </span></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><div><a href="http://ow.ly/UwsHy"><span style="font-size: 14pt;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="cache/widgetkit/gallery/99/MSR_6400-0001400a62.gif" alt="Logros y Desaf&iacute;os en la Psicolog&iacute;a" width="150" height="97" /></strong></span></a></div>
+<span style="font-size: 14pt;"><strong>As&iacute; vivimos la Semana <br />de China <br /></strong><span style="font-size: 10pt;">Caligraf&iacute;a, cocina, concursos de<br /> oratoria, ferias comerciales <br />y m&aacute;s tuvimos en la pasada <br />edici&oacute;n de la Semana de China <br />2015 - 2<strong>.<br /><a href="http://ow.ly/UwsHy"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span> </strong> </strong> </span> </a> </strong> </span> </span></article>
+											</li>
+										<li>
+						<article class="wk-content"><div><a href="http://ow.ly/U0oHw"><span style="font-size: 14pt;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/DSC_6466.JPG" alt="Logros y Desaf&iacute;os en la Psicolog&iacute;a" width="150" height="97" /></strong></span></a></div>
+<span style="font-size: 14pt;"><strong>Apartes de la charla<br />"Logros y Desaf&iacute;os en<br />la Psicolog&iacute;a" con <br />David Barlow y<br />Steven Pinker <br /></strong><span style="font-size: 10pt;">Mejores tratamientos, el<br />las patolog&iacute;as que aquejan a <br />la poblaci&oacute;n actual y m&aacute;s <br />en este encuentro.<strong><br /><a href="http://ow.ly/UrDa5"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span> </strong> </strong> </span> </a> </strong> </span> </span></article>
+											</li>
+										<li>
+						<article class="wk-content"><div><a href="http://ow.ly/U0oHw"><span style="font-size: 14pt;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/s720x720/12029726_484538348395468_8247768056090958122_o.jpg" alt="Conferencia &quot;Econom&iacute;as de Guerra y Criminalidad Posconflicto&quot;" width="150" height="97" /></strong></span></a></div>
+<span style="font-size: 14pt;"><strong>Reviva la Conferencia<br />"Econom&iacute;as de Guerra<br />y Criminalidad <br />Posconflicto"<br /></strong><span style="font-size: 10pt;">El papel del Estado, la <br />institucionalidad y la academia <br />fueron algunos de los temas <br />debatidos en este evento.<strong><br /><a href="http://ow.ly/U0oHw"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></span></span></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><div><span style="font-size: 14pt;"><strong><img style="display: block; margin-right: auto; margin-left: auto;" src="cache/widgetkit/gallery/98/Image_19-7c82b725ac.JPG" alt="Sarah Mar&iacute;a Mu&ntilde;oz Cadena" width="150" height="97" /></strong></span></div>
+<br /><span style="font-size: 14pt;"><strong>Sarah Mu&ntilde;oz Cadena,<br />cada vez m&aacute;s cerca de<br />alcanzar la meta<br /></strong><span style="font-size: 10pt;">Estudiante de Ciencia Pol&iacute;tica y <br />una convencida de que para que<br /> sus sue&ntilde;os se conviertan en<br />realidades, se debe trabajar y no <br />perder la fe.<strong><br /><a href="http://ow.ly/TLCcm"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></span></span></article>
+											</li>
+										<li>
+						<article class="wk-content"><div><span style="font-size: 14pt;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/DSC_6657.JPG" alt="Felipe Z&aacute;rate Guerrero" width="150" height="97" /></strong></span></div>
+<span style="font-size: 14pt;"><strong><br />Felipe Z&aacute;rate Guerrero, el<br />fil&oacute;sofo que quiere ser <br />profesor<br /></strong><span style="font-size: 10pt;">Bogotano que estudi&oacute; en Cota, <br />vive con sus padres, hermanos <br />y abuela; y que nos comparte<br />su experiencia como becario <br />y como estudiante uniandino.<strong><br /><a href="http://ow.ly/Tdwgn"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></strong></span></span></article>
+											</li>
+										<li>
+						<article class="wk-content"><div><a href="http://ow.ly/SOWKf"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/CeremoniaBecaDora.png" alt="Ceremonia en Entrega beca Dora R&ouml;thlisberger" width="150" height="97" /></a></div>
+<span style="font-size: 12pt;"><strong><br />&ldquo;Seamos m&aacute;s generosos <br />de lo que hemos sido <br />hasta ahora&rdquo;: el Rector <br />en entrega de Beca <br />Dora R&ouml;thlisberger</strong></span><br />El 28 de septiembre se llev&oacute; a <br />cabo la entrega de la beca a<br />Felipe Z&aacute;rate.<br /><a href="http://ow.ly/SOWKf"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong> </span> </a><a href="http://ow.ly/SOWKf"><br /></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><div><span style="font-size: 14pt;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/CesarMunoz2.jpg" alt="" width="150" height="97" /></strong></span></div>
+<span style="font-size: 14pt;"><strong><br />Cesar Mu&ntilde;oz, estudiante<br /> de la Maestr&iacute;a en Antropolog&iacute;a<br /> y ganador de reconocimiento <br /></strong><span style="font-size: 10pt;">Comunicador social y ad portas de<br />obtener la maestr&iacute;a en Antropolog&iacute;a,<br />C&eacute;sar Mu&ntilde;oz nos cuenta sobre su <br />trabajo.<strong><br /><a href="http://ow.ly/SluUY"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a><br /></strong></span></span></article>
+											</li>
+										<li>
+						<article class="wk-content"><div style="text-align: left;"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/EncuentroDecano1.png" alt="" width="150" height="97" /><span style="font-size: 14pt;"><strong><br />Los 7 temas que debes <br />saber del Encuentro <br />con el Decano</strong></span></div>
+Los motivos del nuevo pregrado <br />en <em>Lenguas y Cultura,</em> los nuevos <br />profesores, la sociolog&iacute;a en las <br />actividades acad&eacute;micas <br />y mucho m&aacute;s.<br /><a href="http://ow.ly/RNE3V"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><div style="text-align: left;"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/NinoVargas1.jpg" alt="" width="150" height="113" /><span style="font-size: 12pt;"><strong><br />Entrevista con Juan Camilo <br />Ni&ntilde;o V., Ganador de <br />Reconocimiento de <br />MinCultura</strong></span></div>
+<span style="font-size: 12pt;">El profesor del Departamento <br />de Antropolog&iacute;a fue honrado<br /> por el Ministerio de Cultura.</span><br /><a href="http://ow.ly/RNq6p"><span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span></strong></strong></span></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><div style="text-align: left;"><span style="font-family: arial,helvetica,sans-serif;"><strong><a href="http://ow.ly/RqfGw"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/EntrevistaMarthaHerrera.png" alt="" width="150" height="88" /></a></strong></span><strong><br />Entrevista con Marta Herrera, </strong><br /><strong>ganadora de Menci&oacute;n </strong><strong>de Honor <br />por parte </strong><strong>de la Fundaci&oacute;n <br /></strong><strong>Alejandro &Aacute;ngel Escobar</strong><span style="font-family: arial,helvetica,sans-serif;"><strong><br /></strong></span>Con una investigaci&oacute;n sobre la <br />historia colonial de los ind&iacute;genas <br />Aw&aacute;, la profesora Herrera, parte <br />de nuestra #ComunidadFaciso, <br />ha sido honrada con esta menci&oacute;n.<span style="font-family: arial,helvetica,sans-serif;"><strong><strong style="margin: 0px; padding: 0px; color: #000000; font-family: OpenSansRegular,Verdana,Geneva,sans-serif; font-size: 14px; font-style: normal; font-variant: normal; letter-spacing: normal; line-height: 18.9px; text-align: left; text-indent: 0px; text-transform: none; white-space: normal; widows: 1; word-spacing: 0px; background-color: #ffffff;"><br /><a href="http://ow.ly/RqfGw"><span style="margin: 0px; padding: 0px; color: #006699; text-decoration: none; outline: 0px none;"><span style="margin: 0px; padding: 0px; text-decoration: underline;">LEER M&Aacute;S.</span></span> </a> </strong><br /><br /> </strong> </span></div>
+<br /><br /></article>
+											</li>
+										<li>
+						<article class="wk-content"><div style="text-align: left;"><a href="index.php?option=com_content&amp;view=article&amp;id=50&amp;Itemid=1166"><img style="display: block; margin-left: auto; margin-right: auto;" src="images/ComunicacionesFaciso/TOP7_20082015.png" alt="" width="180" height="105" /></a><strong><span style="font-size: 14pt;">El TOP 7 de nuestra Feria de </span></strong></div>
+<div style="text-align: left;"><strong><span style="font-size: 14pt;">Publicaciones #FPFAciso<br /></span></strong><span style="color: black;">Entre el 30 de julio y 06 de agosto <br />se llev&oacute; a cabo nuestra Feria <br />de Publicaciones #FPFaciso, con <br />cientos de visitantes y apasionados <br />por los libros y la lectura.</span><strong><br />&nbsp;<a href="http://ow.ly/RauwY"><span style="text-decoration: underline;">LEER M&Aacute;S.<br /><br /><br /></span></a></strong>
+<div>&nbsp;</div>
+</div></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://sire.uniandes.edu.co" target="_blank"><img src="images/notas/ima0.jpg" alt="" width="228" height="273" border="0" /></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="http://www.uniandes.edu.co/noticias/informacion-general/uniandes-acreditada-por-10-anos-mas"><img src="images/acreditacion19.jpg" alt="acreditacion19" /></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="http://registro.uniandes.edu.co/index.php/aspirantes" target="_blank"><img src="images/notas/ima-0.jpg" alt="" width="228" height="273" border="0" /></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://sextante.uniandes.edu.co/"><img src="images/rotador2/pieza2.png" alt="pieza2" /></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="https://historia.uniandes.edu.co/index.php/component/docman/doc_download/4-reglamento-doctorado-2014?Itemid="><img src="images/notas/ima1.jpg" alt="" width="228" height="273" border="0" /></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://cei.uniandes.edu.co/" target="_blank"><img src="images/notas/elcei.png" alt="" width="228" height="273" border="0" /></a></article>
+											</li>
+										<li>
+						<article class="wk-content"><a href="https://publicacionesfaciso.uniandes.edu.co/index.php/coleccion-general" target="_blank"><img src="images/notas/ima5.jpg" alt="" width="228" height="273" border="0" /></a></article>
+											</li>
+									</ul>
+											<ul class="set">
+										<li>
+						<article class="wk-content"><a href="index.php/recursos" target="_blank"><img src="images/notas/ima2.jpg" alt="" width="228" height="273" border="0" /></a></article>
+											</li>
+									</ul>
+									</div>
+		<div class="next"></div><div class="prev"></div>	</div>
+		<ul class="nav icon"><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li><li><span></span></li></ul>
+	</div></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+              
+
+
+
+
+
+
+
+
+
+                           
+                          </div>
+               
+<div class="ot-bottom-banner">      
+ 
+ </div>
+          
+            
+                    </div>
+        </div>
+      </div>
+                               
+
+      
+      <!--******************** END MAINBODY********************-->
+            <div class="ot-bottom">
+        <div class="ot-bottom-w template-width">
+          <div class="ot-bottom-i">
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div><img src="images/note.png" border="0" width="10" height="10" /></div></div>
+			</div>
+		</div>
+	</div>
+
+          </div>
+        </div>
+      </div>
+      
+      
+            
+      
+      
+      <!--******************** START FOOTER ********************-->
+    
+      <div class="ot-footer">
+        <div class="ot-footer-w template-width">
+          <div class="ot-footer-i">
+                        <div class="ot-bottom-1">
+              <div class="ot-bottom-1-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="pie"><strong>UNIVERSIDAD DE LOS ANDES | Vigilada MinEducaci&oacute;n<br /></strong>Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964<br />Reconocimiento personer&iacute;a jur&iacute;dica: Res. 28 del 23 de febrero de 1949 Min. Justicia.</div>
+<div class="pie">&nbsp;</div>
+<div class="pie"><strong>FACULTAD DE CIENCIAS SOCIALES</strong><br />Carrera 1 No. 18A-10 - Piso 6, Bloque G -GB, Bogot&aacute;, Colombia<br />Tel: +571 332 45 05 / Fax +571 3324508</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<p><a href="index.php" target="_self" class="opacity"><img src="images/iconos/01.png" alt="" border="0" /></a><a href="index.php/contacto" target="_self" class="opacity"><img src="images/iconos/02.png" alt="" border="0" /></a><a href="https://www.facebook.com/facisouniandes" target="_blank"><img src="images/iconos/03.png" alt="" border="0" /></a><a href="https://twitter.com/facisouniandes" target="_blank"><img src="images/iconos/07.png" alt="" width="25" height="25" border="0" /></a><a href="http://issuu.com/rfaciso" target="_blank"><img src="images/iconos/04.png" alt="" border="0" /></a>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy59117 = 'r&#101;lf&#97;c&#105;s&#111;' + '&#64;';
+ addy59117 = addy59117 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text59117 = '<img src="images/iconos/05.png" alt="" border="0" />';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy59117 + '\'>');
+ document.write(addy_text59117);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Esta dirección de correo electrónico está protegida contra spambots. Usted necesita tener Javascript activado para poder verla.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><a href="index.php/buscar"><img src="images/iconos/06.png" alt="" border="0" /></a></p></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                                    <div class="ot-bottom-2">
+              <div class="ot-bottom-2-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><strong>REDES UNIANDES</strong><br />&bull; <a href="https://www.facebook.com/facisouniandes" target="_blank">Facebook</a><br />&bull; <a href="http://www.youtube.com/user/uniandes" target="_blank">YouTube</a><br />&bull; <a href="http://twitter.com/uniandes" target="_blank">Twitter</a><br />&bull; <a href="http://feeds.feedburner.com/NoticiasUniandinas" target="_blank">Canales RSS</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+             
+
+            <div class="ot-bottom-3">
+              <div class="ot-bottom-3-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><span style="color: #ffffff;"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/" target="_blank"><span style="color: #ffffff;">Normatividad Institucional</span> </a> </span><br /><span style="color: #ffffff;"><a href="https://apoyofinanciero.uniandes.edu.co/" target="_blank"><span style="color: #ffffff;">Apoyo Financiero</span> </a> </span><br /><span style="color: #ffffff;"><a href="http://registro.uniandes.edu.co/" target="_blank"><span style="color: #ffffff;">Admisiones y Registro</span> </a> </span><br /><span style="color: #ffffff;"><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/" target="_blank"><span style="color: #ffffff;">Educaci&oacute;n continuada</span> </a> </span><br /><span style="color: #ffffff;"><a href="http://biblioteca.uniandes.edu.co/" target="_blank"><span style="color: #ffffff;">Sistema de Bibliotecas</span> </a> </span><br /><span style="color: #ffffff;"><a href="http://egresados.uniandes.edu.co/" target="_blank"><span style="color: #ffffff;">Portal de egresados</span> </a> </span>
+</div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        <div class="ot-bottom-4">
+              <div class="ot-bottom-4-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><a href="index.php/contact">Contacto</a><br /><a href="index.php/map">Mapa del sitio</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+      <!--******************** END FOOTER ********************-->
+    </div>
+    
+
+
+  <div class="pata"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap"><span class="mainlevel"> </span><a href="/index.php?option=com_content&amp;view=category&amp;id=17&amp;Itemid=377" class="mainlevel" id="active_menu" title="Inicio">Inicio</a><span class="mainlevel">  </span><a href="/index.php?option=com_content&amp;view=article&amp;id=10&amp;Itemid=498" class="mainlevel" title="La Facultad">La Facultad</a><span class="mainlevel">  </span><a href="/index.php?option=com_content&amp;view=article&amp;id=7&amp;Itemid=383" class="mainlevel" title="Programas">Programas</a><span class="mainlevel">  </span><a href="/index.php?option=com_content&amp;view=category&amp;id=17&amp;Itemid=499" class="mainlevel" title="Profesores">Profesores</a><span class="mainlevel">  </span><a href="vicedecanatura/" target="_blank" class="mainlevel" title="Investigación">Investigación</a><span class="mainlevel">  </span><a href="https://publicacionesfaciso.uniandes.edu.co/" target="_blank" class="mainlevel" title="Publicaciones">Publicaciones</a><span class="mainlevel">  </span><a href="/index.php?option=com_content&amp;view=article&amp;id=23&amp;Itemid=502" class="mainlevel" title="Recursos">Recursos</a><span class="mainlevel">  </span><a href="/index.php?option=com_content&amp;view=article&amp;id=25&amp;Itemid=503" class="mainlevel" title="Servicios">Servicios</a><span class="mainlevel">  </span><a href="/index.php?option=com_icagenda&amp;view=list&amp;Itemid=504" class="mainlevel" title="Noticias y eventos">Noticias y eventos</a><span class="mainlevel">  </span><a href="/index.php?option=com_content&amp;view=categories&amp;id=17&amp;Itemid=505" class="mainlevel" title="Contacto">Contacto</a><span class="mainlevel">  </span></td></tr></table>	
+
+
+<div class="custom"  >
+	<p style="text-align: center;">Facultad de Ciencias Sociales | Carrera 1 No 18A 10 Bogot&aacute;, D.C., Colombia Tels: +571 3394999 Ext 2500 Fax: +57(1) 3324539 / 2013 &copy;</p></div>
+</div>
+
+
+
+
+
+
+
+
+<noscript><strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.</noscript><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e12ab96101","applicationID":"12714624","transactionName":"blMDZEECXEVUVUcMDFcZIFNHCl1YGnVcCxdcWBVzXA1GRFpaXwARFlIIQ0MPU08=","queueTime":0,"applicationTime":497,"atts":"QhQAEgkYT0s=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>
+

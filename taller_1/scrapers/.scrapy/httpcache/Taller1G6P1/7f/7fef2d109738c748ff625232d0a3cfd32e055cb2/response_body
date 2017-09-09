@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr" >
+  <head>
+      <meta http-equiv="X-UA-Compatible" content="IE=8" />
+    <!-- The following JDOC Head tag loads all the header and meta information from your site config and content. -->
+      <base href="https://medicina.uniandes.edu.co/index.php/es/programas/pregrado" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>Pregrado</title>
+  <link href="/templates/medicina/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/media/mod_languages/css/template.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+
+                
+    <!-- The following five lines load the Blueprint CSS Framework (http://blueprintcss.org). If you don't want to use this framework, delete these lines. -->
+    <link rel="stylesheet" href="/templates/medicina/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="/templates/medicina/css/blueprint/print.css" type="text/css" media="print" />
+      
+    
+    <link rel="stylesheet" href="/templates/medicina/css/blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection" />
+      <link rel="stylesheet" href="/templates/medicina/css/blueprint/plugins/joomla-nav/screen.css" type="text/css" media="screen" />
+
+    <!-- The following line loads the template CSS file located in the template folder. -->
+    <link rel="stylesheet" href="/templates/medicina/css/reset.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/medicina/css/template.css" type="text/css" />
+    <link rel="stylesheet" href="/templates/medicina/css/template_.css" type="text/css" />
+        <link rel="stylesheet" href="/templates/medicina/css/contenidos.css" type="text/css" />
+        <link rel="stylesheet" href="/templates/medicina/css/styles.css" type="text/css" />
+    
+    <!--[if lt IE 8]>
+        <link rel="stylesheet" href="/templates/medicina/css/ie.css" type="text/css" media="screen, projection">
+        <![endif]-->  
+  <!--[if IE 8]>
+       <link rel="stylesheet" href="/templates/medicina/css/ie8.css" type="text/css" />
+       <![endif]-->
+     <!--[if IE 9]>
+       <link rel="stylesheet" href="/templates/medicina/css/ie9.css" type="text/css" />
+       <![endif]-->
+           
+      <script type="text/javascript" src="/includes/ifactum/js/jquery.js"></script>
+    <script type="text/javascript" src="/templates/medicina/js/template.js"></script>
+    <script type="text/javascript" src="/templates/medicina/js/script.js"></script>  
+     
+        <style>
+        div.skiptranslate iframe{
+                display: none !important;
+            }
+            body{
+                top: 0px !important;
+            }
+    </style>
+    <script>
+        jQuery(document).ready(function(){
+            if(jQuery("#contenidos").height()>jQuery("#contenido_articulos").height()){
+               jQuery("#contenido_articulos").css("min-height",jQuery("#contenidos").height()+"px");
+            }
+                    
+        jQuery("#presentacion tr td > table tr td:first-child").next().css({"background":"#f5f3ed","padding-left":"20px","padding-top":"5px","padding-bottom":"5px"});
+        });
+    </script>
+    <script type="text/javascript">
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-32685169-2']);
+      _gaq.push(['_trackPageview']);
+      (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+    </script>
+  </head>    
+    
+  <body>
+    <div id="all">
+        <div id="principal">
+            <div id="header" class="container">
+        
+                      <div id="superior">          
+                    <div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active" dir="ltr">
+			<a href="/index.php/es/">
+							Español						</a>
+			</li>
+				</ul>
+
+</div>
+
+                </div>
+                          
+                <div id="logo"><a href="http://www.uniandes.edu.co" target="_blank"></a></div>
+                 <!-- Nombre del sitio -->
+          <div id="site_name" ><a href="https://medicina.uniandes.edu.co/">Facultad de Medicina </a></div>
+        <!-- Fin Nombre del Sitio -->
+        
+                    <div id="header_inferior">          
+                    <!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item129"><a href="/index.php/es/mapa-del-sitio" >Mapa del sitio</a></li><li class="item131"><span class="separator">&gt;</span>
+</li><li class="item130"><a href="/index.php/es/contactenos" >Contáctenos</a></li></ul>
+                </div>
+                    
+            </div>
+      <div id="menu_cuerpo" class="container">
+        <div id="menu_principal" class="container">
+                            <div class="div_center">
+                    <!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item101"><a href="/index.php/es/" >Inicio</a></li><li class="item125"><a href="/index.php/es/facultad" >Facultad</a></li><li id="current" class="selected item134"><a href="/index.php/es/programas" >Programas</a></li><li class="item147"><a href="/index.php/es/investigacion" >Investigación</a></li><li class="item520"><a href="/index.php/es/publicaciones" >Publicaciones</a></li><li class="item132"><a href="/index.php/es/profesores" >Profesores</a></li><li class="item133"><a href="/index.php/es/estudiantess" >Estudiantes</a></li><li class="item135"><a href="/index.php/es/egresados" >Egresados</a></li><li class="item666"><a href="/index.php/es/en-vivo" >En vivo</a></li></ul>
+                </div>
+                    </div>
+      
+        <!-- Cuerpo -->
+        <div id="cuerpo" class="container">
+        <div id="contenidos" class="container">
+    
+    <!-- lateral_left-->
+     		<div id="lateral_left" class="span-6">
+	  	 	<div class='moduletable'>				<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item256"><a href="#" >Programas</a></li><li id="current" class="selected parent item258"><a href="/index.php/es/programas/pregrado" >Pregrado</a><ul><li class="item259"><a href="/index.php/es/programas/pregrado/perfil-medico-uniandino" >Perfil del médico uniandino</a></li><li class="item622"><a href="https://medicina.uniandes.edu.co/images/paola_medicina/2016/Estudiantes2016/pfacmed2016.pdf" target="_blank" >Nuevo pénsum de pregrado</a></li></ul></li><li class="item593"><a href="/index.php/es/programas/posgrado" >Posgrado</a></li><li class="item283"><a href="/index.php/es/programas/educacionmedicacontinuada" >Educación Médica Continuada</a></li></ul>	</div>
+	  	 	<div id="calendario_interno">
+	  	 	  
+	  	 	</div>
+		</div>
+	          
+    <!--fin lateral_left -->
+    
+	
+    <!--Contenido de articulos y componentes-->    
+	<div id="contenido_articulos">
+				<!--Banner insternas-->
+				   				<!-- fin Banners internas-->	
+	
+			<!--Breadcrumbs-->
+		   				<div id="breadcumbs">
+							<div class="moduletable">
+					
+<div class="breadcrumbs">
+<a href="/index.php/es/" class="pathway">Inicio</a> / <a href="/index.php/es/programas" class="pathway">Programas</a> / <span>Pregrado</span></div>
+		</div>
+	
+				</div>
+					<!-- fin Breadcrumbs-->
+		
+            <div id="mensajes">        
+                
+<div id="system-message-container">
+</div>
+            </div>
+            <div id="content_component">        
+                <div class="item-page">
+	<h2>
+			Pregrado		</h2>
+
+
+
+
+
+
+	<p><span style="font-size: 10pt;"><strong>PROGRAMA DE MEDICINA&nbsp;</strong></span></p>
+<p>&nbsp;</p>
+<p><strong>Código SNIES:</strong> 20044</p>
+<p><strong><strong>Título:</strong>&nbsp;</strong>Médico (a)</p>
+<p><strong><strong>Formación Universitaria:</strong>&nbsp;</strong>Pregrado</p>
+<p><strong><strong>Modalidad:</strong>&nbsp;</strong>Presencial</p>
+<p><strong>Lugar:</strong> Bogotá</p>
+<p><strong>Duración</strong>: 12 semestres</p>
+<p><strong>Número de créditos:</strong> 254</p>
+<p><strong>Jornada:</strong> Diurna</p>
+<p><strong>Resolución de aprobación:</strong>&nbsp; 5137 del 22 de junio de 2011 (Vigencia de 7 años)</p>
+<p><strong>Acreditación Nacional:</strong> Resolución 22803 del 9 de diciembre del 2016 (4 años)</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Para sus propósitos, el plan de estudios de pregrado cuenta con fortalezas que le permiten un lineamiento de formación orientado a la interdisciplinariedad, la multidisciplinariedad, el enfoque en diferentes áreas de la profesión y la selectividad. Los estudiantes de medicina uniandinos reciben formación en ciencias básicas y fundamentos universales, y deben tomar clases del Ciclo Básico Uniandino (CBU) y Cursos de Libre Elección (CLE), cuyos contenidos son socio-humanísticos y de interdisciplinariedad, y son ofrecidos por otras Facultades de la Universidad de los Andes.</p>
+<p>&nbsp;</p>
+<p><strong>Currículo basado en competencias</strong></p>
+<p>&nbsp;</p>
+<p>Durante su formación, el estudiante experimenta situaciones lo más cercanas posibles a aquéllas que enfrentará en el ejercicio profesional. Un grupo de expertos docentes le ayudan a desarrollar y fortalecer las competencias necesarias para un desempeño excepcional.</p>
+<p>&nbsp;</p>
+<p>El futuro médico adquiere habilidades administrativas, en investigación, salud pública y comunicación, así como un alto nivel de profesionalismo y fuertes destrezas clínicas. Pero sobre todo, se convierte en un gestor de su propio aprendizaje: en esta medida, adquiere disciplina de estudio para actualizarse permanentemente y aprender a adaptarse en un mundo que evoluciona rápidamente.</p>
+<p>&nbsp;</p>
+<p><strong>Flexibilidad curricular</strong></p>
+<p>&nbsp;</p>
+<p>Los estudiantes deben definir su perfil de formación a través de la elección de un área de su interés, que posteriormente pueden continuar en un programa de posgrado (especialización médica, maestría y doctorado). Estas áreas de interés dependerán del talento individual y la proyección de cada estudiante. Por tanto, a partir de noveno semestre, además de los cursos obligatorios, el estudiante escogerá qué línea (módulo selectivo) seguirá hasta el final de su pregrado:</p>
+<p>&nbsp;</p>
+<ul style="list-style-type: circle;">
+<li>Hospitalario Clínico</li>
+<li>Atención Primaria</li>
+<li>Salud Pública</li>
+<li>Administración y Gerencia</li>
+<li>Investigación</li>
+</ul>
+<p>Durante el año de internado, los estudiantes realizan sus rotaciones en instituciones reconocidas nacional e internacionalmente. Esto les permite ampliar su experiencia y demostrar su capacidad de adaptarse a diferentes ambientes académicos, de investigación, administrativos y de atención en salud, teniendo siempre presentes las necesidades y el contexto de la población con la que se encuentran interactuando. Abordar diferentes escenarios obliga a los estudiantes a utilizar sus conocimientos y destrezas para resolver situaciones y desarrollar competencias aplicables a diversos ambientes laborales.</p>
+<p>&nbsp;</p>
+<p>Adicionalmente, los estudiantes de medicina uniandinos tienen la posibilidad de cursar opciones académicas en otras áreas del conocimiento, realizar doble programa (las combinaciones más frecuentes son con programas como Ingeniería Biomédica, Microbiología, Biología, Economía y Matemáticas, aunque también hay estudiantes que según su interés, hacen doble programa con Música, Antropología, entre otros) e incluir en su plan de estudios materias avanzadas de posgrado no clínico durante los semestres de concentración.</p>
+<p>&nbsp;</p>
+<p><strong>Proyección social</strong></p>
+<p>&nbsp;</p>
+<p>Se encuentra establecida en el currículo a través de la formación en sistemas de seguridad social, políticas públicas de salud y gestión administrativa en salud. En forma transcurricular se desarrolla el programa de Cuidado Domiciliario como parte del área de Atención Primaria; en éste, los estudiantes acompañados de un grupo de profesores con especialización, subespecialización, maestría y doctorado en áreas como antropología médica, psicología médica, medicina familiar y comunicación, visitan familias de pacientes de diferentes grupos poblacionales, condiciones socioeconómicas y de salud, todos ellos vinculados a la red de instituciones en convenio con la Universidad. Una vez aplicadas las herramientas de diagnóstico familiar, social y de comunidad, identifican sus problemas y proponen soluciones viables dentro de un marco de sostenibilidad, educación y liderazgo de la comunidad intervenida. Estas actividades se realizan como parte del programa social y curricular entre el cuarto y el noveno semestre, y continúan llevándose a cabo si el estudiante selecciona Atención Primaria como su área de énfasis.</p>
+<p>&nbsp;</p>
+<p>En el marco de la proyección social, se desarrollan programas con grupos de adolescentes de colegios de la Alianza Educativa (programa de la Universidad para apoyar colegios del Distrito) en promoción y prevención en enfermedades de transmisión sexual, embarazo en adolescentes, violencia intrafamiliar y maltrato infantil, en barrios como Usme, Las Margaritas y Suba. También se ha implementado un programa para mujeres en período de lactancia y cuidado del recién nacido con pacientes del Hospital de Suba.</p>
+<p>&nbsp;</p> 
+	</div>
+
+            </div>
+        </div>    
+    <!--Fin Contenido de articulos y componentes-->    
+  
+</div>   
+
+
+
+        </div>
+        <!-- Fin Cuerpo -->
+      </div>
+      <!--footer -->
+          <div  id="footer" class="container">
+        <!--modulos footer-->
+                   <div id="footer_interno">
+            		<div class="moduletable_conectese">
+					<h3>Enlaces de interés</h3>
+					<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item544"><a href="http://registro.uniandes.edu.co" target="_blank" >Admisiones y registro</a></li><li class="item552"><a href="http://apoyofinanciero.uniandes.edu.co/" target="_blank" >Apoyo financiero</a></li><li class="item338"><a href="/index.php/es/interesados" >Interesados</a></li><li class="item499"><a href="/index.php/es/ubiquenosenelcampus" >Ubíquenos en el campus</a></li></ul>		</div>
+			<div class="moduletablesin_titulo">
+					<h3>Enlaces de interés</h3>
+					<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item553"><a href="http://biblioteca.uniandes.edu.co/" target="_blank" >Bibliotecas</a></li><li class="item554"><a href="http://correo.uniandes.edu.co/ " target="_blank" >Correo</a></li><li class="item555"><a href="https://sicuaplus.uniandes.edu.co/ " target="_blank" >Sicua Plus</a></li></ul>		</div>
+			<div class="moduletable_informacion_para">
+					<h3>Información para</h3>
+					<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item550"><a href="http://www.uniandes.edu.co/institucional/informacion-para/aspirantes-a-pregrado" target="_blank" >Aspirantes</a></li><li class="item156"><a href="http://www.uniandes.edu.co/institucional/informacion-para/estudiantes" target="_blank" >Estudiantes</a></li><li class="item551"><a href="http://www.uniandes.edu.co/institucional/informacion-para/profesores" target="_blank" >Profesores</a></li><li class="item158"><a href="http://egresados.uniandes.edu.co/s/1384/alumni/start.aspx " target="_blank" >Egresados</a></li><li class="item159"><a href="http://www.uniandes.edu.co/institucional/informacion-para/administrativos " target="_blank" >Administrativos</a></li></ul>		</div>
+			<div class="moduletable_contactenos">
+					<h3>Contáctenos</h3>
+					<p>Carrera 1 No 18 A - 10&nbsp;Bloque Q Piso 8</p>
+<p>Bogotá, Colombia<br />Teléfono (57-1) 3324282</p>
+<p><span style="color: #ffffff;"><a href="/index.php/es/component/contact/contact/2-buzon-de-sugerencias"><span style="color: #ffffff;">Buzón de Sugerencias</span></a></span></p>		</div>
+	
+          </div>
+                          <div id="footer_interno2">
+            		<div class="moduletable">
+					<p><a href="http://uniandes.edu.co/institucional/informacion-general/c-derechos-reservados-universidad-de-los-andes" target="_blank">© Derechos Reservados Universidad de los Andes</a> - <a href="https://uniandes.edu.co/es/datospersonales/" target="_blank">Uso de datos personales</a></p>
+<p>&nbsp;</p>
+<p>Universidad de los Andes | Vigilada Mineducación<br />Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br />Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.<br /><br /></p>		</div>
+	
+          </div>
+              <!-- fin footer-->            
+          </div><!--Fin del Footer -->
+      
+        </div>    
+    </div>
+    <!--<div id="google_translate_element"></div>
+    <script>
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'es'
+      }, 'google_translate_element');
+    }
+    </script><script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>-->
+  </body>
+</html>

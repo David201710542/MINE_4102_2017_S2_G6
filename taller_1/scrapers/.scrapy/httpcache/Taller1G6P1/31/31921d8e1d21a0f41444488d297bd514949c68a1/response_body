@@ -1,0 +1,597 @@
+<!DOCTYPE HTML>
+<html lang="es-es">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="maximum-scale=1.5, minimum-scale=0.7">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="google-site-verification" content="bj9TbZUnJO2aIm6EaDl_uLmpbBQ5VkFsgV6btGrj3nY" />
+    <!-- The following JDOC Head tag loads all the header and meta information from your site config and content. -->
+      <base href="https://facartes.uniandes.edu.co/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Facultad de Artes y Humanidades - Inicio</title>
+  <link href="/templates/facartes/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/editors/jckeditor/typography/typography2.php" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_featcats/assets/featcats.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_jevents/assets/css/jevcustom.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_jevents/views/default/assets/css/modstyle.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_jevents/views/flat/assets/css/modstyle.css" type="text/css" />
+  <link rel="stylesheet" href="https://facartes.uniandes.edu.co/modules/mod_bt_contentslider/tmpl/css/btcontentslider.css" type="text/css" />
+  <style type="text/css">
+#btcontentslider98 .bt_handles{top: 0px !important;right: 5px !important}
+		@media screen and (max-width: 480px){.bt-cs .bt-row{width:100%!important;}}
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/modules/mod_jevents_cal/tmpl/flat/assets/js/calnav.js" type="text/javascript"></script>
+  <script src="https://facartes.uniandes.edu.co/modules/mod_bt_contentslider/tmpl/js/hammer.js" type="text/javascript"></script>
+  <script src="https://facartes.uniandes.edu.co/modules/mod_bt_contentslider/tmpl/js/jquery.min.js" type="text/javascript"></script>
+  <script src="https://facartes.uniandes.edu.co/modules/mod_bt_contentslider/tmpl/js/slides.js" type="text/javascript"></script>
+  <script src="https://facartes.uniandes.edu.co/modules/mod_bt_contentslider/tmpl/js/default.js" type="text/javascript"></script>
+  <script src="https://facartes.uniandes.edu.co/modules/mod_bt_contentslider/tmpl/js/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});
+  </script>
+
+    
+    <!--[if IE]>
+        <script>
+            document.createElement('header');    document.createElement('footer');        document.createElement('section');
+            document.createElement('nav');          document.createElement('article');       document.createElement('figure');
+            document.createElement('figcaption');   document.createElement('aside');
+        </script>
+    <![endif]-->
+    
+    <!--Css reset-->
+    <link rel="stylesheet" href="/templates/facartes/css/reset.css" type="text/css" />
+    <!-- The following line loads the template CSS file located in the template folder.-->
+    <link rel="stylesheet" href="/templates/facartes/css/template.css" type="text/css" />
+  
+    <!--Jquery-->
+    <script type="text/javascript" src="/templates/facartes/js/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="/templates/facartes/js/prefixfree.min.js"></script>
+    <script type="text/javascript" src="/templates/facartes/js/modernizr.custom.61835.js"></script>
+    <!-- The following line loads the template JavaScript file located in the template folder. It's blank by default. -->
+    <script type="text/javascript" src="/templates/facartes/js/template.js"></script>
+    
+    <!--[if lte IE 8]>
+      <link rel="stylesheet" href="/templates/facartes/css/styles_ie.css" type="text/css" />     
+    <![endif]-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84595856-31', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Facebook Pixel Code -->
+
+<script>
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '848428785299636'); // Insert your pixel ID here.
+
+fbq('track', 'PageView');
+
+</script>
+
+<noscript><img height="1" width="1" style="display:none"
+
+src="https://www.facebook.com/tr?id=848428785299636&ev=PageView&noscript=1"
+
+/></noscript>
+
+<!-- DO NOT MODIFY -->
+
+<!-- End Facebook Pixel Code -->
+</head>
+<body>
+  <script>fbq('track', '<EVENT_NAME>');</script>
+    <header class="banner">
+      <div>
+          <a href="http://www.uniandes.edu.co/" class="logo" target="_blank"><img src="/images/sitio/logo.png" /></a>
+            <h1><a href="/" title="Ir al inicio">Facultad de Artes y Humanidades</a></h1>
+            <!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item117"><a class="facebook" href="https://www.facebook.com/pages/Facultad-de-Artes-y-Humanidades-Universidad-de-los-Andes/1595535517346036?sk=timeline&amp;ref=page_internal" target="_blank" title="Síganos en Facebook" >facebook</a></li><li class="item118"><a class="contacto" href="/index.php/contactenos" title="Contáctenos" >Contáctenos</a></li></ul>
+
+        </div>
+    </header>
+      <!--slider home destacados-->
+    	<section class="slider_home">
+			<div id="btcontentslider98" style="display:none;width:auto" class="bt-cs bt-csslider_home">
+			<div class="slides_container" style="width:auto;">
+
+			<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="Nuevo director del Departamento de Arte "
+						href="/index.php/destacados/916-nuevo-director-del-departamento-de-arte-por-un-periodo-de-dos-anos-a-partir-del-1-de-septiembre-de-2017"> Nuevo director del Departamento de Arte  </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Nuevo director del Departamento de Arte " href="/index.php/destacados/916-nuevo-director-del-departamento-de-arte-por-un-periodo-de-dos-anos-a-partir-del-1-de-septiembre-de-2017">
+						<img  src="https://facartes.uniandes.edu.co/cache/mod_bt_contentslider/21a3ef2d5b21be831dfb8abbcc4c5bf0-Arias_Ricardo.jpg" alt="Nuevo director del Departamento de Arte "  style="width:980px;" title="Nuevo director del Departamento de Arte " />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					
+	El profesor Ricardo Arias fue nombrado como nuevo director del Departamento de Arte por un periodo de dos a&ntilde;os, a partir del 1 de septiembre...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Nuevo director del Departamento de Arte "
+							href="/index.php/destacados/916-nuevo-director-del-departamento-de-arte-por-un-periodo-de-dos-anos-a-partir-del-1-de-septiembre-de-2017"> ver m&aacute;s						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="Información sobre transferencias internas, dobles programas y opciones académicas"
+						href="/index.php/destacados/918-informacion-sobre-transferencias-internas-dobles-programas-y-opciones-academicas"> Información sobre transferencias internas, dobles ... </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="Información sobre transferencias internas, dobles programas y opciones académicas" href="/index.php/destacados/918-informacion-sobre-transferencias-internas-dobles-programas-y-opciones-academicas">
+						<img  src="https://facartes.uniandes.edu.co/cache/mod_bt_contentslider/795eec970aebfa2e5713046a860bb08c-FC-Opciones-facultad.jpg" alt="Información sobre transferencias internas, dobles programas y opciones académicas"  style="width:980px;" title="Información sobre transferencias internas, dobles programas y opciones académicas" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					
+	Martes 5 de septiembre, de 10:00 a.m. a 1:00 p.m.
+	Edificio Mario Laserna - Calle del Saber
+	Universidad de los Andes, Bogot&aacute;.
+	Entrada l...					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="Información sobre transferencias internas, dobles programas y opciones académicas"
+							href="/index.php/destacados/918-informacion-sobre-transferencias-internas-dobles-programas-y-opciones-academicas"> ver m&aacute;s						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="V Semana del libro y la lectura en digital"
+						href="/index.php/destacados/913-v-semana-del-libro-y-la-lectura-en-digital-el-impacto-de-las-acciones-digitales"> V Semana del libro y la lectura en digital </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="V Semana del libro y la lectura en digital" href="/index.php/destacados/913-v-semana-del-libro-y-la-lectura-en-digital-el-impacto-de-las-acciones-digitales">
+						<img  src="https://facartes.uniandes.edu.co/cache/mod_bt_contentslider/0e5657d5f892b7326099edc348ee5299-SLLD-LITE.jpg" alt="V Semana del libro y la lectura en digital"  style="width:980px;" title="V Semana del libro y la lectura en digital" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					
+	El impacto de las acciones digitales.&nbsp;Charlas, paneles y talleres del 4 al 8 de septiembre.&nbsp;
+					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="V Semana del libro y la lectura en digital"
+							href="/index.php/destacados/913-v-semana-del-libro-y-la-lectura-en-digital-el-impacto-de-las-acciones-digitales"> ver m&aacute;s						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+				<div class="slide" style="width:auto">
+					<div class="bt-row bt-row-first"  style="width:100%" >
+				<div class="bt-inner">
+								
+										<a class="bt-title" target="_parent"
+						title="VII Simposio de Historia del Arte"
+						href="/index.php/destacados/856-programacion-vii-simposio-de-historia-del-arte"> VII Simposio de Historia del Arte </a><br />
+															<div class="bt-center">
+					<a target="_parent"
+						class="bt-image-link"
+						title="VII Simposio de Historia del Arte" href="/index.php/destacados/856-programacion-vii-simposio-de-historia-del-arte">
+						<img  src="https://facartes.uniandes.edu.co/cache/mod_bt_contentslider/e582a5ddb65de57a5f42177ebfaf865e-FC-VII_Simposio_Historia_del_Arte.jpg" alt="VII Simposio de Historia del Arte"  style="width:980px;" title="VII Simposio de Historia del Arte" />
+					</a>
+					</div>
+										
+										<div class="bt-introtext">
+					
+	ICONOCLASIA E ICONODULIA:&nbsp;CULTO Y VIOLENCIA EN TORNO&nbsp;A LA IMAGEN SAGRADA Y SACRALIZADA
+					</div>
+					
+										<p class="readmore">
+						<a target="_parent"
+							title="VII Simposio de Historia del Arte"
+							href="/index.php/destacados/856-programacion-vii-simposio-de-historia-del-arte"> ver m&aacute;s						</a>
+					</p>
+					
+				</div>
+				<!--end bt-inner -->
+			</div>
+			<!--end bt-row -->
+									<div style="clear: both;"></div>
+
+		</div>
+		<!--end bt-main-item page	-->
+			</div>
+</div>
+<!--end bt-container -->
+<div style="clear: both;"></div>
+
+<script type="text/javascript">	
+	if(typeof(btcModuleIds)=='undefined'){var btcModuleIds = new Array();var btcModuleOpts = new Array();}
+	btcModuleIds.push(98);
+	btcModuleOpts.push({
+			slideEasing : 'easeInQuad',
+			fadeEasing : 'easeInQuad',
+			effect: 'slide,slide',
+			preloadImage: 'https://facartes.uniandes.edu.co//modules/mod_bt_contentslider/tmpl/images/loading.gif',
+			generatePagination: true,
+			play: 10000,						
+			hoverPause: true,	
+			slideSpeed : 1000,
+			autoHeight:true,
+			fadeSpeed : 1000,
+			equalHeight:false,
+			width: 'auto',
+			height: 'auto',
+			pause: 100,
+			preload: true,
+			paginationClass: 'bt_handles',
+			generateNextPrev:false,
+			prependPagination:true,
+			touchScreen:1	});
+</script>
+
+		</section>
+	<!--fin slider home destacados-->
+    <!--Ruta de navegacion-->
+    <!--fin Ruta de navegacion-->
+    <section class="container">
+    <!--Contenido left-->
+      <div class="content_left">
+      <!--menu principal-->
+      <nav class="menu_principal">
+        <!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li id="current" class="selected item101"><a href="/" >Inicio</a></li><li class="parent item102"><a class="dropdown" href="#" >La Facultad</a><ul><li class="item120"><a href="/index.php/facultad/presentacion" >Presentación</a></li><li class="item122"><a href="/index.php/facultad/programas-pregrado" >Programas de pregrado</a></li><li class="item123"><a href="https://posgradosfacartes.uniandes.edu.co/" target="_blank" >Programas de posgrado</a></li><li class="item124"><a href="/index.php/facultad/opciones-academicas" >Opciones académicas</a></li><li class="item125"><a href="/index.php/facultad/equipo-de-la-decanatura" >Equipo de la Decanatura</a></li></ul></li><li class="parent item103"><a class="dropdown" href="#" >Centro de Investigación y Creación - CIC</a><ul><li class="item127"><a href="/index.php/investigacion-y-creacion/presentacion" >Presentación</a></li><li class="item128"><a href="/index.php/investigacion-y-creacion/politicas-generales" >Políticas generales</a></li><li class="item129"><a href="/index.php/investigacion-y-creacion/grupos" >Grupos</a></li><li class="parent item130"><a href="/index.php/investigacion-y-creacion/proyectos-en-curso" >Proyectos en curso</a><ul><li class="item210"><a href="/index.php/investigacion-y-creacion/proyectos-en-curso/investigacion" >Investigación</a></li><li class="item219"><a href="/index.php/investigacion-y-creacion/proyectos-en-curso/creacion-artistica" >Creación artística</a></li><li class="item220"><a href="/index.php/investigacion-y-creacion/proyectos-en-curso/creacion-periodistica" >Creación periodística</a></li></ul></li><li class="parent item131"><a href="/index.php/investigacion-y-creacion/proyectos-terminados" >Proyectos terminados</a><ul><li class="item242"><a href="/index.php/investigacion-y-creacion/proyectos-terminados/2015" >2015</a></li><li class="item221"><a href="/index.php/investigacion-y-creacion/proyectos-terminados/2012" >2012</a></li><li class="item222"><a href="/index.php/investigacion-y-creacion/proyectos-terminados/2011" >2011</a></li><li class="item223"><a href="/index.php/investigacion-y-creacion/proyectos-terminados/2010" >2010</a></li><li class="item224"><a href="/index.php/investigacion-y-creacion/proyectos-terminados/anos-anteriores" >Años Anteriores</a></li><li class="item240"><a href="/index.php/investigacion-y-creacion/proyectos-terminados/2014" >2014</a></li><li class="item216"><a href="/index.php/investigacion-y-creacion/proyectos-terminados/2013" >2013</a></li></ul></li><li class="parent item243"><a href="/index.php/investigacion-y-creacion/proyectos-externos" >Proyectos externos</a><ul><li class="item244"><a href="/index.php/investigacion-y-creacion/proyectos-externos/en-curso" >En curso</a></li><li class="item245"><a href="/index.php/investigacion-y-creacion/proyectos-externos/terminados" >Terminados</a></li></ul></li><li class="item132"><a href="/index.php/investigacion-y-creacion/oportunidades-de-financiacion-interna" >Oportunidades de financiación interna</a></li><li class="item133"><a href="/index.php/investigacion-y-creacion/oportunidades-de-financiacion-externa" >Oportunidades de financiación externa</a></li><li class="item278"><a href="/index.php/investigacion-y-creacion/gacetacic" >Gaceta CIC</a></li></ul></li><li class="item104"><a href="/index.php/publicaciones" >Producción artística y académica</a></li><li class="parent item105"><a class="dropdown" href="#" >Grupos artísticos estudiantiles</a><ul><li class="item134"><a href="/index.php/grupos-artisticos-estudiantiles/coro-de-los-andes" >Coro de Los Andes</a></li><li class="item135"><a href="/index.php/grupos-artisticos-estudiantiles/coro-de-camara-de-los-andes" >Coro de Cámara de Los Andes</a></li><li class="item136"><a href="/index.php/grupos-artisticos-estudiantiles/teatro-estudio-de-los-andes" >Teatro Estudio de la Universidad de los Andes</a></li><li class="item137"><a href="/index.php/grupos-artisticos-estudiantiles/orquesta" >Orquesta de Los Andes</a></li><li class="item138"><a href="/index.php/grupos-artisticos-estudiantiles/ensamble-de-exploracion-vocal-de-los-andes" >Ensamble de Exploración Vocal de Los Andes - EEVA</a></li><li class="parent item259"><a href="https://facartes.uniandes.edu.co/index.php/destacados/882-coros-20172" >Audiciones coros 2017-2</a><ul><li class="item266"><a href="/index.php/grupos-artisticos-estudiantiles/audiciones/2013" >2013</a></li></ul></li></ul></li><li class="parent item106"><a class="dropdown" href="#" >Programa infantil y juvenil  de formación musical</a><ul><li class="item139"><a href="/index.php/programa-infantil-y-juvenil-de-formacion-musical/presentacion" >Presentación</a></li><li class="item140"><a href="/index.php/programa-infantil-y-juvenil-de-formacion-musical/plan-de-estudios" >Plan de estudios</a></li><li class="item141"><a href="/index.php/programa-infantil-y-juvenil-de-formacion-musical/costo-e-inscripcion" >Costo e inscripción</a></li><li class="item142"><a href="/index.php/programa-infantil-y-juvenil-de-formacion-musical/calendario-academico" >Calendario académico</a></li><li class="item143"><a href="/index.php/programa-infantil-y-juvenil-de-formacion-musical/profesores" >Profesores</a></li><li class="item235"><a href="/index.php/programa-infantil-y-juvenil-de-formacion-musical/conciertos/range.listevents/-" >Conciertos</a></li></ul></li></ul>
+
+      </nav><!--fin menu principal-->
+      <!--Contenido extra-->
+      	<div class="menu_lateral">
+			<p>
+	<a href="https://arte.uniandes.edu.co/" target="_blank"><img alt="" src="/images/decanatura/2017/btn_darte.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="https://arte.uniandes.edu.co/historia-del-arte/" target="_blank"><img alt="" src="/images/decanatura/2017/btn_dharte.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="https://literatura.uniandes.edu.co/" target="_blank"><img alt="" src="/images/decanatura/2017/btn_clite.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="http://musica.uniandes.edu.co/" target="_blank"><img alt="" src="/images/decanatura/2017/btn_dmusi.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="https://ceper.uniandes.edu.co/" target="_blank"><img alt="" src="/images/decanatura/2017/btn_dperi.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="https://posgradosfacartes.uniandes.edu.co/" target="_blank"><img alt="" src="/images/decanatura/2017/btn_cposgrados.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="https://facartes.uniandes.edu.co/index.php/destacados/874-programacion-tercer-trimestre-2017" title=""><img alt="" class="cke-resize cke-resize" src="/images/decanatura/2017/Boton-Educo.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="https://facartes.uniandes.edu.co/index.php/component/content/article?id=514"><img alt="" src="/images/decanatura/2017/btn_ofcom.png" style="width: 220px; height: 55px;" /></a><br />
+	<a href="https://facartes.uniandes.edu.co/index.php/component/content/article?id=626"><img alt="" src="/images/decanatura/2017/btn_clineamientos.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="https://facartes.uniandes.edu.co/index.php/component/content/article?id=577"><img alt="" class="cke-resize" src="/images/decanatura/2017/btn_form.png" style="width: 220px; height: 49px;" /></a><a href="https://facartes.uniandes.edu.co/index.php/noticias/523-bolsemanal"><br />
+	<img alt="" src="/images/decanatura/2017/btn_cboletin.png" style="width: 220px; height: 49px;" /></a><br />
+	<a href="https://facartes.uniandes.edu.co/index.php/noticias/561-boletines"><img alt="" src="/images/decanatura/2017/btn_csuscribase.png" style="width: 220px; height: 49px;" /> </a><br />
+	&nbsp;</p>
+<div id="ckimgrsz" style="left: 8px; top: 306px;">
+	<div class="preview">
+		&nbsp;</div>
+</div>
+<div id="ckimgrsz" style="left: 8px; top: 306px;">
+	<div class="preview">
+		&nbsp;</div>
+</div>
+		</div>
+		<div class="cont_calendar">
+			<div style="margin:0px;padding:0px;border-width:0px;"><span id='testspan179' style='display:none'></span>
+
+<div id="flatcal_minical">
+	<table width="165px" cellspacing="1" cellpadding="0" border="0" align="center" class="flatcal_main_t">
+		<tr>
+			<td style="vertical-align: top;">
+			
+				<table style="width:100%;" cellspacing="0" cellpadding="2" border="0" class="flatcal_navbar">
+					<tr>
+						<td class="link_prev">
+							<img border="0" title="Mes anteior" alt="Último mes" class="mod_events_link" src="/components/com_jevents/views/flat/assets/images/mini_arrowleft.gif" onmousedown="callNavigation('https://facartes.uniandes.edu.co/index.php?option=com_jevents&amp;task=modcal.ajax&amp;day=1&amp;month=8&amp;year=2017&amp;modid=179&amp;tmpl=component&amp;catids=62|64|69|70|71|72|73');" />
+                		</td>
+		                <td class="flatcal_month_label">
+							<a href="/index.php/eventos/month.calendar/2017/09/08/62|64|69|70|71|72|73" style = "text-decoration:none;color:inherit;">Septiembre 2017</a>
+		                </td>
+						<td class="link_next">
+		                    <img border="0" title="Mes siguiente" alt="Mes siguiente" class="mod_events_link" src="/components/com_jevents/views/flat/assets/images/mini_arrowright.gif" onmousedown="callNavigation('https://facartes.uniandes.edu.co/index.php?option=com_jevents&amp;task=modcal.ajax&amp;day=1&amp;month=10&amp;year=2017&amp;modid=179&amp;tmpl=component&amp;catids=62|64|69|70|71|72|73');" />
+                		</td>
+					</tr>
+				</table><table style="width:100%; " class="flatcal_weekdays"><tr>
+<td  class='flatcal_weekdays'>L</td>
+<td  class='flatcal_weekdays'>M</td>
+<td  class='flatcal_weekdays'>X</td>
+<td  class='flatcal_weekdays'>J</td>
+<td  class='flatcal_weekdays'>V</td>
+<td  class='flatcal_weekdays'><span class="saturday">S</span></td>
+<td  class='flatcal_weekdays'><span class="sunday">D</span></td>
+</tr>
+<tr style='height:auto;'>
+<td class='flatcal_othermonth'/>
+<td class='flatcal_othermonth'/>
+<td class='flatcal_othermonth'/>
+<td class='flatcal_othermonth'/>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/01/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">1</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/02/62|64|69|70|71|72|73" class = "flatcal_daylink" title = "Ir al calendario - día actual">2</a></td>
+<td class='flatcal_sundaycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/03/62|64|69|70|71|72|73" class = "flatcal_sundaylink" title = "Ir al calendario - día actual">3</a></td>
+</tr>
+<tr style='height:auto;'>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/04/62|64|69|70|71|72|73" class = "flatcal_daylink" title = "Ir al calendario - día actual">4</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/05/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">5</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/06/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">6</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/07/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">7</a></td>
+<td class='flatcal_todaycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/08/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">8</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/09/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">9</a></td>
+<td class='flatcal_sundaycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/10/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">10</a></td>
+</tr>
+<tr style='height:auto;'>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/11/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">11</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/12/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">12</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/13/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">13</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/14/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">14</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/15/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">15</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/16/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">16</a></td>
+<td class='flatcal_sundaycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/17/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">17</a></td>
+</tr>
+<tr style='height:auto;'>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/18/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">18</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/19/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">19</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/20/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">20</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/21/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">21</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/22/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">22</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/23/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">23</a></td>
+<td class='flatcal_sundaycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/24/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">24</a></td>
+</tr>
+<tr style='height:auto;'>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/25/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">25</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/26/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">26</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/27/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">27</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/28/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">28</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/29/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">29</a></td>
+<td class='flatcal_daycell'>
+<a href="/index.php/eventos/day.listevents/2017/09/30/62|64|69|70|71|72|73" class = "flatcal_busylink" title = "Ir al calendario - día actual">30</a></td>
+<td class='flatcal_othermonth'/>
+</tr>
+</table>
+</td></tr><tr class='full_cal_link'><td> </td></tr></table></div>
+</div>		</div>
+		<div class="">
+			<p>
+	&nbsp;</p>
+<p>
+	<a href="http://cerosetenta.uniandes.edu.co/" target="_blank"><img alt="Revista Clave" class="cke-resize" src="/images/revistas/070_cerosetenta_s1.jpg" style="width: 220px; height: 79px; border: 0px;" /></a></p>
+<div id="ckimgrsz" style="left: 8px; top: 38px;">
+	<div class="preview">
+		&nbsp;</div>
+</div>
+		</div>
+	<!--Fin Contenido extra-->
+    </div><!--Fin Contenido left-->
+                    <!--contenido principal home-->
+            <section class="contenido">
+                <!--proximos eventos-->
+                <div class="eventos">
+                  <h2>eventos<a href="/index.php/eventos">ver mas</a></h2>
+                    <ul class="fc_leading"><li class="0"><img src="/images/eventos/59b2ad8ce2b8e5.24941727.jpeg" /><h3><a href="/index.php/eventos/icalrepeat.detail/2017/09/08/1057/62|64|69|70|71|72|73/viernes-de-modelo?filter_reset=1"  target="_top" >Viernes de modelo</a></h3></li>
+<li class="0"><img src="/images/eventos/59ad75362d3014.55001424.jpeg" /><h3><a href="/index.php/eventos/icalrepeat.detail/2017/09/08/1050/62|64|69|70|71|72|73/utopia-y-distopia-charla-con-ondjaki-y-rafael-ribeiro?filter_reset=1"  target="_top" >Utopía y distopía. Charla con  Ondjaki y Rafael Ribeiro</a></h3></li>
+<li class="0"><img src="/images/eventos/59a71a10d95c01.24176778.jpeg" /><h3><a href="/index.php/eventos/icalrepeat.detail/2017/09/05/1053/62|64|69|70|71|72|73/exposicion-sobre-el-libro-guia-ilustrada-de-aves-de-la-universidad-de-los-andes?filter_reset=1"  target="_top" >Exposición sobre el libro Guía ilustrada de aves de la Universidad de los Andes</a></h3></li>
+</ul>
+
+                </div><!--fin proximos eventos-->
+                <!--ultimas noticias-->
+                	<section class="noticias">
+			<ul class="featcatsnoticias" id="featcats-100">
+	    <li class="featcat col1 firstcol" style="width:499px" id="featcat-100-9">
+                <h2>noticias<a href="/index.php/noticias">ver mas</a></h2>					<div id="fc_ajax-100-9" class="fc_ajax">
+				          <div id="fc_items-100-9" class="fc_items">
+        	<ul class="fc_leading">
+			        		<li><h3>				                Convocatoria Residencia Artistica Internacional - Universidad de Brasilia                    </a>
+                                </h3>								                <img src="https://facartes.uniandes.edu.co/modules/mod_featcats/thumbs/03/b_0_0_923_oca_thumb.png" alt="" width="200" height="283" /><p>La dirección de Difusión Cultural (DDC), del Decanato de Extensión de la Universidad de Brasilia (DEX/UnB), en colaboración con la Organización de los Estados Iberoamericanos para la Educación, la Ciencia y la Cultura (OEI), y el Servicio Social del Comercio (Sesc/DF)</p>
+				                    <p class="fc_readmore">
+                        <a class="fc_title " href="/index.php/noticias/923-convocatoria-residencia-artistica-internacional-universidad-de-brasilia">
+                        ver m&aacute;s						</a>
+                    </p>
+                                </li>
+                    		<li><h3>				                Faculty position in the field of Digital Humanities                    </a>
+                                </h3>								                <img src="https://facartes.uniandes.edu.co/modules/mod_featcats/thumbs/01/b_0_0_921_faculty-professor-ad-Thumb.jpg" alt="" width="200" height="200" /><p> Full time position as an assistant professor at Universidad de los Andes</p>
+				                    <p class="fc_readmore">
+                        <a class="fc_title " href="/index.php/noticias/921-faculty-position-in-the-field-of-digital-humanities">
+                        ver m&aacute;s						</a>
+                    </p>
+                                </li>
+                    		<li><h3>				                Las cuerdas se toman la franja de conciertos de los jueves                    </a>
+                                </h3>								                <img src="https://facartes.uniandes.edu.co/modules/mod_featcats/thumbs/01/b_0_0_901_08-17-ciclo-guitarra-laud.jpg" alt="" width="1294" height="2000" /><p>
+	Con una conferencia sobre la construcci&oacute;n de las guitarras, se dar&aacute; inicio al Ciclo de conciertos de guitarra y la&uacute;d que se tomar&aacute; este semestre la tradicional franja Concierto de mediod&iacute;a en la sala Ernesto Martin.</p>
+				                    <p class="fc_readmore">
+                        <a class="fc_title " href="/index.php/noticias/901-las-cuerdas-se-toman-la-franja-de-conciertos-de-los-jueves">
+                        ver m&aacute;s						</a>
+                    </p>
+                                </li>
+                    		<li><h3>				                Hedda Gabler                    </a>
+                                </h3>								                <p>Domingo 10 de septiembre, 12:00 p.m.</p>
+				                    <p class="fc_readmore">
+                        <a class="fc_title " href="/index.php/noticias/922-hedda-gabler">
+                        ver m&aacute;s						</a>
+                    </p>
+                                </li>
+                    		<li><h3>				                Programación cursos en Educación Continuada tercer trimestre de 2017                    </a>
+                                </h3>								                <img src="https://facartes.uniandes.edu.co/modules/mod_featcats/thumbs/04/b_0_0_874_Educotrimestre2017-FC.png" alt="" width="980" height="340" /><p>Programación de cursos libres en arte, historia del arte, música y literatura de septiembre a octubre del 2017</p>
+				                    <p class="fc_readmore">
+                        <a class="fc_title " href="/index.php/noticias/874-programacion-tercer-trimestre-2017">
+                        ver m&aacute;s						</a>
+                    </p>
+                                </li>
+                    		<li><h3>				                Convocatoria docente Humanidades Digitales                    </a>
+                                </h3>								                <img src="https://facartes.uniandes.edu.co/modules/mod_featcats/thumbs/06/b_0_0_886_convocatoria_h_digitales.jpg" alt="" width="980" height="340" /><p>
+	La Facultad de Artes y Humanidades de la Universidad de los Andes est&aacute; interesada en contratar un profesor de tiempo completo para el &aacute;rea de <strong>Humanidades Digitales.</strong></p>
+				                    <p class="fc_readmore">
+                        <a class="fc_title " href="/index.php/noticias/886-profesordigitales">
+                        ver m&aacute;s						</a>
+                    </p>
+                                </li>
+                    		<li><h3>				                Convocatoria: Ilustraciones para la Gaceta CIC                    </a>
+                                </h3>								                <img src="https://facartes.uniandes.edu.co/modules/mod_featcats/thumbs/07/b_0_0_897_Convocatoria-gacectaCIC-FC.jpg" alt="" width="980" height="340" /><p>
+	Se buscan propuestas para ilustrar la Gaceta CIC, publicaci&oacute;n anual de la Facultad de Artes y Humanidades de la Universidad de los Andes</p>
+				                    <p class="fc_readmore">
+                        <a class="fc_title " href="/index.php/noticias/897-convocatoria-ilustraciones-para-la-gaceta-cic">
+                        ver m&aacute;s						</a>
+                    </p>
+                                </li>
+                    		<li><h3>				                IX Festival de Jazz de Los Andes                    </a>
+                                </h3>								                <img src="https://facartes.uniandes.edu.co/modules/mod_featcats/thumbs/09/b_0_0_919_JAzz.png" alt="" width="891" height="1500" /><p>
+	Del viernes 1 de septiembre al martes 26 de septiembre del 2017</p>
+<p>
+	&nbsp;</p>
+				                    <p class="fc_readmore">
+                        <a class="fc_title " href="/index.php/noticias/919-ix-festival-de-jazz-de-los-andes">
+                        ver m&aacute;s						</a>
+                    </p>
+                                </li>
+                        </ul>
+                
+          </div>  
+		  			</div>
+		    </li>
+    </ul>
+<div style="clear:both"></div>
+		</section>
+	<!--fin ultimas noticias-->
+            </section><!--fin contenido principal home-->
+                        
+            <!--aside revistas home-->
+            	<aside class="feed_facebook">
+			<div class="fb-page" data-adapt-container-width="true" data-height="2200" data-hide-cover="false" data-href="https://www.facebook.com/facartes" data-show-facepile="false" data-show-posts="true" data-small-header="false" data-width="240">
+	<div class="fb-xfbml-parse-ignore">
+		<blockquote cite="https://www.facebook.com/facartes">
+			<a href="https://www.facebook.com/facartes">Facultad de Artes y Humanidades Universidad de los Andes</a></blockquote>
+	</div>
+</div>
+		</aside>
+	<!--fin aside revistas home-->
+            <!--Script facebook page-->
+            <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.4&appId=202439406442478";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script><!--Fin Script facebook page-->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_LA/sdk.js#xfbml=1&version=v2.5&appId=202439406442478";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+            </section>
+    <footer>
+      <nav>
+          <!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item107"><a href="http://registro.uniandes.edu.co/" target="_blank" >Admisiones y Registro</a></li><li class="item108"><a href="https://eventos.uniandes.edu.co" target="_blank" >Agenda</a></li><li class="item109"><a href="https://apoyofinanciero.uniandes.edu.co/index.php/es/" target="_blank" >Apoyo Financiero</a></li><li class="item110"><a href="https://biblioteca.uniandes.edu.co/index.php?lang=es" target="_blank" >Biblioteca</a></li><li class="item111"><a href="http://correo.uniandes.edu.co" target="_blank" >Correo</a></li><li class="item112"><a href="http://egresados.uniandes.edu.co" target="_blank" >Egresados</a></li><li class="item113"><a href="http://secretariageneral.uniandes.edu.co/index.php/es/" target="_blank" >Normas</a></li><li class="item114"><a href="http://planeacion.uniandes.edu.co/" target="_blank" >Planeación</a></li><li class="item115"><a href="http://sicuaplus.uniandes.edu.co" target="_blank" >Sicua</a></li></ul>
+
+        </nav>
+        <div>
+          <a href="http://www.uniandes.edu.co/" class="logo" target="_blank"><img src="/images/sitio/logo.png" /></a>
+            <p>
+	<strong>Universidad de los Andes</strong> <em>Calle 19A N&ordm; 1 - 37 Este Bloque P1</em><br />
+	PBX 339 4949 - 339 4999&nbsp;<strong>Extensi&oacute;n</strong>&nbsp;2540&nbsp;<strong>L&iacute;nea directa</strong> 3324537<br />
+	Universidad de los Andes | Vigilada Mineducación. Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br />
+	Reconocimiento personería jurídica:&nbsp;Resolución 28 del 23 de febrero de 1949 Minjusticia.</p>
+<p>
+	&nbsp;</p>
+<p>
+	<span style="font-size:8px;">&nbsp;</span></p>
+
+        </div>
+    </footer>
+</body>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-67455532-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</html>

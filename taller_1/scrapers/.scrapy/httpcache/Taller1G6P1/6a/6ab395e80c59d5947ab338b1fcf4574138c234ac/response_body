@@ -1,0 +1,164 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/transitional.dtd">
+<HTML lang="en">
+<head>
+<META http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Pragma" name="Cache-Control" content="no-cache">
+<meta http-equiv="Cache-Control" name="Cache-Control" content="no-cache">
+<LINK REL="stylesheet" HREF="/css/web_defaulthome.css" TYPE="text/css">
+<LINK REL="stylesheet" HREF="/css/web_defaultprint.css" TYPE="text/css" media="print">
+<title> Acceso Usuario</title>
+<meta http-equiv="Content-Script-Type" name="Default_Script_Language" content="text/javascript">
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!-- Hide JavaScript from older browsers 
+var submitcount=0;
+function checkSubmit() {
+if (submitcount == 0)
+   {
+   submitcount++;
+   return true;
+   }
+else
+   {
+alert("Sus cambios ya se enviaron.");
+   return false;
+   }
+}
+//  End script hiding -->
+</SCRIPT>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript">
+<!-- Hide JavaScript from older browsers 
+//  Function to open a window
+function windowOpen(window_url) {
+   helpWin = window.open(window_url,'','toolbar=yes,status=no,scrollbars=yes,menubar=yes,resizable=yes,directories=no,location=no,width=350,height=400');
+   if (document.images) { 
+       if (helpWin) helpWin.focus()
+   }
+}
+//  End script hiding -->
+</SCRIPT>
+</head>
+<body  onload = "document.loginform.UserID.focus()" >
+<div class="headerwrapperdiv">
+<div class="pageheaderdiv1">
+<a href="#main_content" onMouseover="window.status='Ir a Contenido Principal'; return true" onMouseout="window.status=''; return true" OnFocus="window.status='Ir a Contenido Principal'; return true" onBlur="window.status=''; return true" class="skiplinks">Ir a Contenido Principal</a>
+</DIV>
+<table  CLASS="plaintable" SUMMARY="Esta tabla muestra Elementos de Menú y cuadro de texto de Búsqueda de Banner."
+         WIDTH="100%">
+<tr>
+<TD CLASS="pldefault">
+<div class="headerlinksdiv2">
+&nbsp;
+</div>
+</TD>
+<TD CLASS="pldefault"><p class="rightaligntext"></p>
+<SPAN class="pageheaderlinks">
+<a href="/wtlhelp/twbhhelp.htm" accesskey="H" onClick="popup = window.open('/wtlhelp/twbhhelp.htm', 'PopupPage','height=500,width=450,scrollbars=yes,resizable=yes'); return false" target="_blank" onMouseOver="window.status='';  return true" onMouseOut="window.status=''; return true"onFocus="window.status='';  return true" onBlur="window.status=''; return true"  class="submenulinktext2">AYUDA</a>
+|
+<a href="twbkwbis.P_Logout" accesskey="3" class="submenulinktext2">SALIR</a>
+</span>
+</TD>
+</tr>
+</table>
+</DIV>
+<div class="pagetitlediv">
+<table  CLASS="plaintable" SUMMARY="Esta tabla muestra el título y encabezado estático."
+   WIDTH="100%">
+<tr>
+<TD CLASS="pldefault">
+<h2>Acceso Usuario</h2>
+</TD>
+<TD CLASS="pldefault">
+&nbsp;
+</TD>
+<TD CLASS="pldefault"><p class="rightaligntext"></p>
+<div class="staticheaders">
+</div>
+</TD>
+</tr>
+<tr>
+<TD class="bg3" width="100%" colSpan=3><img src="/wtlgifs/web_transparent.gif" alt="Imagen Transparente" CLASS="headerImg" TITLE="Imagen Transparente"  NAME="web_transparent" HSPACE=0 VSPACE=0 BORDER=0 HEIGHT=3 WIDTH=10 /></TD>
+</tr>
+</table>
+<a name="main_content"></a>
+</DIV>
+<div class="pagebodydiv">
+<!--  ** END OF twbkwbis.P_OpenDoc **  -->
+<div class="infotextdiv"><table  CLASS="infotexttable" SUMMARY="Esta tabla contiene información que puede ser útil para entender el contenido y funcionalidad de esta página. Puede ser un breve conjunto de instrucciones, una descripción de mensajes de error, u otra información especial."><tr><td CLASS="indefault"><SPAN class="infotext"> <div id="img1">
+      <div id="img2" >
+        <div id="img3" >
+
+        <a href="http://registro.uniandes.edu.co" target="_blank">
+            <img title="Admisiones y Registro"  src="/customgifs/admisiones.jpg" border="0">
+        </a>
+        <a href="http://sch01.uniandes.edu.co//" target="_blank">
+            <img title="Sch" src="/customgifs/conflicto.jpg" border="0">
+        </a>
+        <a href="http://horario.uniandes.edu.co/" target="_blank">
+            <img title="HorarioLab" src="/customgifs/planeacion.jpg" border="0">
+        </a>
+        </a>
+          <a href="http://egresados.uniandes.edu.co//" target="_blank">
+            <img title="Egresados"  src="/customgifs/egresados.png" border="0">
+          </div>
+    </div>
+</div>
+<br></SPAN></td></tr></table><p></DIV>
+<form action="/pls/prod/twbkwbis.P_ValLogin" method="post" NAME="loginform" AUTOCOMPLETE="OFF">
+<table  CLASS="dataentrytable" SUMMARY="Esta tabla se usa para el formato de campos de entrada de usuario">
+<tr>
+<td CLASS="delabel" scope="row" ><LABEL for=UserID><SPAN class="fieldlabeltext">login UNIANDES</SPAN></LABEL></td>
+<td CLASS="dedefault"><input type="text" name="sid" size="22" maxlength="20" ID="UserID"  /></td>
+</tr>
+<tr>
+<td CLASS="delabel" scope="row" ><LABEL for=PIN><SPAN class="fieldlabeltext">Contraseña de Cuenta:</SPAN></LABEL></td>
+<td CLASS="dedefault"ID="PIN" ><input type="password" name="PIN" size="43" maxlength="42" /></td>
+</tr>
+</table>
+<p>
+<input type="submit" value="Ingrese" />
+&nbsp;
+<a href="/wtlhelp/twbhhelp.htm" onMouseOver="window.status='¿Dar clic aquí para Ayuda con Acceso?';  return true"  onMouseOut="window.status='';  return true" onFocus="window.status='';  return true" onBlur="window.status='';  return true">¿Dar clic aquí para Ayuda con Acceso?</a>
+<p>
+<a href="https://cuenta.uniandes.edu.co/" name="Olvidó su contraseña?" target=_blank>Olvidó su contraseña?</a>
+<br />
+</form>
+<SCRIPT LANGUAGE="JavaScript" TYPE="text/javascript" LANGUAGE="JScript">
+document.loginform.reset();
+//  End script hiding -->
+</SCRIPT>
+
+<!--  ** START OF twbkwbis.P_CloseDoc **  -->
+<table  CLASS="plaintable" SUMMARY="Esta tabla muestra separador de línea al final de la página."
+                                             WIDTH="100%" cellSpacing=0 cellPadding=0 border=0><tr><TD class="bgtabon" width="100%" colSpan=2><img src="/wtlgifs/web_transparent.gif" alt="Imagen Transparente" CLASS="headerImg" TITLE="Imagen Transparente"  NAME="web_transparent" HSPACE=0 VSPACE=0 BORDER=0 HEIGHT=3 WIDTH=10 /></TD></tr></table>
+<a href="#top" onMouseover="window.status='Ir a inicio de página'; return true" onMouseout="window.status=''; return true" OnFocus="window.status='Ir a inicio de página'; return true" onBlur="window.status=''; return true" class="skiplinks">Ir a inicio de página</a>
+</DIV>
+<div class="footerbeforediv">
+
+</DIV>
+<div class="footerafterdiv">
+
+</DIV>
+<div class="globalafterdiv">
+
+</DIV>
+<div class="globalfooterdiv">
+
+</DIV>
+<div class="pagefooterdiv">
+</body>
+</html>
+<TD CLASS="default">
+<table  CLASS="plaintable" SUMMARY="Esta tabla contiene información de mensajes">
+<tr>
+<TD CLASS="pldefault">
+<img src="/wtlgifs/web_success_cascade.png" alt="Ícono de Éxito" CLASS="headerImg" TITLE="Ícono de Éxito"  NAME="web_success" HSPACE=0 VSPACE=0 BORDER=0 HEIGHT=16 WIDTH=17 />
+</TD>
+<TD CLASS="pldefault">
+<SPAN class="informationtext">Universidad de los Andes | Vigilada Mineducación | Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964. <br>Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.</SPAN>
+<br />
+</TD>
+</tr>
+</table>
+</TD>
+<br />
+<br />

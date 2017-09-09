@@ -1,0 +1,23 @@
+Server: Apache-Coyote/1.1
+P3P: CP="CAO PSA OUR"
+X-Blackboard-Appserver: fgprd-301947-199563-app004.mhint
+X-Blackboard-Product: Blackboard Learn &#8482; 3000.1.4-rel.183+298455c
+Pragma: private
+Cache-Control: private
+Cache-Control: max-age=0
+Cache-Control: no-store
+Cache-Control: must-revalidate
+Last-Modified: Mon, 08 Sep 1997 22:07:51 GMT
+Expires: Thu, 08 Sep 2016 22:07:51 GMT
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+Set-Cookie: JSESSIONID=0B04B53709E7CF3391E6E35965F85BAA; Path=/webapps/login; Secure
+Set-Cookie: session_id=0C423983D513946B590E432EB9F4E268; Expires=Sat, 04-Sep-2032 22:07:51 GMT; Path=/; HttpOnly
+Set-Cookie: s_session_id=6F856532967FB545DD83438CCB749E9F; Expires=Sat, 04-Sep-2032 22:07:51 GMT; Path=/; Secure; HttpOnly
+Set-Cookie: web_client_cache_guid=a8940ebe-cf9d-4e1f-84b3-5783df01eb03; Path=/; Secure
+Set-Cookie: NSC_301947_wjq_69.196.225.228*443=ffffffff090e173b45525d5f4f58455e445a4a4229a0;path=/;secure
+Content-Type: text/html;charset=ISO-8859-1
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Fri, 08 Sep 2017 22:07:50 GMT
+Nncoection: close

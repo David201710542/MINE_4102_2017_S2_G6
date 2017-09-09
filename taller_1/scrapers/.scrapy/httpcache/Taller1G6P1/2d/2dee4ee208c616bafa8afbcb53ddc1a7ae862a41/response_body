@@ -1,0 +1,470 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" >
+  <head>
+
+  <base href="https://psicologia.uniandes.edu.co/index.php/programas/pregrado-en-psicologia/por-que-hacer-el-pregrado-en-psicologia" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Fredy Cortés" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>¿Por qué hacer el pregrado en Psicología de Los Andes?</title>
+  <link href="/templates/ot_appoz/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-b59df380.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ot_appoz/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://psicologia.uniandes.edu.co/modules/mod_accordeonck/themes/simple/mod_accordeonck_css.php?cssid=accordeonck64930" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_pwebfblikebox/css/likebox.css" type="text/css" />
+  <style type="text/css">
+div.template-width {width: 960px;}div.ot-leftcolumn {width: 220px;}div.ot-header {background-color: #34132D;}div.ot-banner {background-color: #FFFFFF;}div.ot-topboxes {background-color: #FFFFFF;}div.ot-mainbody {background-color: #FFFFFF;}div.ot-footer {background-color: #34132D;}
+			.width100{ width: 100%; } 
+			 
+			.width50{ width: 50%; } 
+			 
+			.width33{ width: 33%; } 
+			 
+			.width25{ width: 25%; } 
+			 
+			.width20{ width: 20%; } 
+			 #smoothtop{
+	height:45px;
+	width:45px;
+	background:url(/plugins/system/smoothtop/images/up-arrow.gif) center top no-repeat;
+	
+}
+
+#smoothtop:hover{background-position: center bottom;}#accordeonck64930 li a.toggler { background: url(https://psicologia.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck64930 li a.toggler.open { background: url(https://psicologia.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }#accordeonck64930 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck64930 {  } #accordeonck64930 li.level1 {  } #accordeonck64930 li.level1 > a { color: #FFFFFF;font-size: 13px; } #accordeonck64930 li.level1 > a:hover { color: #34132D; } #accordeonck64930 li.level1 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck64930 li.level2 { padding: 1px;margin: 2px; } #accordeonck64930 li.level2 > a { color: #FFFFFF;font-size: 13px; } #accordeonck64930 li.level2 > a:hover { color: #34132D; } #accordeonck64930 li.level2 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck64930 li.level3 {  } #accordeonck64930 li.level3 a { color: #FFFFFF;font-size: 12px; } #accordeonck64930 li.level3 a:hover { color: #34132D; } #accordeonck64930 li.level3 a span.accordeonckdesc { color: #000000;font-size: 13x; } 
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-44abc35d.js" type="text/javascript"></script>
+  <script src="/templates/ot_appoz/scripts/menudropdown.js" type="text/javascript"></script>
+  <script src="https://psicologia.uniandes.edu.co/modules/mod_accordeonck/assets/mod_accordeonck.js" type="text/javascript"></script>
+  <script src="/media/mod_pwebfblikebox/js/mootools.likebox.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});// Fade our <div> tag to 0 or 'num'
+function fade_me(num){
+	var smoothtop=document.id('smoothtop');
+	if(smoothtop){smoothtop.fade(window.getScrollTop()<250?0:num);}
+}
+window.addEvent('domready',function(){
+	// Create Fx.Scroll object
+	var scroll=new Fx.Scroll(window,{
+		'duration':	500,
+		'transition':	Fx.Transitions.Expo.easeInOut,
+		'wait':		false
+	});
+	// Create an <div> tag for SmoothTop
+	var smoothtop=new Element('div',{
+		'id':		'smoothtop',
+		'class':	'smoothtop',
+		'style':	'position:fixed; display:block; visibility:visible; zoom:1; opacity:0; cursor:pointer; right:5px; bottom:5px;',
+		'title':	'',
+		'html':		'',
+		'events':{
+			// No transparent when hover
+			mouseover: function(){fade_me(1);},
+			// Transparent when no hover
+			mouseout: function(){fade_me(0.7);},
+			// Scroll Up on click
+			click: function(){scroll.toTop();}
+		}
+	// Inject our <div> tag into the document body
+	}).inject(document.body);
+	// Gottta do this for stupid IE
+	document.id('smoothtop').setStyle('opacity','0');
+});
+// Show/Hide our <div> tag
+window.addEvent('scroll',function(){fade_me(0.7);});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck64930'),{fadetransition : true,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck64930',imagePlus : 'https://psicologia.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png',imageMinus : 'https://psicologia.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/es_ES/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,"script","facebook-jssdk"));
+
+/*===  EASY GOOGLE ANALYTICS : START TRACKING CODE  ===*/
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-51158885-18']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+/*===  EASY GOOGLE ANALYTICS : END TRACKING CODE  ===*/
+
+  </script>
+  <!--[if lte IE 8]>
+<link rel="stylesheet" href="/media/mod_pwebfblikebox/css/ie.css" />
+<![endif]-->
+
+
+  <link rel="stylesheet" href="https://psicologia.uniandes.edu.co/plugins/system/HDsocialbm/icons.css" type="text/css" />
+</head>
+
+
+
+
+
+<body id="ot-body" class="left-content-right">
+
+<div id="ot-top" class="color">
+
+
+<div class="custom"  >
+	<div class="color">
+<div id="molde">.</div>
+</div></div>
+
+</div>
+
+  <div class="ot-wrap">
+    <div class="ot-wrap-i">
+      <!--******************** START HEADER ********************-->
+      <div class="ot-header">
+        <div class="ot-header-w template-width">
+          <div class="ot-header-i">
+            <div class="ot-logo">
+                            
+
+<div class="custom"  >
+	<div><a href="http://www.uniandes.edu.co" target="_blank"><img src="/images/logo.png" alt="" border="0" /></a></div></div>
+
+                            
+
+            </div>
+
+
+
+
+
+          </div>
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+
+
+      <!--******************** END HEADER ********************-->
+
+      
+
+
+                        <div class="ot-mainmenu">
+        <div class="ot-mainmenu-w template-width">
+          <div id="ot-mainmenu" class="ot-mainmenu-i">
+            <ul class="menu level0">
+<li id="item-248" class="level0 first"><a href="/" ><span>Inicio</span></a></li><li id="item-372" class="level0"><a href="/index.php/el-departamento" ><span>El Departamento</span></a></li><li id="item-373" class="active level0"><a href="/index.php/programas" ><span>Programas</span></a></li><li id="item-374" class="level0"><a href="/index.php/profesores" ><span>Profesores</span></a></li><li id="item-250" class="level0"><a href="/index.php/areas-investigacion" ><span>Investigación</span></a></li><li id="item-252" class="level0"><a href="/index.php/publicaciones/catalogo-de-publicaciones" ><span>Publicaciones</span></a></li><li id="item-375" class="level0"><a href="/index.php/laboratorios" ><span>Laboratorios</span></a></li><li id="item-376" class="level0"><a href="/index.php/servicios" ><span>Servicios</span></a></li><li id="item-338" class="level0"><a class="b-texto" href="/index.php/noticias" ><span>Noticias</span></a></li><li id="item-339" class="level0"><a href="/index.php/contacto" ><span>Contacto</span></a></li></ul>
+          </div>
+        </div>
+      </div>
+
+      
+      
+
+      <div class="ot-banner">
+        <div class="ot-banner-w template-width">
+
+
+          <div class="ot-banner-i">
+
+
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<!-- PWebFBLikeBox -->
+<div id="pwebfblikebox250" class="pwebfblikebox pwebfblikebox-left pwebfblikebox-radius pwebfblikebox-shadow slidebox ">
+	<div class="pwebfblikebox_tab f-white"></div>
+		<div class="pwebfblikebox_container" style="width:320px;"><div id="fb-root"></div><div class="fb-like-box" id="pwebfblikebox250_html5" data-href="https://www.facebook.com/facisouniandes" data-show-faces="true" data-stream="true" data-header="true" data-width="320" data-force-wall="true"></div></div>
+</div>
+
+<script type="text/javascript">
+(function(){
+	pwebFBLikeBox250 = new pwebFBLikeBox({
+		id: 		250,
+		prefix: 	'pwebfblikebox250',
+		open: 		'click',
+		close: 		'click',
+				position: 	'left',
+		top: 		-1,
+		layout: 	'slidebox'
+	});
+})();
+if(typeof window.fbAsyncInit=="function")window.fbAsyncInitPweb=window.fbAsyncInit;window.fbAsyncInit=function(){FB.Event.subscribe("edge.create",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","like",u])});FB.Event.subscribe("edge.remove",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","unlike",u])});if(typeof window.fbAsyncInitPweb=="function")window.fbAsyncInitPweb.apply(this,arguments)};</script>
+<!-- PWebFBLikeBox end -->			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+<div class="breadcrumbs">
+<a href="/index.php/programas" class="pathway">Programas</a> » <a href="/index.php/programas/pregrado-en-psicologia" class="pathway">Pregrado en Psicología</a> » <span>¿Por qué hacer el pregrado en Psicología de Los Andes?</span></div>
+			</div>
+		</div>
+	</div>
+
+          </div>
+          <div class="botonera_deptos">
+            
+          </div>
+        </div>
+        
+
+</div>     
+ 
+
+         
+     
+
+
+       
+      <!--******************** START MAINBODY ********************-->
+      <div class="ot-mainbody">
+
+
+        <div class="ot-mainbody-w template-width"> 
+        
+       
+        <div class="ot-mainbody-i">
+            
+          
+                        <div class="ot-leftcolumn">
+              <div class="ot-leftcolumn-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div id="titular">
+<div id="cs">Programas</div>
+</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<div class="accordeonck ">
+<ul class="menu" id="accordeonck64930">
+<li id="item-379" class="item-379 active active parentparent  level2"><a class="toggler toggler_1  isactive " href="javascript:void(0);" >Pregrado en Psicología</a><ul class="content_1" style=""><li id="item-383" class="item-383 current activecurrent  active level3"><a class="isactive " href="/index.php/programas/pregrado-en-psicologia/por-que-hacer-el-pregrado-en-psicologia" >¿Por qué hacer el pregrado en Psicología de Los Andes?</a></li><li id="item-384" class="item-384 level3"><a href="/index.php/programas/pregrado-en-psicologia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-385" class="item-385 level3"><a href="/index.php/programas/pregrado-en-psicologia/opciones-academicas" >Opciones académicas</a></li><li id="item-435" class="item-435 level3"><a href="/index.php/programas/pregrado-en-psicologia/admisiones-y-apoyo-financiero" >Admisiones y Apoyo financiero</a></li></ul></li><li id="item-380" class="item-380 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Maestría en Psicología</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-386" class="item-386 level3"><a href="/index.php/programas/maestria-en-psicologia/por-que-hacer-la-maestria-en-psicologia" >¿Por qué hacer la Maestría en Psicología de Los Andes?</a></li><li id="item-387" class="item-387 level3"><a href="/index.php/programas/maestria-en-psicologia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-388" class="item-388 level3"><a href="/index.php/programas/maestria-en-psicologia/convenios" >Convenios</a></li><li id="item-389" class="item-389 level3"><a href="/index.php/programas/maestria-en-psicologia/admisiones" >Admisiones</a></li><li id="item-390" class="item-390 level3"><a href="/index.php/programas/maestria-en-psicologia/costos-y-apoyo-financiero" >Costos y Apoyo Financiero</a></li></ul></li><li id="item-381" class="item-381 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Maestría en Psicología Clínica y de la Salud  </a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-391" class="item-391 level3"><a href="/index.php/programas/maestria-en-psicologia-clinica-y-de-la-salud/por-que-hacer-la-maestria-en-psicologia-clinica-y-de-la-salud" >¿Por qué hacer la Maestría en Psicología Clínica y de la Salud de Los Andes?</a></li><li id="item-392" class="item-392 level3"><a href="/index.php/programas/maestria-en-psicologia-clinica-y-de-la-salud/descripcion-del-programa" >Descripción del programa</a></li><li id="item-393" class="item-393 level3"><a href="/index.php/programas/maestria-en-psicologia-clinica-y-de-la-salud/convenios" >Convenios</a></li><li id="item-394" class="item-394 level3"><a href="/index.php/programas/maestria-en-psicologia-clinica-y-de-la-salud/admisiones" >Admisiones</a></li><li id="item-395" class="item-395 level3"><a href="/index.php/programas/maestria-en-psicologia-clinica-y-de-la-salud/costos-y-apoyo-financiero" >Costos y Apoyo Financiero</a></li></ul></li><li id="item-382" class="item-382 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Doctorado en Psicología</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-396" class="item-396 level3"><a href="/index.php/programas/doctorado-en-psicologia/por-que-hacer-el-doctorado-en-psicologia" >¿Por qué hacer el Doctorado en Psicología de Los Andes?</a></li><li id="item-397" class="item-397 level3"><a href="/index.php/programas/doctorado-en-psicologia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-398" class="item-398 level3"><a href="/index.php/programas/doctorado-en-psicologia/estudiantes" >Estudiantes</a></li><li id="item-399" class="item-399 level3"><a href="/index.php/programas/doctorado-en-psicologia/convenios" >Convenios</a></li><li id="item-400" class="item-400 level3"><a href="/index.php/programas/doctorado-en-psicologia/admisiones" >Admisiones</a></li><li id="item-401" class="item-401 level3"><a href="/index.php/programas/doctorado-en-psicologia/costos-y-apoyo-financiero" >Costos y Apoyo Financiero</a></li></ul></li></ul></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        
+
+
+
+
+
+            <div class="ot-content">
+              <div class="ot-content-i">
+                
+<div id="system-message-container">
+</div>
+                	
+<div class="item-page">
+	<div class="item-page-bg">
+		<div class="heading-actions">
+						
+					<ul class="actions">
+												<li class="print-icon">
+					<a href="/index.php/programas/pregrado-en-psicologia/por-que-hacer-el-pregrado-en-psicologia?tmpl=component&amp;print=1&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Imprimir"  /></a>					</li>
+						
+						
+						
+					
+			</ul>
+				</div>
+				
+				
+				
+																				
+							<div id="b-texto"><img src="/images/recursos/barra_programa1.jpg" border="0" width="716" height="45" /></div>
+<div id="b-texto">
+<h1><strong>¿Por qué hacer el pregrado en Psicología de Los Andes?</strong></h1>
+<p>El programa de estudios del Departamento de Psicología de la Universidad presenta elementos novedosos respecto a otros programas de formación del país, como son su énfasis en una formación disciplinar (a diferencia de programas que privilegian la formación profesional), su alta flexibilidad curricular, su énfasis en la formación integral e interdisciplinar (a través del Ciclo Básico Uniandino y del Año Básico de la Facultad de Ciencias Sociales), y su organización alrededor de áreas de indagación de la psicología (e.g., emoción, percepción, pensamiento, lenguaje, motivación, psicología anormal, evaluación) en lugar de la tradicional organización alrededor de autores o enfoques. Así mismo, el Departamento cuenta con un equipo profesoral altamente calificado, reconocido por su producción investigativa de vanguardia.</p>
+<h1><strong>Objetivos</strong></h1>
+<ul class="lista0">
+<li>Demostrar una sólida formación en las dimensiones histórica, teórica y metodológica de la disciplina.</li>
+<li>Entablar diálogos con otras disciplinas y áreas del conocimiento.</li>
+<li>Expresar una posición crítica frente a distintas aproximaciones teóricas.</li>
+<li>Realizar lecturas críticas de la literatura científica, identificando vacíos conceptuales y metodológicos.</li>
+<li>Llevar a cabo procesos de indagación de problemas psicológicos en los que incorpore el conjunto de prácticas y actividades que son propias de la investigación científica en psicología.</li>
+<li>Adelantar intervenciones psicológicas que promuevan el cambio de individuos, grupos o comunidades.</li>
+<li>Determinar las implicaciones éticas y sociales de la práctica psicológica en diferentes contextos.</li>
+</ul>
+<h1><strong>Perfil egresado</strong></h1>
+<p>La formación ofrecida en el programa de psicología de la Universidad de los Andes capacita profesionales de alto nivel que pueden acceder rápidamente a estudios de posgrado en el exterior en universidades de alto prestigio. El egresado puede desempeñarse profesionalmente en diferentes campos de la psicología, como son las áreas educativa, organizacional, comunitaria, del consumidor, social y política, entre otras.</p>
+<p>El psicólogo egresado de la Universidad de los Andes es un psicólogo que:</p>
+<ul class="lista0">
+<li>Posee una visión amplia de la psicología.</li>
+<li>Puede hacer aportes a la disciplina psicológica y a la solución de problemas sociales.</li>
+<li>Tiene una sólida formación científica y metodológica.</li>
+<li>Es capaz de desenvolverse en cualquier área de la psicología aplicada.</li>
+</ul>
+</div>		
+								</div>
+</div>
+              </div>
+                          </div>
+               
+<div class="ot-bottom-banner">      
+ 
+ </div>
+          
+            
+                    </div>
+        </div>
+      </div>
+                               
+
+      
+      <!--******************** END MAINBODY********************-->
+            
+      
+      
+      <!--******************** START FOOTER ********************-->
+    
+      <div class="ot-footer">
+        <div class="ot-footer-w template-width">
+          <div class="ot-footer-i">
+                        <div class="ot-bottom-1">
+              <div class="ot-bottom-1-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="pie"><strong>UNIVERSIDAD DE LOS ANDES | Vigilada MinEducación<br /></strong>Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964<br />Reconocimiento personería jurídica: Res. 28 del 23 de febrero de 1949 Min. Justicia.</div>
+<div class="pie"><br /><strong>FACULTAD DE CIENCIAS SOCIALES<br />DEPARTAMENTO&nbsp;DE PSICOLOGÍA </strong><br />Carrera 1 No. 18A-10&nbsp;- Piso 2, Bloque G -GB, Bogotá, Colombia<br />Tel: +571 332&nbsp;4365&nbsp; / Fax +571 3394949 Ext.: 2581</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<p><a href="/index.php" target="_self" class="opacity"><img src="/images/iconos/01.png" alt="" border="0" /></a><a href="/index.php/contacto" target="_self" class="opacity"><img src="/images/iconos/02.png" alt="" border="0" /></a><a href="http://www.facebook.com/pages/Universidad-de-los-Andes/312867483159" target="_blank" class="opacity"><img src="/images/iconos/03.png" alt="" border="0" /></a><a href="https://twitter.com/facisouniandes" target="_blank"><img src="/images/iconos/07.png" alt="" border="0" /></a><img src="/images/iconos/04.png" alt="" border="0" />
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy41039 = 'r&#101;lf&#97;c&#105;s&#111;' + '&#64;';
+ addy41039 = addy41039 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text41039 = '<img src="/images/iconos/05.png" alt="" border="0" />';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy41039 + '\'>');
+ document.write(addy_text41039);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Esta dirección de correo electrónico está protegida contra spambots. Usted necesita tener Javascript activado para poder verla.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><a href="/index.php/buscar"><img src="/images/iconos/06.png" alt="" border="0" /></a></p></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                                    <div class="ot-bottom-2">
+              <div class="ot-bottom-2-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><strong>REDES UNIANDES</strong><br />• <a href="http://www.facebook.com/pages/Universidad-de-los-Andes/312867483159" target="_blank">Facebook</a><br />• <a href="http://www.youtube.com/user/uniandes" target="_blank">YouTube</a><br />• <a href="http://twitter.com/uniandes" target="_blank">Twitter</a><br />• <a href="http://feeds.feedburner.com/NoticiasUniandinas" target="_blank">Canales RSS</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+             
+
+            <div class="ot-bottom-3">
+              <div class="ot-bottom-3-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/" target="_blank">Normatividad Institucional</a><br /><a href="https://apoyofinanciero.uniandes.edu.co/" target="_blank">Apoyo Financiero</a><br /><a href="http://registro.uniandes.edu.co/" target="_blank">Admisiones y Registro</a><br /><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/" target="_blank">Educación continuada</a><br /><a href="http://biblioteca.uniandes.edu.co/" target="_blank">Sistema de Bibliotecas</a><br /><a href="http://egresados.uniandes.edu.co/" target="_blank">Portal de egresados</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        <div class="ot-bottom-4">
+              <div class="ot-bottom-4-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos">Contacto<br /><a href="/index.php/map">Mapa del sitio</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+      <!--******************** END FOOTER ********************-->
+    </div>
+    
+
+
+  <div class="pata"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap"><span class="mainlevel"> </span><a href="/" class="mainlevel" title="Inicio">Inicio</a><span class="mainlevel">  </span><a href="/index.php/el-departamento" class="mainlevel" title="El Departamento">El Departamento</a><span class="mainlevel">  </span><a href="/index.php/programas" class="mainlevel" title="Programas">Programas</a><span class="mainlevel">  </span><a href="/index.php/profesores" class="mainlevel" title="Profesores">Profesores</a><span class="mainlevel">  </span><a href="/index.php/areas-investigacion" class="mainlevel" title="Investigación">Investigación</a><span class="mainlevel">  </span><a href="/index.php/publicaciones/catalogo-de-publicaciones" class="mainlevel" title="Publicaciones">Publicaciones</a><span class="mainlevel">  </span><a href="/index.php/laboratorios" class="mainlevel" title="Laboratorios">Laboratorios</a><span class="mainlevel">  </span><a href="/index.php/servicios" class="mainlevel" title="Servicios">Servicios</a><span class="mainlevel">  </span><a href="/index.php/noticias?view=list" class="mainlevel" title="Noticias">Noticias</a><span class="mainlevel">  </span><a href="/index.php/contacto" class="mainlevel" title="Contacto">Contacto</a><span class="mainlevel">  </span></td></tr></table>
+
+<div class="custom"  >
+	<p style="text-align: center;">Departamento de Psicología&nbsp;- Facultad de Ciencias&nbsp;Sociales&nbsp;| Carrera 1 No 18A 12 Bogotá, D.C., Colombia Tels: +571 3394999 Ext&nbsp;2594-2597 Fax: +57(1) 3324539 /&nbsp;2016 ©</p></div>
+</div>
+
+
+
+
+
+
+
+
+<noscript><strong>JavaScript is currently disabled.</strong>Please enable it for a better experience of <a href="http://2glux.com/projects/jumi">Jumi</a>.</noscript></body>
+</html>
+

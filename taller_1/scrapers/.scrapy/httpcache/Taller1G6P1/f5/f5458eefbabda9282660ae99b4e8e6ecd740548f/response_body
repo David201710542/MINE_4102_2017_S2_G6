@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"  lang="es-es"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"  lang="es-es"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"  lang="es-es"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="es-es"> <!--<![endif]-->
+    <head>
+        <!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-MPN67ZJ');</script>
+	<!-- End Google Tag Manager -->
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+          <base href="https://mecanica.uniandes.edu.co/index.php/es/aspirantes-846/pregrado" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="author" content="adminimec" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Joomla! - el motor de portales dinámicos y sistema de administración de contenidos" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Pregrado</title>
+  <link href="https://mecanica.uniandes.edu.co/index.php/es/aspirantes-846/pregrado" rel="canonical" />
+  <link href="/templates/shaper_helix_ii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/content/jplayer/tmpl/css/style.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/bootstrap-responsive.min.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/helix/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/helix/css/mobile-menu.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/presets/preset1.css" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_languages/css/template.css" type="text/css" />
+  <style type="text/css">
+.container{max-width:1100px}
+#sp-header-wrapper{padding: 0 !important; }
+
+#sp-header-wrapper{padding: 0 !important; }
+
+#sp-main-body-wrapper{background: rgb(255, 255, 255) !important; padding: 5px 0 !important; }
+
+#sp-header-wrapper{padding: 0 !important; }
+
+#sp-main-body-wrapper{background: rgb(255, 255, 255) !important; padding: 5px 0 !important; }
+
+#sp-footer-wrapper{background: rgba(60, 60, 59, 100) !important; padding: 5px 0 !important; }
+
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/modernizr-2.6.2.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/helix.core.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/menu.js" type="text/javascript"></script>
+  <script type="text/javascript">
+spnoConflict(function($){
+
+					function mainmenu() {
+						$('.sp-menu').spmenu({
+							startLevel: 0,
+							direction: 'ltr',
+							initOffset: {
+								x: 0,
+								y: 0
+							},
+							subOffset: {
+								x: 0,
+								y: 0
+							},
+							center: 0
+						});
+			}
+
+			mainmenu();
+
+			$(window).on('resize',function(){
+				mainmenu();
+			});
+
+
+			});
+  </script>
+
+            
+</head>
+    <body  class="article subpage  ltr preset1 menu-pregrado responsive bg hfeed clearfix">
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MPN67ZJ"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WDX27F"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WDX27F');</script>
+		<div class="body-innerwrapper">
+        <!--[if lt IE 8]>
+        <div class="chromeframe alert alert-danger" style="text-align:center">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
+        <![endif]-->
+        <header id="sp-header-wrapper" 
+                class=" "><div class="container"><div class="row-fluid" id="header">
+<div id="sp-logo" class="span12">
+
+<div class="custom"  >
+	<table id="cabezotePagina" style="width: 100%;" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="left"><a href="http://www.uniandes.edu.co/"><img src="/images/logo_uniandes.jpg" alt="" border="0" /></a></td>
+<td valign="middle"><img src="/gencab/logo.php" alt="" width="891" height="101" usemap="#Map" border="0" /></td>
+</tr>
+</tbody>
+</table>
+<p><map name="Map"> 
+<area shape="rect" coords="4,6,264,95" href="https://ingenieria.uniandes.edu.co/" alt="Facultad de Ingeniería" target="_blank" />
+ 
+<area shape="rect" coords="302,4,886,95" href="https://mecanica.uniandes.edu.co/" />
+ </map></p></div>
+
+
+<div class="custom"  >
+	<table style="position: absolute; width: 255px; top: 0px; left: 1000px;" border="0" cellspacing="0" align="right">
+<tbody>
+<tr>
+<td>		<div class="moduletable">
+					<div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active" dir="ltr">
+			<a href="/index.php/es/">
+							<img src="/media/mod_languages/images/es.gif" alt="Español" title="Español" />						</a>
+			</li>
+								<li class="" dir="ltr">
+			<a href="/index.php/en/aspirantes-847/undergraduate-applicants">
+							<img src="/media/mod_languages/images/en.gif" alt="English (UK)" title="English (UK)" />						</a>
+			</li>
+				</ul>
+
+</div>
+		</div>
+	</td>
+</tr>
+</tbody>
+</table></div>
+<section id="sp--wrapper" 
+                class=" "><div class="row-fluid" id="">
+<div id="sp-menu" class="span12">	
+
+
+			<div id="sp-main-menu" class="visible-desktop">
+				<ul class="sp-menu level-0"><li class="menu-item first"><a href="https://mecanica.uniandes.edu.co/" class="menu-item first" ><span class="menu"><span class="menu-title">Inicio</span></span></a></li><li class="menu-item active parent "><a href="#" class="menu-item active parent " ><span class="menu"><span class="menu-title">Aspirantes</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 200px;"><div class="megacol col1 first" style="width: 200px;"><ul class="sp-menu level-1"><li class="menu-item active first"><a href="/index.php/es/aspirantes-846/pregrado" class="menu-item active first" ><span class="menu"><span class="menu-title">Pregrado</span></span></a></li><li class="menu-item"><a href="/index.php/es/aspirantes-846/maestria-en-ingenieria-mecanica" class="menu-item" ><span class="menu"><span class="menu-title">Maestría en Ingeniería Mecánica</span></span></a></li><li class="menu-item"><a href="https://masterpetroleos.uniandes.edu.co/" target="_blank" class="menu-item" ><span class="menu"><span class="menu-title">Maestría en Ingeniería de Petróleos</span></span></a></li><li class="menu-item last"><a href="https://doctoradoeningenieria.uniandes.edu.co/index.php/admision" target="_blank" class="menu-item last" ><span class="menu"><span class="menu-title">Doctorado</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="#" class="menu-item parent " ><span class="menu"><span class="menu-title">Estudiantes</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 200px;"><div class="megacol col1 first" style="width: 200px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/es/programas-666/aspirantes" class="menu-item first" ><span class="menu"><span class="menu-title">Pregrado</span></span></a></li><li class="menu-item"><a href="/index.php/es/programas-666/maestria" class="menu-item" ><span class="menu"><span class="menu-title">Maestría en Ingeniería Mecánica</span></span></a></li><li class="menu-item"><a href="https://masterpetroleos.uniandes.edu.co/" target="_blank" class="menu-item" ><span class="menu"><span class="menu-title">Maestría en Ingeniería de Petróleos</span></span></a></li><li class="menu-item last"><a href="https://doctoradoeningenieria.uniandes.edu.co/" target="_blank" class="menu-item last" ><span class="menu"><span class="menu-title">Doctorado</span></span></a></li></ul></div></div></div></div></li><li class="menu-item parent "><a href="#" class="menu-item parent " ><span class="menu"><span class="menu-title">Investigación</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 200px;"><div class="megacol col1 first" style="width: 200px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/es/investigacion/grupos" class="menu-item first" ><span class="menu"><span class="menu-title">Grupos de Investigación</span></span></a></li><li class="menu-item"><a href="/index.php/es/investigacion/proyectos-de-investigacion" class="menu-item" ><span class="menu"><span class="menu-title">Proyectos de Investigación</span></span></a></li><li class="menu-item last"><a href="https://mecanica.uniandes.edu.co/index.php/nuestraspublicaciones" class="menu-item last" ><span class="menu"><span class="menu-title">Publicaciones</span></span></a></li></ul></div></div></div></div></li><li class="menu-item"><a href="/index.php/es/menulaboratorios" class="menu-item" ><span class="menu"><span class="menu-title">Laboratorios</span></span></a></li><li class="menu-item parent "><a href="/index.php/es/recurso-humano" class="menu-item parent " ><span class="menu"><span class="menu-title">Nuestra Gente</span></span></a><div class="sp-submenu"><div class="sp-submenu-wrap"><div class="sp-submenu-inner clearfix" style="width: 200px;"><div class="megacol col1 first" style="width: 200px;"><ul class="sp-menu level-1"><li class="menu-item first"><a href="/index.php/es/recurso-humano/personal-administrativo" class="menu-item first" ><span class="menu"><span class="menu-title">Personal Administrativo</span></span></a></li><li class="menu-item"><a href="/index.php/es/recurso-humano/profesoresrh" class="menu-item" ><span class="menu"><span class="menu-title">Profesores</span></span></a></li><li class="menu-item last"><a href="/index.php/es/recurso-humano/personal-de-laboratorios" class="menu-item last" ><span class="menu"><span class="menu-title">Personal de Laboratorios</span></span></a></li></ul></div></div></div></div></li><li class="menu-item"><a href="/index.php/es/egresado" class="menu-item" ><span class="menu"><span class="menu-title">Egresados</span></span></a></li><li class="menu-item"><a href="/index.php/es/noticias" class="menu-item" ><span class="menu"><span class="menu-title">Actualidad</span></span></a></li><li class="menu-item last"><a href="/index.php/es/prueba-intranet" class="menu-item last" ><span class="menu"><span class="menu-title">Intranet</span></span></a></li></ul>        
+			</div>  				
+			</div>
+</div></section></div>
+</div></div></header><section id="sp-main-body-wrapper" 
+                class=" "><div class="container"><div class="row-fluid" id="main-body">
+<aside id="sp-left" class="span3">
+
+<div class="custombox-grey icon-statistics"  >
+	<p><img src="/images/banners/NEW_BANNERS/IDENTIFICADORES/ASPIRANTES4.jpg" alt="ASPIRANTES4" /><span style="font-family: arial, helvetica, sans-serif;"><strong><span style="font-size: 8pt;">&nbsp;<br /></span></strong></span></p>
+<p class="tituloSeccion" style="text-align: left;"><em><span style="font-size: 10pt;">Conozca nuestro departamento</span></em></p></div>
+<ul class="nav ">
+<li class="item-1078"><a href="/index.php/es/por-que-estudiar-ingenieria-mecanica-en-la-universidad-de-los-andes" >Ingeniería Mecánica en Uniandes</a></li><li class="item-1079"><a href="/index.php/es/nuestras-instalaciones" >Nuestro Departamento</a></li><li class="item-1080"><a href="/index.php/es/matriculas-y-apoyo-financiero" >Inscripciones y Matrículas</a></li><li class="item-1227"><a href="/index.php/es/informacion-programa-aspirantes" >Información del programa</a></li></ul>
+</aside>
+
+<div id="sp-message-area" class="span6"><section id="sp--wrapper" 
+                class=" "><div class="row-fluid" id="">
+<div id="sp-migapan" class="span12"><div class="module ">	
+	<div class="mod-wrapper clearfix">		
+				<div class="mod-content clearfix">	
+			<div class="mod-inner clearfix">
+				
+<ul class="breadcrumb ">
+<li class="active"><span class="divider"><i class="icon-map-marker hasTooltip" title="Está aquí: "></i></span></li><li><a href="/index.php/es/" class="pathway">Inicio</a><span class="divider">/</span></li><li><a href="#" class="pathway">Aspirantes</a></li><li><span class="divider">/</span><span>Pregrado</span></li></ul>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="gap"></div>
+</div>
+</div></section><section id="sp--wrapper" 
+                class=" "><div class="row-fluid" id="">
+<div id="sp-component-area" class="span12"><section id="sp-component-wrapper"><div id="sp-component"><div id="system-message-container">
+	</div>
+
+<article class="item-page post-561 post hentry status-publish category-programas ">
+ 
+	 
+	 
+			
+	
+		
+	<div class="entry-meta muted clearfix">
+						
+			
+				
+							
+							<time class="publish-date" datetime="2014-08-15 18:33:02" pubdate="pubdate">
+				Publicado: Viernes, 15 Agosto 2014 18:33			</time>
+			
+				
+								
+					
+				
+				 		
+			</div>
+		
+	<section class="entry-content"> 
+																					<p><a href="/index.php/aspirantes-846" target="_self"><img src="/images/banners/NEW_BANNERS/HEADERS-2015/ASPIRANTES.png" alt="ASPIRANTES" /></a></p>
+<p class="p1" style="text-align: center;">&nbsp;</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MoGao2EewnE?ecver=1" frameborder="0" allowfullscreen></iframe>
+<p>
+<p class="p1" style="text-align: center;"><span></span><span style="color: #0073a3; font-family: helvetica; font-size: 12pt;"><strong><em>¿Quiere ser un profesional experimentado, innovador y versátil preparado para impactar positivamente al país?<br /><br /></em></strong></span></p>
+<p class="p1"><span style="font-size: 14pt;"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="/images/ASPIRANTES/Conviertase-ing.png" alt="Conviertase-ing" /></strong></span></p>
+<p class="p1">&nbsp;</p>
+<p class="p1" style="text-align: left;">&nbsp;<span style="font-family: Calibri, sans-serif; font-size: 10pt;"><span style="color: #049cdb; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.4444446563721px; line-height: 20px; text-align: start;">---------------------------------------------------------------------------------------------</span></span></p>
+<p style="margin-left: 0cm; text-align: left;"><span style="font-size: 12pt;"><strong style="color: #005580; font-size: 18.88888931274414px; text-align: left;"><span style="line-height: 115%;"><span style="background-color: #0073a3;">&nbsp;<span style="background-color: #ffffff;">&nbsp;</span></span></span></strong></span><span style="font-family: Calibri, sans-serif;"><strong style="font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 19px; text-align: start;">¿QUÉ SIGNIFICA SER UN INGENIERO MECÁNICO UNIANDINO?</strong></span></p>
+<!--[if gte mso 9]><xml>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<p class="p1"><span style="font-size: 10pt;">Los ingenieros mecánicos Uniandinos son líderes emprendedores, tienen un perfil único y versátil, durante su pregrado participan en proyectos interdisciplinares generando nuevos conocimientos y entrenan su creatividad llegando a soluciones innovadoras que en un futuro transformarán positivamente a las personas, empresas, comunidades, el medio ambiente y finalmente al país.</span></p>
+<p class="p1"><span style="font-size: 10pt;">El ingeniero Mecánico se ocupa del diseño, análisis y construcción de productos, sistemas, máquinas, procesos, entre otras; con base en la aplicación de la física y la transformación de los materiales. Los Ingenieros Mecánicos son de vital importancia en el desarrollo de la sociedad y contribuyen en la mayoría de las realizaciones del campo tecnológico, a través de la investigación y su aplicación de conocimientos en áreas tales como la creación de maquinaria industrial, sistemas de refrigeración, robótica, elementos automotrices, sistemas biomédicos, sistemas aeroespaciales, entre muchas otras.</span></p>
+<p class="MsoNormal" style="text-align: justify;"><span style="font-size: 10pt;"><span style="font-family: Calibri; font-size: 8pt;"></span></span><!--EndFragment--></p>
+<p style="text-align: justify;"><span style="font-family: Calibri, sans-serif; font-size: 10pt;"><span style="color: #049cdb; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.4444446563721px; line-height: 20px; text-align: start;">-----------------------------------------------------------------------------------------------</span></span></p>
+<p class="p1"><span style="font-size: 10pt;"><span style="font-size: 12pt;"><strong style="color: #005580; font-size: 18.88888931274414px; text-align: left;"><span style="line-height: 115%;"><span style="background-color: #0073a3;">&nbsp;<span style="background-color: #ffffff;">&nbsp;</span></span></span></strong></span><span style="font-size: 14pt;"><strong><span class="s2">¿</span>POR QUÉ LOS ESTUDIANTES ELIGEN INGENIERÍA MECÁNICA EN LOS ANDES?</strong></span></span></p>
+<p class="p1" style="text-align: justify;"><span style="font-size: 10pt;"><img style="margin-right: 5px; margin-bottom: 3px; float: left;" src="/images/ASPIRANTES/scouting_foto.png" alt="scouting foto" />En el Departamento de Ingeniería Mecánica usted no solo desarrollará todas las habilidades propias de un ingeniero mecánico, usted estará en capacidad de resolver, liderar, proponer y crear proyectos de ingeniería tan grande como se los proponga.</span></p>
+<p class="p1" style="text-align: justify;">&nbsp;</p>
+<p class="p1" style="text-align: justify;"><span style="font-size: 10pt;">Nuestro programa de <a href="/index.php/programas-666/aspirantes">pregrado</a> está diseñado de una forma única y versátil, usted estará en la capacidad de elegir un campo de profundización según sus intereses y habilidades a medida que avanza en su carrera de pregrado; así mismo podrá tomar cursos de maestría mientras aún está en pregrado.</span></p>
+<p class="p1" style="text-align: justify;"><span style="font-size: 10pt;">La educación Uniandina es integral en cada uno de los aspectos necesarios para la formación de un profesional que impactará positivamente al país, garantiza un perfil proactivo, con grandes habilidades de autoaprendizaje, consciente de las necesidades de la comunidad y con un compromiso con el mejoramiento continuo de la sociedad. <a href="/images/PROGRAMAS/PREGRADO/pensum/Pensum_Pregrado_IMEC_2016.pdf"><strong>Descargue el pensum de la carrera.</strong></a><br /></span></p>
+<p style="text-align: justify;"><span style="font-family: Calibri, sans-serif; font-size: 10pt;"><span style="color: #049cdb; font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; font-size: 14.4444446563721px; line-height: 20px; text-align: start;">-----------------------------------------------------------------------------------------------</span></span></p>
+<p class="p1" style="text-align: left;"><span style="font-size: 10pt;"><span style="font-size: 12pt;"><strong style="color: #005580; font-size: 18.88888931274414px; text-align: left;"><span style="line-height: 115%;"><span style="background-color: #0073a3;">&nbsp;<span style="background-color: #ffffff;"></span></span></span></strong></span><span style="font-size: 14pt;"><strong>&nbsp;ESTO ES INGENIERÍA MECÁNICA</strong></span></span></p>
+<p class="p1" style="text-align: center;"><span style="font-size: 10pt;"><span style="font-size: 14pt;"></span></span>
+<!-- JPlayer Plugin (start) -->
+<div class="jplayer">
+<div class="jplayer-box">
+<object type="application/x-shockwave-flash" width="400" height="300" data="https://mecanica.uniandes.edu.co/plugins/content/jplayer/mediaplayer/player-4-3-132.swf">
+	<param name="movie" value="https://mecanica.uniandes.edu.co/plugins/content/jplayer/mediaplayer/player-4-3-132.swf" />
+	<param name="quality" value="high" />
+	<param name="wmode" value="transparent" />
+	<param name="bgcolor" value="#FFFFFF" />
+	<param name="autoplay" value="false" />
+	<param name="allowfullscreen" value="true" />
+	<param name="allowscriptaccess" value="always" />
+	<param name="flashvars" value="file=https://mecanica.uniandes.edu.co/images/videos/ESTO-ES-MEC.flv&amp;image=https://mecanica.uniandes.edu.co/images/videos/ESTO-ES-MEC.png&amp;autostart=false&amp;fullscreen=true" />
+</object>
+</div>
+<div class="jplayer-text">
+</div>
+</div>
+<!-- JPlayer Plugin (end) -->
+&nbsp;</p>
+<p class="p1" style="text-align: center;">&nbsp;</p>
+<p class="p1"><strong><span class="s3"><img style="margin-right: 5px; vertical-align: middle;" src="/images/Botones/NEW_BUTTONS/iconos/botones-sitio-mecanica.jpg" alt="botones-sitio-mecanica" />&nbsp;</span></strong>Si usted es aspirante a&nbsp;nuestro programa de maestría haga clic <a href="/index.php/programas-666/maestria" target="_self">aquí</a></p>
+<p class="p1" style="text-align: left;">&nbsp;<span style="font-size: 10pt;"><strong><br /></strong></span></p> 								
+					
+				
+				
+								
+		
+															
+		
+    </footer>
+</article></div></section></div>
+</div></section></div>
+
+<aside id="sp-right" class="span3 rightPos"><div class="module ">	
+	<div class="mod-wrapper clearfix">		
+				<div class="mod-content clearfix">	
+			<div class="mod-inner clearfix">
+				
+
+<div class="custom"  >
+	<p>&nbsp;</p>
+<table style="height: 101px; width: 259px;">
+<tbody>
+<tr>
+<td style="background-color: #004072;" colspan="2">&nbsp; <span style="color: #ffffff; font-size: 12pt;">ENLACES DE INTERÉS</span></td>
+</tr>
+<tr>
+<td colspan="2"><a href="https://www.linkedin.com/edu/school?id=188107&amp;trk=edu-up-nav-menu-home" target="_blank"><img onmouseover="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/LINKED1.jpg';" onmouseout="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/LINKED2.jpg';" src="/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/LINKED2.jpg" alt="LINKED2" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="https://www.facebook.com/ingmecanicauniandes/?ref=aymt_homepage_panel" target="_blank"><img onmouseover="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/facebook1.jpg';" onmouseout="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/facebook2.jpg';" src="/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/facebook2.jpg" alt="facebook2" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="http://asme-uniandes.wix.com/asme-uniandes" target="_blank"><img onmouseover="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/asme1.jpg';" onmouseout="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/asme2.jpg';" src="/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/asme2.jpg" alt="asme2" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="https://vth.uniandes.edu.co/" target="_blank"><img onmouseover="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/VTH1.jpg';" onmouseout="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/VTH2.jpg';" src="/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/VTH2.jpg" alt="VTH2" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="http://robocol.uniandes.edu.co/" target="_blank"><img onmouseover="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/robocol1.jpg';" onmouseout="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/robocol2.jpg';" src="/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/robocol2.jpg" alt="robocol2" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="https://pua.uniandes.edu.co/doku.php/" target="_blank"><img onmouseover="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/PUA2.jpg';" onmouseout="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/PUA1.jpg';" src="/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/PUA1.jpg" alt="consejo2" /></a></td>
+</tr>
+<tr>
+<td colspan="2"><a href="https://ceu.uniandes.edu.co/" target="_blank"><img onmouseover="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/consejo1.jpg';" onmouseout="this.src='/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/consejo2.jpg';" src="/images/Botones/NEW_BUTTONS/ENLACES_INTERES/ENLACES2015/253px/consejo2.jpg" alt="consejo2" /></a></td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: left;"><span style="color: #0378a9; background-color: #ffffff;">&nbsp;---------------------------------------------</span></p></div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="gap"></div>
+</aside>
+</div></div></section><footer id="sp-footer-wrapper" 
+                class=" "><div class="container"><div class="row-fluid" id="footer">
+<div id="sp-footer1" class="span8">
+
+<div class="custom"  >
+	<p style="text-align: justify;"><span style="font-size: 8pt;"><strong>Universidad de los Andes |</strong> Vigilada MinEducación. Reconocimiento como Universidad Decreto 1297 del 30 de mayo de 1964.&nbsp;<br />Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.&nbsp;<br />Edificio Mario Laserna Cra 1 Este&nbsp; No.&nbsp;19A - 40 Bogotá (Colombia) |&nbsp;Correo electrónico:&nbsp;<span style="outline-width: initial; outline-color: initial;"><span style="text-decoration: underline;"><a href="mailto:ingmecanica@uniandes.edu.co">ingmecanica@uniandes.edu.co</a></span></span>&nbsp;<br />Teléfonos: [571] 3394949 -&nbsp;Secretaría General ext. 1753 - Secretaría Académica ext. 2900 - Laboratorios ext. 1720. <br /><strong style="font-size: 8pt;">Departamento de Ingeniería Mecánica - Todos los derechos reservados - 2017</strong></span></p></div>
+<a href="http://www.joomshaper.com" title="joomshaper.com"></a></div>
+
+<div id="sp-footer2" class="span4">
+
+<div class="custom"  >
+	<p style="text-align: right;"><span style="font-family: verdana, geneva; color: #ffffff; font-size: 10pt;">Síguenos en:<br /></span><br /><a href="https://www.facebook.com/ingmecanicauniandes" target="_blank"><img src="/images/Redes_Sociales/Iconos_Redes_Sociales-01.png" alt="Iconos Redes Sociales-01" width="48" height="44" /></a><a href="https://www.linkedin.com/edu/school?id=188107&amp;trk=edu-up-nav-menu-home" target="_blank"><img src="/images/Redes_Sociales/Iconos_Redes_Sociales-02.png" alt="Iconos Redes Sociales-02" width="45" height="41" /></a><a href="https://www.youtube.com/channel/UCp5nRCCysKITy_Z-QLL9jHQ/videos" target="_blank"><img src="/images/Redes_Sociales/Iconos_Redes_Sociales-03.png" alt="Iconos Redes Sociales-03" width="47" height="43" /></a>&nbsp;</p></div>
+</div>
+</div></div></footer>        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-62897625-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        </script>
+        	
+
+		<a class="hidden-desktop btn btn-inverse sp-main-menu-toggler" href="#" data-toggle="collapse" data-target=".nav-collapse">
+			<i class="icon-align-justify"></i>
+		</a>
+
+		<div class="hidden-desktop sp-mobile-menu nav-collapse collapse">
+			<ul class=""><li class="menu-item first"><a href="https://mecanica.uniandes.edu.co/" class="menu-item first" ><span class="menu"><span class="menu-title">Inicio</span></span></a></li><li class="menu-item active parent"><a href="#" class="menu-item active parent" ><span class="menu"><span class="menu-title">Aspirantes</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-846"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-846"><li class="menu-item active first"><a href="/index.php/es/aspirantes-846/pregrado" class="menu-item active first" ><span class="menu"><span class="menu-title">Pregrado</span></span></a></li><li class="menu-item"><a href="/index.php/es/aspirantes-846/maestria-en-ingenieria-mecanica" class="menu-item" ><span class="menu"><span class="menu-title">Maestría en Ingeniería Mecánica</span></span></a></li><li class="menu-item"><a href="https://masterpetroleos.uniandes.edu.co/" target="_blank" class="menu-item" ><span class="menu"><span class="menu-title">Maestría en Ingeniería de Petróleos</span></span></a></li><li class="menu-item last"><a href="https://doctoradoeningenieria.uniandes.edu.co/index.php/admision" target="_blank" class="menu-item last" ><span class="menu"><span class="menu-title">Doctorado</span></span></a></li></ul></li><li class="menu-item parent"><a href="#" class="menu-item parent" ><span class="menu"><span class="menu-title">Estudiantes</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-666"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-666"><li class="menu-item first"><a href="/index.php/es/programas-666/aspirantes" class="menu-item first" ><span class="menu"><span class="menu-title">Pregrado</span></span></a></li><li class="menu-item"><a href="/index.php/es/programas-666/maestria" class="menu-item" ><span class="menu"><span class="menu-title">Maestría en Ingeniería Mecánica</span></span></a></li><li class="menu-item"><a href="https://masterpetroleos.uniandes.edu.co/" target="_blank" class="menu-item" ><span class="menu"><span class="menu-title">Maestría en Ingeniería de Petróleos</span></span></a></li><li class="menu-item last"><a href="https://doctoradoeningenieria.uniandes.edu.co/" target="_blank" class="menu-item last" ><span class="menu"><span class="menu-title">Doctorado</span></span></a></li></ul></li><li class="menu-item parent"><a href="#" class="menu-item parent" ><span class="menu"><span class="menu-title">Investigación</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-998"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-998"><li class="menu-item first"><a href="/index.php/es/investigacion/grupos" class="menu-item first" ><span class="menu"><span class="menu-title">Grupos de Investigación</span></span></a></li><li class="menu-item"><a href="/index.php/es/investigacion/proyectos-de-investigacion" class="menu-item" ><span class="menu"><span class="menu-title">Proyectos de Investigación</span></span></a></li><li class="menu-item last"><a href="https://mecanica.uniandes.edu.co/index.php/nuestraspublicaciones" class="menu-item last" ><span class="menu"><span class="menu-title">Publicaciones</span></span></a></li></ul></li><li class="menu-item"><a href="/index.php/es/menulaboratorios" class="menu-item" ><span class="menu"><span class="menu-title">Laboratorios</span></span></a></li><li class="menu-item parent"><a href="/index.php/es/recurso-humano" class="menu-item parent" ><span class="menu"><span class="menu-title">Nuestra Gente</span></span></a><span class="sp-menu-toggler collapsed" data-toggle="collapse" data-target=".collapse-1001"><i class="icon-angle-right"></i><i class="icon-angle-down"></i></span><ul class="collapse collapse-1001"><li class="menu-item first"><a href="/index.php/es/recurso-humano/personal-administrativo" class="menu-item first" ><span class="menu"><span class="menu-title">Personal Administrativo</span></span></a></li><li class="menu-item"><a href="/index.php/es/recurso-humano/profesoresrh" class="menu-item" ><span class="menu"><span class="menu-title">Profesores</span></span></a></li><li class="menu-item last"><a href="/index.php/es/recurso-humano/personal-de-laboratorios" class="menu-item last" ><span class="menu"><span class="menu-title">Personal de Laboratorios</span></span></a></li></ul></li><li class="menu-item"><a href="/index.php/es/egresado" class="menu-item" ><span class="menu"><span class="menu-title">Egresados</span></span></a></li><li class="menu-item"><a href="/index.php/es/noticias" class="menu-item" ><span class="menu"><span class="menu-title">Actualidad</span></span></a></li><li class="menu-item last"><a href="/index.php/es/prueba-intranet" class="menu-item last" ><span class="menu"><span class="menu-title">Intranet</span></span></a></li></ul>   
+		</div>
+		        
+		</div>
+    </body>
+</html>

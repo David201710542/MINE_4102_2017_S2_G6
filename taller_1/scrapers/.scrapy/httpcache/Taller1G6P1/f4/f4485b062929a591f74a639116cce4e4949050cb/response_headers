@@ -1,0 +1,38 @@
+Location: https://login.microsoftonline.com/common/oauth2/authorize?client_id=00000002-0000-0ff1-ce00-000000000000&redirect_uri=https%3a%2f%2foutlook.office365.com%2fowa%2f&resource=00000002-0000-0ff1-ce00-000000000000&response_mode=form_post&response_type=code+id_token&scope=openid&msafed=0&client-request-id=728aedc5-0924-4b5d-af73-a7520c8a1ec0&protectedtoken=true&domain_hint=uniandes.edu.co&nonce=636405052823967499.b76cb76f-afe1-40ee-8126-f75bdddcc100&state=DctLDoUgDEBR0GW4BrAgFBkY14K0JCZ-kvdi3L4dnDu7WinVi05okKiEEwaIEP3sp4wp5Gy3hFU0Uxo7E4DZzM6jaSluRFSrA9DyDuP9lnH9cTnO5bn2chH_LdNj6_0B
+Server: Microsoft-IIS/8.5
+Request-Id: 728aedc5-0924-4b5d-af73-a7520c8a1ec0
+X-Calculatedfetarget: VI1PR09CU002.internal.outlook.com
+X-Backendhttpstatus: 302
+X-Backendhttpstatus: 302
+P3P: CP="ALL IND DSP COR ADM CONo CUR CUSo IVAo IVDo PSA PSD TAI TELo OUR SAMo CNT COM INT NAV ONL PHY PRE PUR UNI"
+Set-Cookie: ClientId=C4230934CE4747FBB36D93C0BDD52FC3; expires=Sat, 08-Sep-2018 22:08:02 GMT; path=/; secure
+Set-Cookie: ClientId=C4230934CE4747FBB36D93C0BDD52FC3; expires=Sat, 08-Sep-2018 22:08:02 GMT; path=/; secure
+Set-Cookie: OIDC=1; expires=Thu, 08-Mar-2018 22:08:02 GMT; path=/; secure; HttpOnly
+Set-Cookie: domainName=uniandes.edu.co; path=/; secure; HttpOnly
+Set-Cookie: OpenIdConnect.token.v1=; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OpenIdConnect.token.v1=; domain=outlook.office365.com; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OpenIdConnect.id_token.v1=; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OpenIdConnect.code.v1=; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OpenIdConnect.idp_nonce.v1=; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OpenIdConnect.id_token.v1=; domain=outlook.office365.com; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OpenIdConnect.code.v1=; domain=outlook.office365.com; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OpenIdConnect.idp_nonce.v1=; domain=outlook.office365.com; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OpenIdConnect.nonce.v3.DHFG3iK9Ls2GM8pBTNO2q6SUmH6WSBqyeLj22OLq250=636405052823967499.b76cb76f-afe1-40ee-8126-f75bdddcc100; path=/; secure; HttpOnly
+Set-Cookie: HostSwitchPrg=; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: OptInPrg=; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+Set-Cookie: SuiteServiceProxyKey=; expires=Tue, 08-Sep-1987 22:08:02 GMT; path=/; secure
+X-Feproxyinfo: VI1PR09CA0059.EURPRD09.PROD.OUTLOOK.COM
+X-Calculatedbetarget: DB5PR09MB0277.eurprd09.prod.outlook.com
+X-Content-Type-Options: nosniff
+X-Owa-Diagnosticsinfo: 2;0;0
+X-Backend-Begin: 2017-09-08T22:08:02.396
+X-Backend-End: 2017-09-08T22:08:02.396
+X-Diaginfo: DB5PR09MB0277
+X-Beserver: DB5PR09MB0277
+X-Ua-Compatible: IE=EmulateIE7
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Feserver: VI1PR09CA0059
+X-Feserver: DB6PR0902CA0016
+X-Powered-By: ASP.NET
+Date: Fri, 08 Sep 2017 22:08:01 GMT

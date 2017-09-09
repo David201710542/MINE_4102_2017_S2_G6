@@ -1,0 +1,111 @@
+<html>
+<head>
+<title>::CICLO BASICO UNIANDINO::</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="./templates/small.css" type="text/css">
+
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" link="#666633" vlink="#666666" alink="#666666">
+<table width="751" border="0" cellpadding="0" cellspacing="0">
+  <tr> 
+    <td colspan="3" height="85" valign="top"> 
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td width="150" height="50" valign="top"><a href="http://www.uniandes.edu.co"><img src="images/cbu_01.gif" width="150" height="50" border="0"></a></td>
+          <td width="150" valign="top"><img src="images/cbu_02.gif" width="150" height="50"></td>
+          <td width="150" valign="top"><a href="https://registro.uniandes.edu.co"><img src="images/cbu_03.gif" width="150" height="50" border="0"></a></td>
+          <td width="150" valign="top"><a href="index.php"><img src="images/cbu_04.gif" width="150" height="50" border="0"></a></td>
+          <td width="150" valign="top"><img src="images/cbu_05.gif" width="150" height="50"></td>
+        </tr>
+        <tr> 
+          <td colspan="5" height="23" valign="top"><img src="images/cbu_06.gif" width="750" height="35" usemap="#Map" border="0"></td>
+        </tr>
+      </table>
+      <map name="Map">
+  	<area shape="rect" coords="420,18,476,32" href="cbu_con.php">
+	<area shape="rect" coords="483,18,548,32" href="cbu_com.php">
+  	<area shape="rect" coords="555,18,665,32" href="cbu_pre.php">
+  	<area shape="rect" coords="672,18,747,32" href="cbu_map.php">
+      </map>
+
+    </td>
+    <td width="1"></td>
+  </tr>
+  <tr> 
+    <td width="150" valign="top" rowspan="2"> 
+      <table width="150" border="0" cellpadding="0" cellspacing="0" height="100%">
+        <tr> 
+          <td width="10" height="120" valign="top" bgcolor="D3D312">&nbsp;</td>
+          <td width="140" valign="top" bgcolor="D3D312" height="120"><font size="2" face="Arial, Helvetica, sans-serif" color="#333333"><a href="cbu_inf.php"><br>
+            Ciclo B&aacute;sico Uniandino</a><br>
+            <a href="cbu_cur.php">Cursos</a><br>
+		&nbsp;<a href="cbu_result.php?tipoc=A">/Tipo A</a><br>
+		&nbsp;<a href="cbu_result.php?tipoc=B">/Tipo B</a><br>
+            &nbsp;<a href="cbu_con_avan.php">/Busqueda Avanzada</a><br>
+            <a href="cbu_hist.php">Historico CBU</a><br>
+            <a href="cbu_reg.php">Reglamentaci&oacute;n</a><br>
+            <a href="cbu_val.php">Homologaci&oacute;n Asignaturas</a></font></td>
+        </tr>
+
+        <tr> 
+          <td height="18" colspan="2" valign="top"><img src="./images/cbu_09.gif" width="150" height="18"></td>
+        </tr>
+      </table>
+    </td>
+
+    <td width="20" valign="top" rowspan="3"><font color="#FFFFFF">...</font></td>
+    <td valign="top" width="580" height="20"> 
+      <div align="right"></div>
+    </td>
+    <td></td>
+  </tr>
+  <tr> 
+    <td valign="top" rowspan="2"> 
+      <p><font face="Arial, Helvetica, sans-serif" size="2"><b><font size="3" color="#CCCC00"> 
+        </font><font size="3" color="#666666">&iquest;QU&Eacute; ES CBU?</font></b></font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="2">Como conjunto de cursos 
+        que constituye uno de los fundamentos de la educaci&oacute;n uniandina, 
+        el CBU parte del principio de que toda persona educada ha tenido al menos 
+        un m&iacute;nimo contacto acad&eacute;mico con &aacute;reas b&aacute;sicas 
+        del conocimiento como son la de <b>Artes y Humanidades</b>, <b>Ciencias 
+        Sociales</b> y <b>Ciencia y Tecnolog&iacute;a</b>. </font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="2">Los <a href="cbu_cur.php">cursos</a> 
+        que conforman el CBU han sido dise&ntilde;ados especialmente para estudiantes 
+        de todas las carreras que inician su educaci&oacute;n universitaria y 
+        ofrecen elementos educativos distintos a los de la formaci&oacute;n b&aacute;sica 
+        y profesional de cada carrera. El trabajo que en ellos se realiza incluye 
+        la lectura, an&aacute;lisis y apreciaci&oacute;n de fuentes primarias, 
+        la referencia a recursos bibliogr&aacute;ficos, el est&iacute;mulo a la 
+        discusi&oacute;n cr&iacute;tica y la elaboraci&oacute;n de ensayos por 
+        parte de los estudiantes. </font></p>
+      <p><font face="Arial, Helvetica, sans-serif" size="2">El curr&iacute;culo 
+        del CBU incluye tres &aacute;reas del conocimiento (Artes y Humanidades, 
+        Ciencias Sociales y Ciencia y Tecnolog&iacute;a), y los cursos que lo 
+        conforman est&aacute;n divididos en dos categor&iacute;as: los <a href="./cbu_result.php?tipoc=A">cursos 
+        Tipo A</a> y los <a href="./cbu_result.php?tipoc=B">cursos Tipo B</a>.</font></p>
+    </td>
+    <td height="118"></td>
+  </tr>
+  <tr> 
+    <td height="174" valign="top">
+      <table width="100%" border="0" cellpadding="0" cellspacing="0">
+        <tr> 
+          <td width="150" height="174" valign="top">
+            <p><a href="cbu_com.php"><img src="images/com_01.gif" width="148" height="100" border="0"></a></p>
+            <p align="center"><!-- <a href="http://web2.uniandes.edu.co/~cle/"><img src="images/cle.gif" width="130" height="50" border="0"></a> --></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td></td>
+  </tr>
+</table>
+<map name="Map">
+  <area shape="rect" coords="420,18,476,32" href="cbu_con.php">
+  <area shape="rect" coords="483,18,548,32" href="cbu_com.php">
+  <area shape="rect" coords="555,18,665,32" href="cbu_pre.php">
+  <area shape="rect" coords="672,18,747,32" href="cbu_map.php">
+</map>
+</body>
+</html>

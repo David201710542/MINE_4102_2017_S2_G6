@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr" >
+  <!-- bibliotecasp2  -->
+  <head>
+            <meta http-equiv="X-UA-Compatible" content="IE=8" /> 
+      
+	      <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>Sistema de Bibliotecas - Español</title>
+  <link href="/index.php?format=feed&amp;type=rss&amp;lang=es" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom&amp;lang=es" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/bibliotecasp2/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link href="https://biblioteca.uniandes.edu.co/index.php?option=com_search&amp;format=opensearch&amp;lang=es" rel="search" title="Buscar Sistema de Bibliotecas" type="application/opensearchdescription+xml" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="https://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/styles/gk_financial_business/style.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="https://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/styles/gk_financial_business/engine.js" type="text/javascript"></script>
+  <script src="https://biblioteca.uniandes.edu.co/modules/mod_ua_redes_sociales/js/script.js" type="text/javascript"></script>
+  <script src="https://biblioteca.uniandes.edu.co/templates/UniAndes/javascript/script.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($$('a.modal'), {
+				parse: 'rel'
+			});
+		});try {$Gavick;}catch(e){$Gavick = {};};$Gavick["gkIs-gk-is-99"] = { "anim_speed": 600, "anim_interval": 8000, "autoanim": 1, "anim_type": "opacity","slide_links": 1 };function keepAlive() {	var myAjax = new Request({method: "get", url: "index.php"}).send();} window.addEvent("domready", function(){ keepAlive.periodical(3540000); });
+  </script>
+  <script type="text/javascript">
+/* BEGIN AG Google Analytics Plugin v.1.0.8 */
+var _gaq = _gaq || []; 
+ _gaq.push(['_setAccount', 'UA-33650237-1']); 
+ _gaq.push(['_setCustomVar', 1, 'user_ip', '157.253.237.13', 1]); 
+ _gaq.push(['_trackPageview']); 
+ (function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+
+                      })(); 
+/* END AG Google Analytics Plugin v.1.0.8 */
+/* ========== www.gordejev.lv =========== */
+</script>
+  <meta property="og:image" content="http://"/>
+  <link rel="image_src" href="http://" />
+
+	<!-- incorpora las etiquetas predefinidas para el head -->
+              <!-- Las siguientes son lineas para el framework CSS BluePrint -->
+    <!-- The following five lines load the Blueprint CSS Framework (http://blueprintcss.org). If you don't want to use this framework, delete these lines. -->
+    <link rel="stylesheet" href="/templates/bibliotecasp2/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+    <link rel="stylesheet" href="/templates/bibliotecasp2/css/blueprint/print.css" type="text/css" media="print" />
+                <!-- The following line loads the template CSS file located in the template folder. -->
+                <link rel="stylesheet" href="/templates/bibliotecasp2/css/template.css" type="text/css" />
+        
+                <link rel="stylesheet" href="/templates/bibliotecasp2/css/contenidos.css" type="text/css" />
+                <link rel="stylesheet" href="/templates/bibliotecasp2/css/skin.css" type="text/css"  />
+                <link rel="stylesheet" href="/templates/bibliotecasp2/css/ie.css" type="text/css" media="screen, projection">
+                <!--[if IE 8]>
+                <link rel="stylesheet" href="/templates/bibliotecasp2/css/ie8.css" type="text/css" />
+                <![endif]-->
+                   <!--[if IE 9]>
+                <link rel="stylesheet" href="/templates/bibliotecasp2/css/ie9.css" type="text/css" />
+                <![endif]-->
+                   
+                <script type="text/javascript" src="/templates/bibliotecasp2/js/jquery.js"></script>
+        
+        <script type="text/javascript" src="/templates/bibliotecasp2/js/jquery.jscrollpane.min.js"></script>
+        <link rel="stylesheet" href="/templates/bibliotecasp2/css/jquery.jscrollpane.css" type="text/css" />
+                                <script type="text/javascript" src="/templates/bibliotecasp2/js/jquery.mousewheel.js"></script>
+                                <script type="text/javascript" src="/templates/bibliotecasp2/js/jquery.mousewheel.min.js"></script>
+                <script type="text/javascript" src="/templates/bibliotecasp2/js/jquery.jcarousel.min.js"></script>
+        <script type="text/javascript" src="/templates/bibliotecasp2/js/jquery.placeholder.js"></script>
+        <script type="text/javascript" src="/templates/bibliotecasp2/js/template.js"></script>
+        <script type="text/javascript" src="/templates/bibliotecasp2/js/jPaginate.js"></script>
+        
+        
+        
+                <script type="text/javascript">
+          jQuery.noConflict();
+                    jQuery(document).ready(function() {
+                        jQuery('#mycarousel').jcarousel();
+                                    jQuery('.item119').remove();
+                                });
+                </script>
+                  <script type="text/javascript">
+
+              // var _gaq = _gaq || [];
+              // _gaq.push(['_setAccount', 'UA-33650237-1']);
+              // _gaq.push(['_setCustomVar', 1, 'user_ip', '157.253.237.13', 1 ]);
+              // _gaq.push(['_setCustomVar', 2, "joomla_user", "Invitado", 1 ]);
+              // _gaq.push(['_trackPageview']);
+
+              // (function() {
+              // var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+              // ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+              // var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+              // })();
+
+        </script>
+                
+        <style>
+        .tabla_dpe th{
+          -moz-border-radius: 10px 10px 0 0 !important;
+          -webkit-border-radius: 10px 10px 0 0 !important;
+          border-radius: 10px 10px 0 0 !important;
+          behavior: url(http://bibliotecaspr.uniandes.edu.co/templates/bibliotecas/css/pie/PIE.htc);
+        }
+    
+    <script type="text/javascript">
+
+// Add a script element as a child of the body
+    function downloadJSAtOnload() {
+    var element = document.createElement("script");
+    element.src = "deferredfunctions.js";
+    document.body.appendChild(element);
+    }
+
+    // Check for browser support of event handling capability
+    if (window.addEventListener)
+    window.addEventListener("load", downloadJSAtOnload, false);
+    else if (window.attachEvent)
+    window.attachEvent("onload", downloadJSAtOnload);
+    else window.onload = downloadJSAtOnload;
+
+</script>
+      </style>
+        
+  </head>
+  <body>
+    <div id="all">
+            <div id="central1" class="container">
+                <div class="container">
+                    <!-- comienzo cabecer -->
+                    <div id="cabecera" class="span-24">
+                                    <div id="inicio1" class="span-5">
+              		<div class="moduletable">
+					<div class="dgcontent">
+				<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item107"><a href="/index.php?option=com_xmap&amp;view=html&amp;id=1&amp;Itemid=107&amp;lang=es" >Mapa del Sitio</a></li><li class="item108"><a class="contacto" href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=108&amp;lang=es" title="contacto" >Contáctenos</a></li></ul>
+			</div>			
+		</div>
+	
+            </div>
+                                    <div id="inicio2" class="span-13">
+              		<div class="moduletable_redes_sociales">
+					<div class="dgcontent">
+				<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item104"><a class="Vimeo" href="http://vimeo.com/user22657857 " target="_blank" title="Vimeo" ><img src="images/vimeo.png" alt="Vimeo" /></a></li><li class="item105"><a class="twitter" href="https://twitter.com/Uniandesbiblio " target="_blank" title="Twitter" ><img src="images/twitter.png" alt="Twitter" /></a></li><li class="item106"><a class="facebook" href="https://www.facebook.com/pages/Biblioteca-Uniandes/250051698485664?fref=ts" target="_blank" title="Facebook" ><img src="images/faceb.png" alt="Facebook" /></a></li></ul>
+			</div>			
+		</div>
+	
+            </div>
+                                    <div id="usuario" class="span-6 last">
+              		<div class="moduletable">
+					<div class="dgcontent">
+				<span id="para_ingreso">Ingreso de usuarios</span>
+<script>
+	jQuery(document).ready(function (){		
+		jQuery("#para_ingreso").bind("click",function(){	
+		//jQuery(this).css("display","none");
+			jQuery("#form_login").fadeToggle();
+		})
+	})
+	
+	// jQuery(document).ready(function(){
+    // jQuery('#form-login').on('submit', function(e){
+        // e.preventDefault();
+        // var username = jQuery('#modlgn_username').val();
+        // var password = jQuery('#modlgn_passwd').val();
+		// var url      = 'http://ezproxypr.uniandes.edu.co:8080';
+		// jQuery.ajax({
+		  // type: "POST",
+		  // url: url,
+		  // data:{user: username, pass : password},
+			// crossDomain: true,
+			// success: function() { alert("Success"); },
+			// error: function() { alert('Failed!'); },
+			// xhrFields: { withCredentials: true }
+			
+		// });
+		// // jQuery('#form-login').submit();
+    // });
+// });
+</script>
+<div id="boton_login" title="Iniciar Sesi&oacute;n"></div>
+<div id="form_login">
+	<form action="/index.php?option=com_ua_servicios&amp;lang=es" method="post" id="form-login" >
+				<!--<p id="form-login-username">-->
+			
+			<input id="modlgn_username" type="text" name="username" class="inputbox"  size="18" placeholder="Usuario"/>
+		<!--</p>
+		<p id="form-login-password">-->
+			
+			<input id="modlgn_passwd" type="password" name="password" class="inputbox" size="18"  placeholder="Contrase&ntilde;a"  />
+			<small><a href="https://cuenta.uniandes.edu.co/" target="_blank">¿Olvido su contraseña?</a></small><br />
+		<!--</p>-->
+		<!--		<p id="form-login-remember">
+			<label for="modlgn_remember">Recordarme</label>
+			<input id="modlgn_remember" type="checkbox" name="remember" class="inputbox" value="yes"/>
+		</p>
+		-->
+		<span id="para_cancelar"> Cancelar </span>
+		<input type="submit" id="bt_login" name="Submit" class="button" value="Entrar >" />
+		<input type="hidden" name="option" value="com_ua_servicios" />
+		<input type="hidden" name="task" value="validaAudiencia" />
+		<input type="hidden" name="return" value="aW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWZlYXR1cmVkJkl0ZW1pZD0yNjc=" />
+				<input type="hidden" name="20dbdde284540af251ef6302612dc4c9" value="1" />		<!--<ul>
+			<li>
+				<a href="/index.php?option=com_users&amp;view=reset&amp;lang=es">
+				¿Olvido su contraseña?</a>
+			</li>
+			<li>
+				<a href="/index.php?option=com_users&amp;view=remind&amp;lang=es">
+				¿Olvido su usuario?</a>
+			</li>
+						<li>
+				<a href="/index.php?option=com_users&amp;view=registration&amp;lang=es">
+					Crear una cuenta</a>
+			</li>
+					</ul>-->
+			</form>
+</div>
+			</div>			
+		</div>
+	
+            </div>
+                                </div>
+                    <!-- fin cabecera -->
+                </div>
+                   </div>
+           <div id="central2" class="container">
+                   <div id="ua-banner-flotante" style="margin-top: 220px; z-index: 5;">
+             		<div class="moduletable">
+					<div class="dgcontent">
+				<style>
+    .twitter{
+        /*background: url("http://mashable.com/wp-content/themes/v7/img/external/blue_twitter_bird.png") no-repeat scroll -2px center, -moz-linear-gradient(#F6FAFD, #DBECF2) repeat scroll 0 0 transparent;*/
+        border-color: #C8E2EB;
+        color: #3E8399 !important;
+        text-shadow: -1px 1px white;
+		/*margin-top: 60px;*/
+    }
+	/*#frm_fb{
+		position: absolute;
+		margin-left: 3px;
+	}*/
+</style>
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	// setTimeout("cambio_url()",1000);
+	jQuery("#frm_fb").bind("mouseenter",function(){
+		jQuery(this).css({"width":"450px","height":"300px"});
+	});
+	jQuery("#frm_fb").bind("mouseout",function(){
+		jQuery(this).css({"width":"70px","height":"60px"});
+	});
+});
+</script>
+<div id="redes_sociales">
+	    <div id="fb-root"></div>	
+	<div class="fb-like" data-href="https://biblioteca.uniandes.edu.co///index.php?lang=es" data-send="false" data-layout="box_count" data-width="58" data-show-faces="true"></div>
+	<!--iframe id="frm_fb" style="width: 70px; height: 60px;" src="http://www.facebook.com/plugins/like.php?api_key=154426421321384&locale=es_ES&sdk=joey&channel_url=http%3A%2F%2Fstatic.ak.facebook.com%2Fconnect%2Fxd_arbiter.php%3Fversion%3D18%23cb%3Df3838bf228%26origin%3Df1d47d320c%26domain%3D%26relation%3Dparent.parent&href=&node_type=link&width=58&layout=box_count&colorscheme=light&show_faces=false&send=false&extended_social_context=false" frameborder="0"></iframe-->
+        <div id="spacer"></div>
+        <a href="https://twitter.com/share" class="twitter-share-button twitter" data-url="https://biblioteca.uniandes.edu.co///index.php?lang=es" data-counturl="https://biblioteca.uniandes.edu.co///index.php?lang=es" data-lang="en" data-count="vertical">Tweet</a>
+        <div id="spacer"></div>
+        <!-- Coloca esta etiqueta donde quieras que se muestre el botón +1. -->
+    <g:plusone size="tall" href="https://biblioteca.uniandes.edu.co///index.php?lang=es"></g:plusone>
+        <div id="spacer"></div>
+    </div>
+
+<script type="text/javascript">
+jQuery(document).ready(function(){
+	setTimeout("cambio_url()",1000);
+});
+
+function replaceAll( txt, busca, reemplaza ){
+  var text=txt;
+  while (text.toString().indexOf(busca) != -1)
+      text = text.toString().replace(busca,reemplaza);
+  return text;
+}
+
+function cambio_url(){
+	url_fb = jQuery("#redes_sociales .fb-like iframe").attr("src");
+	url_fb = replaceAll(url_fb, "%25","%");
+	jQuery("#redes_sociales .fb-like iframe").attr("src",url_fb);
+}
+</script>			</div>			
+		</div>
+	
+          </div>
+                        <div class="container">
+                    <!-- inicio contenidos -->
+                    <div id="header" class="span-24">
+                      <hr class="space" />
+                        <div id="titulo1" class="span-5">
+                            <a href="HTTP://www.uniandes.edu.co" target="_blank"><img src="/templates/bibliotecas/images/logo-uniandes.png" /></a>
+                        </div>
+                        <div id="titulo2" class="span-6">
+                            <a href="https://biblioteca.uniandes.edu.co/"><img src="/templates/bibliotecas/images/Titulo2.png" /></a>
+                        </div>
+                                <div id="menu_superior" class="span-13 last">
+              <!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav" id="menu_superior">
+<li class="item273"><a href="/index.php?option=com_content&amp;view=featured&amp;Itemid=273&amp;lang=es" >Inicio</a></li><li class="item132"><a class="menu_superior" href="/index.php?option=com_content&amp;view=article&amp;id=56&amp;Itemid=132&amp;lang=es" title="Acerca de la Biblioteca" >Sistema de Bibliotecas</a></li><li class="item133"><a class="menu_superior" href="/index.php?option=com_ua_servicios&amp;view=servicio&amp;id=1&amp;Itemid=133&amp;lang=es" title="Servicios en linea" >Servicios</a></li><li class="item134"><a class="menu_superior" href="/index.php?option=com_content&amp;view=article&amp;id=59&amp;Itemid=134&amp;lang=es" title="Recursos Electrónicos" >Recursos Electrónicos</a></li></ul>
+
+        </div>
+        
+                    </div>    
+                    <div id="cuerpo" class="span-24">
+                                    				<div id="bibliotecas-descubridor" class="span-24">
+	        				<div class="moduletablebusqueda_central">
+					<div class="dgcontent">
+				
+<div class="searchbusqueda_central" id="buscadorint">
+	 <br>	
+<!-- JAVSCRRIPTS PROPIOS DE LA CAJA DE BÚSQUEDA: -->
+<script>
+jQuery.noConflict();
+
+function wcdboxtype(e){
+	jQuery(".wcd_option").each(function() {
+		jQuery(this).removeClass();
+		if (jQuery(this).attr('id') == e){
+			jQuery("#"+e).addClass('wcd_option wcd_menu_on');
+		} else {
+			jQuery(this).addClass('wcd_option wcd_menu_off');
+		}
+	});
+	setTimeout(function(){ 
+		var seltab = jQuery("input[name='wcd_radio_tab']:checked").val();
+		if (seltab == "revistas"){
+			jQuery("#wcd_opt_kw").attr('checked', 'checked');
+			jQuery("#wcd_opt_au").attr('disabled', 'disabled');
+			jQuery("#wcd_opt_au_label").attr('style', 'color: #ddd;');
+		} else {
+			jQuery("#wcd_opt_au").removeAttr( "disabled" );
+			jQuery("#wcd_opt_au_label").attr('style', 'color: auto;');
+		}
+	}, 222);
+	
+}
+
+function construir_query(){
+	var tab = ""; 
+	var opt = ""; 
+	var words = "";
+	tab = jQuery("input[name='wcd_radio_tab']:checked").val();
+	opt = jQuery("input[name='wcd_radio_opt']:checked").val();
+	words = jQuery("input[id='wcd_query']").val();
+	words = words.trim(); 
+	words = words.replace(/\s+/g, ' '); 
+	subformato = "";
+	switch(tab){
+		case "todo":
+			words = opt + ":" + words;
+			break;
+		case "libros":
+			words = opt + ":" + words + " AND x0:book";
+			subformato = "Book::book_printbook";
+			break;
+		case "ebooks":
+			words = opt + ":" + words + " AND x0:book + x4:digital";
+			break;
+		case "articulos":
+			words = opt + ":" + words + " AND x0:artchap";
+			break;
+		case "videos":
+			words = opt + ":" + words + " AND x0:video";
+			break;
+		case "tesis":
+			words = opt + ":" + words + " AND mt:deg";
+			break;
+		case "revistas":
+			words = opt + ":" + words + " AND x0:jrnl";
+			break;
+	}
+	if (words != "" && tab != "" && opt != ""){
+		jQuery('#wcd_queryString').val(words);
+		jQuery('#wcd_subformat').val(subformato);
+		document.wcd_consultor.submit();
+	}
+	return false;
+}
+</script> 
+<div id="para_lupa"></div>
+<!-- INICIO DE LA CAJA DE BÚSQUEDA -->
+<div id="guidedFieldSelectors">
+	<input value="todo"      id="wcd_radio_tab-todo"      name="wcd_radio_tab" class="wcd_radio_tab_class" type="radio" checked="checked">
+	<label name="todo" for="wcd_radio_tab-todo" id="wcd_radio_tab_label-todo" onclick="javascript:wcdboxtype(this.id)" class="wcd_option wcd_menu_on">Todo</label>
+	<input value="libros"    id="wcd_radio_tab-libros"    name="wcd_radio_tab" class="wcd_radio_tab_class" type="radio">
+	<label for="wcd_radio_tab-libros" id="wcd_radio_tab_label-libros" onclick="javascript:wcdboxtype(this.id)" class="wcd_option wcd_menu_off">Libros</label>
+	<input value="ebooks"    id="wcd_radio_tab-ebooks"    name="wcd_radio_tab" class="wcd_radio_tab_class" type="radio">
+	<label for="wcd_radio_tab-ebooks" id="wcd_radio_tab_label-ebooks" onclick="javascript:wcdboxtype(this.id)" class="wcd_option wcd_menu_off">E-Books</label>
+	<input value="articulos" id="wcd_radio_tab-articulos" name="wcd_radio_tab" class="wcd_radio_tab_class" type="radio">
+	<label for="wcd_radio_tab-articulos" id="wcd_radio_tab_label-articulos" onclick="javascript:wcdboxtype(this.id)" class="wcd_option wcd_menu_off">Artículos</label>
+	<input value="videos"    id="wcd_radio_tab-videos"    name="wcd_radio_tab" class="wcd_radio_tab_class" type="radio">
+	<label for="wcd_radio_tab-videos" id="wcd_radio_tab_label-videos" onclick="javascript:wcdboxtype(this.id)" class="wcd_option wcd_menu_off">Videos</label>
+	<input value="tesis"     id="wcd_radio_tab-tesis"     name="wcd_radio_tab" class="wcd_radio_tab_class" type="radio">
+	<label for="wcd_radio_tab-tesis" id="wcd_radio_tab_label-tesis" onclick="javascript:wcdboxtype(this.id)" class="wcd_option wcd_menu_off">Tesis</label>
+	<input value="revistas"  id="wcd_radio_tab-revistas"  name="wcd_radio_tab" class="wcd_radio_tab_class" type="radio">
+	<label for="wcd_radio_tab-revistas" id="wcd_radio_tab_label-revistas" onclick="javascript:wcdboxtype(this.id)" class="wcd_option wcd_menu_off">Revistas</label>
+</div>
+<form name="wcd_constructor" onsubmit="return construir_query()">
+<div style="position:relative; top: 0px; z-index: 1111" id="searchBoxWrapper">
+<input placeholder="Escriba los términos de su búsqueda." values="Buscar..." onblurs="if (this.value=='') this.value='Buscar...';" onfocuss="if (this.value=='Buscar...') this.value='';" style="font-size: 12pt; font-family: 'Roboto',Helvetica,Arial,SANS-SERIF;" id="wcd_query" type="search" value="" xdata-autocomplete-source="/ajax/searchsuggest" xdata-autocomplete-query="term" xdata-action="autocomplete" xdata-stat-page-section="Header" xdata-stat-name="Primary Search Box" name="queryString" class="" required="" autocomplete="off">
+<input id="wcd_query_bot" type="submit" value=" " />
+
+	<div style="text-align: left; paddinsg-left: 20px; margin-top: 12px;">
+	<input id="wcd_opt_kw"  value="kw" class="wcd_option_opt" type="radio" name="wcd_radio_opt" checked="checked">
+	<label for="wcd_opt_kw" class="wcd_option_opt_label">Palabra clave</label>&nbsp;&nbsp;
+	<input id="wcd_opt_ti"  value="ti" class="wcd_option_opt" type="radio" name="wcd_radio_opt" >
+	<label for="wcd_opt_ti" class="wcd_option_opt_label">Título</label>&nbsp;&nbsp;
+	<input id="wcd_opt_au"  value="au" class="wcd_option_opt" type="radio" name="wcd_radio_opt" >
+	<label id="wcd_opt_au_label" for="wcd_opt_au" class="wcd_option_opt_label">Autor</label>
+	
+	</div>
+	<a href="https://univdelosandes.on.worldcat.org/advancedsearch" target="_blank" style="color: #444;position:relative; float: right; top: -25px; right: 10px; font-size: 10pt; font-family: 'Roboto',Helvetica,Arial,SANS-SERIF;" class="wcd_option_opt"><u>Búsqueda avanzada</u></a>
+</div>
+</form>
+<form target="_blank" name="wcd_consultor" action="https://univdelosandes.on.worldcat.org/search" method="GET">
+<input id="wcd_queryString" name="queryString" type="hidden" value="" />
+<input id="wcd_subformat" name="subformat" type="hidden" value="" />
+</form>
+<!-- FIN DE LA CAJA DE BÚSQUEDA -->
+
+ <!--fin sistema integrado búsquedas-->
+		<input type="hidden" name="task" value="search" />
+		<input type="hidden" name="option" value="com_search" />
+		<input type="hidden" name="Itemid" value="267" />
+	</div>
+</form>
+			</div>			
+		</div>
+	
+				</div>
+										<div id="destacado_superior" class="span-24">
+	        				<div class="moduletabledestacado_superior">
+					<div class="dgcontent">
+				
+<div id="gkIs-gk-is-99" class="gkIsWrapper-gk_financial_business">
+	<div class="gkIsPreloader"></div>
+	
+	<div class="gkIsImage" style="height: 350px;">
+													
+				<div class="gkIsSlide" style="z-index: 1;" title="Más información aquí">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.facder12gk-is-99.png<a href="index.php?option=com_content&view=article&id=428:examenfacdere2017-2&catid=29&Itemid=399&lang=es">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 2;" title="Más información aquí">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.cineseptgk-is-99.png<a href="index.php?option=com_content&view=article&id=425&lang=es">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 3;" title="Más información aquí">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.ms partiturasgk-is-99.png<a href="index.php?option=com_content&view=article&id=419&Itemid=273&lang=es">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 4;" title="Mejoramos para ti">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.saigk-is-99.png<a href="index.php?option=com_content&view=article&id=415&Itemid=1&lang=es">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 5;" title="Nuevo Descubridor">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.wcdgk-is-99.png<a href="https://univdelosandes.on.worldcat.org">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 6;" title="Apoyamos Quiero Estudiar">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.amazonsmile2gk-is-99.png<a href="index.php?option=com_content&view=article&id=348">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 7;" title="Acceso aquí">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.pub-uniandesgk-is-99.png<a href="index.php?option=com_content&view=article&id=349&lang=es">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 8;" title="Las mejores bases de datos aquí">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.bdgk-is-99.png<a href="index.php?option=com_content&view=article&id=59&Itemid=134&lang=es">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 9;" title="Disponible desde 1968 hasta 1992">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.gaceta2gk-is-99.png<a href="https://gacetadelcongreso.uniandes.edu.co/">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 10;" title="Más información aquí">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.plagiogk-is-99.jpg<a href="http://player.vimeo.com/video/114553329">link</a></div>
+																
+				<div class="gkIsSlide" style="z-index: 11;" title="Biblioteca General &quot;Ramón de Zubiría&quot;">http://biblioteca.uniandes.edu.co/modules/mod_image_show_gk4/cache/Slides.bg2014gk-is-99.png<a href="/index.php?option=com_content&view=article&id=178&lang=es">link</a></div>
+							
+	</div>
+	
+	<div class="gkIsText">
+		<div class="gkIsTextTitle"></div>
+		
+				<div class="gkIsTextInterface">
+						<span>0</span>
+						<span>1</span>
+						<span>2</span>
+						<span>3</span>
+						<span>4</span>
+						<span>5</span>
+						<span>6</span>
+						<span>7</span>
+						<span>8</span>
+						<span>9</span>
+						<span>10</span>
+					</div>
+				
+		<div class="gkIsTimeline">
+			<div class="gkIsProgress">Progress bar</div>
+		</div>
+	</div>
+	
+		
+	<div class="gkIsTextData">
+								
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="index.php?option=com_content&view=article&id=428:examenfacdere2017-2&catid=29&Itemid=399&lang=es" > Más información aquí</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="index.php?option=com_content&view=article&id=425&lang=es" > Más información aquí</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="index.php?option=com_content&view=article&id=419&Itemid=273&lang=es" > Más información aquí</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="index.php?option=com_content&view=article&id=415&Itemid=1&lang=es" > Mejoramos para ti</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="https://univdelosandes.on.worldcat.org" > Nuevo Descubridor</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="index.php?option=com_content&view=article&id=348" > Apoyamos Quiero Estudiar</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="index.php?option=com_content&view=article&id=349&lang=es" > Acceso aquí</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="index.php?option=com_content&view=article&id=59&Itemid=134&lang=es" > Las mejores bases de datos aquí</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="https://gacetadelcongreso.uniandes.edu.co/" > Disponible desde 1968 hasta 1992</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent"></span><a href="http://player.vimeo.com/video/114553329" > Más información aquí</a>
+			</div>
+											
+						<div class="gkIsTextItem">
+				<span class= "gkIsTextItemcontent">Biblioteca General "Ramón de Zubiría"</span><a href="/index.php?option=com_content&view=article&id=178&lang=es" > Biblioteca General &quot;Ramón de Zubiría&quot;</a>
+			</div>
+						</div>
+</div>			</div>			
+		</div>
+	
+				</div>
+			                                                        <div id="menu-auditorios" class="span-24 last">
+                                		<div class="moduletable">
+					<div class="dgcontent">
+				<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-navitem" id="menuauditorios">
+<li class="item110"><a class="linkestudiantes" href="/index.php?option=com_ua_servicios&amp;amp;view=servicio&amp;amp;aud=Estudiantes&amp;amp;Itemid=110&amp;amp;lang=es" title="Estudiantes" >Estudiantes</a></li><li class="item111"><a class="linkprofesores" href="/index.php?option=com_ua_servicios&amp;amp;view=servicio&amp;amp;aud=Profesores&amp;amp;Itemid=111&amp;amp;lang=es" title="Profesores" >Profesores</a></li><li class="item112"><a class="linkempleados" href="/index.php?option=com_ua_servicios&amp;amp;view=servicio&amp;amp;aud=Empleados&amp;amp;Itemid=112&amp;amp;lang=es" title="Empleados" >Empleados</a></li><li class="item113"><a class="egresados" href="/index.php?option=com_ua_servicios&amp;amp;view=servicio&amp;amp;aud=Egresados&amp;amp;Itemid=113&amp;amp;lang=es" title="Egresados" >Egresados</a></li></ul>
+			</div>			
+		</div>
+	
+                                </div>
+                        			<div id="modulos_inferiores" class="container">
+                                                        <div id="caja_central1" class="span-16">
+	        				<div class="moduletablecaja_central1">
+					<div class="dgcontent">
+				
+<ul class="newsflash-horizcaja_central1">
+	<li>
+	<a class="ea_newflash" href="/index.php?option=com_content&amp;view=article&amp;id=428:examenfacdere2017-2&amp;catid=29&amp;Itemid=399&amp;lang=es">
+	<h3 class="newsflash-titlecaja_central1">
+			EXAMEN DE FACULTAD		</h3>
+
+
+
+
+<p><img class="imgnoticia" src="images/noticias/facdertab2.png" alt="" /></p>
+<p>El Sistema de Bibliotecas pone a disposición el material bibliográfico seleccionado para la investigación y preparación del examen de facultad.</p>
+<hr />
+<a class="readmore" href="/index.php?option=com_content&amp;view=article&amp;id=428:examenfacdere2017-2&amp;catid=29&amp;Itemid=399&amp;lang=es">Leer más</a></a>
+	<span class="article-separator">&#160;</span>
+
+		</li>
+	<li>
+	<a class="ea_newflash" href="/index.php?option=com_content&amp;view=article&amp;id=425:cineteca&amp;catid=29&amp;Itemid=399&amp;lang=es">
+	<h3 class="newsflash-titlecaja_central1">
+			Cineteca Septiembre		</h3>
+
+
+
+
+<p><img class="imgnoticia" src="images/noticias/cinenotsep.png" alt="renovacion" width="291" height="108" /></p>
+<p>Consulte la programación de las películas que estarán disponibles del 04 al 09 de septiembre, en la Cineteca ubicada en el piso 4. de la Biblioteca General "Ramón de Zubiría".</p>
+<hr />
+<a class="readmore" href="/index.php?option=com_content&amp;view=article&amp;id=425:cineteca&amp;catid=29&amp;Itemid=399&amp;lang=es">Leer más</a></a>
+	<span class="article-separator">&#160;</span>
+
+		</li>
+</ul>
+			</div>			
+		</div>
+	
+				</div>
+			                        <div id="centrales" class="span-8 last">
+                            							                                <div id="menu_central_inf">
+                                <!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item346"><a href=" http://webcat.uniandes.edu.co/uhtbin/webcat" target="_blank" >Catálogo Publico</a></li><li class="item345"><a href="http://webcat.uniandes.edu.co/uhtbin/cgisirsi/GENERAL/1/0/1/311/X" target="_blank" >Nuevas Adquisiciones</a></li><li class="item356"><a href="https://univdelosandes.on.worldcat.org/atoztitles" >Revistas AtoZ</a></li><li class="item117"><a class="menu_central_inf2" href="/index.php?option=com_ua_ubiquenos&amp;view=mapa&amp;Itemid=117&amp;lang=es" title="Recorrido virtual" >RecorridoVirtual</a></li><li class="item115"><a class="menu_central_inf3" href="/index.php?option=com_content&amp;view=article&amp;id=12&amp;Itemid=115&amp;lang=es" title="Boletin de Novedades" >Boletín de Novedades</a></li><li class="item351"><a href="/index.php?option=com_content&amp;view=article&amp;id=220&amp;Itemid=351&amp;lang=es" >Horario de Atención</a></li><li class="item352"><a href="https://biblioteca.uniandes.edu.co/Servicios/SalasDisponibles" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;" title="Disponibilidad Salas de Estudio" >Disponibilidad Salas de Estudio</a></li><li class="item116"><a class="menu_central_inf5" href="/index.php?option=com_content&amp;amp;view=article&amp;amp;id=10&amp;amp;Itemid=116&amp;amp;lang=es" title="Preguntas Frecuentes" >Preguntas Frecuentes</a></li><li class="item357"><a href="/index.php?option=com_content&amp;view=article&amp;id=303&amp;Itemid=357&amp;lang=es" >Tutoriales</a></li><li class="item460"><a href="https://biblioteca.uniandes.edu.co/index.php?option=com_content&amp;view=article&amp;id=414&amp;Itemid=459&amp;lang=es " >Servicios de Investigación</a></li><li class="item461"><a href="https://biblioteca.uniandes.edu.co/index.php?option=com_content&amp;view=article&amp;id=413&amp;Itemid=458&amp;lang=es " >Servicios de Aprendizaje</a></li></ul>
+
+                                </div>
+                                              </div>	   
+			</div>
+                                                        <div id="slideshow_central" class="span-16">
+                                		<div class="moduletable">
+					<div class="dgcontent">
+				<div class=" jcarousel-skin-tango">
+    <div style="clear:both;">
+        <div class="jcarousel-container" style="position: relative; display: block;">
+            <div class=" jcarousel-clip">
+                                <ul id="mycarousel" class="jcarousel-list" style="width:1545px">
+                                                                                <li id="1 " class="jcarousel-item jcarousel-item-1" jcarouselindex="1">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=1">
+                                                        <img border="0" src="images/categoriasEnlaces/administracion.gif" /><br />
+                                                        <label>Administración</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="2 " class="jcarousel-item jcarousel-item-2" jcarouselindex="2">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=20">
+                                                        <img border="0" src="images/categoriasEnlaces/arquitectura.gif" /><br />
+                                                        <label>Arquitectura y Diseño</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="3 " class="jcarousel-item jcarousel-item-3" jcarouselindex="3">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=19">
+                                                        <img border="0" src="images/categoriasEnlaces/arte.gif" /><br />
+                                                        <label>Artes</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="4 " class="jcarousel-item jcarousel-item-4" jcarouselindex="4">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=7">
+                                                        <img border="0" src="images/categoriasEnlaces/biologia.gif" /><br />
+                                                        <label>Ciencias naturales</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="5 " class="jcarousel-item jcarousel-item-5" jcarouselindex="5">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=3">
+                                                        <img border="0" src="images/categoriasEnlaces/cienciassoci.gif" /><br />
+                                                        <label>Ciencias sociales</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="6 " class="jcarousel-item jcarousel-item-6" jcarouselindex="6">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=5">
+                                                        <img border="0" src="images/categoriasEnlaces/derecho.gif" /><br />
+                                                        <label>Derecho</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="7 " class="jcarousel-item jcarousel-item-7" jcarouselindex="7">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=4">
+                                                        <img border="0" src="images/categoriasEnlaces/economia.gif" /><br />
+                                                        <label>Economía</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="8 " class="jcarousel-item jcarousel-item-8" jcarouselindex="8">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=6">
+                                                        <img border="0" src="images/categoriasEnlaces/educacion.gif" /><br />
+                                                        <label>Educación</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="9 " class="jcarousel-item jcarousel-item-9" jcarouselindex="9">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=8">
+                                                        <img border="0" src="images/categoriasEnlaces/fisica.gif" /><br />
+                                                        <label>Física y Química</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="10 " class="jcarousel-item jcarousel-item-10" jcarouselindex="10">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=22">
+                                                        <img border="0" src="images/categoriasEnlaces/geografia his.gif" /><br />
+                                                        <label>Geografía e Historia</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="11 " class="jcarousel-item jcarousel-item-11" jcarouselindex="11">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=18">
+                                                        <img border="0" src="images/categoriasEnlaces/ingenieria.gif" /><br />
+                                                        <label>Ingeniería</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="12 " class="jcarousel-item jcarousel-item-12" jcarouselindex="12">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=21">
+                                                        <img border="0" src="images/categoriasEnlaces/literatura.gif" /><br />
+                                                        <label>Literatura</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="13 " class="jcarousel-item jcarousel-item-13" jcarouselindex="13">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=9">
+                                                        <img border="0" src="images/categoriasEnlaces/matema.gif" /><br />
+                                                        <label>Matemáticas </label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="14 " class="jcarousel-item jcarousel-item-14" jcarouselindex="14">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=10">
+                                                        <img border="0" src="images/categoriasEnlaces/medicina.gif" /><br />
+                                                        <label>Medicina</label>
+                                                    </a>
+                                                </li>
+                                                                        <li id="15 " class="jcarousel-item jcarousel-item-15" jcarouselindex="15">
+                                                    <a target="_self" border="0" href="index.php?option=com_ua_enlaces&id=2">
+                                                        <img border="0" src="images/categoriasEnlaces/psicologia.gif" /><br />
+                                                        <label>Psicología</label>
+                                                    </a>
+                                                </li>
+                                        </ul>
+            </div>
+            <div class="jcarousel-prev"  ></div>
+            <div class="jcarousel-next"></div>
+        </div>
+    </div>
+</div>			</div>			
+		</div>
+	
+                                </div>
+                                                                        <hr class="space" />
+                        <hr class="space" /> 
+                    <!-- fin contenidos -->                    </div>
+                    <!-- fin contenidos -->
+                </div>
+            </div>
+            <div id="central3" class="container">
+                <div class="container">
+                    <!-- inicio footer -->
+                    <div id="footer" class="span-24">
+													<div id="menu_inferior1" class="span-16">
+										<div>
+					<h3>&Aacute;reas</h3>
+				<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-navmenu_inferior1" id="menu_inferior1">
+<li class="item122"><a class="menu_inferior" href="/index.php?option=com_content&amp;view=article&amp;id=213&amp;Itemid=122&amp;lang=es" title="Dirección" >Dirección</a></li><li class="item121"><a class="menu_inferior" href="/index.php?option=com_content&amp;view=article&amp;id=95&amp;Itemid=121&amp;lang=es" title="Administrativa" >Administrativa</a></li><li class="item123"><a class="menu_inferior" href="/index.php?option=com_content&amp;view=article&amp;id=94&amp;Itemid=123&amp;lang=es" title="Servicios" >Servicios</a></li></ul>
+		</div>
+	
+										<div>
+					<h3>Servicios</h3>
+				<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-navmenu_inferior1" id="menu_inferior1">
+<li class="item126"><a class="menu_inferior" href="http://webcat.uniandes.edu.co/uhtbin/cgisirsi/0/GENERAL/0/64/SOLRESERVA" target="_blank" title="Apartar Material Prestado" >Apartar Material Prestado</a></li><li class="item127"><a class="menu_inferior" href="/index.php?option=com_ua_gpsbibliografico&amp;amp;Itemid=127&amp;amp;lang=es" title="GPS Bibliográfico" >GPS Bibliográfico</a></li></ul>
+		</div>
+	
+										<div>
+					<h3>Informaci&oacute;n de inter&eacute;s</h3>
+				<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-navmenu_inferior1" id="menu_inferior1">
+<li class="item129"><a class="menu_inferior" href="/index.php?option=com_content&amp;view=article&amp;id=101&amp;Itemid=129&amp;lang=es" title="Enlaces Uniandes" >Enlaces Uniandes</a></li><li class="item130"><a class="menu_inferior" href="/index.php?option=com_xmap&amp;view=html&amp;id=1&amp;Itemid=130&amp;lang=es" title="Mapa del sitio" >Mapa del Sitio</a></li><li class="item462"><a href="/index.php?option=com_wrapper&amp;view=wrapper&amp;Itemid=462&amp;lang=es" >Contáctenos</a></li><li class="item350"><a href="/index.php?option=com_content&amp;view=article&amp;id=220&amp;Itemid=350&amp;lang=es" >Horario de Atención</a></li></ul>
+		</div>
+	
+							</div>
+																			<div id="resumen_inferior" class="span-8 last">
+										<div>
+					<h3>Sistema de Bibliotecas</h3>
+				<h3></h3>
+<p>Cra 1ra Este N 19A - 40, Bogotá, Colombia</p>
+<p>Tel. (571) 3324473 Fax (571) 3324472</p>
+<p>PBX 3394949 Ext 3322</p>		</div>
+	
+								<p>Copyright 2017</p>
+							</div>
+						                    </div>
+					 <div id="footerinferior" class="span-24">	
+									<div>
+				<p style="margin-top: 10px; text-align: center;"><span style="color: #e5e5e5; font-size: 9pt;">Universidad de los Andes | Vigilada Mineducación<br />Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br />Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.</span></p>		</div>
+	
+					  </div>
+                    <!-- fin footer -->
+                </div>  
+             </div>
+    </div>
+  </body>
+</html>

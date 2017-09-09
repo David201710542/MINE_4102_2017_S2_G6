@@ -1,0 +1,766 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" >
+<head>
+	<meta content="IE=9" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="shortcut icon" href="/templates/modern-business/favicon.ico" type="image/x-icon" />	
+	  <base href="https://derecho.uniandes.edu.co/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Derecho, Facultad de Derecho, derecho, facultad de derecho, universidad de los andes, Universidad de los Andes, uniandes, Uniandes, jurisprudencia, ley, leyes, decretos, justicia,cortes, enseñanza, enseñanza juridica, conocimiento juridico, concursos internacionales, programa socrates, paiis, gdip, cijus, CIJUS, PAIIS, GDIP, ciro angarita, Ciro Angarita, Consultorio Juridico, consultorio juridico, law, school law, abogado, abogados, abogada, abogadas, sentencias, sentencia, penal, procesal, internacional, familia, civil, privado, publico, constitucion, constitucional, administrativo, teoria juridica, GECTI, gecti, tics, penalista, laboral, Cifuentes, cifuentes, Cesar Rodriguez, cesar Rodriguez, pregrado derecho, pregrado Derecho, especializaciones derecho, doctorado derecho, maestria derecho, Escuela de Posgrados, escuela de posgrados, relatores tematicos, relatorias, carceles, juzgados, altas cortes, oficinas de abogados, posgrado derecho, Andes, andes, Los Andes, los andes, Eduardo Cifuentes, magistrado, investigacion, investigaciones, grupos de investigaciones, biblioteca juridica, publicaciones, asesores, asesor, jueces, juez, justicia y paz, eventos derecho, congresos, conversatorios, tertulias tributarias, seminarios" />
+  <meta name="description" content="Joomla! - el motor de portales din�micos y sistema de administraci�n de contenidos" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>INICIO</title>
+  <link href="/templates/modern-business/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1010" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1010" type="text/css" />
+  <link rel="stylesheet" href="https://derecho.uniandes.edu.co/components/com_jc_adminhome/assets/css/adminhome.css" type="text/css" />
+  <link rel="stylesheet" href="/components/com_jevents/views/ext/assets/css/modstyle.css" type="text/css" />
+  <link rel="stylesheet" href="https://derecho.uniandes.edu.co/modules/mod_banner_rotator/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="https://derecho.uniandes.edu.co/modules/mod_bootstrap_slider/assets/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_rokajaxsearch/themes/light/rokajaxsearch-theme.css" type="text/css" />
+  <script type="text/javascript" src="/plugins/system/jcemediabox/js/mediaobject.js?v=1010"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/js/jcemediabox.js?v=1010"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/addons/default.js?v=1010"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/addons/twitter.js?v=1010"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="/modules/mod_rokajaxsearch/js/rokajaxsearch.js"></script>
+  <script type="text/javascript" src="https://derecho.uniandes.edu.co/templates/facultaddederecho/javascript/jquery-1.5.1.min.js"></script>
+  <script type="text/javascript" src="https://derecho.uniandes.edu.co/modules/mod_ua_redes_sociales/js/script.js"></script>
+  <script type="text/javascript">
+	JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:680,height:390,legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'JCEMEDIABOX_CLOSE','next':'JCEMEDIABOX_NEXT','previous':'JCEMEDIABOX_PREVIOUS','cancel':'JCEMEDIABOX_CANCEL','numbers':'JCEMEDIABOX_NUMBERS'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"tc",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.swf').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});window.addEvent((window.webkit) ? 'load' : 'domready', function() {
+				window.rokajaxsearch = new RokAjaxSearch({
+					'results': ' Results',
+					'close': '',
+					'websearch': 1,
+					'blogsearch': 0,
+					'imagesearch': 0,
+					'videosearch': 0,
+					'imagesize': 'MEDIUM',
+					'safesearch': 'MODERATE',
+					'search': ' Search...',
+					'readmore': ' Read more...',
+					'noresults': ' No results',
+					'advsearch': ' Advanced search',
+					'page': ' Page',
+					'page_of': ' of',
+					'searchlink': 'https://derecho.uniandes.edu.co/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'https://derecho.uniandes.edu.co/index.php?option=com_search&amp;view=search',
+					'uribase': 'https://derecho.uniandes.edu.co/',
+					'limit': '10',
+					'perpage': '3',
+					'ordering': 'newest',
+					'phrase': 'any',
+					'hidedivs': '',
+					'includelink': 1,
+					'viewall': ' View all results',
+					'estimated': ' estimated',
+					'showestimated': 1,
+					'showpagination': 1,
+					'showcategory': 1,
+					'showreadmore': 1,
+					'showdescription': 1
+				});
+			});
+  </script>
+  <meta property="og:description" content="https://derecho.uniandes.edu.co/"/>
+  <meta property="og:url" content="https://derecho.uniandes.edu.co/"/>
+
+	<link rel="stylesheet" href="/templates/modern-business/css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/modern-business/css/modern-business.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/modern-business/css/unify.css" type="text/css"  />
+	<link rel="stylesheet" href="/templates/modern-business/css/app.css" type="text/css"  />
+	<link rel="stylesheet" href="/templates/modern-business/css/custom.css" type="text/css"  />
+	<link rel="stylesheet" href="/templates/modern-business/font-awesome/css/font-awesome.min.css" type="text/css" media="Print" />
+			<!--[if lte IE 6]>
+		<link href="/templates/modern-business/css/ieonly.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+		<link href="/templates/modern-business/css/ie7only.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+        <script type="text/javascript" src="/templates/modern-business/js/jquery-1.8.0.js"></script>
+	<!--    <script type="text/javascript" src="/templates/modern-business/js/jquery-1.5.1.min.js"></script>-->
+
+	<script type="text/javascript" src="/templates/modern-business/js/bootstrap.js"></script>
+	<script type="text/javascript" src="/templates/modern-business/js/modern-business.js"></script>
+	<script type="text/javascript" src="/templates/modern-business/js/custom.js"></script>
+	<link rel="stylesheet" href="/templates/modern-business/css/start/jquery-ui-1.8.11.custom.css" type="text/css" />	
+	<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>    
+    <script type="text/javascript" src="/templates/facultaddederecho/javascript/flexigrid.js"></script>
+	
+	<script type="text/javascript">
+		jQuery.noConflict();
+		$.noConflict();
+	</script>
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17910273-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+  // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  // m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  // })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  // ga('create', 'UA-72961433-1', 'auto');
+  // ga('send', 'pageview');
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72954862-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72950248-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KR8Z7VC');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KR8Z7VC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NPG7BD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPG7BD');</script>
+<!-- End Google Tag Manager -->
+
+    <div class="container">    
+    <div id="header" class="header">
+				<style>
+    .twitter{
+        /*background: url("http://mashable.com/wp-content/themes/v7/img/external/blue_twitter_bird.png") no-repeat scroll -2px center, -moz-linear-gradient(#F6FAFD, #DBECF2) repeat scroll 0 0 transparent;*/
+        border-color: #C8E2EB;
+        color: #3E8399 !important;
+        text-shadow: -1px 1px white;
+    }
+</style>
+
+	
+	<nav  class="navbar navbar-default navbar-custom">  
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-3  col-xs-3  topbar-right padding-left-0 padding-right-0">
+                        <a class="navbar-brand navbar-brand-custom " href="http://www.uniandes.edu.co" target="_blank">
+                            <img id="logo-header" src="/templates/modern-business/images/logo.png" alt="Logo">
+                        </a>
+                    </div>
+                    <div class="col-lg-9 col-md-9 col-sm-9  col-xs-9   topbar-center">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-8 pull-right input-search  padding-top-5 padding-right-5">                               
+								<form name="rokajaxsearch" id="rokajaxsearch" class="light" action="https://derecho.uniandes.edu.co/" method="get">
+<div class="rokajaxsearch">
+	<div class="roksearch-wrapper">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value=" Search..." />
+	</div>
+	<input type="hidden" name="searchphrase" value="any"/>
+	<input type="hidden" name="limit" value="20" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="Itemid" value="99999999" />
+	<input type="hidden" name="option" value="com_search" />
+
+	
+	<div id="roksearch_results"></div>
+</div>
+<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
+</form>                                                                                  
+                           </div>                           
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-8 padding-left-0 ">
+                                <a class="text-logo" href="/">
+                                   <h2>Facultad de Derecho</h2>
+                                </a>     
+                            </div>
+                            <div class="col-xs-4 padding-top-10  padding-left-0 padding-right-5">
+								<div><a href="https://www.facebook.com/FacultadDeDerechoUniandes" target="_BLANK">
+<div class="social social_facebook"></div>
+</a> <a href="https://twitter.com/UniandesDerecho" target="_BLANK">
+<div class="social social_twitter"></div>
+</a> <a href="http://www.youtube.com/user/uniandes" target="_BLANK">
+<div class="social social_youtube"></div>
+</a></div>                                                                                  
+                            </div> 
+                        </div>    
+                        <div class="row   topbar-right-item">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12   padding-left-0  ">                                        
+                                <div class="topbar">
+                                    <div class="menu-topbar">
+                                        <ul class="menu loginbar pull-right"><li id="current" class="active item9"><a href="https://derecho.uniandes.edu.co/"><span>INICIO</span></a></li><li class="item10"><a href="/en/contactenos"><span>CONTÁCTENOS</span></a></li><li class="item11"><a href="/en/faq"><span>FAQ</span></a></li><li class="item12"><a href="/en/mapa-del-sitio"><span>MAPA DEL SITIO</span></a></li><li class="item513"><a href="https://derecho.uniandes.edu.co/en"><span>ENGLISH</span></a></li></ul>	
+                                    </div>     
+                                </div>
+                            </div>     
+                        </div>    
+                    </div>    
+                </div>    
+	</nav >            
+         
+	<nav class="navbar navbar-default " role="navigation" >   
+
+
+            <div class="row  " >  
+                                <div class="mobile_nabvar">
+                    <button type="button" class="navbar-toggle pull-left">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="fa fa-bars"></span>
+                    </button>
+                </div>				
+				<div class="menu-collapse-pc">		  				
+							<div class="moduletable  collapse navbar-collapse navbar-ex1-collapse">
+					<ul class="menu  nav navbar-nav col-md-12"><li class="parent item2"><a href="/en/facultad"><span>Facultad</span></a></li><li class="parent item3"><a href="/en/cursos-programas"><span>Programas y Cursos</span></a></li><li class="parent item4"><a href="/en/docencia"><span>Profesores</span></a></li><li class="parent item5"><a href="https://did.uniandes.edu.co/index.php/es/" target="_blank"><span>Investigación</span></a></li><li class="parent item6"><a href="/en/publicaciones"><span>Publicaciones</span></a></li><li class="parent item7"><a href="/en/impacto-social"><span>Impacto social</span></a></li><li class="parent item8"><a href="/en/egresado"><span>Egresados</span></a></li></ul>		</div>
+	 				
+					
+				
+
+            </div>    
+        </nav>    
+    </div>   
+    
+
+		    
+<div class="row">
+    <div class="col-lg-12 col-md-12  col-sm-12 col-xs-12 ">
+        <div class="row" style="margin-bottom:0px">
+                                
+                
+                 
+      
+        </div>
+    </div>
+</div> 
+	
+        
+
+  <div id="myCarousel1504894567" class="carousel slide row carousel-v1" >
+        <!-- Indicators -->
+       <ol class="carousel-indicators">
+                                <li class="active" data-target="#myCarousel1504894567" data-slide-to="0">0</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="1">1</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="2">2</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="3">3</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="4">4</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="5">5</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="6">6</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="7">7</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="8">8</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="9">9</li>
+                                <li class="" data-target="#myCarousel1504894567" data-slide-to="10">10</li>
+                        
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">                        
+                        <div title="IV Congreso de Compra Pública"  class="item active">
+                    <a href="https://jornadascontratacionestatal.uniandes.edu.co/index.php" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/ivcongreso de compra publica965x326.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="Curso Regimen de insolvencia 2017"  class="item ">
+                    <a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/nuestra-oferta/1384_programa-profesionales%C2%AE-regimen-de-insolvencia" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/bnnrder-regimen_insolvencia.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="Curso derechos de autor"  class="item ">
+                    <a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/nuestra-oferta/1485_curso--derechos-de-autor-en-contenidos-digitales" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/bnnrder-derechos_autor.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="Congreso_etica_profesionales"  class="item ">
+                    <a href="https://congresoeticasprofesionales.uniandes.edu.co/" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/congreso_etica_banner.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="2concursoderechosocietario"  class="item ">
+                    <a href="https://concursodederechosocietario.uniandes.edu.co/" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/iiconcursoderechosocietario965x326.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="Gaceta judicial 130"  class="item ">
+                    <a href="http://eventos.uniandes.edu.co/s/1384/events/nonEvent.aspx?sid=1384&gid=26&pgid=18273&content_id=14523" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/130g965x326.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="Curso Gestion Deportiva"  class="item ">
+                    <a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/nuestra-oferta/1486_curso-derecho-y-gestion-deportiva" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/bnnrder-gestion_deportiva.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="VIIIConcursoGermánCavelier"  class="item ">
+                    <a href="https://derecho.uniandes.edu.co/images/stories/pdf/viii%20concurso%20cavelier.pdf" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/viiiconcursogermancavelier965x326.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="Derecho del espacio ultraterrestre"  class="item ">
+                    <a href="https://derecho.uniandes.edu.co/es/cursos-programas/publicaciones-academicas/derecho-del-espacio-ultraterrestre" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/banner_espacio_ultraterrestre.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="ConvocatoriaLatinAmericanLaw"  class="item ">
+                    <a href="https://derecho.uniandes.edu.co/images/stories/eventos/big/ConvocatoriaRevistaLAR05.pdf" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/convocatorialatinamerican965x326_3.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                                <div title="Estamos en acreditación"  class="item ">
+                    <a href="https://derecho.uniandes.edu.co/es/component/content/article/332-agosto/3165-estamos-en-acreditacion-de-alta-calidad-del-doctorado-en-derecho" target="_blank" >
+                        <div  class="banner-container"  class="fill" >
+							<img src="/images/banners/REACREDITACION DOCTORADO.jpg"  width="100%" height="306" />
+						</div>
+                    </a>
+                        
+                </div>                            
+                        
+                 
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#myCarousel1504894567" data-slide="prev">
+            <span class="icon-prev"></span>
+        </a>
+        <a class="right carousel-control" href="#myCarousel1504894567" data-slide="next">
+            <span class="icon-next"></span>
+        </a>
+    </div>
+
+
+<style type="text/css">
+#myCarousel1504894567{
+	/*width: 986px;*/
+}
+#myCarousel1504894567 img, .logoheader{
+	/*width: 986px !important;
+	height: 182px !important;
+        */
+}
+
+</style>
+
+<script type="text/javascript">
+jQuery('.carousel').carousel({
+  interval: 4.5*1000,
+  pause: false,
+  wrap:true
+})
+</script>
+
+<div class="row">
+    <div class="col-lg-12 col-md-12  col-sm-12 col-xs-12 ">
+        <div class="row" style="margin-bottom:0px">
+                                
+                
+                 
+      
+        </div>
+    </div>
+</div>        
+
+<div class="section">
+
+    <div  class="row">         
+    
+        
+		<div class="col-lg-3  col-xs-12 col-sm-6 col-md-4 padding-left-0 padding-right-0"  >
+			<div style="height:100%;background-color:#c0dbdc">   
+			 			  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-heading"  style="background:#">
+						<h5 class="panel-title"><i class="fa fa-tasks"></i> CALENDARIO DE ACTIVIDADES</h5>
+					</div>
+				  					<div class="panel-body" >
+							<script language="javascript"  type="text/javascript" ><!--
+	function navLoaded(elem, modid){
+		var myspan = document.getElementById("testspan"+modid);
+		var modbody = myspan.parentNode;
+		modbody.innerHTML=elem.innerHTML;
+	}
+	function callNavigation(link){
+		var mybody = document.getElementsByTagName('body')[0];
+		if (!document.getElementById('calnav')){
+			iframe = document.createElement('iframe');
+			iframe.setAttribute("name","calnav");
+			iframe.setAttribute("id","calnav");
+			iframe.style.display = "none";
+		}
+		mybody.appendChild(iframe);
+		iframe.setAttribute("src",link);
+	}
+	//--></script>
+	<div style="margin:0px;padding:0px;border-width:0px;"><span id='testspan71' style='display:none'></span>
+<div id="extcal_minical">
+	<table width="100%" cellspacing="1" cellpadding="0" border="0" align="center" style="border: 1px solid rgb(190, 194, 195); background-color: rgb(255, 255, 255);">
+		<tr>
+			<td>			
+				<table width="100%" cellspacing="0" cellpadding="2" border="0" class="extcal_navbar">
+					<tr>
+						<td valign="middle" height="18" align="center">
+							<img border="0" title="previous month" alt="Last month" class="mod_events_link" src="https://derecho.uniandes.edu.co/components/com_jevents/views/ext/assets/images/mini_arrowleft.png" onmousedown="callNavigation('index.php?option=com_jevents&amp;task=modcal.ajax&amp;day=1&amp;month=8&amp;year=2017&amp;modid=71&amp;tmpl=component');" />
+                		</td>
+		                <td width="98%" valign="middle" nowrap="nowrap" height="18" align="center" class="extcal_month_label">
+							<a href="/en/facultad/eventos/month.calendar/2017/09/08/-" style = "text-decoration:none;color:inherit;">September 2017</a>
+		                </td>
+						<td valign="middle" height="18" align="center">
+		                    <img border="0" title="next month" alt="Next month" class="mod_events_link" src="https://derecho.uniandes.edu.co/components/com_jevents/views/ext/assets/images/mini_arrowright.png" onmousedown="callNavigation('index.php?option=com_jevents&amp;task=modcal.ajax&amp;day=1&amp;month=10&amp;year=2017&amp;modid=71&amp;tmpl=component');" />
+                		</td>
+					</tr>
+				</table>				<table rules="all" class="extcal_weekdays"><tr>
+
+<td  class='extcal_weekdays'>Do</td>
+<td  class='extcal_weekdays'>Lu</td>
+<td  class='extcal_weekdays'>Ma</td>
+<td  class='extcal_weekdays'>Mi</td>
+<td  class='extcal_weekdays'>Ju</td>
+<td  class='extcal_weekdays'>Vi</td>
+<td  class='extcal_weekdays'>sa</td>
+</tr>
+<tr>
+<td class='extcal_othermonth'/>
+<td class='extcal_othermonth'/>
+<td class='extcal_othermonth'/>
+<td class='extcal_othermonth'/>
+<td class='extcal_othermonth'/>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/01/-" class = "extcal_busylink" title = "Go to calendar - current day">1</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/02/-" class = "extcal_busylink" title = "Go to calendar - current day">2</a></td>
+</tr>
+<tr>
+<td class='extcal_sundaycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/03/-" class = "extcal_busylink" title = "Go to calendar - current day">3</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/04/-" class = "extcal_busylink" title = "Go to calendar - current day">4</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/05/-" class = "extcal_busylink" title = "Go to calendar - current day">5</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/06/-" class = "extcal_busylink" title = "Go to calendar - current day">6</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/07/-" class = "extcal_busylink" title = "Go to calendar - current day">7</a></td>
+<td class='extcal_todaycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/08/-" class = "extcal_busylink" title = "Go to calendar - current day">8</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/09/-" class = "extcal_busylink" title = "Go to calendar - current day">9</a></td>
+</tr>
+<tr>
+<td class='extcal_sundaycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/10/-" class = "extcal_busylink" title = "Go to calendar - current day">10</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/11/-" class = "extcal_busylink" title = "Go to calendar - current day">11</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/12/-" class = "extcal_busylink" title = "Go to calendar - current day">12</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/13/-" class = "extcal_busylink" title = "Go to calendar - current day">13</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/14/-" class = "extcal_busylink" title = "Go to calendar - current day">14</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/15/-" class = "extcal_busylink" title = "Go to calendar - current day">15</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/16/-" class = "extcal_busylink" title = "Go to calendar - current day">16</a></td>
+</tr>
+<tr>
+<td class='extcal_sundaycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/17/-" class = "extcal_busylink" title = "Go to calendar - current day">17</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/18/-" class = "extcal_busylink" title = "Go to calendar - current day">18</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/19/-" class = "extcal_busylink" title = "Go to calendar - current day">19</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/20/-" class = "extcal_busylink" title = "Go to calendar - current day">20</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/21/-" class = "extcal_busylink" title = "Go to calendar - current day">21</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/22/-" class = "extcal_busylink" title = "Go to calendar - current day">22</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/23/-" class = "extcal_busylink" title = "Go to calendar - current day">23</a></td>
+</tr>
+<tr>
+<td class='extcal_sundaycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/24/-" class = "extcal_busylink" title = "Go to calendar - current day">24</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/25/-" class = "extcal_busylink" title = "Go to calendar - current day">25</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/26/-" class = "extcal_busylink" title = "Go to calendar - current day">26</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/27/-" class = "extcal_busylink" title = "Go to calendar - current day">27</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/28/-" class = "extcal_busylink" title = "Go to calendar - current day">28</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/29/-" class = "extcal_busylink" title = "Go to calendar - current day">29</a></td>
+<td class='extcal_daycell'>
+<a href="/en/facultad/eventos/day.listevents/2017/09/30/-" class = "extcal_busylink" title = "Go to calendar - current day">30</a></td>
+</tr>
+</table>
+</td></tr></table></div>
+</div>                        
+					</div>
+				</div>                
+							  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-heading"  style="background:#">
+						<h5 class="panel-title"><i class="fa fa-tasks"></i> INFORMACIÓN PARA</h5>
+					</div>
+				  					<div class="panel-body" >
+						<ul class="menu left-menu"><li class="item15"><a href="/en/aspirantes"><span>Aspirantes</span></a></li><li class="item16"><a href="/en/estudiantes"><span>Estudiantes</span></a></li><li class="item17"><a href="/en/profesores"><span>Profesores</span></a></li><li class="item18"><a href="/en/egresados"><span>Egresados</span></a></li></ul>                        
+					</div>
+				</div>                
+							  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-heading"  style="background:#">
+						<h5 class="panel-title"><i class="fa fa-tasks"></i> ENLACES DE INTERÉS</h5>
+					</div>
+				  					<div class="panel-body" >
+						<ul class="menu left-menu"><li class="item537"><a href="/en/facultad/noticias"><span>Más noticias de la Facultad</span></a></li><li class="item514"><a href="/en/cursos-programas/pregrado"><span>Pregrado</span></a></li><li class="item515"><a href="/en/cursos-programas/escuela-de-posgrados"><span>Escuela de Posgrados</span></a></li><li class="item516"><a href="/en/cursos-programas/publicaciones-academicas"><span>Publicaciones académicas</span></a></li><li class="item517"><a href="/en/docencia/profesores-de-planta"><span>Profesores de planta</span></a></li><li class="item524"><a href="/en/investigaciones/direccion-de-investigaciones/politica-de-investigacion"><span>Política de Investigación</span></a></li><li class="item525"><a href="/en/cursos-programas/educacion-continuada"><span>Educación Contínuada</span></a></li><li class="item526"><a href="/en/impacto-social/consultorio-juridico-"><span>Consultorio Jurídico</span></a></li><li class="item528"><a href="/en/periodico-al-derecho"><span>Periódico Al Derecho</span></a></li><li class="item529"><a href="/en/egresado/ofertas-laborales"><span>Ofertas laborales</span></a></li><li class="item530"><a href="/en/facultad/oportunidades-internacionales"><span>Oportunidades Internacionales</span></a></li><li class="item531" /><li class="item532"><a href="https://libreria.uniandes.edu.co/" target="_blank"><span>Adquiera nuestras publicaciones</span></a></li></ul>                        
+					</div>
+				</div>                
+							  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-body" >
+						<div class="row white-custom-panel publication-responsive">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-6 padding-left-5"><a href="/es/ano-2010/193-mayo/2265-reacreditado-programa-de-derecho-por-10-anos"><img style="height: auto;" src="/images/stories/publicaciones/BotonAcreditacion10.jpg" alt="BotonAcreditacion10" width="92" height="95" /></a></div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-6 padding-right-5 padding-bottom-5"><a href="/es/component/content/article/53/449-enlaces-universidad-de-los-andes"> <img style="height: auto;" src="/images/stories/publicaciones/img-publicaciones-small-1.png" alt="img-publicaciones-small-1" /> </a> <a href="/es/facultad/busqueda-gaceta"> <img style="height: auto;" src="/images/stories/publicaciones/img-punlicaciones-small-2.png" alt="img-punlicaciones-small-2" /> </a> <a rel="{handler: 'iframe', size: {x: 575, y: 450}}" href="/es/component/content/article/53/447-enlaces-facultad-de-derecho"> <img style="height: auto;" src="/images/stories/publicaciones/img-publicaciones-small-3.png" alt="img-publicaciones-small-3" /> </a></div>
+</div>                        
+					</div>
+				</div>                
+							</div>    
+		</div>
+		    
+		<div class="col-lg-6  col-xs-12 col-sm-6 col-md-4 padding-left-5 padding-right-0"  >
+			<div style="height:100%;background-color:#c0dbdc">   
+			 			  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-heading"  style="background:#">
+						<h5 class="panel-title"><i class="fa fa-tasks"></i> DESTACADOS</h5>
+					</div>
+				  					<div class="panel-body" >
+						<div style="text-align: left;">
+<table border="0">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://derecho.uniandes.edu.co/es/cursos-programas/pregrado" target="_blank"><img src="/images/stories/banner/Pregrado.jpg" alt="Pregrado" width="225" height="103" /></a></td>
+<td><a href="https://derecho.uniandes.edu.co/es/cursos-programas/escuela-de-posgrados" target="_blank"><img src="/images/stories/banner/Posgrados.jpg" alt="Posgrados" width="225" height="103" /></a></td>
+</tr>
+<tr>
+<td><a href="/en/component/content/article/189/3402-programacion-cursos-de-educacion-continuada-segundo-semestre-2017" target="_blank"><img src="/images/stories/banner/CEC455x208_2017-2.jpg" alt="CEC455x208_2017-2" width="225" height="103" /></a></td>
+<td><a href="https://derecho.uniandes.edu.co/es/publicaciones" target="_blank"><img src="/images/stories/banner/Publicaciones.jpg" alt="Publicaciones" width="225" height="103" /></a></td>
+</tr>
+</tbody>
+</table>
+</div>                        
+					</div>
+				</div>                
+							  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-heading"  style="background:#">
+						<h5 class="panel-title"><i class="fa fa-tasks"></i> NOTICIAS</h5>
+					</div>
+				  					<div class="panel-body" >
+						<div class="row padding-bottom-0 padding-bottom-5 ">
+    <div class="padding-left-5 padding-right-0">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding-left-0 padding-right-5">
+    <div class="panel panel-default">
+        <div class="panel-body panel-white padding-left-5 padding-right-5 panel-notice">
+
+	<img src='images/stories/noticias/Foto_premio_-Santiago-Jaramillo-Caro_mini.jpg'/>                                   <h5>Estudiantes de la Facultad de Derecho ganaron el primer Concurso de Ensayo Santiago Jaramillo Caro, sobre protección de datos personales</h5>
+            	
+			
+    El pasado miércoles 2 de agosto, se entregaron los premios del&nbsp; Concurso de Ensayo Santiago Jaramillo Caro de la firma de abogados Gómez Pinzón Zuleta. <a href="/en/component/content/article/185/3409-estudiantes-de-la-facultad-de-derecho-ganaron-el-primer-concurso-de-ensayo-santiago-jaramillo-caro-sobre-proteccion-de-datos-personales" target="_blank">Leer más…</a>	
+               
+        </div>    
+    </div>
+</div>            
+ 	<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 padding-left-0 padding-right-5">
+    <div class="panel panel-default">
+        <div class="panel-body panel-white padding-left-5 padding-right-5 panel-notice">
+
+	<img src='images/stories/noticias/Noticia_maltrato-animal_mini.jpg'/>                                   <h5>Estudiantes del Consultorio Jurídico de Los Andes dicen NO al maltrato animal</h5>
+            	
+			
+    Los estudiantes del Consultorio Jurídico del Área de Derecho Público de la Universidad de los Andes han iniciado una campaña contra el maltrato animal, que tiene como objetivo contribuir a la eficacia de la Ley 1774 de 2016. <a href="/en/component/content/article/185/3406-estudiantes-del-consultorio-juridico-de-los-andes-dicen-no-al-maltrato-animal-" target="_blank">Leer más…</a>	
+               
+        </div>    
+    </div>
+</div>            
+ 	    </div>
+</div>    
+                        
+					</div>
+				</div>                
+							</div>    
+		</div>
+		    
+		<div class="col-lg-3  col-xs-12 col-sm-6 col-md-4 padding-left-5 padding-right-0"  >
+			<div style="height:100%;background-color:#c0dbdc">   
+			 			  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-body" >
+						                    
+                
+                 
+                              
+					</div>
+				</div>                
+							  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-heading"  style="background:#">
+						<h5 class="panel-title"><i class="fa fa-tasks"></i> EVENTOS</h5>
+					</div>
+				  					<div class="panel-body" >
+						<div class="row padding-bottom-0 compact_events "><div class="padding-left-5 padding-right-0 padding-bottom-0"><div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 padding-left-0 padding-right-5 padding-bottom-0"><div class="panel panel-default"><div class="panel-body panel-white padding-left-5 padding-right-5"><div class='col-xs-5 padding-left-0 padding-right-0'><img  src='https://derecho.uniandes.edu.co/images/stories/eventos/mini/iiConcursoDerechoSocietario195x93.jpg' /></div><div class="col-xs-7 padding-left-5"><a href="/en/facultad/eventos/icalrepeat.detail/2017/08/28/988/135/participe-en-el-ii-concurso-de-derecho-societario">Participe en el II Concurso de Derecho Societario</a></div></div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 padding-left-0 padding-right-5 padding-bottom-0"><div class="panel panel-default"><div class="panel-body panel-white padding-left-5 padding-right-5"><div class='col-xs-5 padding-left-0 padding-right-0'><img  src='https://derecho.uniandes.edu.co/images/stories/eventos/mini/viiiConcursoCavelier195x93.jpg' /></div><div class="col-xs-7 padding-left-5"><a href="/en/facultad/eventos/icalrepeat.detail/2017/08/30/990/135/viii-concurso-semestral-de-articulos-de-investigacion-juridica-german-cavelier">VIII Concurso semestral de artículos de investiga...</a></div></div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 padding-left-0 padding-right-5 "><div class="panel panel-default"><div class="panel-body panel-white padding-left-5 padding-right-5"><div class='col-xs-5 padding-left-0 padding-right-0'><img  src='https://derecho.uniandes.edu.co/images/stories/eventos/mini/CiudadaniaCosmopolitaC195x93.jpg' /></div><div class="col-xs-7 padding-left-5"><a href="/en/facultad/eventos/icalrepeat.detail/2017/09/12/993/135/ciudadania-cosmopolita-y-patriotismo-constitucional">Ciudadanía cosmopolita y patriotismo constitucion...</a></div></div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 padding-left-0 padding-right-5 "><div class="panel panel-default"><div class="panel-body panel-white padding-left-5 padding-right-5"><div class='col-xs-5 padding-left-0 padding-right-0'><img  src='https://derecho.uniandes.edu.co/images/stories/eventos/mini/Recordandoalosmaestros195x93.jpg' /></div><div class="col-xs-7 padding-left-5"><a href="/en/facultad/eventos/icalrepeat.detail/2017/09/26/992/135/recordando-a-los-maestros-ciro-angarita-baron-y-eduardo-alvarez-correa-">Recordando a los maestros: Ciro Angarita Barón y ...</a></div></div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 padding-left-0 padding-right-5 "><div class="panel panel-default"><div class="panel-body panel-white padding-left-5 padding-right-5"><div class='col-xs-5 padding-left-0 padding-right-0'><img  src='https://derecho.uniandes.edu.co/images/stories/eventos/mini/Banner_Derecho_Internacional_195x93.jpg' /></div><div class="col-xs-7 padding-left-5"><a href="/en/facultad/eventos/icalrepeat.detail/2017/09/26/979/135/colonialismopost-neocolonialismo-y-el-derecho-internacional-dentro-y-desde-la-america-latina">Colonialismo/post-neocolonialismo y el derecho int...</a></div></div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 padding-left-0 padding-right-5 "><div class="panel panel-default"><div class="panel-body panel-white padding-left-5 padding-right-5"><div class='col-xs-5 padding-left-0 padding-right-0'><img  src='https://derecho.uniandes.edu.co/images/stories/eventos/mini/Captura_195x93.jpg' /></div><div class="col-xs-7 padding-left-5"><a href="/en/facultad/eventos/icalrepeat.detail/2017/09/28/985/135/xii-encuentro-de-la-jurisdiccion-constitucional">XII Encuentro de la Jurisdicción Constitucional</a></div></div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 padding-left-0 padding-right-5 "><div class="panel panel-default"><div class="panel-body panel-white padding-left-5 padding-right-5"><div class='col-xs-5 padding-left-0 padding-right-0'><img  src='https://derecho.uniandes.edu.co/images/stories/eventos/mini/ConvocatoriaRevistaLAR195x93.jpg' /></div><div class="col-xs-7 padding-left-5"><a href="/en/facultad/eventos/icalrepeat.detail/2017/10/02/991/135/convocatoria-de-tema-libre-latin-american-law-review-revista-de-derecho-latinoamericana">Convocatoria de tema libre. Latin American Law Rev...</a></div></div>
+</div>
+</div>
+<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 padding-left-0 padding-right-5 "><div class="panel panel-default"><div class="panel-body panel-white padding-left-5 padding-right-5"><div class='col-xs-5 padding-left-0 padding-right-0'><img  src='https://derecho.uniandes.edu.co/images/stories/eventos/mini/Congreso_Etica_Mini.jpg' /></div><div class="col-xs-7 padding-left-5"><a href="/en/facultad/eventos/icalrepeat.detail/2017/10/04/975/135/eticas-profesionales-igualdad-y-desarrollo">Éticas profesionales, igualdad y desarrollo</a></div></div>
+</div>
+</div>
+
+</div>
+</div>
+                        
+					</div>
+				</div>                
+							  <div class="panel panel-grey" style="background-color:#c0dbdc">
+				  					<div class="panel-heading"  style="background:#">
+						<h5 class="panel-title"><i class="fa fa-tasks"></i> PUBLICACIONES</h5>
+					</div>
+				  					<div class="panel-body" >
+						<div class="row margin-left-5 margin-right-5">
+<div class="white-custom-panel no100 white-custom-panel-right" style="text-align: center;">
+<h5 style="text-align: center;">Libro de la semana</h5>
+<img src="/images/stories/publicaciones/Libro_de_la_semana/ls_nuevas_tendencias_deradmon.jpg" alt="ls_nuevas_tendencias_deradmon" width="120" height="169" />&nbsp; <br />Nuevas tendencias del derecho administrativo <strong>(<a href="https://derecho.uniandes.edu.co/es/publicaciones/colecciones/-coleccion-biblioteca-juridica-uniandina" target="_blank"><span class="link_aqui"><span style="text-decoration: underline;">AQUÍ</span></span></a><span class="link_aqui">)</span></strong><br /><strong><a href="http://unradio.unal.edu.co/nc/detalle/cat/sonidos-de-la-memoria/article/julieta-lemaitre-ripoll-de-colombia-constitucion-y-democracia-en-movimiento.html" target="_blank"></a></strong></div>
+</div>                        
+					</div>
+				</div>                
+							</div>    
+		</div>
+		</div>
+
+
+
+
+</div>
+<div class="row">
+    <div class="col-lg-12 col-md-12  col-sm-12 col-xs-12 ">
+        <div class="row" style="margin-bottom:0px">
+                                
+                
+                 
+      
+        </div>
+    </div>
+</div> 
+
+<!-- /.section -->                         
+
+		<div id="footer">
+											<p style="text-align: center;"><span style="font-size: 10pt;">Universidad de los Andes | Vigilada Mineducación</span><br /><span style="font-size: 10pt;"> Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.</span><br /><span style="font-size: 10pt;">Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.</span><br /><span style="font-size: 10pt;">Carrera 1# 18A-10, Edificio RGC, 2do piso. Bogotá, (Colombia) Tel:(57-1) 3394949 | Facultad de Derecho - Copyright ©</span><br /><br /></p>
+								
+		
+                    
+                    <div class="wrap"></div>
+		</div><!-- footer -->
+    <!-- /.container -->
+
+    <!-- JavaScript -->
+	<script type="text/javascript">
+		jQuery(function(){
+			var iconos = jQuery("#iconos").clone(true);
+			var compartir = jQuery("#compartir").clone(true);
+			jQuery("#iconos").remove();
+			jQuery("#compartir").remove();
+			jQuery(".center_side").append(iconos);
+			jQuery(".center_side").append(compartir);
+		});
+	</script>
+    </div>
+</body>
+</html>

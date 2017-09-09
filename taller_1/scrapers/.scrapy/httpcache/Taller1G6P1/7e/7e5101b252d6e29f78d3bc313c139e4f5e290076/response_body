@@ -1,0 +1,217 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />                                <title>Universidad de los Andes | Gerencia del Campus</title>
+
+    
+    
+                <meta name="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta name="Content-language" content="es-CO" />
+
+                    <meta name="author" content="eZ Systems" />
+    
+                <meta name="copyright" content="eZ Systems" />
+    
+                <meta name="description" content="Content Management System" />
+    
+                <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+    
+        <meta name="MSSmartTagsPreventParsing" content="TRUE" />
+    <meta name="generator" content="eZ Publish" />
+    
+<link rel="Home" href="/" title="Gerencia del Campus portada" />
+<link rel="Index" href="/" />
+<link rel="Top"  href="/" title="Universidad de los Andes | Gerencia del Campus" />
+<link rel="Search" href="/content/advancedsearch" title="Buscar Gerencia del Campus" />
+<link rel="Shortcut icon" href="/extension/diradm/design/diradm/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/ezinfo/copyright" />
+<link rel="Author" href="/ezinfo/about" />
+<link rel="Alternate" href="/layout/set/print/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura" media="print" title="Versión imprimible" /><style type="text/css">
+	@import url(/design/standard/stylesheets/debug.css);
+    @import url(/extension/ezwebin/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/classes-colors.css);
+    @import url(/extension/ezwebin/var/storage/packages/eZ-systems/ezwebin_design_blue/files/default/file/site-colors.css);
+	@import url(/extension/diradm/design/diradm/stylesheets/content.css);
+</style>
+<link rel="stylesheet" type="text/css" href="/extension/diradm/design/diradm/stylesheets/all.css" />
+<link rel="stylesheet" type="text/css" href="/extension/diradm/design/diradm/stylesheets/sifr.css" />	
+	<style type="text/css">
+						@import url("/extension/diradm/design/diradm/stylesheets/verde.css");
+				</style>    <script language="javascript" type="text/javascript" src="/design/standard/javascript/tools/ezjsselection.js"></script>
+     <script language="javascript" type="text/javascript" src="/design/standard/javascript/tools/googleAnalytics.js"></script>
+     <script language="javascript" type="text/javascript" src="/extension/diradm/design/diradm/javascript/jquery/jquery-1.3.2.min.js"></script>
+     <script language="javascript" type="text/javascript" src="/design/diradm/javascript/forms/aplezvalidationevents.js"></script>
+     <script language="javascript" type="text/javascript" src="/extension/diradm/design/diradm/javascript/tooltip/jquery.qtip-1.0.0-rc3.min.js"></script>
+     <script language="javascript" type="text/javascript" src="/extension/diradm/design/diradm/javascript/jquery/jquery-1.3.2.min.js"></script>
+     <script language="javascript" type="text/javascript" src="/design/diradm/javascript/forms/aplezvalidationevents.js"></script>
+     <script language="javascript" type="text/javascript" src="/extension/diradm/design/diradm/javascript/tooltip/jquery.qtip-1.0.0-rc3.min.js"></script>
+ 
+</head>
+<body>
+<div id="page"> 
+	    	
+    		      
+
+
+    
+		<script type="text/javascript">
+            function clearBox(element){
+                element.value = "";
+                element.focus();
+            }
+        </script>
+    
+
+<div id="herramientas">
+  <div class="search">
+                        <form action="/content/action" method="post">
+      <input id="searchtext" class="text-area" type="text" name="(SearchText)" value="Buscador" onclick="clearBox(this)" onselect="clearBox(this)" />
+      <input id="searchbutton" class="button" type="image" src="/extension/diradm/design/diradm/images/search_button.gif" />
+    </form>
+      </div>
+  <ul class="nav_herramientas">
+   
+   <li class="first"><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Preguntas-Frecuentes">Preguntas Frecuentes</a></li> 
+    
+
+		<li><a href="/content/view/sitemap/502">Mapa del Sitio</a></li>	
+	 
+		
+	
+	
+	
+	</ul>
+	  
+	</div>
+	
+   	  <div id='header'>
+    <div id="logo" style='background:url("/var/diradm/storage/images/design/gerencia-del-campus/956-4-esl-CO/Gerencia-del-Campus.gif") no-repeat;'><a href="http://www.uniandes.edu.co/">Universidad de los Andes</a></div>
+	                                          		    <h2><span><a href="/">Planeación y gestión de la infraestructura</a></span></h2>
+                                          <h3><span><a href="/">Gerencia del Campus</a></span></h3>
+      </div>
+   	
+
+  		
+								<div id="main_nav" class="brake main_nav_01">
+		
+	<ul class="menu">
+		<li class="link1"><div><a href="/">Inicio</a></div></li>
+					<li class="">
+				<div>
+											<a class="link2" href="/Quienes-somos">¿Quiénes somos?</a>
+									</div>
+			</li>
+					<li class="">
+				<div>
+											<a class="link3" href="/Areas-funcionales">Áreas funcionales</a>
+									</div>
+			</li>
+					<li class="">
+				<div>
+											<a class="link4" href="/Para-recordar2">Para recordar</a>
+									</div>
+			</li>
+					<li class="">
+				<div>
+																		<a class="link1" href="/Contactenos/(dep_id)/506">Contáctenos</a>	
+															</div>
+			</li>
+			</ul>
+</div>   	<div id="content" class="float-break"> 
+    	<div class="visual float-break">
+   <div class="banner">
+      			
+        
+   
+
+                                                                                                                                            <img   src="/var/diradm/storage/images/media/images/banner-planeacion-y-gestion-de-la-infraestructura/10167-1-esl-CO/Banner-Planeacion-y-gestion-de-la-infraestructura_banner.jpg" width="555" height="183"  style="border: 0px  ;" alt="Banner Planeación y gestión de la infraestructura" title="Banner Planeación y gestión de la infraestructura" />
+            
+    
+
+    
+          </div>
+    <div class="bannerText">
+Liderar la planeación y gestión del campus que soporte la visión del largo plazo <br />
+</div>
+</div>    	<div class="main-content float-break"> 
+        	
+        
+	<div id="sidemenu">
+          	       <div class="tab"><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura">Planeación y gestión de la infraestructura</a></div>
+                  <ul class="sidemenu">
+									<li><div ><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Planeacion-del-Campus">Planeación del Campus</a></div>
+								</li>
+			        							<li><div ><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Plan-de-movilidad">Plan de movilidad</a></div>
+								</li>
+			        							<li><div ><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Solicitud-de-informacion-y-planimetria">Solicitud de información y planimetría</a></div>
+								</li>
+			        							<li><div ><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/SigCampus">SigCampus</a></div>
+								</li>
+			        							<li><div ><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Plan-de-Gestion-Ambiental">Plan de Gestión Ambiental</a></div>
+								</li>
+			        		</ul>
+                  
+    </div>
+
+ 
+         	<div class="breadcrumbs">     <a href="/">Gerencia del Campus</a>  / 
+       <a href="/Areas-funcionales">Áreas funcionales</a>  / 
+        Planeación y gestión de la infraestructura
+  </div>                     	<div id="main_content"> 
+            	 <div id="main-position">
+   <div id="main" class="float-break">
+     <div class="overflow-fix">
+       <!-- Main area content: START -->
+	    
+<h1>Planeación y gestión de la infraestructura</h1>
+	<div class="frontpage float-break"> 
+		   
+																
+								<div class="info_servicio">
+					<div class="img_servicio rounded_corners" style="background-image:url(/var/diradm/storage/images/areas-funcionales/planeacion-y-gestion-de-la-infraestructura/planeacion-del-campus/12717-2-esl-CO/Planeacion-del-Campus_folder_seccion.jpg); background-repeat:no-repeat; "></div>
+					<p><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Planeacion-del-Campus">Planeación del Campus</a></p>
+				</div>
+																
+								<div class="info_servicio">
+					<div class="img_servicio rounded_corners" style="background-image:url(/var/diradm/storage/images/areas-funcionales/planeacion-y-gestion-de-la-infraestructura/plan-de-movilidad/19284-5-esl-CO/Plan-de-movilidad_folder_seccion.png); background-repeat:no-repeat; "></div>
+					<p><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Plan-de-movilidad">Plan de movilidad</a></p>
+				</div>
+																
+								<div class="info_servicio">
+					<div class="img_servicio rounded_corners" style="background-image:url(/var/diradm/storage/images/areas-funcionales/planeacion-y-gestion-de-la-infraestructura/solicitud-de-informacion-y-planimetria/19238-4-esl-CO/Solicitud-de-informacion-y-planimetria_folder_seccion.png); background-repeat:no-repeat; "></div>
+					<p><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Solicitud-de-informacion-y-planimetria">Solicitud de información y planimetría</a></p>
+				</div>
+																
+								<div class="info_servicio">
+					<div class="img_servicio rounded_corners" style="background-image:url("/extension/diradm/design/diradm/images/seccion_no_imagen.jpg"); background-repeat:no-repeat; "></div>
+					<p><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/SigCampus">SigCampus</a></p>
+				</div>
+																
+								<div class="info_servicio">
+					<div class="img_servicio rounded_corners" style="background-image:url(/var/diradm/storage/images/areas-funcionales/planeacion-y-gestion-de-la-infraestructura/plan-de-gestion-ambiental/15368-5-esl-CO/Plan-de-Gestion-Ambiental_folder_seccion.png); background-repeat:no-repeat; "></div>
+					<p><a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Plan-de-Gestion-Ambiental">Plan de Gestión Ambiental</a></p>
+				</div>
+		 
+	</div>
+       <!-- Main area content: END -->
+     </div>
+   </div>
+ </div> 
+            </div>
+                  	</div>
+   	</div>
+</div>    		
+    				    	  <div id="footer" class="brake">
+	<div id="bottom_content">
+    	<div class="footer_content brake">
+        	<ul class="nav_footer">
+                <a href="/Areas-funcionales/Planeacion-y-gestion-de-la-infraestructura/Preguntas-Frecuentes">Preguntas Frecuentes</a> 
+                                	<li><a href="/content/view/sitemap/502">Mapa del Sitio</a></li>
+                	
+            </ul>
+            <span>Universidad de los Andes | Vigilada Mineducación<br />Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br />Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.</span><br/>
+            <span>Carrera 1 N° 18A - 12 Bogotá, (Colombia) Tels: +571 3394949 - +571 3394999 | Copyright © 2009</span><br/>
+            <span>Developed by <a href="http://www.aplyca.com">Aplyca</a></span>
+    	</div>
+	</div>
+</div> </body></html>

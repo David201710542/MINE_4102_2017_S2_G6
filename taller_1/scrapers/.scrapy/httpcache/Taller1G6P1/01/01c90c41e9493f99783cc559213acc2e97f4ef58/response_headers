@@ -1,0 +1,13 @@
+Accept-Ranges: bytes
+Cache-Control: max-age=1209600
+Content-Type: text/plain; charset=UTF-8
+Date: Fri, 08 Sep 2017 17:59:38 GMT
+Etag: "910-553bd4da2ea00"
+Expires: Fri, 22 Sep 2017 17:59:38 GMT
+Last-Modified: Fri, 07 Jul 2017 17:10:00 GMT
+Server: Apache
+Strict-Transport-Security: max-age=360;
+X-Content-Security-Policy: allow 'self';
+X-Content-Type-Options: nosniff
+X-Frame-Options: ALLOW-FROM https://apps.uniandes.edu.co/
+X-Xss-Protection: 1; mode=block

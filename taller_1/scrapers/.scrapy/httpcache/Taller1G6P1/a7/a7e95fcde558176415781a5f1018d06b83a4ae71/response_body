@@ -1,0 +1,191 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" >
+<head>
+  <base href="https://campusinfo.uniandes.edu.co/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="joomla, Joomla" />
+  <meta name="description" content="Joomla! - el motor de portales dinámicos y sistema de administración de contenidos" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Bienvenidos a la portada</title>
+  <link href="/en?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/en?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/sigcampus/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/modules/mod_jflanguageselection/tmpl/mod_jflanguageselection.css" type="text/css" />
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="https://campusinfo.uniandes.edu.co/modules/mod_superfishmenu/tmpl/js/jquery.js"></script>
+  <script type="text/javascript" src="https://campusinfo.uniandes.edu.co/modules/mod_superfishmenu/tmpl/js/jquery.event.hover.js"></script>
+  <script type="text/javascript" src="https://campusinfo.uniandes.edu.co/modules/mod_superfishmenu/tmpl/js/superfish.js"></script>
+  <script type="text/javascript">
+jQuery.noConflict();
+jQuery(function($){ $("ul.sf-menu").superfish({hoverClass:'sfHover', pathClass:'active', pathLevels:0, delay:800, animation:{opacity:'show'}, speed:'def', autoArrows:1, dropShadows:1}) });
+jQuery.event.special.hover.delay = 100;
+jQuery.event.special.hover.speed = 100;
+
+  </script>
+
+<link href="/templates/system/css/system.css" rel="stylesheet" type="text/css" />
+<link href="/templates/system/css/general.css" rel="stylesheet" type="text/css" />
+<link href="/templates/sigcampus/css/general.css" rel="stylesheet" type="text/css" />
+<link href="/templates/sigcampus/css/template.css" rel="stylesheet" type="text/css" />
+<link href="/templates/sigcampus/css/contenido.css" rel="stylesheet" type="text/css" />
+<link rel="shortcut icon" href="/templates/sigcampus/favicon.ico" />
+<!--[if lt IE 8]>
+<link href="/templates/sigcampus/css/ie.css" rel="stylesheet" type="text/css" />
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<link href="/templates/sigcampus/css/menu_home.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</script>
+
+
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24078652-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+<body>
+<table  align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="10" >&nbsp;</td>
+    <td colspan="2"><img  width="998px" src="/templates/sigcampus/images/header.jpg" usemap="#map_andes" /></td>
+    <td width="10" >&nbsp;</td>
+  </tr>
+  <tr >
+        <td width="10" >&nbsp;</td> 
+ 
+<td colspan="2">
+					<table width="100%" border="0" cellpadding="0" cellspacing="0">
+						<tr>
+							<td width="5" align="right" valign="top"><img src="/templates/sigcampus/images/menu_lf.jpg" /></td>
+							<td class="menu_i" align="left" valign="top"><div id="jflanguageselection"><ul class="jflanguageselection"><li><a href="https://campusinfo.uniandes.edu.co/es" ><span lang="es" xml:lang="es">Español</span></a></li></ul></div><!--Joom!fish V2.0.3 (Flash)-->
+<!-- &copy; 2003-2009 Think Network, released under the GPL. -->
+<!-- More information: at http://www.joomfish.net -->
+</td>
+							<td  valign="top" align="left"> 
+								<div class="menu_buscar cl255">
+								<form action="index.php" method="post">
+	<div class="searchbuscar">
+		<input name="searchword" id="mod_search_searchword" maxlength="20" alt="Search" class="inputboxbuscar" type="text" size="20" value="¿Qué busca?"  onblur="if(this.value=='') this.value='¿Qué busca?';" onfocus="if(this.value=='¿Qué busca?') this.value='';" />	</div>
+	<input type="hidden" name="task"   value="search" />
+	<input type="hidden" name="option" value="com_search" />
+	<input type="hidden" name="Itemid" value=1 />
+</form>	
+								</div>
+							</td>
+							<td width="99%" class="hor_m" valign="top" align="left"> 
+								<div id="menu_h" class="menu_h">
+								<ul class="menu"><li id="current" class="active item1"><a href="https://campusinfo.uniandes.edu.co/"><span>Home</span></a></li><li class="item42"><a href="https://campusinfo.uniandes.edu.co/index.php?option=com_content&amp;view=article&amp;id=8&amp;Itemid=9&amp;lang=es"><span>SigCampus</span></a></li><li class="item12"><a href="/en/sitemap"><span>Site Map</span></a></li><li class="item11"><a href="/en/faq"><span>FAQ</span></a></li><li class="item10"><a href="/en/contactus"><span>Contact Us</span></a></li><li class="item30"><a href="Http://sigcampus.uniandes.edu.co/SigCampus/mg/visor.jsp?Tipo=Publico" onclick="window.open(this.href,'targetWindow','toolbar=no,location=no,status=no,menubar=no,scrollbars=yes,resizable=yes,');return false;"><span>Campus map</span></a></li></ul>	
+								</div>
+							</td>
+                                                        
+							<td width="5" valign="top"><img src="/templates/sigcampus/images/menu_rg.jpg"/></td>
+						</tr>
+					</table></td>							
+	<td width="10" ></td>
+  </tr>
+  <tr>
+      <td width="10" class="leftmrg" >&nbsp;</td>
+    <td colspan="2" class="frontpage" valign="top">
+
+		<table cellpadding="0" cellspacing="0" border="0" ><tr>
+			<td width="225"  valign="top">
+					<div class="module-menu">
+			<div>
+				<div>
+					<div>
+													<h3>Campus</h3>
+											<ul class="menu sf-menu sf-list"><li class="parent item2"><a href="/en/visitingagettingaround"><span>Visiting &amp; getting around</span></a><ul><li class="first-child item49"><a href="/en/visitingagettingaround/bogota"><span>Bogotá</span></a></li><li class="item13"><a href="/en/visitingagettingaround/transmilenio"><span>Transmilenio</span></a></li><li class="item14"><a href="/en/visitingagettingaround/bybus"><span>By bus</span></a></li><li class="item15"><a href="/en/visitingagettingaround/bytaxi"><span>By taxi</span></a></li><li class="item16"><a href="/en/visitingagettingaround/bycar"><span>By Car</span></a></li><li class="item60"><a href="/en/visitingagettingaround/carpooling"><span>Carpooling</span></a></li><li class="last-child item17"><a href="/en/visitingagettingaround/bybicycle"><span>By bicycle</span></a></li></ul></li><li class="item3"><a href="/en/services"><span>Services</span></a></li><li class="parent item4"><a href="/en/facilities"><span>Facilities</span></a><ul><li class="first-child item51"><a href="/en/facilities/buildings"><span>Buildings</span></a></li><li class="item65"><a href="/en/facilities/academicspaces"><span>Academic spaces</span></a></li><li class="last-child item70"><a href="/en/facilities/manual-estandares"><span>Manual Estándares</span></a></li></ul></li><li class="parent item5"><a href="/en/history"><span>History</span></a><ul><li class="first-child item31"><a href="/en/history/firstperiod"><span>First period</span></a></li><li class="item32"><a href="/en/history/secondperiod"><span>Second period</span></a></li><li class="item33"><a href="/en/history/thirdperiod"><span>Third period</span></a></li><li class="item34"><a href="/en/history/fourthperiod"><span>Fourth period</span></a></li><li class="last-child item44"><a href="/en/history/blocks"><span>Blocks</span></a></li></ul></li><li class="item6"><a href="/en/factsandfigures"><span>Facts and Figures</span></a></li><li class="parent item7"><a href="/en/campusplanning"><span>Campus planning</span></a><ul><li class="first-child item39"><a href="/en/campusplanning/background"><span>Background</span></a></li><li class="item40"><a href="/en/campusplanning/guidelines"><span>Guidelines</span></a></li><li class="last-child item41"><a href="/en/campusplanning/regularizationandhandlingplan"><span>Regularization and Handling Plan</span></a></li></ul></li><li class="item8"><a href="/en/remoterequestinformationform"><span>Remote Request Information Form</span></a></li><li class="parent item9"><a href="/en/gis"><span>G.I.S.</span></a><ul><li class="first-child item35"><a href="/en/gis/information"><span>Information</span></a></li><li class="item36"><a href="/en/gis/standards"><span>Standards</span></a></li><li class="item48"><a href="/en/gis/glossary"><span>Glossary</span></a></li><li class="last-child item63"><a href="/en/gis/buildingsagroundsmaintenance"><span>Buildings and Grounds Maintenance</span></a></li></ul></li><li class="parent item50"><a href="/en/sustainability"><span>Sustainability</span></a><ul><li class="first-child item66"><a href="/en/sustainability/pga"><span>Plan de Gestión Ambiental</span></a></li><li class="item67"><a href="/en/sustainability/greencampus"><span>Green Campus</span></a></li><li class="item68"><a href="/en/sustainability/fenicia"><span>Programa Progresa Fenicia</span></a></li><li class="last-child item69"><a href="/en/sustainability/planpaisaje"><span>Plan Maestro Paisaje del Campus</span></a></li></ul></li><li class="item46"><a href="/en/campusmap"><span>Campus map</span></a></li><li class="last-child item71"><a href="/en/concursos"><span>Concursos</span></a></li></ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</td>
+			<td width="770px" valign="top">
+<div id="botones"></div>
+<div id="comollegar" ><a href="/es/comollegar" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('comoLlegarOff','','/templates/sigcampus/images/comoLlegarOff_f2.jpg',1);"><img   title="Visiting & getting around" alt="�Como llegar?" name="comoLlegarOff" src="/templates/sigcampus/images/comoLlegarOff.jpg" width="119" height="104" border="0" id="comoLlegarOff" alt="" /></a></div>
+<div id="servicios"><a href="/es/servicios" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('serviciosOff','','/templates/sigcampus/images/serviciosOff_f2.jpg',1);"><img title="Services" alt="Servicios del Campus" name="serviciosOff" src="/templates/sigcampus/images/serviciosOff.jpg" width="119" height="104" border="0" id="serviciosOff" alt="" /></a></div>
+<div id="recursos"><a href="/es/recursos" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('recursosOff','','/templates/sigcampus/images/recursosOff_f2.jpg',1);"><img title="Facilities" alt="Recursos Fisicos" name="recursosOff" src="/templates/sigcampus/images/recursosOff.jpg" width="119" height="104" border="0" id="recursosOff" alt="" /></a></div>
+<div id="historia"><a href="/es/historia" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('Historia','','/templates/sigcampus/images/Historia_f2.jpg',1);"><img title="History" alt="Historia" name="Historia" src="/templates/sigcampus/images/Historia.jpg" width="119" height="104" border="0" id="Historia" alt="" /></a></div>
+<div id="cifras"><a href="/es/campusencifras" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('cifrasOff','','/templates/sigcampus/images/cifrasOff_f2.jpg',1);"><img title="Facts and Figures" alt="El Campus en Cifras" name="cifrasOff" src="/templates/sigcampus/images/cifrasOff.jpg" width="119" height="104" border="0" id="cifrasOff" alt="" /></a></div>
+<div id="plan"><a href="/es/planes" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('planOff','','/templates/sigcampus/images/planOff_f2.jpg',1);"><img title="Campus planning" alt="Plan del Campus" name="planOff" src="/templates/sigcampus/images/planOff.jpg" width="119" height="104" border="0" id="planOff" alt="" /></a></div>
+<div id="solicitud"><a href="/es/solicitud" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('solicitud','','/templates/sigcampus/images/solicitud_f2.jpg',1);"><img title="Remote Request Information Form" alt="Solicitud de Informacion" name="solicitud" src="/templates/sigcampus/images/solicitud.jpg" width="119" height="104" border="0" id="solicitud" alt="" /></a></div>
+<div id="sistema"><a href="/es/sistemadeinformacion" onmouseout="MM_swapImgRestore();" onmouseover="MM_swapImage('sistemaOff','','/templates/sigcampus/images/sistemaOff_f2.jpg',1);"><img title="G.I.S." alt="Sistema de Informacion" name="sistemaOff" src="/templates/sigcampus/images/sistemaOff.jpg" width="119" height="104" border="0" id="sistemaOff" alt="" /></a></div>
+
+			  
+			</td>
+			</tr>
+	</table>	
+	</td>
+  <td width="10" class="rightmrg">
+  </tr>
+  <tr>
+      <td width="10" class="leftmrg" >&nbsp;</td>
+    <td colspan="2" class="footer">
+	<div id="menu_f" class="menu_f">
+		<table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap"><a href="http://actasyacuerdos.uniandes.edu.co/" class="mainlevel" >Normatividad</a><span class="mainlevel"> / </span><a href="http://apoyofinanciero.uniandes.edu.co/" class="mainlevel" >Apoyo Financiero</a><span class="mainlevel"> / </span><a href="http://registro.uniandes.edu.co/" class="mainlevel" >Admisiones</a><span class="mainlevel"> / </span><a href="http://biblioteca.uniandes.edu.co/" class="mainlevel" >Biblioteca</a><span class="mainlevel"> / </span><a href="http://www.uniandes.edu.co/la_universidad/documents/PDI2006-2010.pdf" class="mainlevel" >PDI</a><span class="mainlevel"> / </span><a href="https://planeacion.uniandes.edu.co/" class="mainlevel" >Estadísticas</a><span class="mainlevel"> / </span><a href="http://correo.uniandes.edu.co/" class="mainlevel" >E-Mail</a><span class="mainlevel"> / </span><a href="http://sicua.uniandes.edu.co/" class="mainlevel" >Sicua</a><span class="mainlevel"> / </span><a href="http://agenda.uniandes.edu.co/" class="mainlevel" >Agenda</a><span class="mainlevel"> / </span><a href="http://egresados.uniandes.edu.co/" class="mainlevel" >Egresados</a></td></tr></table>	
+	</div>	
+	<a href="http://gerenciacampus.uniandes.edu.co" target="_blank">Gerencia del Campus</a> - Universidad de los Andes | Carrera 1 N&deg; 18A 12 Bogot&aacute;, (Colombia) Tels: +[(57-1] 3394999 - 3394949 <br />
+    </td>
+  <td width="10" class="rightmrg">
+  </tr>
+  
+</table>
+  <map name="map_andes">
+    <area shape="rect" coords="10,8,200,70" href="http://www.uniandes.edu.co" alt="Universidad de los Andes">
+	<area shape="rect" coords="894,10,918,23" href="/es/faq" alt="F.A.Q" title="F.A.Q" >
+	<area shape="rect" coords="927,10,948,25" href="/es/contactenos" alt="Contactenos" title="Contactenos">
+	<area shape="rect" coords="954,10,972,25" href="/index.php?option=com_xmap&sitemap=1&Itemid=12" alt="Mapa del Sitio" title="Mapa del Sitio">
+	<area shape="rect" coords="830,70,972,85" href="http://gerenciacampus.uniandes.edu.co" alt="Gerencia del Campus" target="_blank">
+</map>  
+</p>
+</body>
+</html>
+<script type="text/javascript"> var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35175444-1']);
+  _gaq.push(['_setDomainName', 'uniandes.edu.co']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>

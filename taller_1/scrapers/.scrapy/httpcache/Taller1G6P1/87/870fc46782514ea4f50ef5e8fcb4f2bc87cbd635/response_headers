@@ -1,0 +1,18 @@
+Cache-Control: no-cache, no-store
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.5
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Ms-Request-Id: 5e7b369f-26be-4f1b-b804-5362fb620000
+P3P: CP="DSP CUR OTPi IND OTRi ONL FIN"
+Set-Cookie: buid=AQABAAEAAAA9kTklhVy7SJTGAzR-p1Bc7EpTuu3nYvH1bQnsYqaUxG-ecE0mlZFn7wfN14j7maYM3pOszJTl28NiCbIkUqf3hDVU6oXWfOw2TR6nxznl7ZbNoprajxCNcTKLuqoYljQgAA; expires=Sun, 08-Oct-2017 22:07:55 GMT; path=/; secure; HttpOnly
+Set-Cookie: esctx=AQABAAAAAAA9kTklhVy7SJTGAzR-p1BcEi9wV3F-ADZAnP38hgVRFOTWdJ3idd4TVwCXsdzOo8eEh9MaBhe6tdxx9HMtB35EF6j6RdwuKCmTIwDUzK-oAKzIHxIU6B65vQum7iDhjgTuRfxLXfUz23ByBZPuHmKLlBgUv3UwRCXRsQ5hFcZOgu74KSPaeOsXw80TC_o2c1ggAA; domain=.login.microsoftonline.com; path=/; secure; HttpOnly
+Set-Cookie: x-ms-gateway-slice=008; path=/; secure; HttpOnly
+Set-Cookie: stsservicecookie=ests; path=/; secure; HttpOnly
+X-Powered-By: ASP.NET
+Date: Fri, 08 Sep 2017 22:07:55 GMT

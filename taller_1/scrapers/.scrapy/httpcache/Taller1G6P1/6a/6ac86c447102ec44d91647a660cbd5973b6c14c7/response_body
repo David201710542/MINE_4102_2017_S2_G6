@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr" >
+<head>
+	<meta content="IE=9" http-equiv="X-UA-Compatible">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	<link rel="shortcut icon" href="/templates/modern-business/favicon.ico" type="image/x-icon" />	
+	  <base href="https://derecho.uniandes.edu.co/index.php" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="Derecho, Facultad de Derecho, derecho, facultad de derecho, universidad de los andes, Universidad de los Andes, uniandes, Uniandes, jurisprudencia, ley, leyes, decretos, justicia,cortes, enseñanza, enseñanza juridica, conocimiento juridico, concursos internacionales, programa socrates, paiis, gdip, cijus, CIJUS, PAIIS, GDIP, ciro angarita, Ciro Angarita, Consultorio Juridico, consultorio juridico, law, school law, abogado, abogados, abogada, abogadas, sentencias, sentencia, penal, procesal, internacional, familia, civil, privado, publico, constitucion, constitucional, administrativo, teoria juridica, GECTI, gecti, tics, penalista, laboral, Cifuentes, cifuentes, Cesar Rodriguez, cesar Rodriguez, pregrado derecho, pregrado Derecho, especializaciones derecho, doctorado derecho, maestria derecho, Escuela de Posgrados, escuela de posgrados, relatores tematicos, relatorias, carceles, juzgados, altas cortes, oficinas de abogados, posgrado derecho, Andes, andes, Los Andes, los andes, Eduardo Cifuentes, magistrado, investigacion, investigaciones, grupos de investigaciones, biblioteca juridica, publicaciones, asesores, asesor, jueces, juez, justicia y paz, eventos derecho, congresos, conversatorios, tertulias tributarias, seminarios" />
+  <meta name="title" content="Pregrado en Derecho" />
+  <meta name="author" content="Administrator" />
+  <meta name="description" content="Joomla! - el motor de portales din�micos y sistema de administraci�n de contenidos" />
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management" />
+  <title>Pregrado en Derecho</title>
+  <link href="/templates/modern-business/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1010" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1010" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="https://derecho.uniandes.edu.co/modules/mod_social/styles/social.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_rokajaxsearch/css/rokajaxsearch.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_rokajaxsearch/themes/light/rokajaxsearch-theme.css" type="text/css" />
+  <script type="text/javascript" src="/plugins/system/jcemediabox/js/mediaobject.js?v=1010"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/js/jcemediabox.js?v=1010"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/addons/default.js?v=1010"></script>
+  <script type="text/javascript" src="/plugins/system/jcemediabox/addons/twitter.js?v=1010"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript" src="/modules/mod_rokajaxsearch/js/rokajaxsearch.js"></script>
+  <script type="text/javascript" src="https://derecho.uniandes.edu.co/templates/facultaddederecho/javascript/jquery-1.5.1.min.js"></script>
+  <script type="text/javascript" src="https://derecho.uniandes.edu.co/modules/mod_ua_redes_sociales/js/script.js"></script>
+  <script type="text/javascript">
+	JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:680,height:390,legacy:0,lightbox:0,shadowbox:0,resize:1,icons:0,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'JCEMEDIABOX_CLOSE','next':'JCEMEDIABOX_NEXT','previous':'JCEMEDIABOX_PREVIOUS','cancel':'JCEMEDIABOX_CANCEL','numbers':'JCEMEDIABOX_NUMBERS'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"tc",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.swf').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});window.addEvent((window.webkit) ? 'load' : 'domready', function() {
+				window.rokajaxsearch = new RokAjaxSearch({
+					'results': ' Resultados',
+					'close': '',
+					'websearch': 1,
+					'blogsearch': 0,
+					'imagesearch': 0,
+					'videosearch': 0,
+					'imagesize': 'MEDIUM',
+					'safesearch': 'MODERATE',
+					'search': ' Buscar...',
+					'readmore': ' Leer más...',
+					'noresults': ' Sin resultados',
+					'advsearch': ' Búsqueda avanzada',
+					'page': ' Página',
+					'page_of': ' de',
+					'searchlink': 'https://derecho.uniandes.edu.co/index.php?option=com_search&amp;view=search&amp;tmpl=component',
+					'advsearchlink': 'https://derecho.uniandes.edu.co/index.php?option=com_search&amp;view=search',
+					'uribase': 'https://derecho.uniandes.edu.co/',
+					'limit': '10',
+					'perpage': '3',
+					'ordering': 'newest',
+					'phrase': 'any',
+					'hidedivs': '',
+					'includelink': 1,
+					'viewall': ' Ver todos los resultados',
+					'estimated': ' Estimado',
+					'showestimated': 1,
+					'showpagination': 1,
+					'showcategory': 1,
+					'showreadmore': 1,
+					'showdescription': 1
+				});
+			});
+  </script>
+  <meta property="og:description" content="https://derecho.uniandes.edu.co/index.php?option=com_content&view=article&id=401&Itemid=111&lang=es"/>
+  <meta property="og:url" content="https://derecho.uniandes.edu.co/index.php?option=com_content&view=article&id=401&Itemid=111&lang=es"/>
+
+	<link rel="stylesheet" href="/templates/modern-business/css/bootstrap.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/modern-business/css/modern-business.css" type="text/css" />
+	<link rel="stylesheet" href="/templates/modern-business/css/unify.css" type="text/css"  />
+	<link rel="stylesheet" href="/templates/modern-business/css/app.css" type="text/css"  />
+	<link rel="stylesheet" href="/templates/modern-business/css/custom.css" type="text/css"  />
+	<link rel="stylesheet" href="/templates/modern-business/font-awesome/css/font-awesome.min.css" type="text/css" media="Print" />
+			<!--[if lte IE 6]>
+		<link href="/templates/modern-business/css/ieonly.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+	<!--[if IE 7]>
+		<link href="/templates/modern-business/css/ie7only.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+        <script type="text/javascript" src="/templates/modern-business/js/jquery-1.8.0.js"></script>
+	<!--    <script type="text/javascript" src="/templates/modern-business/js/jquery-1.5.1.min.js"></script>-->
+
+	<script type="text/javascript" src="/templates/modern-business/js/bootstrap.js"></script>
+	<script type="text/javascript" src="/templates/modern-business/js/modern-business.js"></script>
+	<script type="text/javascript" src="/templates/modern-business/js/custom.js"></script>
+	<link rel="stylesheet" href="/templates/modern-business/css/start/jquery-ui-1.8.11.custom.css" type="text/css" />	
+	<script src="//code.jquery.com/ui/1.10.4/jquery-ui.js"></script>    
+    <script type="text/javascript" src="/templates/facultaddederecho/javascript/flexigrid.js"></script>
+	
+	<script type="text/javascript">
+		jQuery.noConflict();
+		$.noConflict();
+	</script>
+
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-17910273-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script>
+  // (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  // (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  // m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  // })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  // ga('create', 'UA-72961433-1', 'auto');
+  // ga('send', 'pageview');
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72954862-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-72950248-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KR8Z7VC');</script>
+<!-- End Google Tag Manager -->
+
+</head>
+<body>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KR8Z7VC"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NPG7BD"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NPG7BD');</script>
+<!-- End Google Tag Manager -->
+
+    <div class="container">    
+    <div id="header" class="header">
+				<style>
+    .twitter{
+        /*background: url("http://mashable.com/wp-content/themes/v7/img/external/blue_twitter_bird.png") no-repeat scroll -2px center, -moz-linear-gradient(#F6FAFD, #DBECF2) repeat scroll 0 0 transparent;*/
+        border-color: #C8E2EB;
+        color: #3E8399 !important;
+        text-shadow: -1px 1px white;
+    }
+</style>
+<div id="redes_sociales">
+
+        <div id="fb-root"></div>
+	
+	<div class="fb-like" data-href="https://derecho.uniandes.edu.co/index.php?option=com_content&view=article&id=401&Itemid=111&lang=es" data-send="false" data-layout="box_count" data-width="58" data-show-faces="true"></div>
+   
+        <div id="spacer"></div>
+        <a href="https://twitter.com/share" class="twitter-share-button twitter" data-url="https://derecho.uniandes.edu.co/index.php?option=com_content&view=article&id=401&Itemid=111&lang=es" data-counturl="https://derecho.uniandes.edu.co/index.php" data-lang="en" data-count="vertical">Tweet</a>
+        <div id="spacer"></div>
+        <!-- Coloca esta etiqueta donde quieras que se muestre el botón +1. -->
+    <g:plusone size="tall" href="https://derecho.uniandes.edu.co/index.php?option=com_content&view=article&id=401&Itemid=111&lang=es"></g:plusone>
+        <div id="spacer"></div>
+     </div>
+
+	
+	<nav  class="navbar navbar-default navbar-custom">  
+                <div class="row">
+                    <div class="col-lg-3 col-md-3 col-sm-3  col-xs-3  topbar-right padding-left-0 padding-right-0">
+                        <a class="navbar-brand navbar-brand-custom " href="http://www.uniandes.edu.co" target="_blank">
+                            <img id="logo-header" src="/templates/modern-business/images/logo.png" alt="Logo">
+                        </a>
+                    </div>
+                    <div class="col-lg-9 col-md-9 col-sm-9  col-xs-9   topbar-center">
+                        <div class="row">
+                            <div class="col-lg-4 col-md-6 col-sm-6 col-xs-8 pull-right input-search  padding-top-5 padding-right-5">                               
+								<form name="rokajaxsearch" id="rokajaxsearch" class="light" action="https://derecho.uniandes.edu.co/" method="get">
+<div class="rokajaxsearch">
+	<div class="roksearch-wrapper">
+		<input id="roksearch_search_str" name="searchword" type="text" class="inputbox" value=" Buscar..." />
+	</div>
+	<input type="hidden" name="searchphrase" value="any"/>
+	<input type="hidden" name="limit" value="20" />
+	<input type="hidden" name="ordering" value="newest" />
+	<input type="hidden" name="view" value="search" />
+	<input type="hidden" name="Itemid" value="99999999" />
+	<input type="hidden" name="option" value="com_search" />
+
+	
+	<div id="roksearch_results"></div>
+</div>
+<div id="rokajaxsearch_tmp" style="visibility:hidden;display:none;"></div>
+</form>                                                                                  
+                           </div>                           
+                        </div>
+                        <div class="row">
+                            <div class="col-xs-8 padding-left-0 ">
+                                <a class="text-logo" href="/">
+                                   <h2>Facultad de Derecho</h2>
+                                </a>     
+                            </div>
+                            <div class="col-xs-4 padding-top-10  padding-left-0 padding-right-5">
+								<div><a href="https://www.facebook.com/FacultadDeDerechoUniandes" target="_BLANK">
+<div class="social social_facebook"></div>
+</a> <a href="https://twitter.com/UniandesDerecho" target="_BLANK">
+<div class="social social_twitter"></div>
+</a> <a href="http://www.youtube.com/user/uniandes" target="_BLANK">
+<div class="social social_youtube"></div>
+</a></div>                                                                                  
+                            </div> 
+                        </div>    
+                        <div class="row   topbar-right-item">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12   padding-left-0  ">                                        
+                                <div class="topbar">
+                                    <div class="menu-topbar">
+                                        <ul class="menu loginbar pull-right"><li class="item9"><a href="https://derecho.uniandes.edu.co/"><span>INICIO</span></a></li><li class="item10"><a href="/es/contactenos"><span>CONTÁCTENOS</span></a></li><li class="item11"><a href="/es/faq"><span>FAQ</span></a></li><li class="item12"><a href="/es/mapa-del-sitio"><span>MAPA DEL SITIO</span></a></li><li class="item513"><a href="https://derecho.uniandes.edu.co/en"><span>ENGLISH</span></a></li></ul>	
+                                    </div>     
+                                </div>
+                            </div>     
+                        </div>    
+                    </div>    
+                </div>    
+	</nav >            
+         
+	<nav class="navbar navbar-default " role="navigation" >   
+
+
+            <div class="row  " >  
+                                <div class="mobile_nabvar">
+                    <button type="button" class="navbar-toggle pull-left">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="fa fa-bars"></span>
+                    </button>
+                </div>				
+				<div class="menu-collapse-pc">		  				
+							<div class="moduletable  collapse navbar-collapse navbar-ex1-collapse">
+					<ul class="menu  nav navbar-nav col-md-12"><li class="parent item2"><a href="/es/facultad"><span>Facultad</span></a></li><li class="parent active item3"><a href="/es/cursos-programas"><span>Programas y Cursos</span></a></li><li class="parent item4"><a href="/es/docencia"><span>Profesores</span></a></li><li class="parent item5"><a href="https://did.uniandes.edu.co/index.php/es/" target="_blank"><span>Investigación</span></a></li><li class="parent item6"><a href="/es/publicaciones"><span>Publicaciones</span></a></li><li class="parent item7"><a href="/es/impacto-social"><span>Impacto social</span></a></li><li class="parent item8"><a href="/es/egresado"><span>Egresados</span></a></li></ul>		</div>
+	 				
+					
+				
+
+            </div>    
+        </nav>    
+    </div>   
+    
+
+		     
+<div class="internal_content">
+
+<div class="section magin-top-0">
+    <div class="row">
+        <div class="col-lg-3  col-md-4 col-sm-6 col-xs-12  padding-left-0 padding-right-0 left_side_block">
+            		<div class="moduletable_menu">
+					<ul class="menu left-menu nav"><li id="current" class="parent active item111"><a href="/es/cursos-programas/pregrado"><span>Pregrado &gt;&gt;</span></a><ul><li class="parent item126"><a href="/es/cursos-programas/pregrado/areas"><span>Áreas académicas &gt;&gt;</span></a></li><li class="item135"><a href="/es/cursos-programas/pregrado/metodologia"><span>Metodología</span></a></li><li class="item138"><a href="/es/cursos-programas/pregrado/estructura-del-programa"><span>Estructura del programa</span></a></li><li class="parent item142"><a href="/es/cursos-programas/pregrado/proceso-de-grado"><span>Proceso de grado &gt;&gt;</span></a></li><li class="parent item119"><a href="/es/cursos-programas/pregrado/apoyo-al-estudiante"><span>Apoyo al estudiante &gt;&gt;</span></a></li></ul></li><li class="parent item506"><a href="/es/cursos-programas/publicaciones-academicas"><span>Publicaciones académicas (pregrado) &gt;&gt;</span></a></li><li class="parent item147"><a href="/es/cursos-programas/escuela-de-posgrados"><span>Escuela de Posgrados 2017 &gt;&gt;</span></a></li><li class="item222"><a href="/es/cursos-programas/opciones-en-derecho"><span>Opciones en Derecho</span></a></li><li class="parent item223"><a href="/es/cursos-programas/cursos-para-otras-facultades"><span>Cursos para otras facultades &gt;&gt;</span></a></li><li class="item237"><a href="/es/cursos-programas/educacion-continuada"><span>Educación Continuada</span></a></li></ul>		</div>
+			<div class="moduletable_menu">
+					<h3>ENLACES DE INTERÉS</h3>
+					<ul class="menu left-menu"><li class="item537"><a href="/es/facultad/noticias"><span>Más noticias de la Facultad</span></a></li><li class="active item514"><a href="/es/cursos-programas/pregrado"><span>Pregrado</span></a></li><li class="item515"><a href="/es/cursos-programas/escuela-de-posgrados"><span>Escuela de Posgrados</span></a></li><li class="item516"><a href="/es/cursos-programas/publicaciones-academicas"><span>Publicaciones académicas</span></a></li><li class="item517"><a href="/es/docencia/profesores-de-planta"><span>Profesores de planta</span></a></li><li class="item524"><a href="/es/investigaciones/direccion-de-investigaciones/politica-de-investigacion"><span>Política de Investigación</span></a></li><li class="item525"><a href="/es/cursos-programas/educacion-continuada"><span>Educación Contínuada</span></a></li><li class="item526"><a href="/es/impacto-social/consultorio-juridico-"><span>Consultorio Jurídico</span></a></li><li class="item528"><a href="/es/periodico-al-derecho"><span>Periódico Al Derecho</span></a></li><li class="item529"><a href="/es/egresado/ofertas-laborales"><span>Ofertas laborales</span></a></li><li class="item530"><a href="/es/facultad/oportunidades-internacionales"><span>Oportunidades Internacionales</span></a></li><li class="item531" /><li class="item532"><a href="https://libreria.uniandes.edu.co/" target="_blank"><span>Adquiera nuestras publicaciones</span></a></li></ul>		</div>
+			<div class="moduletable_menu">
+					<h3>INFORMACIÓN PARA</h3>
+					<ul class="menu left-menu"><li class="item15"><a href="/es/aspirantes"><span>Aspirantes</span></a></li><li class="item16"><a href="/es/estudiantes"><span>Estudiantes</span></a></li><li class="item17"><a href="/es/profesores"><span>Profesores</span></a></li><li class="item18"><a href="/es/egresados"><span>Egresados</span></a></li></ul>		</div>
+			<div class="moduletable publication-responsive">
+					<div class="row white-custom-panel publication-responsive">
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-6 padding-left-5"><a href="/es/ano-2010/193-mayo/2265-reacreditado-programa-de-derecho-por-10-anos"><img style="height: auto;" src="/images/stories/publicaciones/BotonAcreditacion10.jpg" alt="BotonAcreditacion10" width="92" height="95" /></a></div>
+<div class="col-lg-6 col-md-6 col-sm-12 col-xs-6 padding-right-5 padding-bottom-5"><a href="/es/component/content/article/449-enlaces-universidad-de-los-andes"> <img style="height: auto;" src="/images/stories/publicaciones/img-publicaciones-small-1.png" alt="img-publicaciones-small-1" /> </a> <a href="/es/facultad/busqueda-gaceta"> <img style="height: auto;" src="/images/stories/publicaciones/img-punlicaciones-small-2.png" alt="img-punlicaciones-small-2" /> </a> <a rel="{handler: 'iframe', size: {x: 575, y: 450}}" href="/es/component/content/article/447-enlaces-facultad-de-derecho"> <img style="height: auto;" src="/images/stories/publicaciones/img-publicaciones-small-3.png" alt="img-publicaciones-small-3" /> </a></div>
+</div>		</div>
+		
+        </div>
+        <div class="col-lg-9 col-md-8 col-sm-6 col-xs-12 center_side padding-left-5 padding-right-0">
+						            <table class="contentpaneopen">
+<tr>
+		<td class="contentheading content-title" width="100%">
+					Pregrado en Derecho			</td>
+		
+</tr>
+</table>
+
+<table class="contentpaneopen">
+
+
+
+<tr>
+<td valign="top">
+
+
+<img  src='https://derecho.uniandes.edu.co/images/stories/programas_academicos/Pregrado.jpg' class='img_front' /><div class="content-text"> <div id="tituloart"><span class="primera"><br /></span></div>
+<div style="text-align: justify;"><br />
+<div>
+<table style="margin-left: auto; margin-right: auto;" border="0" cellspacing="4">
+<tbody>
+<tr>
+<td style="background-color: #e6efef; text-align: center;"><strong><br />Tipo de formación académica: </strong>pregrado<br />&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #e6efef; text-align: center;"><strong><br />Código SNIES:</strong>&nbsp;1533<br /><br /></td>
+</tr>
+<tr>
+<td style="background-color: #e6efef; text-align: center;"><strong><br />Registro calificado:</strong> otorgado por el Ministerio de Educación Nacional mediante Resolución 16455 del 13 de diciembre de 2012, por siete años.<br /><br /></td>
+</tr>
+<tr>
+<td style="background-color: #e6efef; text-align: center;"><strong><br />Acreditación de alta calidad:</strong> otorgada por el Ministerio de Educación Nacional mediante Resolución 3982 del 18 de abril de 2012, por diez años.<br /><br /></td>
+</tr>
+<tr>
+<td style="background-color: #e6efef; text-align: center;"><strong><br />Tiempo de duración:</strong>&nbsp;5 años (10 semestres)<br /><br /></td>
+</tr>
+<tr>
+<td style="background-color: #e6efef; text-align: center;"><strong><br />Modalidad: </strong>presencial<br />&nbsp;</td>
+</tr>
+<tr>
+<td style="background-color: #e6efef; text-align: center;"><strong><br />Lugar de desarrollo del programa:&nbsp;</strong>Universidad de los Andes, Cra 1 Nº 18A- 12, Bogotá D.C.<br />&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<div style="text-align: justify;"><br />La Facultad de Derecho de la Universidad de los Andes inició labores en 1968 como el primer Programa de Derecho por semestres en Colombia.&nbsp;Su espíritu de vanguardia en la enseñanza de esta disciplina se caracteriza por una educación que le permite al estudiante la formación de un criterio jurídico, dejando de lado los procesos memorísticos.<br /><br /><strong>El Programa de Derecho está estructurado en tres ciclos:</strong></div>
+<ul>
+<li style="text-align: justify;">Contextualización.</li>
+<li style="text-align: justify;">Formación jurídica básica.</li>
+<li style="text-align: justify;">Concentración</li>
+</ul>
+<p style="text-align: justify;">Este sistema permite un alto grado de interacción de materias entre un semestre y otro y contribuye a la contextualización del derecho en la realidad colombiana.<br /><br /><strong>Lo componen 10 áreas académicas:</strong></p>
+<ul>
+<li style="text-align: justify;">Educación Jurídica</li>
+<li style="text-align: justify;">Derecho Laboral</li>
+<li style="text-align: justify;">Derecho Internacional</li>
+<li style="text-align: justify;">Derecho Penal, Procesal Penal y Criminología</li>
+<li style="text-align: justify;">Derecho Privado</li>
+<li style="text-align: justify;">Derecho Procesal</li>
+<li style="text-align: justify;">Derecho Público Administrativo</li>
+<li style="text-align: justify;">Derecho Público Constitucional</li>
+<li style="text-align: justify;">Teoría Jurídica</li>
+<li style="text-align: justify;">Constitución y Democracia</li>
+</ul>
+<div style="text-align: justify;"></div>
+<div>
+<table style="width: 645px;" border="1" align="center">
+<tbody>
+<tr>
+<td style="text-align: center;"><a href="https://derecho.uniandes.edu.co/images/stories/pdf/Polticas_para_la_realizacin_de_pruebas_acadmicas_Facultad_de_Derecho.pdf" target="_blank"><strong>Políticas para la realización de pruebas académicas</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div>
+<p style="text-align: center;"> </p>
+<ul>
+</ul>
+</div>
+</div></div></td>
+</tr>
+
+</table>
+
+<table id="iconos">
+<tr>
+		
+				<td align="left" width="71px" class="buttonheading">
+		<a href="/es/component/mailto/?tmpl=component&amp;link=aHR0cDovL2RlcmVjaG8udW5pYW5kZXMuZWR1LmNvL2VzL2N1cnNvcy1wcm9ncmFtYXMvcHJlZ3JhZG8%3D" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/images/M_images/emailButton.png" alt="E-mail"  /></a>		</td>
+				
+
+				<td align="left" width="90px" class="buttonheading">
+		<a href="/es/cursos-programas/pregrado?tmpl=component&amp;print=1&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/printButton.png" alt="Imprimir"  /></a>		</td>
+						<td align="left" width="4%" class="buttonheading"> 
+		<a href="/es/cursos-programas/pregrado?format=pdf" title="PDF" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/images/M_images/pdf_button.png" alt="PDF"  /></a>		
+		</td> 
+		<td align="left" width="100%" class="buttonheading">
+		</td> 
+		
+				 
+		
+			
+	</tr>
+</table>
+<!--span class="article_separator">&nbsp;</span-->
+
+											<div id="compartir" class="compartir">
+										<div class="moduletable">
+					
+
+<div id="social">
+	<ul>        <script>
+            function fbs_click() {
+                u=location.href;
+                t=document.title;
+                window.open('https://www.facebook.com/sharer.php?u='+encodeURIComponent(u)+'&t='+encodeURIComponent(t),'sharer','toolbar=0,status=0,width=626,height=436');
+                return false;
+            }
+        </script>
+
+
+        <li style="list-style: none;">
+					<a href="http://twitter.com/home?status=Pregrado en Derecho+/+http%3A%2F%2Fderecho.uniandes.edu.co%2Findex.php%3Foption%3Dcom_content%26amp%3Bview%3Darticle%26amp%3Bid%3D401" target="_blank" rel="nofollow" title="Twitter"><img src="/modules/mod_social/twitter.gif" width="16" height="16" border="0" hspace="0" alt="Twitter" /></a>
+				</li>        <li style="list-style: none;">
+            <a href="https://www.facebook.com/sharer.php?s=100&p[medium]=106&p[title]=Pregrado en Derecho&p[summary]=&p[url]=http%3A%2F%2Fderecho.uniandes.edu.co%2Findex.php%3Foption%3Dcom_content%26amp%3Bview%3Darticle%26amp%3Bid%3D401&p[images][0]=&p[image_source][0]="target='_blank' class='fb_share_link'">
+                <img src="/modules/mod_social/facebook.gif" alt="Facebook" title="Facebook" align="left" border="0" height="16" hspace="0" width="16" /> 
+            </a>
+        </li>
+
+        				<li style="list-style: none;">
+					<iframe src="https://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fderecho.uniandes.edu.co%2Findex.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D401%26Itemid%3D111%26lang%3Des &amp;layout=button_count&amp;show_faces=true&amp;width=150&amp;action=like&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:20px"></iframe>
+			 </li>
+
+			
+	</ul> </div> 			
+ 
+		</div>
+	
+							</div>								
+					
+							
+										
+        </div>             
+    </div>    
+</div>
+<!-- /.section --></div>
+                         
+
+		<div id="footer">
+											<p style="text-align: center;"><span style="font-size: 10pt;">Universidad de los Andes | Vigilada Mineducación</span><br /><span style="font-size: 10pt;"> Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.</span><br /><span style="font-size: 10pt;">Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.</span><br /><span style="font-size: 10pt;">Carrera 1# 18A-10, Edificio RGC, 2do piso. Bogotá, (Colombia) Tel:(57-1) 3394949 | Facultad de Derecho - Copyright ©</span><br /><br /></p>
+								
+		
+                    
+                    <div class="wrap"></div>
+		</div><!-- footer -->
+    <!-- /.container -->
+
+    <!-- JavaScript -->
+	<script type="text/javascript">
+		jQuery(function(){
+			var iconos = jQuery("#iconos").clone(true);
+			var compartir = jQuery("#compartir").clone(true);
+			jQuery("#iconos").remove();
+			jQuery("#compartir").remove();
+			jQuery(".center_side").append(iconos);
+			jQuery(".center_side").append(compartir);
+		});
+	</script>
+    </div>
+</body>
+</html>

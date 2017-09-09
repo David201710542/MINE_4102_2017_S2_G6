@@ -1,0 +1,311 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <base href="https://matriculas.uniandes.edu.co/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="keywords" content="" />
+  <meta name="rights" content="" />
+  <meta name="language" content="es-ES" />
+  <meta name="generator" content="Joomla! 1.6 - Open Source Content Management" />
+  <title>Inicio</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/templates/matriculas/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/modules/mod_djmenu/assets/css/djmenu.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_djmenu/assets/css/djmenu_fx.css" type="text/css" />
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/modules/mod_djmenu/assets/js/dropline-helper.js" type="text/javascript"></script>
+  <script src="/modules/mod_djmenu/assets/js/djmenu.js" type="text/javascript"></script>
+  <script type="text/javascript">
+
+	(function($){ // Mootools Safe Mode ON
+	
+	window.addEvent('domready',function(){
+		var DJMenusAll = $$('#dj-main89 li.dj-up');
+		var wrapper = $('');
+		DJMenusAll.each(function(djmenu){
+			if(djmenu.getElement('.dj-drop')) {
+				DJMenus.include(new DJMenu(djmenu,0,wrapper,{transition: 'cubic:out', duration: 200, delay: 1200,
+		height_fx: true, width_fx: true, opacity_fx: true, mid: 89,
+		height_fx_sub: true, width_fx_sub: true, opacity_fx_sub: true }));
+			} else {
+				djmenu.addEvent('mouseenter',function(){
+					djmenu.addClass('hover');
+				});
+				djmenu.addEvent('mouseleave',function(){
+					djmenu.removeClass('hover');
+				});
+			}
+		});		
+	});
+	
+	})(document.id);
+  </script>
+
+<title>Portal de Matriculas</title>
+<!-- link href="/templates/matriculas/css/style.css" rel="stylesheet" type="text/css" />
+<link href="/templates/matriculas/css/style2.css" rel="stylesheet" type="text/css" / -->
+<script src="/templates/matriculas/js/swfobject_modified.js" type="text/javascript"></script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-88625311-5', 'auto');
+  ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+		<div class="module">
+			<div>
+				<div>
+					<div>
+											<link href="/templates/matriculas/css/style.css" rel="stylesheet" type="text/css" />					</div>
+				</div>
+			</div>
+		</div>
+	
+<div id="backbody">
+  <div id="main">
+    <div class="main-logo">  
+        <a href="http://www.uniandes.edu.co"><img src="/templates/matriculas/images/logo.jpg" border="0" /></a></div>
+       
+    <div class="main-tex">
+    <a href="/"><img src="/templates/matriculas/images/tex_cabezote.png" border="0" /></a></div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<div id="imagen-banner"><img src="/templates/matriculas/images/banner_fotografia2.png" border="0" /></div>					</div>
+				</div>
+			</div>
+		</div>
+	
+  </div>
+   <div id="menu-iconos">
+   	<div id="menu1">
+    <ul>
+    	<li><a class="tooltip" href="/"><span>Home</span>
+        <img src="/templates/matriculas/images/icono_menu1.jpg" border="0" /></a>
+        </li>
+        <li><a  class="tooltip" href="/index.php/preguntas-frecuentes">
+        <span>Preguntas</span>
+        <img src="/templates/matriculas/images/icono_menu2.jpg" border="0" /></a>
+        </li>
+        <li>
+       <a class="tooltip" href="mailto:matriculas@uniandes.edu.co"> 
+       <span>Escr&iacute;banos</span>
+       <img src="/templates/matriculas/images/icono_menu3.jpg" border="0" /></a>
+        </li>
+        <li>
+        <a class="tooltip" href="/index.php/mapa-sitio">
+        <span>Informaci&oacute;n</span>
+        <img src="/templates/matriculas/images/icono_menu4.jpg" border="0" /></a>
+        </li>
+    
+    </ul>
+    </div>
+  </div>
+  <div id="contenido">
+	<div id="menuhorizontal">
+		<div id="menu_principal">
+		<ul id="dj-main89" class="dj-main"><li class="dj-up itemid471 first"><a href="/index.php/pregrado" class="dj-up_a" ><span class="dj-drop" >Pregrado</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid475 first"><a href="/index.php/pregrado/valoresmatriculapregrado2016" class="" >Valores Matrícula 2017</a></li>
+<li class="itemid476"><a href="/index.php/pregrado/fechaspagopregrado2017" class="" >Fechas de Pago 2017</a></li>
+<li class="itemid478"><a href="/index.php/pregrado/cronogramapregrado2017" class="" >Cronograma 2017</a></li>
+<li class="itemid474 last"><a href="/index.php/pregrado/reglamentos-pregrado" class="" >Reglamentos</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid472"><a href="/index.php/maestria" class="dj-up_a" ><span class="dj-drop" >Maestria</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid485 first"><a href="/index.php/maestria/valoresmatricula-maest2017" class="" >Valores Matrícula 2017</a></li>
+<li class="itemid486"><a href="/index.php/maestria/fechaspago-maest2017" class="" >Fechas de Pago 2017</a></li>
+<li class="itemid488"><a href="/index.php/maestria/cronograma2017-maest" class="" >Cronograma 2017</a></li>
+<li class="itemid484 last"><a href="/index.php/maestria/reglamentos-maest" class="" >Reglamentos</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid490"><a href="/index.php/doctorado" class="dj-up_a" ><span class="dj-drop" >Doctorado</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid492 first"><a href="/index.php/doctorado/valoresmatricula-doc" class="" >Valores Matrícula 2017</a></li>
+<li class="itemid493"><a href="/index.php/doctorado/fechaspago-doc" class="" >Fechas de Pago 2017</a></li>
+<li class="itemid495"><a href="/index.php/doctorado/cronograma2014-doc" class="" >Cronograma 2017</a></li>
+<li class="itemid491 last"><a href="/index.php/doctorado/reglamentos-doc" class="" >Reglamentos</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid473"><a href="/index.php/especializaciones" class="dj-up_a" ><span class="dj-drop" >Especializaciones</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid480 first"><a href="/index.php/especializaciones/valoresmatricula-esp" class="" >Valores de Matrícula 2017</a></li>
+<li class="itemid481"><a href="/index.php/especializaciones/fechaspago-esp" class="" >Fechas de Pago 2017</a></li>
+<li class="itemid483"><a href="/index.php/especializaciones/cronogramaesp" class="" >Cronograma 2017</a></li>
+<li class="itemid479 last"><a href="/index.php/especializaciones/reglamentos-esp" class="" >Reglamentos</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid504"><a href="/index.php/extension" class="dj-up_a" ><span class="dj-drop" >Cursos de Extensión</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid514 first"><a href="/index.php/extension/cursos-extension" class="" >Valores 2017</a></li>
+<li class="itemid536"><a href="/index.php/extension/fechasdepagoextension" class="" >Fechas de Pago 2017</a></li>
+<li class="itemid513"><a href="/index.php/extension/extension-cronograma-201320" class="" >Cronograma 2017</a></li>
+<li class="itemid505 last"><a href="/index.php/extension/reglamentos" class="" >Reglamentos</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid508"><a href="/index.php/menu-vacaciones" class="dj-up_a" ><span class="dj-drop" >Vacaciones</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid533 first"><a href="/index.php/menu-vacaciones/valores201319" class="" >Valores 2017-19</a></li>
+<li class="itemid506"><a href="/index.php/menu-vacaciones/fechasvacaciones" class="" >Fechas de Pago 2017-19</a></li>
+<li class="itemid509"><a href="/index.php/menu-vacaciones/vacaciones-cronograma" class="" >Cronograma 2017-19</a></li>
+<li class="itemid531 last"><a href="/index.php/menu-vacaciones/reglamentos" class="" >Reglamentos</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid507 last"><a href="/index.php/intersemestrales" class="dj-up_a" ><span class="dj-drop" >Cursos de Verano</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid535 first"><a href="/index.php/intersemestrales/valoresverano" class="" >Valores 2017-18</a></li>
+<li class="itemid534"><a href="/index.php/intersemestrales/fechasverano2014" class="" >Fechas de Pago 2017-18</a></li>
+<li class="itemid511"><a href="/index.php/intersemestrales/verano-cronograma" class="" >Cronograma 2017-18</a></li>
+<li class="itemid510 last"><a href="/index.php/intersemestrales/reglamentos" class="" >Reglamentos</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+</ul>
+		</div>
+	</div>
+  	<div id="cont-text">
+	
+	<div class="blog-featured">
+
+<div class="items-leading">
+			<div class="leading-0">
+			
+
+
+	
+
+
+	
+
+<div class="rec_cont1">
+	<img alt="" border="0" src="/templates/matriculas/images/btn_recomendaciones.jpg" />
+	<p>
+		Si va realizar el pago de su matr&iacute;cula en l&iacute;nea tenga en cuenta la siguiente informaci&oacute;n:&nbsp;</p>
+	<p>
+		<a href="/index.php/recomendaciones" style="font-weight: bold; text-align: right;">Ver Mas...</a></p>
+	<p>
+		<a href="http://www.icetex.gov.co/dnnpro5/es-co/cr%C3%A9ditoeducativo/pregrado/serpilopaga2.aspx" style="line-height: 15.808px; font-size: 11.8182px;" target="_blank"><img alt="ser-pilo-paga" height="61" src="/images/ser-pilo-paga.jpg" width="173" /></a></p>
+	<p>
+		&nbsp;</p>
+</div>
+<div class="rec_cont2">
+	<img alt="" border="0" src="/templates/matriculas/images/importante.jpg" />
+	<p>
+		<span style="line-height: 1.3em;">1.&nbsp;</span><strong><a href="https://matriculas.uniandes.edu.co/index.php/pregrado/fechaspagopregrado2017">Cronograma de Matr&iacute;culas</a></strong></p>
+	<p>
+		2. Tips: Proceso de matr&iacute;cula</p>
+	<p>
+		&nbsp; &nbsp; &nbsp;<a href="/index.php/procedimiento-para-facilitar-el-proceso" style="font-weight: bold;">Ver mas...</a></p>
+	<p>
+		3.&nbsp;<strong><a href="/index.php/formas-de-pago-o-legalizacion-de-matriculas">Formas de pago o legalizaci&oacute;n de matr&iacute;culas</a></strong></p>
+	<p>
+		4.&nbsp;<strong><a href="/index.php/informacion-sobre-otros-procesos">Informaci&oacute;n otros procesos</a></strong></p>
+	<p>
+		&nbsp;</p>
+</div>
+<div class="rec_cont2">
+	<img alt="" border="0" src="/templates/matriculas/images/btn_novedades.jpg" style="line-height: 1.3em;" />
+	<p>
+		<span style="font-family: %value;">Ahora el pago del cr&eacute;dito educativo adquirido con Fiducolombia (Fideicomiso Fondo Educativo Universidad de los Andes), lo puedes realizar a trav&eacute;s del bot&oacute;n de pagos PSE.</span><br />
+		<img alt="logo u pse" height="68" src="/images/logo_u_pse.jpg" width="138" /><br />
+		<strong><a href="/index.php/pse">Ver Mas...</a></strong></p>
+</div>
+<div class="rec_cont3">
+	<div class="rec_cont3">
+		<img alt="" border="0" src="/templates/matriculas/images/btn_devoluciones.png" />
+		<p>
+			Para solicitar su devoluci&oacute;n&nbsp;<span style="font-size: 12.16px; line-height: 15.808px;">debe primero realizar el retiro acad&eacute;mico de las materias y luego&nbsp;</span><span style="font-size: 12.16px; line-height: 1.3em;">diligenciar y enviar los siguientes formatos: </span><a href="/images/formatos/Formato_Devoluciones.pdf" style="font-weight: bold; text-align: right;" target="_blank">Devoluciones</a><span style="font-size: 12.16px; line-height: 1.3em;">&nbsp;y </span><a href="/images/formato%20autorizacin%20para%20transferencia%20electrnica.pdf" style="font-weight: bold; text-align: right;" target="_blank">Autorizaci&oacute;n</a><span style="font-size: 12.16px; line-height: 1.3em;">. </span></p>
+		<p>
+			<span style="font-size: 12.16px; line-height: 1.3em;">Lo anterior se regir&aacute; basado en las pol&iacute;ticas establecidas en el Reglamento de Matr&iacute;culas y Devoluciones.&nbsp;</span><a href="/index.php/devoluciones" style="font-weight: bold; text-align: right;">Ver Mas...</a></p>
+		<p>
+			<b style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: normal; text-align: center;"><span style="font-size: 8pt; font-family: 'Century Gothic', sans-serif; color: #c45911;">&nbsp;</span></b></p>
+	</div>
+</div>
+
+
+
+<div class="item-separator"></div>
+
+		</div>
+			</div>
+
+
+
+</div>
+
+
+
+		<div class="cont4">
+				<div class="module">
+			<div>
+				<div>
+					<div>
+											<div class="field-wrapper"><form id="logonForm" method="post" name="logonForm" action="https://autoservicio.uniandes.edu.co/irj/portal" target="_self">
+<p class="first-column">Usuario</p>
+<br /><br /><input id="logonuidfield" style="width: 60px;" class="urEdfTxtEnbl" title="Usuarios *" value="" name="j_username" type="text" />@uniandes.edu.co<br /><br />
+<p style="float: left;" class="inner-column">Contraseña</p>
+<br /><br /><input id="logonpassfield" class="urEdfTxtEnbl" name="j_password" type="password" /><br /><small><a href="https://cuenta.uniandes.edu.co/" target="_blank">¿Olvidó su contraseña?</a></small><br /><br /><input name="button" id="button" value="Enviar" class="urEdfTxtEnbl" type="submit" /></form></div>					</div>
+				</div>
+			</div>
+		</div>
+			<div class="module">
+			<div>
+				<div>
+					<div>
+											<p><span style="color: #000000; font-family: Arial, Helvetica, sans-serif; line-height: normal; text-align: justify;">Si usted desea conocer cómo funciona la&nbsp;página de matrícula puede dar&nbsp;<a href="/video/"></a></span><a href="https://matriculas.uniandes.edu.co/video/" target="_self"><span style="font-family: Arial, Helvetica, sans-serif; line-height: normal; text-align: justify; color: #ff0000;"><span style="text-decoration: underline;"><span style="color: #ff0000;">CLIC AQUÍ</span></span></span></a></p>					</div>
+				</div>
+			</div>
+		</div>
+	
+	</div>
+						<div class="module">
+			<div>
+				<div>
+					<div>
+											<div id="banner-flash"><br /><a href="/index.php/quiero-estudiar"><img src="/images/750x115-bannermatriculas.jpg" alt="" width="750" height="110" /></a><br /> <!--<![endif]--></div>					</div>
+				</div>
+			</div>
+		</div>
+	
+	  	</div>
+	<div class="linea">
+		<span>COPYRIGHT &copy; 2012 - Universidad de los Andes</span>
+<p style="text-align:center">Universidad de los Andes | Vigilada Mineducación<br />
+  Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br />
+  Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.
+</p>
+        
+	</div>
+	</div>
+</div>
+<script type="text/javascript">
+swfobject.registerObject("FlashID");
+</script>
+</body>
+</html>

@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"  lang="en-gb"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"  lang="en-gb"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"  lang="en-gb"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-gb"> <!--<![endif]-->
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <base href="https://civil.uniandes.edu.co/en/pregrado/ingenieria-civil" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>404 - Error: 404</title>
+  <link href="https://civil.uniandes.edu.co/en/home" rel="canonical" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/bootstrap-responsive.min.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/helix/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/helix/css/mobile-menu.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/error.css" type="text/css" />
+  <style type="text/css">
+.container{max-width:1100px}
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/modernizr-2.6.2.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/helix.core.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/menu.js" type="text/javascript"></script>
+  <script type="text/javascript">
+spnoConflict(function($){
+
+					function mainmenu() {
+						$('.sp-menu').spmenu({
+							startLevel: 0,
+							direction: 'ltr',
+							initOffset: {
+								x: 0,
+								y: 0
+							},
+							subOffset: {
+								x: 0,
+								y: 0
+							},
+							center: 0
+						});
+			}
+
+			mainmenu();
+
+			$(window).on('resize',function(){
+				mainmenu();
+			});
+
+
+			});
+  </script>
+</head>
+<body class="category homepage  ltr preset1 menu-home responsive bg clearfix">
+	<div id="error-page" class="container">
+		<div>
+			<h1 class="error-code">404</h1>
+			<p class="error-message">
+				Category not found<br />
+				Go Back <a href="/index.php" title="Home"><i class="icon-home"></i> Home</a>
+			</p>
+		</div>
+	</div>
+</body>
+</html>

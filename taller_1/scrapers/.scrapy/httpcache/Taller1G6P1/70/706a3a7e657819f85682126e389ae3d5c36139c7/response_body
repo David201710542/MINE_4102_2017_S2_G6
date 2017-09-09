@@ -1,0 +1,168 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+    	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<link href="css/estilos.css" rel="stylesheet" type="text/css" media="all">
+        <script language="JavaScript1.2" src="js/funciones.js"></script>
+    	<title>Directorio - Universidad de los Andes</title>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-35175444-1']);
+  _gaq.push(['_setDomainName', 'uniandes.edu.co']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+    </head>
+    <body>
+    	<table width="800">
+        	<tr>
+            	<td colspan="2" class="banner">
+                	<img src="images/banner.jpg" />
+                </td>
+            </tr>
+            <tr>
+            	<td class="menu">
+                	<table class="plantilla">
+                    	<tr>
+                        	<td class="tl">&nbsp;</td>
+                            <td class="mc">&nbsp;</td>
+                            <td class="tr">&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td class="ml">&nbsp;</td>
+                            <td class="mc">
+                                                        	
+                                <form action="index.php" id="frmlogin" method="post" onsubmit="return ValidarLogin()">
+								<table>
+                                	<tr>
+                                    	<td>
+                                    		<span class="campo">Usuario:</span>
+                                        </td>
+                                        <td>
+                                    		<input id="login" name="login" type="text" value="" size="10" />
+                                        </td>
+									</tr>
+                                    <tr>
+                                    	<td>
+                                    		<span class="campo">Contrase&ntilde;a:</span>
+                                    	</td>
+                                        <td>
+                                        	<input id="password" name="password" type="password" value="" size="10" />
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                    	<td colspan="2">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                    	<td colspan="2">
+                                    		&nbsp;                                    	</td>
+                                    </tr>
+                                    <tr>
+                                    	<td colspan="2">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                    	<td colspan="2" align="center"><input type="submit" value="Iniciar sesi&oacute;n" class="boton" /></td>
+                                    </tr>
+								</table>	
+                                </form>
+                                
+							                            </td>
+                            <td class="mc">&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td class="bl">&nbsp;</td>
+                            <td class="mc">&nbsp;</td>
+                            <td class="br">&nbsp;</td>
+                        </tr>
+                    </table>
+                </td>
+                <td class="contenido">
+                	<table class="plantilla">
+                    	<tr>
+                        	<td class="tl">&nbsp;</td>
+                            <td class="mc">&nbsp;</td>
+                            <td class="tr">&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td class="ml">&nbsp;</td>
+                            <td class="mc">
+							                                <br />
+                                <br />
+                                <span class="descripcion"><center>
+                                Bienvenido al directorio de contactos de la Universidad de Los Andes. Aqu&iacute; podr&aacute; encontrar informaci&oacute;n institucional sobre estudiantes, profesores y empleados.
+                                <br />
+                                <br />
+								Para ingresar, utilice el nombre de usuario y contrase&ntilde;a de su cuenta Uniandes.
+                                <br />
+                                <br />
+                                (Servicio exclusivo para miembros de la comunidad Uniandina).
+                                </center>
+								</span>
+                                
+
+                                <!--
+                            	<br />
+                            	<span class="texto">El directorio presenta informaci&oacute;n sobre estudiantes, empleados, profesores y departamentos. Si son encontradas m&aacute;s de dos entradas por cada b&uacute;squeda, los resultados son presentados en una tabla.</span>
+                                <br />
+                                <br />
+								<table class="plantilla">
+                                    <tr>
+                                        <td class="campo">NOMBRE</td>
+                                        <td class="campo">TEL&Eacute;FONO</td>
+                                        <td class="campo">E-MAIL</td>
+                                        <td class="campo">DEPENDENCIA</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="valor"><a href="#">Alexandra Vivanco </a></td>
+                                        <td class="valor">2000002</td>
+                                        <td class="valor"><a href="mailto:noexiste@uniandes.edu.co">avivanco@uniandes.edu.co</a></td>
+                                        <td class="valor">Ciencia Pol&iacute;tica</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="valor"><a href="#">Jane Castle</a></td>
+                                        <td class="valor">0000000</td>
+                                        <td class="valor"><a href="mailto:janecastle@uniandes.edu.co">janecastle@uniandes.edu.co</a></td>
+                                        <td class="valor">Departamento de Ingenier&iacute;a de Sistemas</td>
+                                    </tr>
+                                    <tr>
+                                        <td class="valor"><a href=\"#\">Quincy Castlegate</a></td>
+                                        <td class="valor">0000000</td>
+                                        <td class="valor"><a href=\"mailto:quincy@uniandes.edu.co\">quincy@uniandes.edu.co</a></td>
+                                        <td class="valor">Rector&iacute;a</td>
+                                    </tr>
+                                    <tr>
+                                        <td width="20%">&nbsp;</td>
+                                        <td width="10%">&nbsp;</td>
+                                        <td width="15%">&nbsp;</td>
+                                        <td>&nbsp;</td>
+                                    </tr>
+								</table>-->
+
+                   			</td>
+                            <td class="mc">&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td class="bl">&nbsp;</td>
+                            <td class="mc">&nbsp;</td>
+                            <td class="br">&nbsp;</td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+            <tr>
+            	<td>
+                </td>
+            	<td class="pie">
+					::: Direcci&oacute;n de Servicios de Informaci&oacute;n y Tecnolog&iacute;a - DSIT :::
+				</td>
+            </tr>
+        </table>
+    </body>
+</html>

@@ -1,0 +1,469 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"  lang="es-es"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"  lang="es-es"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"  lang="es-es"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="es-es"> <!--<![endif]-->
+    <head>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+          <base href="https://ingbiomedica.uniandes.edu.co/index.php/es/" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="keywords" content="Departamento de Ingeniería Biomédica, Universidad de los Andes, Uniandes, Colombia" />
+  <meta name="author" content="da.angulo39" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="Departamento de Ingeniería Biomédica, Universidad de los Andes, Uniandes, Colombia" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Inicio | Departamento de Ingeniería Biomédica de la Universidad de los Andes</title>
+  <link href="https://ingbiomedica.uniandes.edu.co/index.php/es/" rel="alternate" hreflang="es-ES" />
+  <link href="https://ingbiomedica.uniandes.edu.co/index.php/en/" rel="alternate" hreflang="en-GB" />
+  <link href="/templates/shaper_helix_ii/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/bootstrap.min.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/bootstrap-responsive.min.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/helix/css/font-awesome.css" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/helix/css/mobile-menu.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/presets/preset2.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/shaper_helix_ii/css/custom.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_rokminievents3/tmpl/css/rokminievents3.css" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_carouselck/themes/default/css/carouselck.css" type="text/css" />
+  <link rel="stylesheet" href="/media/com_finder/css/finder.css" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_languages/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://ingbiomedica.uniandes.edu.co/modules/mod_itpsocialbuttons/style.css" type="text/css" />
+  <style type="text/css">
+.container{max-width:1170px}
+#sp-header-wrapper{margin: 0 !important; padding: 0 !important; }
+
+#sp-menu-wrapper{background: rgb(255, 255, 255) !important; padding: 15px !important; }
+
+#sp-main-body-wrapper{background: rgba(255, 255, 255, 100) !important; padding: 15px !important; }
+
+#sp-header-wrapper{margin: 0 !important; padding: 0 !important; }
+
+#sp-menu-wrapper{background: rgb(255, 255, 255) !important; padding: 15px !important; }
+
+#sp-main-body-wrapper{background: rgba(255, 255, 255, 100) !important; padding: 15px !important; }
+
+#sp-bottom-wrapper{background: rgb(242, 242, 242) !important; color: rgb(0, 0, 0) !important; }
+
+#sp-bottom-wrapper a{color: rgb(105, 105, 105) !important; }
+
+#sp-bottom-wrapper a:hover{color: rgb(167, 167, 167) !important; }
+
+#sp-footer-wrapper{padding: 0 !important; }
+#carouselck_wrap_169 .carouselck_pag_ul li img {width:100px;height:75px;}
+#carouselck_wrap_169 .carouselck_caption > div {
+	padding-top: 5px;padding-right: 5px;padding-bottom: 5px;padding-left: 5px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;margin-left: 0px;background: rgba(17,17,17,0.9);-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;
+}
+#carouselck_wrap_169 .carouselck_caption > div > div {
+	color: #ddd;font-size: 20px;
+}
+#carouselck_wrap_169 .carouselck_caption > div div.carouselck_caption_desc {
+	color: #bbb;font-size: 1em;
+}
+#carouselck_wrap_169 .carouselck_images > img {
+	-moz-border-radius: 5px 5px 5px 5px;-webkit-border-radius: 5px 5px 5px 5px;border-radius: 5px 5px 5px 5px;-moz-box-shadow: 0px 0px 5px 0px #000;-webkit-box-shadow: 0px 0px 5px 0px #000;box-shadow: 0px 0px 5px 0px #000;
+}
+
+  </style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/modernizr-2.6.2.min.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/helix.core.js" type="text/javascript"></script>
+  <script src="/plugins/system/helix/js/menu.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/modules/mod_rokminievents3/tmpl/js/rokminievents3.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/modal.js" type="text/javascript"></script>
+  <script src="/modules/mod_carouselck/assets/jquery.easing.1.3.js" type="text/javascript"></script>
+  <script src="/modules/mod_carouselck/assets/jquery.mobile.customized.min.js" type="text/javascript"></script>
+  <script src="/modules/mod_carouselck/assets/carouselck.js" type="text/javascript"></script>
+  <script src="/media/com_finder/js/autocompleter.js" type="text/javascript"></script>
+  <script type="text/javascript">
+spnoConflict(function($){
+
+					function mainmenu() {
+						$('.sp-menu').spmenu({
+							startLevel: 0,
+							direction: 'ltr',
+							initOffset: {
+								x: 0,
+								y: 0
+							},
+							subOffset: {
+								x: 0,
+								y: 0
+							},
+							center: 1
+						});
+			}
+
+			mainmenu();
+
+			$(window).on('resize',function(){
+				mainmenu();
+			});
+
+
+			});var RokMiniEvents3URL = "/modules/mod_rokminievents3/ajax.php?576e0d6a5d5ffa8d97fd506787866172=1";
+		jQuery(function($) {
+			SqueezeBox.initialize({});
+			SqueezeBox.assign($('a.modal').get(), {
+				parse: 'rel'
+			});
+		});
+		function jModalClose() {
+			SqueezeBox.close();
+		}jQuery(document).ready(function(){
+	jQuery('.hasTooltip').tooltip({"html": true,"container": "body"});
+});
+  </script>
+
+            
+</head>
+    <body  class="article homepage  ltr preset2 menu-inicio responsive bg hfeed clearfix">
+		<div class="body-innerwrapper">
+        <!--[if lt IE 8]>
+        <div class="chromeframe alert alert-danger" style="text-align:center">You are using an <strong>outdated</strong> browser. Please <a target="_blank" href="http://browsehappy.com/">upgrade your browser</a> or <a target="_blank" href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</div>
+        <![endif]-->
+        <header id="sp-header-wrapper" 
+                class=" "><div class="container"><div class="row-fluid" id="header">
+<div id="sp-logo" class="span12">
+
+<div class="custom"  >
+	<table border="0" id="cabezotePagina" style="width: 100%;" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td align="left"><a href="http://www.uniandes.edu.co/" target="_blank"><img src="/images/imagenes/banner/logo_uniandes.jpg" alt="Uniandes" border="0" /></a></td>
+<!--<td align="right"><img src="/gencab/logo.php" alt="Departamento de Ingenier&iacute;a Biom&eacute;dica - Facultad de Ingenier&iacute;a" usemap="#Map" width="890" height="99" border="0" /></td>-->
+<td align="right"><img src="/images/imagenes/banner/banner_esp_new.png" alt="banner esp new" usemap="#Map" width="876" height="99" /></td>
+</tr>
+</tbody>
+</table>
+<p><map name="Map"> 
+<area alt="Facultad de Ingenier&iacute;a" coords="27,32,343,101" shape="rect" href="https://ingenieria.uniandes.edu.co/" target="_blank" />
+ 
+<area alt="Departamento de Ingenier&iacute;a Biom&eacute;dica" coords="343,32,890,101" shape="rect" href="https://ingbiomedica.uniandes.edu.co/" />
+ </map></p>
+<table border="0" class="search-social-bar">
+<tbody>
+<tr>
+<td align="center" valign="top">
+<script type="text/javascript">
+//<![CDATA[
+	window.addEvent('domready', function()
+	{
+		var value;
+
+		// Set the input value if not already set.
+		if (!document.id('mod-finder-searchword').getProperty('value'))
+		{
+			document.id('mod-finder-searchword').setProperty('value', 'Buscar...');
+		}
+
+		// Get the current value.
+		value = document.id('mod-finder-searchword').getProperty('value');
+
+		// If the current value equals the default value, clear it.
+		document.id('mod-finder-searchword').addEvent('focus', function()
+		{
+			if (this.getProperty('value') == 'Buscar...')
+			{
+				this.setProperty('value', '');
+			}
+		});
+
+		// If the current value is empty, set the previous value.
+		document.id('mod-finder-searchword').addEvent('blur', function()
+		{
+			if (!this.getProperty('value'))
+			{
+				this.setProperty('value', value);
+			}
+		});
+
+		document.id('mod-finder-searchform').addEvent('submit', function(e){
+			e = new Event(e);
+			e.stop();
+
+			// Disable select boxes with no value selected.
+			if (document.id('mod-finder-advanced') != null)
+			{
+				document.id('mod-finder-advanced').getElements('select').each(function(s){
+					if (!s.getProperty('value'))
+					{
+						s.setProperty('disabled', 'disabled');
+					}
+				});
+			}
+
+			document.id('mod-finder-searchform').submit();
+		});
+
+		/*
+		 * This segment of code sets up the autocompleter.
+		 */
+								var url = '/index.php/es/component/finder/?task=suggestions.display&format=json&tmpl=component';
+			var ModCompleter = new Autocompleter.Request.JSON(document.id('mod-finder-searchword'), url, {'postVar': 'q'});
+			});
+//]]>
+</script>
+
+<form id="mod-finder-searchform" action="/index.php/es/component/finder/search?f=1" method="get" class="form-search">
+	<div class="finder">
+		<input type="text" name="q" id="mod-finder-searchword" class="search-query input-medium" size="25" value="" /><button class="btn btn-primary hasTooltip  finder" type="submit" title="Ir"><i class="icon-search icon-white"></i></button>
+				<input type="hidden" name="f" value="1" /><input type="hidden" name="Itemid" value="736" />	</div>
+</form>
+</td>
+<td align="center" valign="top"><div class="mod-languages">
+
+	<ul class="lang-inline">
+						<li class="lang-active" dir="ltr">
+			<a href="https://ingbiomedica.uniandes.edu.co/index.php/es/">
+							<img src="/media/mod_languages/images/es.gif" alt="Español" title="Español" />						</a>
+			</li>
+								<li class="" dir="ltr">
+			<a href="/index.php/en/">
+							<img src="/media/mod_languages/images/en.gif" alt="English" title="English" />						</a>
+			</li>
+				</ul>
+
+</div>
+</td>
+<td align="center" valign="top"><div class="itp-socialbuttons-mod">
+      
+   <div class="itp-sbb-nl">
+        <div class="itp-sb-right">
+                <a href="https://www.facebook.com/ingenieriauniandes/?fref=ts" title="Nuestro Facebook" target="_blank" ><img src="https://ingbiomedicapr.uniandes.edu.co/modules/mod_itpsocialbuttons/images/small/facebook.png" alt="Nuestro Facebook" /></a><a href="https://twitter.com/inguniandes" title="Nuestro Twitter" target="_blank" ><img src="https://ingbiomedicapr.uniandes.edu.co/modules/mod_itpsocialbuttons/images/small/twitter.png" alt="Nuestro Twitter" /></a>        </div>
+   </div>
+</div>
+</td>
+</tr>
+</tbody>
+</table></div>
+</div>
+</div></div></header><section id="sp-menu-wrapper" 
+                class=" "><div class="container"><div class="row-fluid" id="menu">
+<div id="sp-menu" class="span12">	
+
+
+			<div id="sp-main-menu" class="visible-desktop">
+				<ul class="sp-menu level-0"><li class="menu-item active first"><a href="https://ingbiomedica.uniandes.edu.co/" class="menu-item active first" ><span class="menu"><span class="menu-title">Inicio</span></span></a></li><li class="menu-item"><a href="/index.php/es/departamento" class="menu-item" ><span class="menu"><span class="menu-title">Departamento</span></span></a></li><li class="menu-item"><a href="/index.php/es/programas-academicos" class="menu-item" ><span class="menu"><span class="menu-title">Programas Académicos</span></span></a></li><li class="menu-item"><a href="/index.php/es/investigacion" class="menu-item" ><span class="menu"><span class="menu-title">Investigación e Innovación</span></span></a></li><li class="menu-item"><a href="/index.php/es/nuestro-equipo" class="menu-item" ><span class="menu"><span class="menu-title">Gente</span></span></a></li><li class="menu-item last"><a href="/index.php/es/abet" class="menu-item last" ><span class="menu"><span class="menu-title">ABET</span></span></a></li></ul>        
+			</div>  				
+			</div>
+</div></div></section><section id="sp-main-body-wrapper" 
+                class=" "><div class="container"><div class="row-fluid" id="main-body">
+<div id="sp-message-area" class="span9 lineaContorno"><section id="sp--wrapper" 
+                class=" "><div class="row-fluid" id="">
+<div id="sp-position1" class="span12">
+		<!--[if lte IE 7]>
+		<link href="/modules/mod_carouselck/themes/default/css/carouselck_ie.css" rel="stylesheet" type="text/css" />
+		<![endif]-->
+		<!--[if IE 8]>
+		<link href="/modules/mod_carouselck/themes/default/css/carouselck_ie8.css" rel="stylesheet" type="text/css" />
+		<![endif]--><script type="text/javascript"> <!--
+       jQuery(function(){
+        jQuery('#carouselck_wrap_169').carouselck({
+				wrapheight: '40',
+				imageheight: '62',
+				imagesratio: '0.72',
+				pagination: 1,
+				duration: 600,
+				time: 7000,
+				captionduration: 600,
+				autoAdvance: 1,
+				lightbox: 'mediaboxck',
+				navigationHover: true,
+                navigation: true,
+                playPause: 1,
+				hover: true
+        });
+}); //--> </script><!-- debut Carousel CK -->
+<div class="carouselck carouselck_wrap carouselck_grey_skin" id="carouselck_wrap_169">
+			<div class="carouselck" data-title="" data-thumb="/images/documentos/noticias/th/open_day_2017_20_th.png" data-src="/images/documentos/noticias/open_day_2017_20.png" data-link="https://ingenieria.uniandes.edu.co/Paginas/DetalleEventos.aspx?eid=70" data-target="_blank">
+								<div class="carouselck_caption moveFromLeft">
+						<div class="carouselck_caption_title">
+							OPEN DAY POSGRADOS													</div>
+						<div class="carouselck_caption_desc">
+		Toda la información acerca de nuestro programa de maestría IBIO. Haga clic para más información.											</div>
+					</div>
+				</div>
+		<div class="carouselck" data-title="" data-thumb="/images/imagenes/noticias/th/2017-10_cum_laude_th.png" data-src="/images/imagenes/noticias/2017-10_cum_laude.png" >
+								<div class="carouselck_caption moveFromLeft">
+						<div class="carouselck_caption_title">
+							Orgullo IBIO													</div>
+						<div class="carouselck_caption_desc">
+		En días pasados, 24 nuevos Ingenieros Biomédicos Uniandinos asumieron el reto de liderar el desarrollo de nuestra disciplina en Colombia. La comunidad IBIO se enorgullece de todos sus graduandos, y felicita muy especialmente a Diana Sofía Herrera y a Alejandro Posada, quienes obtuvieron su grado con honores.											</div>
+					</div>
+				</div>
+		<div class="carouselck" data-title="" data-thumb="/images/documentos/noticias/th/innovation_2017_th.JPG" data-src="/images/documentos/noticias/innovation_2017.JPG" data-link="https://ingbiomedica.uniandes.edu.co/images/documentos/noticias/innovation2_2017.pdf" data-target="_blank">
+								<div class="carouselck_caption moveFromLeft">
+						<div class="carouselck_caption_title">
+							Concurso de innovación IBIO 2017.													</div>
+						<div class="carouselck_caption_desc">
+		María Alejandra León, Silvana Huertas, Santiago José Cifuentes y Javier Felipe Cifuentes fueron los ganadores del Concurso de Innovación  IBIO 2017. El equipo representará a Uniandes en el concurso de innovación del Coulter College del BMES en Agosto 3-6 de 2017 en Atlanta, Georgia, USA.											</div>
+					</div>
+				</div>
+		<div class="carouselck" data-title="" data-thumb="/images/documentos/noticias/th/JuanManuelCordovezIBIO_th.png" data-src="/images/documentos/noticias/JuanManuelCordovezIBIO.png" data-link="http://ingenieria.uniandes.edu.co/Paginas/Noticias.aspx?nid=110" data-target="_blank">
+								<div class="carouselck_caption moveFromLeft">
+						<div class="carouselck_caption_title">
+							Nuevo Director IBIO													</div>
+						<div class="carouselck_caption_desc">
+		El Profesor Juan Manuel Cordovez es el nuevo director del Departamento de Ingeniería Biomédica. Haga clic para más información.											</div>
+					</div>
+				</div>
+		<div class="carouselck" data-title="" data-thumb="/images/fotos/personas/profesores/th/jbriceno_th.JPG" data-src="/images/fotos/personas/profesores/jbriceno.JPG" data-link="https://ingenieria.uniandes.edu.co/Paginas/Noticias.aspx?nid=129" data-target="_blank">
+								<div class="carouselck_caption moveFromLeft">
+						<div class="carouselck_caption_title">
+							Juan Carlos Briceño es el nuevo Director de la Escuela de Posgrados de Ingeniería													</div>
+						<div class="carouselck_caption_desc">
+		El antiguo director IBIO, el Profesor Juan Carlos Briceño, liderará la nueva escuela de posgrados en la Facultad de Ingeniería. Haga clic para más información.											</div>
+					</div>
+				</div>
+		<div class="carouselck" data-title="" data-thumb="/images/documentos/noticias/th/angie_molina_th.png" data-src="/images/documentos/noticias/angie_molina.png" data-link="http://ingenieria.uniandes.edu.co/Paginas/Noticias.aspx?nid=105" data-target="_blank">
+								<div class="carouselck_caption moveFromLeft">
+						<div class="carouselck_caption_title">
+							Estudiante IBIO entre los mejores SABER PRO													</div>
+						<div class="carouselck_caption_desc">
+		"Es hora de empezar a contribuir al desarrollo del país con nuestras investigaciones". Angie Molina. Haga clic para más información.											</div>
+					</div>
+				</div>
+		<div class="carouselck" data-title="" data-thumb="/images/documentos/noticias/th/JCB01_th.png" data-src="/images/documentos/noticias/JCB01.png" data-link="https://www.youtube.com/watch?v=F5fvJ8Ijsb0" data-target="_blank">
+								<div class="carouselck_caption moveFromLeft">
+						<div class="carouselck_caption_title">
+							Línea de Investigación en Hemosustitutos.													</div>
+						<div class="carouselck_caption_desc">
+		Video sobre la línea de investigación IBIO en Hemosustitutos, del Profesor Juan Carlos Briceño, parte de la serie en Ingeniería de las Cosas de la Facultad. Haga clic para ver el video.											</div>
+					</div>
+				</div>
+</div>
+<div style="clear:both;"></div>
+<!-- fin Carousel CK -->
+</div>
+</div></section><section id="sp-component-area-wrapper" 
+                class=" "><div class="row-fluid" id="component-area">
+<div id="sp-component-area" class="span12"><section id="sp-component-wrapper"><div id="sp-component"><div id="system-message-container">
+	</div>
+
+<article class="item-page post-206 post hentry status-publish category-inicio ">
+ 
+	 
+	 
+			
+	
+		
+	<section class="entry-content"> 
+																													
+					
+				
+				
+								
+		
+							
+		
+    </footer>
+</article></div></section></div>
+</div></section></div>
+
+<aside id="sp-right" class="span3">
+<div class="rokminievents3" data-rokminievents3="{&quot;id&quot;:&quot;170&quot;,&quot;pages&quot;:1}" data-rokminievents3-id="170">
+    <ul class="rme-items cols-4">
+        
+<li class="rme-item">
+		<div class="rme-badge">
+		<span class="rme-day">02</span>
+		<span class="rme-month">Oct</span>
+			</div>
+		<div class="rme-description">
+					<span class="rme-title">Semana de Trabajo Individual 2017-20</span>
+									<span class="rme-time">All Day</span>
+					</div>
+</li>
+
+<li class="rme-item">
+		<div class="rme-badge">
+		<span class="rme-day">18</span>
+		<span class="rme-month">Oct</span>
+			</div>
+		<div class="rme-description">
+					<span class="rme-title">Fecha Límite Inscripciones Maestría IBIO</span>
+									<span class="rme-time">All Day</span>
+					</div>
+</li>
+
+<li class="rme-item">
+		<div class="rme-badge">
+		<span class="rme-day">27</span>
+		<span class="rme-month">Nov</span>
+			</div>
+		<div class="rme-description">
+					<span class="rme-title">Exámenes Finales 2017-20</span>
+									<span class="rme-time">All Day</span>
+					</div>
+</li>
+    </ul>
+    <div class="rme-timeline">
+                    </div>
+</div>
+</aside>
+</div></div></section><section id="sp-bottom-wrapper" 
+                class=" "><div class="container"><div class="row-fluid" id="bottom">
+<div id="sp-bottom1" class="span12">
+
+<div class="custom"  >
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66773801-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<footer style="font-size: 79%;"><br />
+<div class="socialmedia-buttons smw_center" align="center">
+<div align="center"><a href="http://www.uniandes.edu.co/">Uniandes</a> | <a href="http://secretariageneral.uniandes.edu.co/">Normatividad Institucional</a> | <a href="https://apoyofinanciero.uniandes.edu.co/">Apoyo Financiero</a> | <a href="http://registro.uniandes.edu.co/">Admisiones y Registro</a> | <a href="https://biblioteca.uniandes.edu.co/">Biblioteca</a> | <a href="http://planeacion.uniandes.edu.co/">Estad&iacute;sticas de la Universidad</a> | <a href="http://correo.uniandes.edu.co/">Correo</a> | <a href="https://sicuaplus.uniandes.edu.co">Sicua Plus</a> | <a href="http://agenda.uniandes.edu.co/">Agenda y Eventos</a> | <a href="http://egresados.uniandes.edu.co/">Portal de egresados</a> | <a href="https://ctp.uniandes.edu.co/">CTP</a> | <a href="http://decanaturadeestudiantes.uniandes.edu.co/">Decanatura de Estudiantes</a></div>
+</div>
+</footer></div>
+</div>
+</div></div></section><footer id="sp-footer-wrapper" 
+                class=" "><div class="container"><div class="row-fluid" id="footer">
+<div id="sp-footer1" class="span12">
+
+<div class="custom"  >
+	<p>&nbsp;</p>
+<p style="text-align: left;"><span style="color: #000000;">Ed. Mario Laserna Cra 1 Este No 19A - 40 Bogot&aacute; (Colombia) | Tel: [571] 332 4106, 339 4949 Ext. 1839, 1822 | Correo:</span> <a href="mailto:ingbiomedica@uniandes.edu.co">ingbiomedica@uniandes.edu.co</a></p>
+<p style="text-align: left;"><span style="color: #000000;">Universidad de Los Andes, Facultad de Ingenier&iacute;a</span></p>
+<p style="text-align: left;"><span style="color: #000000;">Pregrado en Ingenier&iacute;a Biom&eacute;dica SNIES: 91142 | Registro Calificado: Resoluci&oacute;n 2158 del 18 de marzo de 2011 por 7 a&ntilde;os | 8 semestres | Bogot&aacute; D.C. | Presencial. </span></p>
+<p style="text-align: left;"><span style="color: #000000;">Maestr&iacute;a en Ingenier&iacute;a Biom&eacute;dica SNIES: 102021 | Registro Calificado: Resoluci&oacute;n 12897 del 10 de octubre de 2012 por 7 a&ntilde;os | 4 semestres | Bogot&aacute; D.C. | Presencial </span></p>
+<p style="text-align: left;"><span style="color: #000000;">Universidad de los Andes | Vigilada Mineducaci&oacute;n Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964. Reconocimiento personer&iacute;a jur&iacute;dica: Resoluci&oacute;n 28 del 23 de febrero de 1949 Minjusticia.</span></p></div>
+<a href="http://www.joomshaper.com" title="joomshaper.com"></a>
+<a class="sp-totop" href="javascript:;" title="Goto Top" rel="nofollow"><small>Goto Top </small><i class="icon-caret-up"></i></a></div>
+</div></div></footer>        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-68975434-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+        </script>
+        	
+
+		<a class="hidden-desktop btn btn-inverse sp-main-menu-toggler" href="#" data-toggle="collapse" data-target=".nav-collapse">
+			<i class="icon-align-justify"></i>
+		</a>
+
+		<div class="hidden-desktop sp-mobile-menu nav-collapse collapse">
+			<ul class=""><li class="menu-item active first"><a href="https://ingbiomedica.uniandes.edu.co/" class="menu-item active first" ><span class="menu"><span class="menu-title">Inicio</span></span></a></li><li class="menu-item"><a href="/index.php/es/departamento" class="menu-item" ><span class="menu"><span class="menu-title">Departamento</span></span></a></li><li class="menu-item"><a href="/index.php/es/programas-academicos" class="menu-item" ><span class="menu"><span class="menu-title">Programas Académicos</span></span></a></li><li class="menu-item"><a href="/index.php/es/investigacion" class="menu-item" ><span class="menu"><span class="menu-title">Investigación e Innovación</span></span></a></li><li class="menu-item"><a href="/index.php/es/nuestro-equipo" class="menu-item" ><span class="menu"><span class="menu-title">Gente</span></span></a></li><li class="menu-item last"><a href="/index.php/es/abet" class="menu-item last" ><span class="menu"><span class="menu-title">ABET</span></span></a></li></ul>   
+		</div>
+		        
+		</div>
+    </body>
+</html>

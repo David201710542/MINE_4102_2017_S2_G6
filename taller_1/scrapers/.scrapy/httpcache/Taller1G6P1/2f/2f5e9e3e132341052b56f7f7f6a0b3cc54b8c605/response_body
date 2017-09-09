@@ -1,0 +1,747 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" >
+  <head>
+
+  <base href="https://c-politica.uniandes.edu.co/index.php/programas/pregrado/descripcion" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Ciencia Política - Descripción del programa</title>
+  <link href="/templates/ot_appoz/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-edeeb633.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ot_appoz/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://c-politica.uniandes.edu.co/modules/mod_accordeonck/themes/simple/mod_accordeonck_css.php?cssid=accordeonck55344" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_pwebfblikebox/css/likebox.css" type="text/css" />
+  <style type="text/css">
+div.template-width {width: 960px;}div.ot-leftcolumn {width: 220px;}div.ot-header {background-color: #412C1C;}div.ot-banner {background-color: #FFFFFF;}div.ot-topboxes {background-color: #FFFFFF;}div.ot-mainbody {background-color: #FFFFFF;}div.ot-footer {background-color: #412C1C;}
+			.width100{ width: 100px; } 
+			 
+			.width50{ width: 50px; } 
+			 
+			.width33{ width: 33px; } 
+			 
+			.width25{ width: 25px; } 
+			 
+			.width20{ width: 20px; } 
+			 #accordeonck55344 li a.toggler { background: url(https://c-politica.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck55344 li a.toggler.open { background: url(https://c-politica.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }#accordeonck55344 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck55344 { padding: 5px;margin: 5px; } #accordeonck55344 li.level1 {  } #accordeonck55344 li.level1 > a { color: #FFFFFF;font-size: 13px; } #accordeonck55344 li.level1 > a:hover { color: #000000; } #accordeonck55344 li.level1 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck55344 li.level2 {  } #accordeonck55344 li.level2 > a { color: #FFFFFF;font-size: 13px; } #accordeonck55344 li.level2 > a:hover { color: #000000; } #accordeonck55344 li.level2 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck55344 li.level3 {  } #accordeonck55344 li.level3 a { color: #FFFFFF;font-size: 13px; } #accordeonck55344 li.level3 a:hover { color: #000000; } #accordeonck55344 li.level3 a span.accordeonckdesc { color: #000000;font-size: 13x; } 
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-b55427c0.js" type="text/javascript"></script>
+  <script src="/templates/ot_appoz/scripts/menudropdown.js" type="text/javascript"></script>
+  <script src="https://c-politica.uniandes.edu.co/modules/mod_accordeonck/assets/mod_accordeonck.js" type="text/javascript"></script>
+  <script src="/media/mod_pwebfblikebox/js/mootools.likebox.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck55344'),{fadetransition : true,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck55344',imagePlus : 'https://c-politica.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png',imageMinus : 'https://c-politica.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/es_ES/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,"script","facebook-jssdk"));
+
+/*===  EASY GOOGLE ANALYTICS : START TRACKING CODE  ===*/
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-51158885-14']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+/*===  EASY GOOGLE ANALYTICS : END TRACKING CODE  ===*/
+
+  </script>
+  <!--[if lte IE 8]>
+<link rel="stylesheet" href="/media/mod_pwebfblikebox/css/ie.css" />
+<![endif]-->
+
+   <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84595856-23', 'auto');
+  ga('send', 'pageview');
+
+</script>
+  <link rel="stylesheet" href="https://c-politica.uniandes.edu.co/plugins/system/HDsocialbm/icons.css" type="text/css" />
+</head>
+
+
+
+
+
+  <body id="ot-body" class="left-content-right">
+<div id="ot-top" class="color">
+
+
+<div class="custom"  >
+	<div class="color">
+<div id="molde">.</div>
+</div></div>
+
+</div>
+
+  <div class="ot-wrap">
+    <div class="ot-wrap-i">
+      <!--******************** START HEADER ********************-->
+      <div class="ot-header">
+        <div class="ot-header-w template-width">
+          <div class="ot-header-i">
+            <div class="ot-logo">
+                            
+
+<div class="custom"  >
+	<div><a href="http://www.uniandes.edu.co" target="_blank"><img src="/images/logo.png" border="0" /></a></div></div>
+
+                            
+
+            </div>
+
+
+
+
+
+          </div>
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+
+
+      <!--******************** END HEADER ********************-->
+
+      
+
+
+                        
+      <div class="ot-mainmenu">
+        <div class="ot-mainmenu-w template-width">
+          <div id="ot-mainmenu" class="ot-mainmenu-i">
+            <ul class="menu level0">
+<li id="item-102" class="level0 first"><a href="/" ><span>Inicio</span></a></li><li id="item-129" class="level0"><a href="/index.php/el-departamento" ><span>El Departamento</span></a></li><li id="item-105" class="active level0"><a href="/index.php/programas" ><span>Programas</span></a></li><li id="item-110" class="level0"><a href="/index.php/profesores" ><span>Profesores</span></a></li><li id="item-111" class="level0"><a href="/index.php/investigacion" ><span>Investigación</span></a></li><li id="item-112" class="level0"><a href="/index.php/publicaciones/academia-institucional" ><span>Publicaciones</span></a></li><li id="item-113" class="level0"><a href="/index.php/centros-y-programas" ><span>Centros y Programas</span></a></li><li id="item-114" class="level0"><a href="/index.php/noticias-y-eventos" ><span>Noticias y Eventos</span></a></li><li id="item-141" class="level0"><a href="/index.php/contacto" ><span>Contacto</span></a></li></ul>
+          </div>
+        </div>
+      </div>
+      
+
+      
+      
+
+      <div class="ot-banner">
+        <div class="ot-banner-w template-width">
+
+
+          <div class="ot-banner-i">
+
+
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+<div class="breadcrumbs">
+<a href="/" class="pathway">▲</a> » <a href="/index.php/programas" class="pathway">Programas</a> » <span>Pregrado en Ciencia Política</span> » <span>Descripción del programa</span></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<!-- PWebFBLikeBox -->
+<div id="pwebfblikebox217" class="pwebfblikebox pwebfblikebox-left pwebfblikebox-radius pwebfblikebox-shadow slidebox ">
+	<div class="pwebfblikebox_tab f-white"></div>
+		<div class="pwebfblikebox_container" style="width:400px;"><div id="fb-root"></div><div class="fb-like-box" id="pwebfblikebox217_html5" data-href="https://www.facebook.com/facisouniandes" data-show-faces="true" data-stream="true" data-header="true" data-width="400" data-force-wall="true"></div></div>
+</div>
+
+<script type="text/javascript">
+
+var pwebFBLikeBox217Debug = {
+	msg: [],
+	display: function() { alert("Perfect Facebook Like Box Sidebar Debug: \r\n"+this.msg.join(" \r\n")) }
+};
+(function(){
+	if (typeof jQuery != "undefined") {
+		try {
+			if (!(typeof $ == "undefined" || (typeof $ == "function" && $("#pwebfblikebox217") == null)))
+				pwebFBLikeBox217Debug.msg.push("jQuery.noConflict() mode is not loaded.");
+		} catch(err) {console.log(err)}
+	}
+	
+	if (typeof MooTools != "undefined") {
+		try {
+			var mooVer = MooTools.version.split(".");
+			if (!(parseInt(mooVer[0]) == 1 && ((parseInt(mooVer[1]) == 4 && parseInt(mooVer[2]) >= 5) || (parseInt(mooVer[1]) == 3 && parseInt(mooVer[2]) >= 2)))) {
+				pwebFBLikeBox217Debug.msg.push("MooTools version: "+MooTools.version+". Load version 1.3.2 or 1.4.5 or newer.");
+				
+				var found = false;
+				var scripts = document.getElementsByTagName("script");
+				for (var i = 0; i < scripts.length; i++) {
+					if (typeof scripts[i].src != "undefined") {
+						if (scripts[i].src.indexOf("/media/system/js/mootools-core.js") != -1 ||
+							scripts[i].src.indexOf("/media/system/js/mootools-core-uncompressed.js") != -1) {
+							found = true;
+							break; 
+						}
+					}
+				}
+				if (!found) pwebFBLikeBox217Debug.msg.push("Joomla! Core MooTools JavaScript file is removed by template or some system plugin.");
+			}
+		} catch(err) {console.log(err)}
+		try {
+			if (!(typeof document.id == "function" && document.id("pwebfblikebox217")))
+				pwebFBLikeBox217Debug.msg.push("Joomla! MooTools is overridden by other JavaScript library.");
+		} catch(err) {console.log(err)}
+	}
+	else pwebFBLikeBox217Debug.msg.push("Joomla! Core MooTools is not loaded or broken by other JavaScript library.");
+	
+	if (pwebFBLikeBox217Debug.msg.length) setTimeout("pwebFBLikeBox217Debug.display()", 1000);
+})();
+(function(){
+	pwebFBLikeBox217 = new pwebFBLikeBox({
+		id: 		217,
+		prefix: 	'pwebfblikebox217',
+		open: 		'click',
+		close: 		'click',
+				position: 	'left',
+		top: 		-1,
+		layout: 	'slidebox'
+	});
+})();
+if(typeof window.fbAsyncInit=="function")window.fbAsyncInitPweb=window.fbAsyncInit;window.fbAsyncInit=function(){FB.Event.subscribe("edge.create",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","like",u]);console.log("facebook like")});FB.Event.subscribe("edge.remove",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","unlike",u]);console.log("facebook unlike")});if(typeof window.fbAsyncInitPweb=="function")window.fbAsyncInitPweb.apply(this,arguments)};</script>
+<!-- PWebFBLikeBox end -->			</div>
+		</div>
+	</div>
+
+          </div>
+          <div class="botonera_deptos">
+            
+          </div>
+        </div>
+        
+
+</div>     
+ 
+
+         
+     
+
+
+       
+      <!--******************** START MAINBODY ********************-->
+      <div class="ot-mainbody">
+
+
+        <div class="ot-mainbody-w template-width"> 
+        
+       
+        <div class="ot-mainbody-i">
+            
+          
+                        <div class="ot-leftcolumn">
+              <div class="ot-leftcolumn-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div id="titular">
+<div id="cs">Programas</div>
+</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<div class="accordeonck ">
+<ul class="menu" id="accordeonck55344">
+<li id="item-106" class="item-106 active active parentparent  level2"><a class="toggler toggler_1  isactive " href="javascript:void(0);"><span class="separator">Pregrado en Ciencia Política</span></a><ul class="content_1" style=""><li id="item-147" class="item-147 level3"><a href="/index.php/programas/pregrado/por-que-hacer-el-pregrado-en-ciencia-politica" >¿Por qué hacer el pregrado en Ciencia Política de Los Andes?</a></li><li id="item-116" class="item-116 current activecurrent  active level3"><a class="isactive " href="/index.php/programas/pregrado/descripcion" >Descripción del programa</a></li><li id="item-119" class="item-119 level3"><a href="/index.php/programas/pregrado/opciones" >Opciones académicas</a></li><li id="item-204" class="item-204 level3"><a href="https://c-politica.uniandes.edu.co/index.php/profesores" >Profesores</a></li><li id="item-195" class="item-195 level3"><a href="/index.php/programas/pregrado/admisiones-y-apoyo-financiero" >Admisiones y Apoyo financiero</a></li></ul></li><li id="item-107" class="item-107 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Maestría en Ciencia Política</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-122" class="item-122 level3"><a href="/index.php/programas/maestria-en-ciencia-politica/por-que-hacer-la-maestria-en-ciencia-politica" >¿Por qué hacer la Maestría en Ciencia Política de Los Andes?</a></li><li id="item-157" class="item-157 level3"><a href="/index.php/programas/maestria-en-ciencia-politica/descripcion-del-programa" >Descripción del programa</a></li><li id="item-160" class="item-160 level3"><a href="/index.php/programas/maestria-en-ciencia-politica/convenios" >Convenios</a></li><li id="item-161" class="item-161 level3"><a href="/index.php/programas/maestria-en-ciencia-politica/admisiones" >Admisiones</a></li><li id="item-162" class="item-162 level3"><a href="/index.php/programas/maestria-en-ciencia-politica/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li></ul></li><li id="item-109" class="item-109 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Doctorado en Ciencia Política</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-123" class="item-123 level3"><a href="/index.php/programas/doctorado-en-ciencia-politica/por-que-hacer-el-doctorado-en-ciencia-politica" >¿Por qué hacer el Doctorado en Ciencia Política de Los Andes? </a></li><li id="item-188" class="item-188 level3"><a href="/index.php/programas/doctorado-en-ciencia-politica/descripcion-del-programa" >Descripción del programa</a></li><li id="item-192" class="item-192 level3"><a href="/index.php/programas/doctorado-en-ciencia-politica/admisiones" >Admisiones</a></li><li id="item-193" class="item-193 level3"><a href="/index.php/programas/doctorado-en-ciencia-politica/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li><li id="item-291" class="item-291 level3"><a href="/index.php/programas/doctorado-en-ciencia-politica/becas-colciencias" >Becas Colciencias</a></li></ul></li></ul></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        
+
+
+
+
+
+            <div class="ot-content">
+              <div class="ot-content-i">
+                
+<div id="system-message-container">
+</div>
+                	
+<div class="item-page">
+	<div class="item-page-bg">
+		<div class="heading-actions">
+						
+					<ul class="actions">
+												<li class="print-icon">
+					<a href="/index.php/programas/pregrado/descripcion?tmpl=component&amp;print=1&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Imprimir"  /></a>					</li>
+						
+						
+						
+					
+			</ul>
+				</div>
+				
+				
+				
+																				
+							<div id="b-texto"><img src="/images/recursos/barra_programa1.png" border="0" width="716" height="45" /></div>
+<div id="b-texto">
+<h1>Descripción del programa</h1>
+<p><strong> <strong>Código SNIES:</strong> </strong>1534<br /><strong>Bogotá<br />Formación Universitaria: </strong>Pregrado<br /><strong>Modalidad: </strong>Presencial<strong><br />Título: </strong>Politólogo (a)<br /> <strong>Duración:</strong> 8 semestres<strong><br /> Número de créditos:</strong> 123<br /> <strong>Jornada:</strong> Diurna<br /><strong>Acreditación Nacional:</strong> Resolución 2028 del 24 de marzo de 2010 (8 años)</p>
+</div>
+<p><br />
+<div id="showcase-13-59b3143c4f579" class="wk-slideshow-showcasebox" data-widgetkit="showcase" data-options='{"style":"showcase_box","autoplay":1,"interval":5000,"width":730,"height":270,"duration":500,"index":0,"order":"default","buttons":1,"slices":20,"animated":"slide","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":4,"slideset_effect_duration":300}'>
+
+	<div id="slideshow-13-59b3143c4f579" class="wk-slideshow">
+		<div class="slides-container">
+			<ul class="slides">
+												<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="/images/pregrado/Boton1.jpg" border="0" width="210" height="210" /></td>
+<td align="left" valign="top">
+<ul class="lista0">
+<li>Introducción Ciencia Política<br /> (<strong>CPOL 1000</strong>) 3 créditos</li>
+<li>Pensadores: Weber, Durkheim y Marx<br /> (<strong>CISO 1200</strong>) 3 créditos</li>
+<li>Colombia Contemporánea<br /> (<strong>CISO 1500</strong>) 3 créditos</li>
+<li>Filosofía e Historia Ciencias<br /> (<strong>CISO 1400</strong>) 3 créditos</li>
+<li>Constitución y Democracia<br /> (<strong>DERE 1300</strong>) 3 créditos</li>
+<li>Requisito Español (2011-1 )<br /> (<strong>LITE/LENG</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton2.jpg" border="0" width="210" height="210" /></td>
+<td align="left" valign="top">
+<ul class="lista0">
+<li>Introducción Teoría Política<br /> (<strong>CPOL 1400 </strong>) 3 créditos</li>
+<li>Curso área Teorías Contemporáneas en CS.<br /> (<strong>CISO 16XX</strong>) 3 créditos</li>
+<li>Curso área Historia de las ciencias sociales en Col<br /> (<strong>CISO 19XX</strong>)3 créditos</li>
+<li>Curso área Pensadores Clásicos II<br /> (<strong>CISO 12XX</strong>)3 créditos</li>
+<li>Introducción Política Comparada<br /> (<strong>CPOL 1300</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton3.jpg" border="0" width="210" height="210" /></td>
+<td align="left" valign="top">
+<ul class="lista0">
+<li>Estadistica I (Ciencias Sociales)<br /> (<strong>MATE 1501</strong>) 3 créditos</li>
+<li>Introducción Política Colombiana<br /> (<strong>CPOL 1100</strong>) 3 créditos</li>
+<li>Introducción Relaciones Internacionales<br /> (<strong>CPOL 1200</strong>) 3 créditos</li>
+<li>CBU 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton4.jpg" border="0" width="210" height="210" /></td>
+<td align="left" valign="top">
+<ul class="lista0">
+<li>Estadística II o Métodos Cualitativos<br /> (<strong>MATE/ANTR</strong>) 3 créditos</li>
+<li>Curso Profundización área Concentración<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>Curso Profundización área Complementaria<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>Electivo área concentración CPOL 1<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>CBU 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton5.jpg" border="0" width="210" height="210" /></td>
+<td align="left" valign="top">
+<ul class="lista0">
+<li>Fundamentos Metodología<br /> (<strong>CPOL 1500</strong>) 3 créditos</li>
+<li>Electivo área Concentración CPOL 2<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>Electivo área Complementaria CPOL 1<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>Electivo área Complementaria CPOL 2<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>CBU 4<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton6.jpg" border="0" width="210" height="210" /></td>
+<td align="left" valign="top">
+<ul class="lista0">
+<li>Taller Metodología<br /> (<strong>CPOL 2501</strong>) 3 créditos</li>
+<li>Electivo área Concentración CPOL 3<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>Electivo área Concentración CPOL 4<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>Electivo área Complementaria CPOL 3<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>CBU 5<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton7.jpg" border="0" width="210" height="210" /></td>
+<td align="left" valign="top">
+<ul class="lista0">
+<li>Seminario de Investigación<br /> (<strong>CPOL 3500</strong>) 3 créditos</li>
+<li>Electivo área Complementaria CPOL 4<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>Seminario CPOL área de Concentración<br /> (<strong>CPOL</strong>) 3 créditos</li>
+<li>CBU 6<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>Curso de Libre Elección CLE 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton8.jpg" border="0" width="210" height="210" /></td>
+<td align="left" valign="top">
+<ul class="lista0">
+<li>Opción de Grado<br /> (<strong>CPOL</strong>) 6 créditos</li>
+<li>Curso de Libre Elección CLE 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>Curso de Libre Elección CLE 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>Curso de Libre Elección CLE 4<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+											</ul>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+
+	<div id="slideset-13-59b3143c4f579" class="wk-slideset ">
+		<div>
+			<div class="sets">
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque1.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque2.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque3.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque4.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque5.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque6.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque7.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque8.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+							</div>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+	
+</div>
+</p>
+<div id="b-texto">
+<h1>Descripción de las áreas</h1>
+<p>Después de ver las cuatro introducciones, el estudiante debe escoger dos de las áreas ofrecidas por el Departamento. En primer lugar, un área de concentración de la que el estudiante debe tomar cuatro cursos electivos y el seminario de finalización del área. En segundo lugar, un área complementaria en la que se deben tomar tres cursos electivos del área, o dos cursos electivos del área y el seminario de finalización del área.</p>
+<p>
+<div id="accordion-41-59b3143c585d9" class="wk-accordion wk-accordion-default clearfix"  data-widgetkit="accordion" data-options='{"style":"default","collapseall":1,"matchheight":1,"index":5,"duration":500,"width":"auto","order":"default"}'>
+			<h3 class="toggler">Metodología</h3>
+		<div><div class="content wk-content clearfix">El objetivo del área es que los estudiantes adquieran competencias de investigación: conocer los debates epistemológicos acerca de las formas más adecuadas de investigar, distinguir métodos de técnicas, diferenciar y aprender a aplicar las herramientas cuantitativas y cualitativas y, especialmente, saber plantearse un problema de investigación relevante, tanto para la disciplina como para los retos que enfrenta el país.</div></div>
+			<h3 class="toggler">Política Colombiana</h3>
+		<div><div class="content wk-content clearfix">El área tiene como propósito ofrecer a los estudiantes elementos teóricos y conceptuales, así como herramientas analíticas, para aproximarse al estudio de diversos temas, dentro de los cuales se encuentran: la formación del Estado y la Nación en Colombia; la gobernabilidad democrática; las instituciones políticas como los son los partidos políticos; los sistemas electorales; las tres ramas del poder público; la democracia representativa; la participación política y electoral de los ciudadanos; los movimientos sociales; el conflicto armado interno, y la violencia. En el área se ofrece un curso introductorio y un seminario de cierre, así como una diversidad de cursos electivos y obligatorios.</div></div>
+			<h3 class="toggler">Política Comparada</h3>
+		<div><div class="content wk-content clearfix">El área pretende familiarizar a los estudiantes con el método comparativo, que busca explicar fenómenos a partir de las diferencias y similitudes entre casos (se pueden comparar distintos países, regiones, territorios subnacionales, o un fenómeno determinado a lo largo del tiempo). En décadas recientes, la política comparada ha buscado explicar variaciones y continuidades entre casos; se trata de dar cuenta, por ejemplo, de los factores que generan formas disímiles de gobierno en una región, o de los resultados diferenciados de una misma política económica adoptada por varios países, o de diversos niveles de violencia política y manifestaciones particulares de procesos de paz según el contexto.</div></div>
+			<h3 class="toggler">Teoría y Filosofía Política</h3>
+		<div><div class="content wk-content clearfix">La índole del conocimiento teórico y filosófico, su significado y su papel en la Ciencia Política y las Ciencias Sociales son el común denominador de los cursos de esta área. Se abordan distintas concepciones (teorías) y autores del pasado y el presente, como también los temas clásicos de estudio que han caracterizado este campo: las concepciones del ser humano, la sociedad, el orden político, el poder, el conflicto social, entre otros. Con todo ello se busca que los estudiantes tengan una visión de conjunto de esta importante rama del saber político y social.</div></div>
+			<h3 class="toggler">Relaciones Internacionales</h3>
+		<div><div class="content wk-content clearfix">El área tiene el objetivo de brindar a los estudiantes los elementos teóricos y conceptuales necesarios para comprender el funcionamiento del sistema internacional, las relaciones de poder entre los estados, la economía política internacional y la política exterior. Se abordan temas como la seguridad internacional, la guerra y el conflicto, el terrorismo, la religión y el orden global, la política exterior de Colombia y Estados unidos, las relaciones regionales, el medio ambiente y el desarrollo y la cooperación internacional.</div></div>
+	</div></p>
+<h1>OPCIONES DE GRADO</h1>
+<p>El Consejo de Ciencia Política aprobó las siguientes opciones para optar al título de politólogo(a):</p>
+<p>
+<div id="slideshow-30-59b3143c5a9f1" class="wk-slideshow wk-slideshow-tabsbarcloud" data-widgetkit="slideshow" data-options='{"style":"cloud_tabs_bar","autoplay":1,"interval":5000,"width":"auto","height":"auto","duration":500,"index":0,"order":"default","navigation":"left","animated":"fade"}'>
+	
+	<div class="nav-container nav-left clearfix">
+		<ul class="nav">
+									<li>
+				<div>
+					<span>Monografía</span>
+				</div>
+			</li>
+									<li>
+				<div>
+					<span>Inv. Profesoral</span>
+				</div>
+			</li>
+									<li>
+				<div>
+					<span>Materias de Maestría</span>
+				</div>
+			</li>
+									<li>
+				<div>
+					<span>Práctica de Grado</span>
+				</div>
+			</li>
+									<li>
+				<div>
+					<span>Práctica Docente</span>
+				</div>
+			</li>
+					</ul>
+	</div>
+	
+	<div class="slides-container"><ul class="slides"><li><article class="wk-content clearfix"><p><strong>Monografía de Grado (CPOL3003)<br /></strong><br /> La Monografía busca que el estudiante ponga en práctica las destrezas adquiridas en el pregrado para plantear un problema de investigación y resolverlo. Son tres posibles variantes de monografía (‘Investigación empírica’, ‘Revisión de literatura’ y ‘Ensayo argumentativo’) y de ésta se espera que:</p>
+<ul class="lista0">
+<li>Posea un planteamiento claro de un problema de interés de la ciencia política.</li>
+<li>Demuestre un conocimiento adecuado de la literatura.</li>
+<li>Tenga un planteamiento de investigación realizable en un semestre académico y con la carga horaria correspondiente a 6 créditos.</li>
+<li>Se presente como un documento escrito de no más de 10.000 palabras, incluyendo la bibliografía.</li>
+</ul></article></li><li><article class="wk-content clearfix"><p><strong>Investigación Profesoral (CPOL3005)<br /></strong><br /> Con la investigación profesoral se busca que el estudiante ponga en práctica las destrezas adquiridas en el pregrado inscribiendo su trabajo dentro de una investigación más amplia dirigida y concebida por un profesor. El profesor define si acepta dirigir la investigación profesoral y estipula de común acuerdo con el estudiante cuál va a ser el producto de esa investigación y cuáles las funciones del estudiante dentro de su proyecto. La propuesta se presenta en el consejo de profesores para su aprobación.</p></article></li><li><article class="wk-content clearfix"><p><strong>Materias de Maestría (CPOL4XXX)</strong><br /><br /> Esta opción de grado permite que el estudiante culmine su pregrado tomando cuatro cursos (16 créditos) del nivel de maestría. Es una posibilidad para profundizar en los temas estudiados y una buena forma de comenzar los estudios de posgrado, pues estos cursos podrán ser homologados más adelante cuando el estudiante sea admitido a la maestría. Para comenzar esta opción el estudiantes debe tener un promedio mínimo de 3,75 y estar avanzado en su programa de pregrado (más del 75%).</p></article></li><li><article class="wk-content clearfix"><p><strong>Práctica de Grado (CPOL3993)</strong><br /><br /> Con la Práctica de Grado se busca que el estudiante haga uso de sus competencias como futuro politólogo durante un semestre de práctica en una institución u organización nacional o internacional. Las tareas para las que es vinculado el estudiante deben estar relacionadas con la carrera de Ciencia Política. La práctica es de tiempo completo con una duración mínima de 4 meses.</p></article></li><li><article class="wk-content clearfix"><p><strong>Práctica Docente de Grado (CPOL3994)</strong><br /><br /> Con la Práctica Docente se busca que el estudiante ponga en práctica las destrezas adquiridas en el pregrado al tomar la responsabilidad de dictar un curso (máximo dos), relativo a temas de ciencia política, en un colegio de la Alianza (Asociación Alianza Educativa) o en colegios aprobados por el Departamento.</p></article></li></ul></div>
+	
+</div></p>
+<h1>Ciclo Básico Uniandino (CBU)</h1>
+<p>Con el objetivo de brindar una formación integral a sus estudiantes, se plantea el CBU como instrumento de contacto obligatorio con áreas básicas del conocimiento (Artes y Humanidades, Ciencias Sociales y Ciencia y Tecnología). El ciclo consta de seis cursos (18 créditos) clasificados en dos categorías: Tipo A y Tipo B. Los cursos Tipo A tratan temas generales de las mencionadas áreas de conocimiento, y el estudiante debe elegir una de cada área para un total de nueve créditos. Los cursos Tipo B tratan problemas, autores, períodos, teorías y temas específicos de las diferentes disciplinas, y el estudiante puede profundizar en las áreas que más le interesan con tres cursos (9 créditos).</p>
+<p>Para consultar la oferta de cursos CBU vigente para el semestre académico <a href="http://cbu.uniandes.edu.co/index.php"> ingrese aquí</a></p>
+<h1>Año Básico (Cursos CISO)</h1>
+<p>El Año Básico de la Facultad de Ciencias Sociales tiene los objetivos de desarrollar la capacidad crítica de los estudiantes, propiciar un diálogo entre las distintas disciplinas y construir perspectivas multifacéticas para abordar los problemas y retos de la sociedad contemporánea. Así, con el ánimo de lograr una formación integral e interdisciplinaria en sus estudiantes, la Facultad ha diseñado el Año Básico a partir de seis áreas: Pensadores Clásicos I, Pensadores Clásicos II, Filosofía e Historia de las Ciencias, Historia de Colombia, Historia de las Ciencia Sociales en Colombia y América Latina y Teorías Contemporáneas. Adicionalmente, el estudiante complementará su año básico con las introducciones y los cursos propios de su programa.</p>
+<h1>Cursos de Libre Elección (CLE)</h1>
+<p>Consiste en cursos que pueden ser elegidos libremente de la oferta general de cursos de todos los programas académicos de la Universidad. Estos cursos pueden ser utilizados para cumplir con los requisitos de una opción, acumular créditos del doble programa o incursionar en áreas extracurriculares.</p>
+<h1>Requisito de Español</h1>
+<p>El requisito de español pretende capacitar a todos los estudiantes de la Universidad en el uso adecuado de la lengua, con el fin de proporcionar las herramientas necesarias para elaborar textos académicos coherentes, apropiados y redactados de manera correcta. Los cursos para cumplir con este requisito son dictados únicamente por el Departamento de Humanidades y Literatura (LITE1611), y el Departamento de Lenguajes y Estudios Socioculturales (LENG1501). El curso tiene 3 créditos, su calificación es numérica, no puede ser validado ni homologado con el puntaje obtenido en las pruebas del ICFES, y debe cumplirse antes del tercer semestre del programa que adelante el estudiante.</p>
+<h1>Curso Constitución y Democracia</h1>
+<p>Cumpliendo con el mandato consignado en el Artículo 41 de la Constitución, el curso busca, a través de la enseñanza de los principios constitucionales, fortalecer en los estudiantes el conocimiento crítico y la capacidad de actuación de acuerdo a los valores que, como ciudadanos, es necesario poseer para ejercer de manera responsable los derechos y deberes. El curso (DERE1300) tiene 3 créditos y es requisito obligatorio para todos los estudiantes de la Universidad, a excepción de los estudiantes de Derecho. <br /> Para mayor información <a href="http://cyd.uniandes.edu.co/"> ingrese aquí</a></p>
+<h1>Idioma Extranjero</h1>
+<p>Como parte del proyecto de formación de profesionales integrales, la Universidad promueve el aprendizaje y el dominio de una lengua extranjera. Por tal motivo, desde 1999 los estudiantes deben cumplir con dos requisitos de idioma: requisito de lectura en inglés y requisito de dominio de una segunda lengua. Todos los procesos relacionados con idiomas se realizan a través del Departamento de Lenguajes y Estudios Socioculturales.</p>
+</div>
+<table id="contenido" width="670" border="0">
+<tbody>
+<tr>
+<td>
+<div class="bloque1">
+<h1>Convenios</h1>
+<p>La Universidad de los Andes cuenta con numerosos convenios y alianzas de intercambio de estudiantes con prestigiosas universidad en más de 20 países. Estos convenios promueven experiencias enriquecedoras que promueven en los estudiantes la integración de la teoría y la práctica de su profesión en contextos y culturas diferentes, y la ampliación de su visión del mundo. Los estudiantes pueden cursar hasta dos semestres en alguna de las universidades que hacen parte de los convenios de intercambio generales y específicos (dirigidos a estudiantes de determinadas carreras). Algunas de las universidades que tienen convenios específicos para los estudiantes de Ciencias Sociales son: Georgetown University, Université Catholique de Louvain, Université de Bourgogne, University of Mannheim, Université de Paris X-Nanterre y Cologne Univeristy of Applied Sciences.</p>
+<p>Para más información sobre procedimientos y convenios de intercambio vigentes <a href="https://ctp.uniandes.edu.co/Estudiantes/Programas/Intercambios/Convenios/index.php"> ingrese aquí<br /></a></p>
+<div class="bloque1">
+<h1><a href="http://secretariageneral.uniandes.edu.co/images/documents/ReglamentoGralEstudiantesPregrado.pdf" target="_blank">Reglamento General de Estudiantes de Pregrado</a></h1>
+<br />
+<p> </p>
+</div>
+</div>
+</td>
+<td> </td>
+</tr>
+</tbody>
+</table>		
+								</div>
+</div>
+              </div>
+                          </div>
+               
+<div class="ot-bottom-banner">      
+ 
+ </div>
+          
+            
+                    </div>
+        </div>
+      </div>
+                               
+
+      
+      <!--******************** END MAINBODY********************-->
+            
+      
+      
+      <!--******************** START FOOTER ********************-->
+    
+      <div class="ot-footer">
+        <div class="ot-footer-w template-width">
+          <div class="ot-footer-i">
+                        <div class="ot-bottom-1">
+              <div class="ot-bottom-1-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="pie"><strong>UNIVERSIDAD DE LOS ANDES | Vigilada MinEducación</strong></div>
+<div class="pie">Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964<br />Reconocimiento personería jurídica: Res. 28 del 23 de febrero de 1949 Min. Justicia.</div>
+<div class="pie"><br /><strong>FACULTAD DE CIENCIAS SOCIALES<br /></strong><strong>DEPARTAMENTO DE CIENCIA POLÍTICA</strong><br />Carrera 1 No. 18 A-10 / 12 - Edifico Franco, Piso 3, Bogotá, Colombia<br />Tel: +571 332 45 31 - 32</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<p><a class="opacity" href="/index.php" target="_self"><img src="/images/iconos/01.png" border="0" /></a><a class="opacity" href="/index.php/contacto" target="_self"><img src="/images/iconos/02.png" border="0" /></a><a href="https://www.facebook.com/facisouniandes" target="_blank"><img src="/images/iconos/03.png" border="0" /></a><a href="https://twitter.com/facisouniandes" target="_blank"><img src="/images/iconos/07.png" border="0" /></a><a href="http://issuu.com/rfaciso" target="_blank"><img src="/images/iconos/04.png" border="0" /></a><script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy78551 = 'r&#101;lf&#97;c&#105;s&#111;' + '&#64;';
+ addy78551 = addy78551 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text78551 = '<img src="/images/iconos/05.png" border="0" />';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy78551 + '\'>');
+ document.write(addy_text78551);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Esta dirección de correo electrónico está protegida contra spambots. Usted necesita tener Javascript activado para poder verla.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><a href="/index.php/buscar"><img src="/images/iconos/06.png" border="0" /></a></p></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                                    <div class="ot-bottom-2">
+              <div class="ot-bottom-2-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><strong>REDES UNIANDES</strong><br />• <a href="http://www.facebook.com/pages/Universidad-de-los-Andes/312867483159" target="_blank">Facebook</a><br />• <a href="http://www.youtube.com/user/uniandes" target="_blank">YouTube</a><br />• <a href="http://twitter.com/uniandes" target="_blank">Twitter</a><br />• <a href="http://feeds.feedburner.com/NoticiasUniandinas" target="_blank">Canales RSS</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+             
+
+            <div class="ot-bottom-3">
+              <div class="ot-bottom-3-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/" target="_blank">Normatividad Institucional</a><br /><a href="https://apoyofinanciero.uniandes.edu.co/" target="_blank">Apoyo Financiero</a><br /><a href="http://registro.uniandes.edu.co/" target="_blank">Admisiones y Registro</a><br /><a href="http://educacioncontinuada.uniandes.edu.co/index.php/es/" target="_blank">Educación continuada</a><br /><a href="https://biblioteca.uniandes.edu.co/" target="_blank">Sistema de Bibliotecas</a><br /><a href="http://egresados.uniandes.edu.co/" target="_blank">Portal de egresados</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        <div class="ot-bottom-4">
+              <div class="ot-bottom-4-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos">Contacto<br /><a href="/index.php/site-map">Mapa del sitio</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+      <!--******************** END FOOTER ********************-->
+    </div>
+    
+
+
+  <div class="pata"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap"><span class="mainlevel"> </span><a href="/?view=featured" class="mainlevel" title="Inicio">Inicio</a><span class="mainlevel">  </span><a href="/index.php/el-departamento" class="mainlevel" title="El Departamento">El Departamento</a><span class="mainlevel">  </span><a href="/index.php/programas" class="mainlevel" title="Programas">Programas</a><span class="mainlevel">  </span><a href="/index.php/profesores" class="mainlevel" title="Profesores">Profesores</a><span class="mainlevel">  </span><a href="/index.php/investigacion" class="mainlevel" title="Investigación">Investigación</a><span class="mainlevel">  </span><a href="/index.php/publicaciones/academia-institucional" class="mainlevel" title="Publicaciones">Publicaciones</a><span class="mainlevel">  </span><a href="/index.php/centros-y-programas" class="mainlevel" title="Centros y Programas">Centros y Programas</a><span class="mainlevel">  </span><a href="/index.php/noticias-y-eventos?view=list" class="mainlevel" title="Noticias y Eventos">Noticias y Eventos</a><span class="mainlevel">  </span><a href="/index.php/contacto" class="mainlevel" title="Contacto">Contacto</a><span class="mainlevel">  </span></td></tr></table>
+
+<div class="custom"  >
+	<p style="text-align: center;">Departamento de Ciencia Política | Carrera 1 No 18A 10 Edificio Franco 3 piso | Bogotá, D.C., Colombia Tel: +57(1) 3394949 Ext 2609/3200 <br /> 2013 ©</p></div>
+</div>
+
+
+
+
+
+
+
+
+</body>
+</html>
+

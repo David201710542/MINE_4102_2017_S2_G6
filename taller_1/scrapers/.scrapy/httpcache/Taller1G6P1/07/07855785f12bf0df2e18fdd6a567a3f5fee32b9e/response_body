@@ -1,0 +1,661 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" >
+  <head>
+  <!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WGDF37X');</script>
+<!-- End Google Tag Manager -->
+  <base href="https://antropologia.uniandes.edu.co/index.php/programas/pregrado/descripcion" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Descripción del programa</title>
+  <link href="/templates/ot_appoz/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/cache/widgetkit/widgetkit-a1c5981c.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/system.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/system/css/general.css" type="text/css" />
+  <link rel="stylesheet" href="/templates/ot_appoz/css/template.css" type="text/css" />
+  <link rel="stylesheet" href="https://antropologia.uniandes.edu.co/modules/mod_accordeonck/themes/simple/mod_accordeonck_css.php?cssid=accordeonck77677" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_pwebfblikebox/css/likebox.css" type="text/css" />
+  <style type="text/css">
+div.template-width {width: 960px;}div.ot-leftcolumn {width: 220px;}div.ot-header {background-color: #383E18;}div.ot-banner {background-color: #FFFFFF;}div.ot-topboxes {background-color: #FFFFFF;}div.ot-mainbody {background-color: #FFFFFF;}div.ot-footer {background-color: #383E18;}
+			.width100{ width: 100px; } 
+			 
+			.width50{ width: 50px; } 
+			 
+			.width33{ width: 33px; } 
+			 
+			.width25{ width: 25px; } 
+			 
+			.width20{ width: 20px; } 
+			 #accordeonck77677 li a.toggler { background: url(https://antropologia.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png) right center no-repeat !important; }
+	#accordeonck77677 li a.toggler.open { background: url(https://antropologia.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png) right center no-repeat !important; }#accordeonck77677 li ul li ul li ul { border:none !important; padding-top:0px !important; padding-bottom:0px !important; }#accordeonck77677 {  } #accordeonck77677 li.level1 {  } #accordeonck77677 li.level1 > a { color: #FFFFFF;font-size: 13px; } #accordeonck77677 li.level1 > a:hover { color: #000000; } #accordeonck77677 li.level1 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck77677 li.level2 {  } #accordeonck77677 li.level2 > a { color: #FFFFFF;font-size: 12px; } #accordeonck77677 li.level2 > a:hover { color: #45511D; } #accordeonck77677 li.level2 > a span.accordeonckdesc { color: #000000;font-size: 13px; } #accordeonck77677 li.level3 {  } #accordeonck77677 li.level3 a { color: #FFFFFF;font-size: 12px; } #accordeonck77677 li.level3 a:hover { color: #000000; } #accordeonck77677 li.level3 a span.accordeonckdesc { color: #000000;font-size: 13x; } 
+  </style>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/js/jquery.js" type="text/javascript"></script>
+  <script src="/cache/widgetkit/widgetkit-06b1f52e.js" type="text/javascript"></script>
+  <script src="/templates/ot_appoz/scripts/menudropdown.js" type="text/javascript"></script>
+  <script src="https://antropologia.uniandes.edu.co/modules/mod_accordeonck/assets/mod_accordeonck.js" type="text/javascript"></script>
+  <script src="/media/mod_pwebfblikebox/js/mootools.likebox.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.addEvent('load', function() {
+				new JCaption('img.caption');
+			});window.addEvent('domready', function() {new accordeonMenuCK(document.getElement('#accordeonck77677'),{fadetransition : true,eventtype : 'click',mooTransition : 'linear',menuID : 'accordeonck77677',imagePlus : 'https://antropologia.uniandes.edu.co/modules/mod_accordeonck/assets/plus.png',imageMinus : 'https://antropologia.uniandes.edu.co/modules/mod_accordeonck/assets/minus.png',mooDuree : 500});});(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/es_ES/all.js#xfbml=1";fjs.parentNode.insertBefore(js,fjs);}(document,"script","facebook-jssdk"));
+
+/*===  EASY GOOGLE ANALYTICS : START TRACKING CODE  ===*/
+
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-51158885-5']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+
+/*===  EASY GOOGLE ANALYTICS : END TRACKING CODE  ===*/
+
+  </script>
+  <!--[if lte IE 8]>
+<link rel="stylesheet" href="/media/mod_pwebfblikebox/css/ie.css" />
+<![endif]-->
+
+
+  <link rel="stylesheet" href="https://antropologia.uniandes.edu.co/plugins/system/HDsocialbm/icons.css" type="text/css" />
+</head>
+
+  <body id="ot-body" class="left-content-right">
+   <!-- Google Tag Manager (noscript) -->
+   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WGDF37X"
+   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+   <!-- End Google Tag Manager (noscript) -->
+
+<div id="ot-top" class="color">
+
+
+<div class="custom"  >
+	<div class="color">
+<div id="molde">.</div>
+</div></div>
+
+</div>
+
+  <div class="ot-wrap">
+    <div class="ot-wrap-i">
+      <!--******************** START HEADER ********************-->
+      <div class="ot-header">
+        <div class="ot-header-w template-width">
+          <div class="ot-header-i">
+            <div class="ot-logo">
+                            
+
+<div class="custom"  >
+	<div><a href="http://www.uniandes.edu.co" target="_blank"><img alt="" src="/images/logo.png" /></a></div></div>
+
+                            
+
+            </div>
+
+
+
+
+
+          </div>
+
+
+
+
+        </div>
+
+
+
+
+
+
+      </div>
+
+
+
+
+      <!--******************** END HEADER ********************-->
+
+      
+
+
+                        <div class="ot-mainmenu">
+        <div class="ot-mainmenu-w template-width">
+          <div id="ot-mainmenu" class="ot-mainmenu-i">
+            <ul class="menu level0">
+<li id="item-102" class="level0 first"><a href="/" ><span>Inicio</span></a></li><li id="item-129" class="level0"><a href="/index.php/el-departamento" ><span>El Departamento</span></a></li><li id="item-105" class="active level0"><a href="/index.php/programas" ><span>Programas</span></a></li><li id="item-110" class="level0"><a href="/index.php/profesores" ><span>Profesores</span></a></li><li id="item-111" class="level0"><a href="/index.php/investigacion" ><span>Investigación</span></a></li><li id="item-112" class="level0"><a href="/index.php/publicaciones" ><span>Publicaciones</span></a></li><li id="item-255" class="level0"><a href="/index.php/laboratorios-y-centros" ><span>Laboratorios y centros</span></a></li><li id="item-114" class="level0"><a href="/index.php/noticias-y-eventos" ><span>Noticias y eventos</span></a></li><li id="item-141" class="level0"><a href="/index.php/contacto" ><span>Contacto</span></a></li></ul>
+          </div>
+        </div>
+      </div>
+
+      
+      
+
+      <div class="ot-banner">
+        <div class="ot-banner-w template-width">
+
+
+          <div class="ot-banner-i">
+
+
+            	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<!-- PWebFBLikeBox -->
+<div id="pwebfblikebox220" class="pwebfblikebox pwebfblikebox-left pwebfblikebox-radius pwebfblikebox-shadow slidebox ">
+	<div class="pwebfblikebox_tab f-white"></div>
+		<div class="pwebfblikebox_container" style="width:292px;"><div id="fb-root"></div><div class="fb-like-box" id="pwebfblikebox220_html5" data-href="https://www.facebook.com/facisouniandes" data-show-faces="true" data-stream="true" data-header="true" data-width="292" data-force-wall="true"></div></div>
+</div>
+
+<script type="text/javascript">
+(function(){
+	pwebFBLikeBox220 = new pwebFBLikeBox({
+		id: 		220,
+		prefix: 	'pwebfblikebox220',
+		open: 		'click',
+		close: 		'click',
+				position: 	'left',
+		top: 		-1,
+		layout: 	'slidebox'
+	});
+})();
+if(typeof window.fbAsyncInit=="function")window.fbAsyncInitPweb=window.fbAsyncInit;window.fbAsyncInit=function(){FB.Event.subscribe("edge.create",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","like",u])});FB.Event.subscribe("edge.remove",function(u){if(typeof _gaq!="undefined")_gaq.push(["_trackSocial","facebook","unlike",u])});if(typeof window.fbAsyncInitPweb=="function")window.fbAsyncInitPweb.apply(this,arguments)};</script>
+<!-- PWebFBLikeBox end -->			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+<div class="breadcrumbs">
+<a href="/" class="pathway">▲</a> » <a href="/index.php/programas" class="pathway">Programas</a> » <a href="/index.php/programas/pregrado" class="pathway">Pregrado en Antropología</a> » <span>Descripción del programa</span></div>
+			</div>
+		</div>
+	</div>
+
+          </div>
+          <div class="botonera_deptos">
+            
+          </div>
+        </div>
+        
+
+</div>     
+ 
+
+         
+     
+
+
+       
+      <!--******************** START MAINBODY ********************-->
+      <div class="ot-mainbody">
+
+
+        <div class="ot-mainbody-w template-width"> 
+        
+       
+        <div class="ot-mainbody-i">
+            
+          
+                        <div class="ot-leftcolumn">
+              <div class="ot-leftcolumn-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div id="titular">
+<div id="cs">Programas</div>
+</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				<div class="accordeonck ">
+<ul class="menu" id="accordeonck77677">
+<li id="item-106" class="item-106 active active parentparent  level2"><a class="toggler toggler_1  isactive " href="javascript:void(0);" >Pregrado en Antropología</a><ul class="content_1" style=""><li id="item-147" class="item-147 level3"><a href="/index.php/programas/pregrado/por-que-hacer-el-pregrado-en-antropologia" >¿Por qué hacer el pregrado en Antropología de Los Andes?</a></li><li id="item-116" class="item-116 current activecurrent  active level3"><a class="isactive " href="/index.php/programas/pregrado/descripcion" >Descripción del programa</a></li><li id="item-119" class="item-119 level3"><a href="/index.php/programas/pregrado/opciones" >Opciones académicas</a></li><li id="item-195" class="item-195 level3"><a href="/index.php/programas/pregrado/admisiones-y-apoyo-financiero" >Admisiones y Apoyo financiero</a></li></ul></li><li id="item-107" class="item-107 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Maestría en Antropología</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-122" class="item-122 level3"><a href="/index.php/programas/maestria-en-antropologia/por-que-hacer-la-maestria-en-antropologia" >¿Por qué hacer la Maestría en Antropología de Los Andes?</a></li><li id="item-157" class="item-157 level3"><a href="/index.php/programas/maestria-en-antropologia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-160" class="item-160 level3"><a href="/index.php/programas/maestria-en-antropologia/convenios" >Convenios</a></li><li id="item-161" class="item-161 level3"><a href="/index.php/programas/maestria-en-antropologia/admisiones" >Admisiones</a></li><li id="item-162" class="item-162 level3"><a href="/index.php/programas/maestria-en-antropologia/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li></ul></li><li id="item-109" class="item-109 parentparent  level2"><a class="toggler toggler_1  " href="javascript:void(0);" >Doctorado en Antropología</a><ul class="content_1" style="height: 0px; padding-top: 0px; border-top: medium none; padding-bottom: 0px; border-bottom: medium none; overflow: hidden;"><li id="item-123" class="item-123 level3"><a href="/index.php/programas/doctorado-en-antropologia/por-que-hacer-el-doctorado-en-antropologia" >¿Por qué hacer el Doctorado en Antropología de Los Andes? </a></li><li id="item-188" class="item-188 level3"><a href="/index.php/programas/doctorado-en-antropologia/descripcion-del-programa" >Descripción del programa</a></li><li id="item-191" class="item-191 level3"><a href="/index.php/programas/doctorado-en-antropologia/convenios" >Convenios</a></li><li id="item-192" class="item-192 level3"><a href="/index.php/programas/doctorado-en-antropologia/admisiones" >Admisiones</a></li><li id="item-193" class="item-193 level3"><a href="/index.php/programas/doctorado-en-antropologia/costos-y-apoyo-financiero" >Costos y Apoyo financiero</a></li><li id="item-307" class="item-307 level3"><a href="/index.php/programas/doctorado-en-antropologia/becas-colciencias" >Becas Colciencias</a></li></ul></li></ul></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        
+
+
+
+
+
+            <div class="ot-content">
+              <div class="ot-content-i">
+                
+<div id="system-message-container">
+</div>
+                	
+<div class="item-page">
+	<div class="item-page-bg">
+		<div class="heading-actions">
+						
+					<ul class="actions">
+												<li class="print-icon">
+					<a href="/index.php/programas/pregrado/descripcion?tmpl=component&amp;print=1&amp;page=" title="Imprimir" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/media/system/images/printButton.png" alt="Imprimir"  /></a>					</li>
+						
+						
+						
+					
+			</ul>
+				</div>
+				
+				
+				
+																				
+							<div id="b-texto"><img alt="" src="/images/recursos/barra_programa1.png" height="45" width="716" /></div>
+<div id="b-texto">
+<h1>Descripción del programa</h1>
+<strong><strong>Código SNIES:</strong> </strong>1531<strong><br />Bogotá<br />Formación Universitaria: </strong>Pregrado<strong><br />Modalidad: </strong>Presencial<strong><br />Título: </strong>Antropóloga (o)<br /> <strong>Duración: </strong>8 semestres<br /> <strong>Número de créditos:</strong> 123<br /> <strong>Jornada: </strong>Diurna<br /> <strong>Acreditación Nacional:</strong>Resolución 480 del 6 de febrero de 2006 (7 años)
+<p>
+<div id="showcase-13-59b314a0a561e" class="wk-slideshow-showcasebox" data-widgetkit="showcase" data-options='{"style":"showcase_box","autoplay":1,"interval":5000,"width":730,"height":270,"duration":500,"index":0,"order":"default","buttons":1,"slices":20,"animated":"slide","caption_animation_duration":500,"effect":"slide","slideset_buttons":1,"items_per_set":4,"slideset_effect_duration":300}'>
+
+	<div id="slideshow-13-59b314a0a561e" class="wk-slideshow">
+		<div class="slides-container">
+			<ul class="slides">
+												<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="/images/pregrado/Boton1.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Fundamentos de Antropología<br /> (<strong>ANTR 1102</strong>) 3 créditos</li>
+<li>Pensadores Clásicos 1: Marx, Weber y Durkheim<br /> (<strong>CISO 1200B</strong>) 3 créditos</li>
+<li>Filosofía e Historia de las Ciencias<br /> (<strong>CISO 1403B</strong>) 3 créditos</li>
+<li>Historia de Colombia<br /> (<strong>CISO 1500</strong>) 3 créditos</li>
+<li>CBU 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton2.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Fundamentos de Arqueología<br /> (<strong>ANTR 1201</strong>) 3 créditos</li>
+<li>Métodos cualitativos de investigación social<br /> (<strong>ANTR 1104</strong>) 3 créditos</li>
+<li>Pensadores Clásicos 2<br /> (<strong>CISO 121X</strong>) 3 créditos</li>
+<li>Teorías Contemporáneas<br /> (<strong>CISO 16XX</strong>) 3 créditos</li>
+<li>Historia de las Ciencias Sociales en Colombia y América Latina<br /> (<strong>CISO 1901B</strong>) 3 créditos</li>
+<li>Requisito de Español<br /> (<strong>LITE 1611 o LENG 1501</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton3.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Antropología Biológica<br /> (<strong>ANTR 1401</strong>) 3 créditos</li>
+<li>Etnología de Colombia<br /> (<strong>ANTR 2101</strong>) 3 créditos</li>
+<li>Arqueología comparada<br /> (<strong>ANTR 2201</strong>) 3 créditos</li>
+<li>Geografía de Colombia<br /> (<strong>HIST 2204</strong>) 3 créditos</li>
+<li>Constitución y Democracia<br /> (<strong>DERE 1300</strong>) 3 créditos</li>
+<li>Estadística 1 en Ciencias Sociales<br /> (<strong>MATE 1501</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton4.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Instrumentos de Investigación<br /> (<strong>ANTR 2102</strong>) 3 créditos</li>
+<li>Escuelas antropológicas 1<br /> (<strong>ANTR 2103</strong>) 3 créditos</li>
+<li>Arqueología de Colombia<br /> (<strong>ANTR 2202</strong>) 3 créditos</li>
+<li>Métodos de Análisis Lingüístico<br /> (<strong>ANTR 2301</strong>) 3 créditos</li>
+<li>CBU 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CLE 1<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton5.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Problemas antropológicos del desarrollo<br /> (<strong>ANTR 2104</strong>) 3 créditos</li>
+<li>Organización social<br /> (<strong>ANTR 2105</strong>) 3 créditos</li>
+<li>Escuelas antropológicas 2<br /> (<strong>ANTR 3101</strong>) 3 créditos</li>
+<li>CBU 3<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>CBU 4<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton6.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>Etnohistoria americana<br /> (<strong>ANTR 2106B</strong>) 3 créditos</li>
+<li>Pensamiento antropológico colombiano<br /> (<strong>ANTR 3102</strong>) 3 créditos</li>
+<li>Seminario 1 en Antropología<br /> (<strong>ANTR XXXX</strong>) 3 créditos</li>
+<li>Curso Electivo en Antropología<br /> (<strong>ANTR XXXX</strong>) 3 créditos</li>
+<li>CBU 5<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton7.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<ul class="lista0">
+<li>CBU 6<br /> (<strong>XXXX</strong>) 3 créditos</li>
+<li>Diseño de monografía<br /> (<strong>ANTR 3193</strong>) O<br />Metodología de práctica<br /> (<strong>ANTR 3191</strong>) 3 créditos</li>
+<li>Teorías antropológicas contemporáneas<br /> (<strong>ANTR 3103</strong>) 3 créditos</li>
+<li>Seminario 2 en Antropología<br /> (<strong>ANTR XXXX</strong>) 3 créditos</li>
+<li>CLE 2<br /> (<strong>XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+																<li>
+					<article class="wk-content clearfix"><table id="wig" border="0" cellpadding="2">
+<tbody>
+<tr>
+<td valign="top" width="210" height="210"><img class="align-left" src="data:image/gif;base64,R0lGODlhAQABAJEAAAAAAP///////wAAACH5BAEHAAIALAAAAAABAAEAAAICVAEAOw==" data-src="/images/pregrado/Boton8.jpg" border="0" width="210" height="210" /></td>
+<td valign="top">
+<h1>Opción de grado:</h1>
+<ul class="lista0">
+<li>Monografía de grado<br /> (<strong>ANTR 3194</strong>), <br />Investigación dirigida de grado<br /> (<strong>ANTR 3195</strong>), <br />Práctica de grado<br /> (<strong>ANTR 3993</strong>) U <br />Opción de grado con materias de maestría<br /> (<strong>ANTR 3600</strong>) 6 créditos</li>
+<li>Seminario 3 en Antropología<br /> (<strong>ANTR XXXX</strong>) 3 créditos</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table></article>
+				</li>
+											</ul>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+
+	<div id="slideset-13-59b314a0a561e" class="wk-slideset ">
+		<div>
+			<div class="sets">
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque1.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque2.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque3.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque4.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+								<ul class="set">
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque5.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque6.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque7.png" border="0" /> Semestre</div></div>
+					</li>
+										<li>
+						<div><div><img src="/images/pregrado/Boton_Peque8.png" border="0" /> Semestre</div></div>
+					</li>
+									</ul>
+							</div>
+			<div class="next"></div><div class="prev"></div>		</div>
+	</div>
+	
+</div>
+</p>
+</div>
+<div id="b-texto">
+<h1>Áreas</h1>
+<h2><strong>Antropología social y cultural</strong></h2>
+<p>El estudiante se familiariza con las tendencias de la teoría social y el pensamiento antropológico europeo y latinoamericano. Se estudian las transformaciones de las minorías étnicas y de los grupos poblacionales en la sociedad nacional y en la globalización. Asimismo, se consideran la formación de culturas locales, regionales y de la nación; su organización social; las expresiones de la vida religiosa; las relaciones con la naturaleza, y los procesos de interacción y cambio social que vinculan las historias de las comunidades y de los grupos sociales con el desarrollo de los estados nacionales.</p>
+<h2><strong>Arqueología y Etnohistoria</strong></h2>
+<p>Los estudiantes se familiarizan con el estudio del pasado arqueológico y las relaciones materiales y simbólicas, es decir, los intercambios que los grupos humanos han desarrollado con los entornos ambientales en su proceso de asentamiento en territorios específicos. Con la etnohistoria el estudiante conoce los procesos sociales e históricos que ocurrieron después de la conquista española de América, y se aproxima a las fuentes documentales y a las narraciones escritas por españoles y europeos desde el siglo XVI.</p>
+<h2><strong>Antropología biológica</strong></h2>
+<p>Estudia la trayectoria de la evolución humana desde la aparición de los primeros homínidos hasta el surgimiento de los humanos modernos (evolución biológica). Examina las evidencias paleontológicas (registros fósiles) y sus implicaciones en el estudio de la adaptación y el comportamiento de los primeros humanos, para lo cual se apoya también en estudios de primates.</p>
+<h2><strong>Lingüística</strong></h2>
+<p>El estudiante se familiariza con el estudio de las características y la naturaleza de las diferentes lenguas del mundo, con énfasis en las lenguas indígenas y afrodescendientes colombianas, y la naturaleza del lenguaje mismo, a partir de métodos y técnicas contemporáneas del análisis lingüístico y sociolingüístico.</p>
+<h1>Ciclo Básico Uniandino (CBU)</h1>
+<p>Con el objetivo de brindar una formación integral a sus estudiantes, se plantea el CBU como instrumento de contacto obligatorio con áreas básicas del conocimiento (Artes y Humanidades, Ciencias Sociales y Ciencia y Tecnología). El ciclo consta de seis cursos (18 créditos) clasificados en dos categorías: Tipo A y Tipo B. Los cursos Tipo A tratan temas generales de las mencionadas áreas de conocimiento, y el estudiante debe elegir una de cada área para un total de nueve créditos. Los cursos Tipo B tratan problemas, autores, períodos, teorías y temas específicos de las diferentes disciplinas, y el estudiante puede profundizar en las áreas que más le interesan con tres cursos (9 créditos).</p>
+<p>Para consultar la oferta de cursos CBU vigente para el semestre académico <a href="http://cbu.uniandes.edu.co/index.php"> ingrese aquí</a></p>
+<h1>Año Básico (cursos CISO)</h1>
+<p>El Año Básico de la Facultad de Ciencias Sociales tiene los objetivos de desarrollar la capacidad crítica de los estudiantes, propiciar un diálogo entre las distintas disciplinas y construir perspectivas multifacéticas para abordar los problemas y retos de la sociedad contemporánea. Así, con el ánimo de lograr una formación integral e interdisciplinaria en sus estudiantes, la Facultad ha diseñado el Año Básico a partir de seis áreas: Pensadores clásicos I, Pensadores clásicos II, Filosofía e Historia de las ciencias, Historia de Colombia, Historia de las Ciencia Sociales en Colombia y América Latina y Teorías contemporáneas. Adicionalmente, el estudiante complementará su año básico con las introducciones y los cursos propios de su programa.</p>
+<h1>Cursos de Libre Elección (CLE)</h1>
+<p>Consiste en cursos que pueden ser elegidos libremente de la oferta general de cursos de todos los programas académicos de la Universidad. Estos cursos pueden ser utilizados para cumplir con los requisitos de una opción, acumular créditos del doble programa o incursionar en áreas extracurriculares.</p>
+<h1>Requisito de Español</h1>
+<p>El requisito de español pretende capacitar a todos los estudiantes de la Universidad en el uso adecuado de la lengua, con el fin de proporcionar las herramientas necesarias para elaborar textos académicos coherentes, apropiados y redactados de manera correcta. Los cursos para cumplir con este requisito son dictados únicamente por el Departamento de Humanidades y Literatura (LITE1611), y el Departamento de Lenguajes y Estudios Socioculturales (LENG1501). El curso tiene 3 créditos, su calificación es numérica, no puede ser validado ni homologado con el puntaje obtenido en las pruebas del ICFES, y debe cumplirse antes del tercer semestre del programa que adelante el estudiante.</p>
+<h1>Curso Constitución y Democracia</h1>
+<p>Cumpliendo con el mandato consignado en el Artículo 41 de la Constitución, el curso busca, a través de la enseñanza de los principios constitucionales, fortalecer en los estudiantes el conocimiento crítico y la capacidad de actuación de acuerdo a los valores que, como ciudadanos, es necesario poseer para ejercer de manera responsable los derechos y deberes. El curso (DERE1300) tiene 3 créditos y es requisito obligatorio para todos los estudiantes de la Universidad, a excepción de los estudiantes de Derecho. <br /> Para mayor información <a href="https://cyd.uniandes.edu.co/"> ingrese aquí</a></p>
+<h1>Idioma Extranjero</h1>
+<p>Como parte del proyecto de formación de profesionales integrales, la Universidad promueve el aprendizaje y el dominio de una lengua extranjera. Por tal motivo, desde 1999 los estudiantes deben cumplir con dos requisitos de idioma: requisito de lectura en inglés y requisito de dominio de una segunda lengua. Todos los procesos relacionados con idiomas se realizan a través del Departamento de Lenguajes y Estudios Socioculturales.</p>
+</div>
+<table id="contenido" border="0">
+<tbody>
+<tr>
+<td>
+<div class="bloque1">
+<h1>Convenios</h1>
+<p>La Universidad de los Andes cuenta con numerosos convenios y alianzas de intercambio de estudiantes con prestigiosas universidad en más de 20 países. Estos convenios promueven experiencias enriquecedoras que promueven en los estudiantes la integración de la teoría y la práctica de su profesión en contextos y culturas diferentes, y la ampliación de su visión del mundo. Los estudiantes pueden cursar hasta dos semestres en alguna de las universidades que hacen parte de los convenios de intercambio generales y específicos (dirigidos a estudiantes de determinadas carreras). Algunas de las universidades que tienen convenios específicos para los estudiantes de Ciencias Sociales son: Université Catholique de Louvain, Université de Bourgogne, University of Mannheim, Université de Paris X-Nanterre y Cologne Univeristy of Applied Sciences.</p>
+<p>Para más información sobre procedimientos y convenios de intercambio vigentes <a href="https://ctp.uniandes.edu.co/Estudiantes/Programas/Intercambios/Convenios/index.php"> ingrese aquí<br /></a></p>
+<div class="bloque1">
+<h1 style="text-align: left;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoGralEstudiantesPregrado.pdf" target="_blank">Reglamento General de Estudiantes de Pregrado</a></h1>
+</div>
+</div>
+</td>
+<td>
+<div class="bloque2">&nbsp;</div>
+<div id="destacado-1">
+<div class="bloque1"><strong>Cursos de Antropología 2013-1</strong>
+<p><a href="http://registro.uniandes.edu.co/index.php/elaboracion-de-horario/oferta-de-cursos" target="blank"> Ver aquí</a></p>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>		
+								</div>
+</div>
+              </div>
+                          </div>
+               
+<div class="ot-bottom-banner">      
+ 
+ </div>
+          
+            
+                    </div>
+        </div>
+      </div>
+                               
+
+      
+      <!--******************** END MAINBODY********************-->
+            
+      
+      
+      <!--******************** START FOOTER ********************-->
+    
+      <div class="ot-footer">
+        <div class="ot-footer-w template-width">
+          <div class="ot-footer-i">
+                        <div class="ot-bottom-1">
+              <div class="ot-bottom-1-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="pie"><strong><strong>UNIVERSIDAD DE LOS ANDES | Vigilada MinEducación</strong></strong></div>
+<div class="pie">Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964</div>
+<div class="pie">Reconocimiento personería jurídica: Res. 28 del 23 de febrero de 1949 Min. Justicia.</div>
+<div class="pie">&nbsp;</div>
+<div class="pie"><strong>FACULTAD DE CIENCIAS SOCIALES</strong></div>
+<div class="pie"><strong>DEPARTAMENTO DE ANTROPOLOGÍA</strong><br />Carrera 1 No. 18 A-10 - Piso 6, Bloque G -GB, Bogotá, Colombia<br />Tel: +571 3 300&nbsp;510</div></div>
+			</div>
+		</div>
+	</div>
+	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<p><a class="opacity" href="/index.php" target="_self"><img alt="" src="/images/iconos/01.png" /></a><a class="opacity" href="/index.php/contacto" target="_self"><img alt="" src="/images/iconos/02.png" /></a><a href="https://www.facebook.com/facisouniandes" target="_blank"><img alt="" src="/images/iconos/03.png" /></a><a href="https://twitter.com/facisouniandes" target="_blank"><img alt="" src="/images/iconos/07.png" /></a><a href="http://issuu.com/rfaciso" target="_blank"><img alt="" src="/images/iconos/04.png" /></a>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy55645 = 'r&#101;lf&#97;c&#105;s&#111;' + '&#64;';
+ addy55645 = addy55645 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text55645 = '<img alt="" src="/images/iconos/05.png" />';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy55645 + '\'>');
+ document.write(addy_text55645);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Esta dirección de correo electrónico está protegida contra spambots. Usted necesita tener Javascript activado para poder verla.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script><a href="/index.php/buscar"><img alt="" src="/images/iconos/06.png" /></a></p></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                                    <div class="ot-bottom-2">
+              <div class="ot-bottom-2-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><strong>REDES UNIANDES</strong><br />• <a href="http://www.facebook.com/pages/Universidad-de-los-Andes/312867483159" target="_blank">Facebook</a><br />• <a href="http://www.youtube.com/user/uniandes" target="_blank">YouTube</a><br />• <a href="http://twitter.com/uniandes" target="_blank">Twitter</a><br />• <a href="http://feeds.feedburner.com/NoticiasUniandinas" target="_blank">Canales RSS</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+             
+
+            <div class="ot-bottom-3">
+              <div class="ot-bottom-3-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos"><span style="color: #ffffff;"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/" target="_blank"><span style="color: #ffffff;">Normatividad Insitucional</span> </a> </span><br /><span style="color: #ffffff;"><a href="https://apoyofinanciero.uniandes.edu.co/" target="_blank"><span style="color: #ffffff;">Apoyo Financiero</span> </a> </span><br /><span style="color: #ffffff;"><a href="http://registro.uniandes.edu.co/" target="_blank"><span style="color: #ffffff;">Admisiones y Registro</span> </a> </span><br /><span style="color: #ffffff;"><a href="https://educacioncontinuada.uniandes.edu.co/index.php/es/" target="_blank"><span style="color: #ffffff;">Educación continuada</span> </a> </span><br /><span style="color: #ffffff;"><a href="http://biblioteca.uniandes.edu.co/" target="_blank"><span style="color: #ffffff;">Sistema de Bibliotecas</span> </a> </span><br /><span style="color: #ffffff;"><a href="http://egresados.uniandes.edu.co/" target="_blank"><span style="color: #ffffff;">Portal de egresados</span> </a> </span></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+                        <div class="ot-bottom-4">
+              <div class="ot-bottom-4-i">
+                	<div class="otmodule module">
+		<div class="otmodule-ext">
+						<div class="otmodules-i clearfix">
+				
+
+<div class="custom"  >
+	<div class="datos">Contacto<br /><a href="/index.php/site-map">Mapa del sitio</a></div></div>
+			</div>
+		</div>
+	</div>
+
+              </div>
+            </div>
+
+
+          </div>
+        </div>
+      </div>
+
+    </div>
+      <!--******************** END FOOTER ********************-->
+    </div>
+    
+
+
+  <div class="pata"><table width="100%" border="0" cellpadding="0" cellspacing="1"><tr><td nowrap="nowrap"><span class="mainlevel"> </span><a href="/?view=featured" class="mainlevel" title="Inicio">Inicio</a><span class="mainlevel">  </span><a href="/index.php/el-departamento" class="mainlevel" title="El Departamento">El Departamento</a><span class="mainlevel">  </span><a href="/index.php/programas" class="mainlevel" title="Programas">Programas</a><span class="mainlevel">  </span><a href="/index.php/profesores" class="mainlevel" title="Profesores">Profesores</a><span class="mainlevel">  </span><a href="/index.php/investigacion" class="mainlevel" title="Investigación">Investigación</a><span class="mainlevel">  </span><a href="/index.php/publicaciones" class="mainlevel" title="Publicaciones">Publicaciones</a><span class="mainlevel">  </span><a href="/index.php/laboratorios-y-centros" class="mainlevel" title="Laboratorios y centros">Laboratorios y centros</a><span class="mainlevel">  </span><a href="/index.php/noticias-y-eventos?view=list" class="mainlevel" title="Noticias y eventos">Noticias y eventos</a><span class="mainlevel">  </span><a href="/index.php/contacto" class="mainlevel" title="Contacto">Contacto</a><span class="mainlevel">  </span></td></tr></table>
+
+<div class="custom"  >
+	<p style="text-align: center;">Departamento de&nbsp;Antropología | Carrera 1 No 18A 10 Bogotá, D.C., Colombia Tels: +571 3394949 - +571 3394999 Ext.2550<br /> 2013 ©</p></div>
+</div>
+
+
+
+
+
+
+
+
+</body>
+</html>
+

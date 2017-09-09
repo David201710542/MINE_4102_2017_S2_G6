@@ -1,0 +1,1230 @@
+<!DOCTYPE HTML>
+<html lang="es-es" dir="ltr"  data-config='{"twitter":0,"plusone":0,"facebook":0,"style":"bluegray"}'>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+	<base href="https://apoyofinanciero.uniandes.edu.co/index.php" />
+	<meta name="generator" content="Joomla! - Open Source Content Management" />
+	<title>Inicio</title>
+	<link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+	<link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+	<link href="https://apoyofinanciero.uniandes.edu.co/index.php/component/search/?Itemid=101&amp;format=opensearch" rel="search" title="Buscar Apoyo financiero" type="application/opensearchdescription+xml" />
+	<link href="/templates/yoo_sun/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+	<link href="/media/com_icagenda/icicons/style.css" rel="stylesheet" type="text/css" />
+	<link href="/components/com_icagenda/themes/packs/default/css/default_module.css" rel="stylesheet" type="text/css" />
+	<link href="/templates/yoo_sun/widgetkit/widgets/tabs-sun/style/tab.css" rel="stylesheet" type="text/css" id="tabs-widget-css" />
+	<style type="text/css">
+
+@media screen and (min-width:1201px){
+
+
+}
+
+@media screen and (min-width:769px) and (max-width:1200px){
+
+
+}
+
+@media screen and (min-width:481px) and (max-width:768px){
+
+
+}
+
+@media screen and (max-width:480px){
+
+
+
+	#ictip a.close {
+		padding-right:15px;
+	}
+
+}
+
+	</style>
+	<script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+	<script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+	<script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+	<script src="/modules/mod_iccalendar/js/jQuery.highlightToday.min.js" type="text/javascript"></script>
+	<script src="/media/widgetkit/uikit-fe62bb9f.js" type="text/javascript"></script>
+	<script src="/media/widgetkit/wk-scripts-09a2a87c.js" type="text/javascript"></script>
+	<script type="text/javascript">
+
+		jQuery(document).ready(function(){
+			jQuery("#mod_iccalendar_194").highlightToday("show_today");
+		});
+	window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","/index.php?option=com_ajax&format=json",true);r.send(null)}},840000);
+	</script>
+
+<link rel="apple-touch-icon-precomposed" href="/templates/yoo_sun/apple_touch_icon.png">
+<link rel="stylesheet" href="/templates/yoo_sun/styles/bluegray/css/bootstrap.css">
+<link rel="stylesheet" href="/templates/yoo_sun/styles/bluegray/css/theme.css">
+<link rel="stylesheet" href="/templates/yoo_sun/css/custom.css">
+<script src="/templates/yoo_sun/warp/vendor/uikit/js/uikit.js"></script>
+<script src="/templates/yoo_sun/warp/vendor/uikit/js/components/autocomplete.js"></script>
+<script src="/templates/yoo_sun/warp/vendor/uikit/js/components/search.js"></script>
+<script src="/templates/yoo_sun/warp/vendor/uikit/js/components/tooltip.js"></script>
+<script src="/templates/yoo_sun/warp/js/social.js"></script>
+<script src="/templates/yoo_sun/js/theme.js"></script>
+<script src="/templates/yoo_sun/js/simpleWeather.js"></script>
+</head>
+
+<body class="tm-sidebar-a-right tm-sidebar-b-right tm-sidebars-2 tm-isblog  tm-body-background">
+
+    <div class="tm-page">
+
+                    <div class="uk-container uk-container-center tm-container-large">
+                <div id="tm-toolbar" class="tm-toolbar uk-clearfix uk-hidden-small">
+
+                                            <div class="uk-float-left"><div class="uk-panel">
+	<p><a href="http://www.uniandes.edu.co"><img src="/images/Logo-Uniandes-Colomb.jpg" alt="Logo Uniandes Colomb" /></a></p></div></div>
+                    
+                                            <div class="uk-float-right"><div class="uk-panel">
+	<p>&nbsp;</p>
+<p style="text-align: center;"><span style="color: #000000;"><strong><span style="font-size: 33pt; line-height: 107%; font-family: Arial, sans-serif; background-image: initial; background-position: initial; background-repeat: initial; background-attachment: initial;">Apoyo Financiero a Estudiantes</span></strong></span></p></div></div>
+                    
+                </div>
+            </div>
+        
+        <div class="tm-container uk-container uk-container-center tm-container-large">
+
+                            <div class="tm-dropdown-overlay uk-position-relative" data-uk-dropdown-overlay="{cls:'tm-dropdown-overlay uk-position-absolute uk-width-1-1'}">
+                    <nav id="tm-navbar" class="tm-navbar uk-navbar uk-clearfix">
+
+                        <div class="uk-visible-large">
+                            
+                                                            <div class="uk-float-left"><ul class="uk-navbar-nav uk-hidden-small"><li class="uk-active"><a href="/index.php"><i class="uk-icon-home"></i> Inicio</a></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/index.php/pregrado">Pregrado</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-3" style="min-width: 900px; max-width: 900px; width:300px;"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-3"><ul class="uk-nav uk-nav-navbar"><li class="uk-parent"><a href="/index.php/pregrado/becas"><i class="uk-icon-chevron-right"></i> Becas</a><ul class="uk-nav-sub"><li><a href="/index.php/pregrado/becas/beca-ciro-angarita-baron">Beca Ciro Angarita Barón</a></li><li><a href="/index.php/pregrado/becas/beca-yerly">Beca Yerly</a></li><li><a href="/index.php/pregrado/becas/beca-uniandinos">Beca Asociación de Egresados Uniandinos</a></li></ul></li><li><a href="/index.php/pregrado/credipilo"><i class="uk-icon-chevron-right"></i> Credipilo</a></li><li class="uk-parent"><a href="/index.php/pregrado/descuentos-y-auxilios"><i class="uk-icon-chevron-right"></i> Descuentos y Auxilios</a><ul class="uk-nav-sub"><li><a href="/index.php/pregrado/descuentos-y-auxilios/beca-para-estudiantes-hijos-de-empleados-y-o-prestamo-condonable">Beca para estudiantes hijos de empleados y/o préstamo condonable</a></li><li><a href="/index.php/pregrado/descuentos-y-auxilios/descuento-por-hermanos">Descuento por Hermanos</a></li><li><a href="/index.php/pregrado/descuentos-y-auxilios/fallecimiento-responsable-economico">Fallecimiento Responsable Económico</a></li></ul></li><li class="uk-parent"><a href="/index.php/pregrado/financiacion-icetex"><i class="uk-icon-chevron-right"></i> Financiación Icetex</a><ul class="uk-nav-sub"><li><a href="/index.php/pregrado/financiacion-icetex/renovaciones-icetex-pregrado">Renovaciones Icetex Pregrado</a></li><li><a href="/index.php/pregrado/financiacion-icetex/renovaciones-icetex-ser-pilo-paga">Renovaciones Icetex Ser Pilo Paga</a></li></ul></li></ul></div><div class="uk-width-1-3"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/pregrado/entidades-financieras-pr"><i class="uk-icon-chevron-right"></i> Entidades Financieras</a></li><li><a href="/index.php/pregrado/fondo-credito-de-emergencia"><i class="uk-icon-chevron-right"></i> Fondo Crédito de Emergencia</a></li><li><a href="/index.php/pregrado/fondo-dora-rothlisberger"><i class="uk-icon-chevron-right"></i> Fondo Dora Rothlisberger</a></li><li><a href="/index.php/pregrado/fopre"><i class="uk-icon-chevron-right"></i> Fopre</a></li></ul></div><div class="uk-width-1-3"><ul class="uk-nav uk-nav-navbar"><li class="uk-parent"><a href="/index.php/pregrado/prestamos-condonables"><i class="uk-icon-chevron-right"></i> Préstamos Condonables</a><ul class="uk-nav-sub"><li><a href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-carreras-especiales">Préstamo Condonable Carreras Especiales</a></li><li><a href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-fondo-cecilia">Préstamo Condonable Fondo Cecilia</a></li><li><a href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-fondo-guillermo-wiedemann">Prestamo Condonable Fondo Guillermo Wiedemann</a></li></ul></li><li><a href="/index.php/pregrado/prestamos-fiducolombia-corto-mediano-y-largo-plazo"><i class="uk-icon-chevron-right"></i> Préstamos Fiducolombia: Corto, Mediano y Largo Plazo</a></li><li><a href="/index.php/pregrado/programa-de-becas-ceiba"><i class="uk-icon-chevron-right"></i> Programa de Becas CeiBA</a></li><li><a href="/index.php/pregrado/quiero-estudiar-escala"><i class="uk-icon-chevron-right"></i> Quiero Estudiar Escala</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/index.php/posgrado" class="tm-tag-2">Posgrado</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-3" style="min-width: 900px; max-width: 900px; width:300px;"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-3"><ul class="uk-nav uk-nav-navbar"><li class="uk-parent"><a href="/index.php/posgrado/becas"><i class="uk-icon-chevron-right"></i> Becas</a><ul class="uk-nav-sub"><li><a href="/index.php/posgrado/becas/beca-centro-de-espanol">Beca Centro de Español</a></li><li><a href="/index.php/posgrado/becas/beca-maestria-facultad-de-ciencias-sociales">Beca Maestría Facultad de Ciencias Sociales</a></li><li><a href="/index.php/posgrado/becas/beca-maestria-en-construccion-de-paz">Beca Maestría en Construcción de Paz</a></li></ul></li><li><a href="/index.php/posgrado/entidades-financieras-pos"><i class="uk-icon-chevron-right"></i> Entidades Financieras</a></li></ul></div><div class="uk-width-1-3"><ul class="uk-nav uk-nav-navbar"><li class="uk-parent"><a href="/index.php/posgrado/fondo-gabriel-vega-lara"><i class="uk-icon-chevron-right"></i> Fondo Educativo Gabriel Vegalara - FEGV</a><ul class="uk-nav-sub"><li><a href="/index.php/posgrado/fondo-gabriel-vega-lara/beca-regional-mba">Beca Regional MBA</a></li><li><a href="/index.php/posgrado/fondo-gabriel-vega-lara/beca-tradicional-mba-t-c" title="Beca Regional MBA">Beca Tradicional MBA T.C.</a></li><li><a href="/index.php/posgrado/fondo-gabriel-vega-lara/fondo-gabriel-vega-lara-credito-corto-plazo">Fondo Educativo Gabriel Vegalara - FEGV - Crédito Corto Plazo</a></li><li><a href="/index.php/posgrado/fondo-gabriel-vega-lara/fondo-gabriel-vega-lara-credito-mediano-plazo">Fondo Educativo Gabriel Vegalara - FEGV - Crédito Mediano Plazo</a></li></ul></li><li class="uk-parent"><a href="/index.php/posgrado/icetex-posgrado"><i class="uk-icon-chevron-right"></i> Icetex Posgrado</a><ul class="uk-nav-sub"><li><a href="/index.php/posgrado/icetex-posgrado/renovaciones-icetex-posgrado">Renovaciones Icetex Posgrado</a></li></ul></li></ul></div><div class="uk-width-1-3"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/posgrado/programa-de-becas-ceiba"><i class="uk-icon-chevron-right"></i> Programa de Becas CeiBA</a></li><li><a href="/index.php/posgrado/posgrado-corto-plazo"><i class="uk-icon-chevron-right"></i> Posgrado Corto y Mediano Plazo</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/index.php/doctorado" class="tm-tag-1">Doctorado</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1" style="min-width: 300px; max-width: 300px; width:300px;"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/doctorado/credito-condonable-para-doctorado"><i class="uk-icon-chevron-right"></i> Crédito Condonable para Doctorado</a></li><li><a href="/index.php/doctorado/fondo-de-credito-transitorio-a-doctorados"><i class="uk-icon-chevron-right"></i> Fondo de Crédito Transitorio a Doctorados</a></li><li><a href="/index.php/doctorado/programa-de-becas-ceiba"><i class="uk-icon-chevron-right"></i> Programa de Becas CeiBA</a></li><li><a href="/index.php/doctorado/doctorado-corto-y-mediano-plazo"><i class="uk-icon-chevron-right"></i> Doctorado Corto y Mediano Plazo</a></li><li><a href="/index.php/doctorado/fondo-gabriel-vegalara-beca-doctorado"><i class="uk-icon-chevron-right"></i> Fondo Educativo Gabriel Vegalara - FEGV - Beca Doctorado</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/index.php/educacion-continuadapr" class="tm-tag-1">Educación Continuada</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1" style="min-width: 300px; max-width: 300px; width:300px;"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/educacion-continuadapr/entidades-financieras-ec">Entidades Financieras</a></li></ul></div></div></div></li><li class="uk-parent" data-uk-dropdown="{'preventflip':'y'}" aria-haspopup="true" aria-expanded="false"><a href="/index.php/preguntas-frecuentes">Preguntas Frecuentes</a><div class="uk-dropdown uk-dropdown-navbar uk-dropdown-width-1" style="min-width: 300px; max-width: 300px; width:300px;"><div class="uk-grid uk-dropdown-grid"><div class="uk-width-1-1"><ul class="uk-nav uk-nav-navbar"><li><a href="/index.php/preguntas-frecuentes/preguntas-frecuentes-pregrado">Preguntas Frecuentes Pregrado</a></li><li><a href="/index.php/preguntas-frecuentes/preguntas-frecuentes-posgrado">Preguntas Frecuentes Posgrado</a></li></ul></div></div></div></li></ul></div>
+                            
+                            
+                                                            <div class="uk-float-right">
+<form id="search-82-59b30f1401e24" class="uk-search" action="/index.php/component/finder/search" method="get">
+	<input class="uk-search-field" type="text" name="q" placeholder="buscar..." autocomplete="off">
+	<input type="hidden" name="Itemid" value="101" /></form>
+</div>
+                                                    </div>
+
+                                                    <a href="#offcanvas" class="uk-navbar-toggle uk-hidden-large uk-navbar-flip" data-uk-offcanvas></a>
+                        
+                                                    <div class="tm-logo-small uk-navbar-content uk-hidden-large">
+                                <a href="https://apoyofinanciero.uniandes.edu.co">
+	<p><img src="/images/Logo-Uniandes-Colombia.jpg" alt="" /></p></a>
+                            </div>
+                        
+                    </nav>
+                </div>
+            
+            <div class="tm-container-background">
+                                    <section id="tm-top-a" class="uk-grid uk-grid-collapse tm-block-divider uk-grid-divider" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
+<div class="uk-width-1-1"><div class="uk-panel">
+<div class="tm-tabs uk-grid uk-grid-collapse uk-grid-match " data-uk-grid-match="{target:'> div > ul'}" data-uk-grid-margin style="min-height: 10px;">
+
+    <div class="uk-width-medium-1-4 uk-float-right uk-flex-order-last-medium">
+        
+<ul class="uk-tab uk-tab-right tm-tab-fullheight" data-uk-tab="{connect:'#wk-883',animation:'scale'}">
+            
+        <li class="">
+            <a href="/">
+                
+                
+                <h3>¿Qué es apoyo financiero?</h3>
+            </a>
+        </li>
+
+            
+        <li class="">
+            <a href="/">
+                
+                
+                <h3>Día del Apoyo Financiero</h3>
+            </a>
+        </li>
+
+            
+        <li class="">
+            <a href="/">
+                
+                
+                <h3>Contáctenos</h3>
+            </a>
+        </li>
+
+    </ul>
+    </div>
+
+    <div class="uk-width-medium-3-4">
+        
+<ul id="wk-883" class="uk-switcher" data-uk-check-display>
+    
+        
+        <li>
+
+            <div class="uk-grid uk-grid-collapse">
+
+                                <div class="uk-width-large-2-3">
+                    <img src="/images/Uniandes/Cifras-AFE.png" alt="¿Qué es apoyo financiero?">                </div>
+                
+                <div class="uk-width-large-1-3 uk-panel uk-panel-box">
+
+                    
+                                                <h3 class="uk-article-title uk-margin-top-remove">¿Qué es apoyo financiero?</h3>
+                        
+                        <div class="uk-margin">
+
+                            <p style="text-align: justify;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">La Universidad busca facilitar el ingreso a la Universidad y la permanencia de estudiantes destacados por sus cualidades acad&eacute;micas, sin distingo de sus condiciones econ&oacute;micas o sociales, para ello ha implementado diferentes mecanismos de Apoyo Financiero .</span></p>
+
+                                                            <a class="uk-margin-top uk-button uk-button-link" href="/index.php/blog-home-switcher/55-que-es-apoyo-financiero" >Leer mas</a>
+                            
+                        </div>
+
+                    
+                </div>
+
+            </div>
+        </li>
+    
+        
+        <li>
+
+            <div class="uk-grid uk-grid-collapse">
+
+                                <div class="uk-width-large-2-3">
+                    <img src="/images/dia.jpg" alt="Día del Apoyo Financiero">                </div>
+                
+                <div class="uk-width-large-1-3 uk-panel uk-panel-box">
+
+                    
+                                                <h3 class="uk-article-title uk-margin-top-remove">Día del Apoyo Financiero</h3>
+                        
+                        <div class="uk-margin">
+
+                            <p style="text-align: justify;"><span style="color: #000000;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">Este evento est&aacute; dirigido a padres de familia, y estudiantes que planean ingresar&nbsp;a uno&nbsp;</span><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">de los programas de pregrado de la Universidad de los Andes.</span></span></p>
+<p style="text-align: justify;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif; color: #000000;">Ven y Conoce las distintas alternativas de financiaci&oacute;n para el pago de la matr&iacute;cula.</span></p>
+
+                                                            <a class="uk-margin-top uk-button uk-button-link" href="/index.php/blog-home-switcher/108-dia-del-apoyo-financiero" >Leer mas</a>
+                            
+                        </div>
+
+                    
+                </div>
+
+            </div>
+        </li>
+    
+        
+        <li>
+
+            <div class="uk-grid uk-grid-collapse">
+
+                                <div class="uk-width-large-2-3">
+                    <img src="/images/CAI.jpg" alt="Contáctenos">                </div>
+                
+                <div class="uk-width-large-1-3 uk-panel uk-panel-box">
+
+                    
+                                                <h3 class="uk-article-title uk-margin-top-remove">Contáctenos</h3>
+                        
+                        <div class="uk-margin">
+
+                            <p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">En Apoyo Financiero siempre estamos dispuestos a escuchar sus inquietudes</span><span style="font-size: 14pt; font-family: arial, helvetica, sans-serif;"></span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">Calle 18A No 0-33 Este. Bloque E. Centro de Atenci&oacute;n Integrada - Bogot&aacute;, (Colombia).</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">Tel: +571 3394949</span></p>
+<p><span style="font-family: arial, helvetica, sans-serif; font-size: 10pt; color: #000000;">Ext. 1234</span></p>
+
+                                                            <a class="uk-margin-top uk-button uk-button-link" href="https://apoyofinanciero.uniandes.edu.co/index.php/contactenos" >Leer mas</a>
+                            
+                        </div>
+
+                    
+                </div>
+
+            </div>
+        </li>
+    </ul>
+    </div>
+</div>
+</div></div>
+</section>
+                
+                
+                
+                                    <div id="tm-middle" class="tm-middle uk-grid uk-grid-collapse" data-uk-grid-match>
+
+                                                    <div class="tm-main uk-width-medium-1-2 uk-grid-collapse">
+
+                                
+                                                                    <main id="tm-content" class="tm-content uk-panel uk-panel-space">
+
+                                        
+                                        <div id="system-message-container">
+</div>
+
+
+<div class="uk-grid tm-leading-article"><div class="uk-width-1-1">
+<article class="uk-article " data-permalink="https://apoyofinanciero.uniandes.edu.co/index.php/pregrado/quiero-estudiar-escala">
+
+    
+        <div class="uk-grid" data-uk-grid-margin>
+        <div class="uk-width-1-1 uk-width-medium-1-2 ">
+    
+                        <a href="/index.php/pregrado/quiero-estudiar-escala" title=""><img src="/images/Uniandes/Foto-Escala.png" alt=""></a>
+            
+            </div>
+        <div class="uk-width-1-1 uk-width-medium-1-2">
+    
+    
+                                    <h1 class="uk-article-title">
+                                            <a href="/index.php/pregrado/quiero-estudiar-escala" title="Quiero Estudiar Escala">Quiero Estudiar Escala</a>
+                                    </h1>
+            
+            
+                    
+        
+        
+        
+                <p class="uk-margin-top"><a class="uk-button uk-button-link" href="/index.php/pregrado/quiero-estudiar-escala" title="Quiero Estudiar Escala">Continuar leyendo</a></p>
+        
+        
+            </div>
+    </div>
+    
+    
+    
+</article>
+</div></div><div class="uk-grid" data-uk-grid-match data-uk-grid-margin><div class="uk-width-medium-1-1">
+<article class="uk-article " data-permalink="https://apoyofinanciero.uniandes.edu.co/index.php/pregrado/prestamos-condonables/prestamo-condonable-carreras-especiales">
+
+    
+        <div class="uk-grid" data-uk-grid-margin>
+        <div class="uk-width-1-1 uk-width-medium-1-2 uk-float-right uk-flex-order-last-medium">
+    
+                        <a href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-carreras-especiales" title=""><img src="/images/Uniandes/Condonable-Carreras-Especiales.png" alt=""></a>
+            
+            </div>
+        <div class="uk-width-1-1 uk-width-medium-1-2">
+    
+    
+                                    <h1 class="uk-article-title">
+                                            <a href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-carreras-especiales" title="Préstamo Condonable Carreras Especiales">Préstamo Condonable Carreras Especiales</a>
+                                    </h1>
+            
+            
+                    
+        
+        
+        
+                <p class="uk-margin-top"><a class="uk-button uk-button-link" href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-carreras-especiales" title="Préstamo Condonable Carreras Especiales">Continuar leyendo</a></p>
+        
+        
+            </div>
+    </div>
+    
+    
+    
+</article>
+
+<article class="uk-article " data-permalink="https://apoyofinanciero.uniandes.edu.co/index.php/pregrado/descuentos-y-auxilios/descuento-por-hermanos">
+
+    
+        <div class="uk-grid" data-uk-grid-margin>
+        <div class="uk-width-1-1 uk-width-medium-1-2 ">
+    
+                        <a href="/index.php/pregrado/descuentos-y-auxilios/descuento-por-hermanos" title=""><img src="/images/Descuento-Hermanos.png" alt=""></a>
+            
+            </div>
+        <div class="uk-width-1-1 uk-width-medium-1-2">
+    
+    
+                                    <h1 class="uk-article-title">
+                                            <a href="/index.php/pregrado/descuentos-y-auxilios/descuento-por-hermanos" title="Descuento por Hermanos">Descuento por Hermanos</a>
+                                    </h1>
+            
+            
+                    
+        
+        
+        
+                <p class="uk-margin-top"><a class="uk-button uk-button-link" href="/index.php/pregrado/descuentos-y-auxilios/descuento-por-hermanos" title="Descuento por Hermanos">Continuar leyendo</a></p>
+        
+        
+            </div>
+    </div>
+    
+    
+    
+</article>
+</div></div>
+
+
+                                    </main>
+                                
+                                
+                            </div>
+                        
+                                                                                                                                        <aside class="tm-sidebar-a uk-width-medium-1-4 tm-block-divider tm-sidebar-divider"><div class="uk-panel uk-panel-space">
+	<h3>EVENTOS</h3>
+<p>
+
+<div>
+
+        
+
+<ul class="uk-tab" data-uk-tab="{connect:'#wk-de3'}">
+    <li><a href="/">Vivienda 2x1</a></li>
+</ul>
+
+    
+    
+<ul id="wk-de3" class="uk-switcher uk-text-left uk-margin-top" data-uk-check-display>
+
+    
+    <li>
+        <div class="uk-panel">
+
+                        <div class="uk-margin uk-text-center"><img src="/images/Uniandes/Vivienda.png" class=" uk-overlay-scale" alt="Vivienda 2x1"></div>
+            
+            
+                        <span class="">Evento</span>
+            
+                        <h3 class="uk-panel-title">Vivienda 2x1</h3>
+            
+            
+            
+                        <div class="uk-margin">Si usted se encuentra interesado lo invitamos a escribir al correo electronico <span id="cloak2b7bc3c92667fb09d69acc062edc6627">Esta dirección de correo electrónico está siendo protegida contra los robots de spam. Necesita tener JavaScript habilitado para poder verlo.</span><script type='text/javascript'>
+				document.getElementById('cloak2b7bc3c92667fb09d69acc062edc6627').innerHTML = '';
+				var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+				var path = 'hr' + 'ef' + '=';
+				var addy2b7bc3c92667fb09d69acc062edc6627 = 'v&#105;v&#105;&#101;nd&#97;&#117;n&#105;v&#101;rs&#105;t&#97;r&#105;&#97;' + '&#64;';
+				addy2b7bc3c92667fb09d69acc062edc6627 = addy2b7bc3c92667fb09d69acc062edc6627 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+				var addy_text2b7bc3c92667fb09d69acc062edc6627 = 'v&#105;v&#105;&#101;nd&#97;&#117;n&#105;v&#101;rs&#105;t&#97;r&#105;&#97;' + '&#64;' + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';document.getElementById('cloak2b7bc3c92667fb09d69acc062edc6627').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy2b7bc3c92667fb09d69acc062edc6627 + '\'>'+addy_text2b7bc3c92667fb09d69acc062edc6627+'<\/a>';
+		</script> o llamar al telefono 3394949 Ext. 5457</div>
+            
+            
+            
+            
+            
+        </div>
+    </li>
+
+</ul>
+
+    
+</div>
+
+</p></div>
+<div class="uk-panel uk-panel-space"><h3 class="uk-panel-title">Artículos Populares</h3>
+<ul class="uk-list uk-list-line">
+	<li><a href="/index.php/blog-home-switcher/55-que-es-apoyo-financiero">¿Qué es apoyo financiero?</a></li>
+	<li><a href="/index.php/blog-home-switcher/58-prestamos-fiducolombia-corto-mediano-y-largo-plazo">Préstamos Fiducolombia: Corto, Mediano y Largo Plazo</a></li>
+	<li><a href="/index.php/blog-home-switcher/106-contactenos1">Contáctenos</a></li>
+</ul></div></aside>
+                                                                                                                <aside class="tm-sidebar-b uk-width-medium-1-4 tm-block-divider tm-sidebar-divider"><div class="uk-panel uk-panel-space"><h3 class="uk-panel-title"><i class="uk-icon-calendar"></i> Calendario</h3><!-- iCagenda - Calendar --><div tabindex="0" id="ic-calendar-194" class="">
+<!-- Calendar -->
+
+
+<div class="default iccalendar " style=" color:#324869; background-color:#ffffff;" id="194"><div id="mod_iccalendar_194">
+			<div class="icagenda_header"><p style="text-align: center;"><span style="font-size: 10pt; font-family: arial, helvetica, sans-serif;">Calendario Oficial de Convocatorias y Actividades</span></p>
+			</div><div class="icnav"><a id="ic-prev-year" class="backicY icagendabtn_194" href="https://apoyofinanciero.uniandes.edu.co/index.php?iccaldate=2016-09-1" rel="nofollow"><span style="height: 1px; width: 1px; position: absolute; overflow: hidden; top: -10px;" title="">Previous Year</span><span class="iCicon iCicon-backicY"></span></a><a id="ic-prev-month" class="backic icagendabtn_194" href="https://apoyofinanciero.uniandes.edu.co/index.php?iccaldate=2017-8-1" rel="nofollow"><span style="height: 1px; width: 1px; position: absolute; overflow: hidden; top: -10px;" title="">Previous Month</span><span class="iCicon iCicon-backic"></span></a><a id="ic-next-year" class="nexticY icagendabtn_194" href="https://apoyofinanciero.uniandes.edu.co/index.php?iccaldate=2018-09-1" rel="nofollow"><span style="height: 1px; width: 1px; position: absolute; overflow: hidden; top: -10px;" title="">Next Year</span><span class="iCicon iCicon-nexticY"></span></a><a id="ic-next-month" class="nextic icagendabtn_194" href="https://apoyofinanciero.uniandes.edu.co/index.php?iccaldate=2017-10-1" rel="nofollow"><span style="height: 1px; width: 1px; position: absolute; overflow: hidden; top: -10px;" title="">Next Month</span><span class="iCicon iCicon-nextic"></span></a><div class="titleic">Septiembre 2017</div></div><div style="clear:both"></div>
+			<table id="icagenda_calendar" class="ic-table" style="width:100%;">
+				<thead>
+					<tr>
+						<th style="width:14.2857143%;background: ;">Lun</th>
+						<th style="width:14.2857143%;background: ;">Mar</th>
+						<th style="width:14.2857143%;background: ;">Mié</th>
+						<th style="width:14.2857143%;background: ;">Jue</th>
+						<th style="width:14.2857143%;background: ;">Vie</th>
+						<th style="width:14.2857143%;background: ;">Sáb</th>
+						<th style="width:14.2857143%;background: ;">Dom</th>
+					</tr>
+				</thead>
+		<tr><td colspan="4"></td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-01">
+		1	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-02">
+		2	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-03">
+		3	</div>
+</td><tr><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-04">
+		4	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-05">
+		5	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-06">
+		6	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-07">
+		7	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-08">
+		8	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Today" data-cal-date="2017-09-09">
+		9	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-10">
+		10	</div>
+</td><tr><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-11">
+		11	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-12">
+		12	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-13">
+		13	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-14">
+		14	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-15">
+		15	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-16">
+		16	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-17">
+		17	</div>
+</td><tr><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-18">
+		18	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-19">
+		19	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-20">
+		20	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-21">
+		21	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-22">
+		22	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-23">
+		23	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-24">
+		24	</div>
+</td><tr><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-25">
+		25	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-26">
+		26	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-27">
+		27	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-28">
+		28	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-29">
+		29	</div>
+</td><td style="background: ;">
+<!-- Day Pop-up -->
+
+	<div class="no-event style_Day" data-cal-date="2017-09-30">
+		30	</div>
+</td><td colspan="1"></td></tr></table></div></div>
+</div>
+<script type="text/javascript">
+(function($){
+	var icmouse = 'click';
+	var mouseout = '1';
+	var icclasstip = '.icevent a';
+	var icclass = '.iccalendar';
+	var position = 'center';
+	var posmiddle = 'top';
+	var modid = '194';
+	var modidid = '#194';
+	var icagendabtn = '.icagendabtn_194';
+	var mod_iccalendar = '#mod_iccalendar_194';
+	var template = '.default';
+	var loading = 'cargando...';
+	var closetxt = 'Cerrar';
+	var tip_type = '1';
+	var tipwidth = 390;
+	var smallwidththreshold = 481;
+	var verticaloffset = 50;
+	var css_position = '';
+	var mobile_min_width = 320;
+	var extra_css = '';
+
+	$(document).on('click touchend', icagendabtn, function(e){		e.preventDefault();
+
+		url=$(this).attr('href');
+
+		$(modidid).html('<div class="icloading_box"><div style="text-align:center;">' + loading + '<\/div><div class="icloading_img"><\/div><\/div>').load(url + ' ' + mod_iccalendar, function(){$('#mod_iccalendar_194').highlightToday();});
+
+	});
+
+	// Calendar Keyboard Accessibility (experimental, since 3.5.14)
+	if (typeof first_mod === 'undefined') {
+		$i = '1';
+		first_mod = modid;
+		first_nb = $i;
+		nb_mod = $i;
+	} else {
+		$i = (typeof $i === 'undefined') ? '2' : ++$i;
+		nb_mod = $i;
+	}
+
+	$('#ic-calendar-'+modid).addClass('ic-'+nb_mod);
+
+	$(document).keydown(function(e){
+
+		// ctrl+alt+C : focus on first Calendar module
+		if (e.ctrlKey && e.altKey && e.keyCode == 67) {
+			$('#ic-calendar-'+first_mod).focus();
+		}
+
+		// ctrl+alt+N : focus on Next calendar module
+		if (e.ctrlKey && e.altKey && e.keyCode == 78) {
+			if ($('#ic-calendar-'+modid).is(':focus')) {
+				activ = $('#ic-calendar-'+modid).attr('class');
+				act = activ.split('-');
+				act = act[1];
+				next = ++act;
+			}
+			mod_class = $('#ic-calendar-'+modid).attr('class');
+			if ($('.ic-'+next).length == 0) next = 1;
+			if (mod_class == 'ic-'+next) $('.ic-'+next).focus();
+		}
+
+		// On focused calendar module
+		if ($('#ic-calendar-'+modid).is(':focus')){
+			switch (e.keyCode) {
+				case 37:
+					// Left arrow pressed
+					url = $('#ic-calendar-'+modid+' #ic-prev-month').attr('href');
+					break;
+				case 38:
+					// Top arrow pressed
+					url = $('#ic-calendar-'+modid+' #ic-next-year').attr('href');
+					break;
+				case 39:
+					// Right arrow pressed
+					url = $('#ic-calendar-'+modid+' #ic-next-month').attr('href');
+					break;
+				case 40:
+					// Top arrow pressed
+					url = $('#ic-calendar-'+modid+' #ic-prev-year').attr('href');
+					break;
+			}
+
+			if ((!e.shiftKey && (e.keyCode == 37 || e.keyCode == 39)) ||
+				(e.shiftKey && (e.keyCode == 38 || e.keyCode == 40))) {
+				$(modidid).html('<div class="icloading_box"><div style="text-align:center;">' + loading + '<\/div><div class="icloading_img"><\/div><\/div>').load(url + ' ' + mod_iccalendar, function(){$('#mod_iccalendar_194').highlightToday();});
+			}
+
+//			if ($(modidid+' '+icclasstip).is(':focus') && e.keyCode == 13){
+//				var icmouse = "click";
+//			}
+		}
+	});
+
+	if (tip_type=='2') {	$(document).on(icmouse, this, function(e){
+		e.preventDefault();
+
+		$(".iCaTip").tipTip({maxWidth: "400", defaultPosition: "top", edgeOffset: 1, activation:"hover", keepAlive: true});
+	});
+	}
+
+	if (tip_type=='1') {		$view_width=$(window).width();		if($view_width<smallwidththreshold){			icmouse='click touchend';
+		}
+
+		$(document).on(icmouse, modidid+' '+icclasstip, function(e){
+			$view_height=$(window).height();			$view_width=$(window).width();			e.preventDefault();
+			$('#ictip').remove();
+			$parent=$(this).parent();
+			$tip=$($parent).children(modidid+' .spanEv').html();
+
+			if ($view_width < smallwidththreshold)
+			{
+								css_position = 'fixed';
+				$width_px = Math.max(mobile_min_width,$view_width); 				$width = '100%';
+				$pos = '0px';
+				$top = '0px';
+				extra_css='border:0;border-radius:0;height:100%;box-shadow:none;margin:0px;padding:10px;min-width:'+mobile_min_width+'px;overflow-y:scroll;padding:0;';			}
+			else
+			{
+				css_position = 'absolute';
+				$width_px = Math.min($view_width, tipwidth);
+				$width = $width_px+'px';
+
+								switch(position) {
+					case 'left':
+						$pos=Math.max(0,$(modidid).offset().left-$width_px-10)+'px';
+						break;
+					case 'right':
+						$pos=Math.max(0,Math.min($view_width-$width_px,$(modidid).offset().left+$(modidid).width()+10))+'px';
+						break;
+					default:						$pos=Math.ceil(($view_width-$width_px)/2)+'px';
+						break;
+				}
+
+								if (posmiddle === 'top')
+				{
+					$top = Math.max(0,$(modidid).offset().top-verticaloffset)+'px';				}
+				else
+				{
+					$top = Math.max(0,$(modidid).offset().top+$(modidid).height()-verticaloffset)+'px';				}
+			}
+
+
+			$('body').append('<div style="display:block; position:'+css_position+'; width:'+$width+'; left:'+$pos+'; top:'+$top+';'+extra_css+'" id="ictip"> '+$(this).parent().children('.date').html()+'<a class="close" style="cursor: pointer;"><div style="display:block; width:auto; height:50px; text-align:right;">' + closetxt + '<\/div></a><span class="clr"></span>'+$tip+'<\/div>');
+
+			// Tooltip Keyboard Accessibility (experimental, since 3.5.14)
+			$(document).keydown(function(e){
+				//	Shift : focus on tooltip events
+				if ($('.icevent a').is(':focus') && e.keyCode == 16){
+					$('.ictip-event a').focus();
+				}
+				//	esc : close tooltip
+				if (($('.ictip-event a').is(':focus') || $('.icevent a').is(':focus')) && e.keyCode == 27){
+					e.preventDefault();
+					$('#ictip').remove();
+				}
+			});
+
+			// Close Tooltip
+			$(document).on('click touchend', '.close', function(e){
+				e.preventDefault();
+				$('#ictip').remove();
+			});
+
+			if (mouseout == '1')
+			{
+				$('#ictip')
+					.mouseout(function() {
+//						$( "div:first", this ).text( "mouse out" );
+						$('#ictip').stop(true).fadeOut(300);
+					})
+					.mouseover(function() {
+//						$( "div:first", this ).text( "mouse over" );
+						$('#ictip').stop(true).fadeIn(300);
+					});
+			}
+		});
+	}
+
+}) (jQuery);
+</script>
+</div>
+<div class="uk-panel uk-panel-space"><h3 class="uk-panel-title">Login Matrículas</h3><script> /*
+    jQuery.noConflict();
+jQuery(document).ready(function(){
+	jQuery('input[placeholder]').placeholder();
+}); */
+</script>
+<h4 style="padding-left: 0px; text-transform:none !important; margin-bottom:5px !important; margin-top:5px !important;">Ingrese aquí a la página de matrículas</h4>
+<form id="logonForm" action="https://autoservicio.uniandes.edu.co/irj/portal" method="post" target="_self" name="logonForm" autocomplete="off">
+    <div>
+    <label for="logonuidfield"><span>Usuario Uniandes:</span></label>
+    <input id="logonuidfield" class="urEdfTxtEnbl" type="text" placeholder="Usuario Uniandes" title="Usuarios *" value="" name="j_username" style="width:155px !important">
+  </div>
+  <div>
+  <label for="logonpassfield">Contraseña Uniandes:</label>
+  <input id="logonpassfield" class="urEdfTxtEnbl" placeholder="Contraseña Uniandes" type="password" name="j_password" style="width:155px !important">
+  </div>
+  <div>
+  <a href="https://cuenta.uniandes.edu.co/Cuenta/" target="_blank">Olvidó su contraseña</a></div>  
+  <div>
+  <label for="button">&nbsp;</label>
+  <input type="submit" name="button" id="button" value="Enviar" class="urEdfTxtEnbl" />
+  </div>
+</form>
+
+
+</div>
+<div class="uk-panel uk-panel-space">
+	<h3 class="uk-margin-bottom" style="text-align: center;">&iquest;Qui&Eacute;nes Somos?</h3>
+<p>&nbsp;
+
+<div id="wk-gridad7" class="uk-grid-width-1-3 uk-grid uk-grid-match uk-text-left " data-uk-grid-match="{target:'> div > .uk-panel', row:true}" data-uk-grid-margin >
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Jefe-2.jpg" class=" uk-overlay-scale" alt="Ana Maria Neiza Romero" width="5472" height="3648"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Liliana-1.jpg" class=" uk-overlay-scale" alt="Liliana Ayala Caro" width="5472" height="3648"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Sandra-1.jpg" class=" uk-overlay-scale" alt="Sandra Acevedo Espitia" width="5472" height="3648"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Monica-1.jpg" class=" uk-overlay-scale" alt="Monica Andrea Vallejo Mora" width="5472" height="3648"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Tatiana-2.jpg" class=" uk-overlay-scale" alt="Tatiana Yamile Robayo" width="5472" height="3648"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Andrea-del-Pilar-2.jpg" class=" uk-overlay-scale" alt="Andrea Del Pilar Vargas Valencia" width="5472" height="3648"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Ximena-2.jpg" class=" uk-overlay-scale" alt="Ehidy Ximena Nensthiel López" width="4897" height="3265"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Cesar-1.jpg" class=" uk-overlay-scale" alt="Cesar Augusto Cifuentes" width="4722" height="3148"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel">
+
+            
+            
+                        <div class="uk-text-center uk-panel-teaser"><img src="/images/Uniandes/Libardo.jpg" class=" uk-overlay-scale" alt="Libardo Ballesteros Bernal" width="4273" height="2849"></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.uk-overlay-panel)', $('#wk-gridad7')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="uk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+</p>
+<p><span style="color: #333333; font-family: arial, helvetica, sans-serif; font-size: small; text-align: justify;">La Oficina de Apoyo Financiero busca brindar una asesor&iacute;a acertada que facilite la toma de decisiones en materia de financiaci&oacute;n educativa. Para ello cuenta con un equipo dispuesto a atenderlo</span></p>
+<p><a href="/index.php/quienes-somos" class="uk-button uk-button-link">LEER MAS</a></p></div></aside>
+                                                    
+                    </div>
+                
+                
+                
+                                    <section id="tm-bottom-c" class="uk-grid uk-grid-collapse tm-block-alternative" data-uk-grid-match="{target:'> div > .uk-panel'}" data-uk-grid-margin>
+<div class="uk-width-1-1"><div class="uk-panel tm-margin-xlarge">
+	<p>
+
+<div id="wk-grid701" class="uk-grid-width-1-1 uk-grid-width-small-1-2 uk-grid-width-large-1-5 uk-grid uk-grid-match uk-text-left " data-uk-grid-match="{target:'> div > .uk-panel', row:true}" data-uk-grid-margin  data-uk-scrollspy="{cls:'uk-animation-fade uk-invisible', target:'> div > .uk-panel', delay:300}">
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin">
+
+<h3 class="uk-margin-small-top"><strong>APOYO FINANCIERO A ESTUDIANTES</strong></h3>
+
+<ul class="uk-list">    
+</div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><h3 class="tm-tag-5 tm-title-border">Pregrado</h3>
+<ul class="uk-list uk-list-line">
+  <li><a href="/index.php/pregrado/becas">Becas</a></li>
+  <li><a href="/index.php/pregrado/credipilo">Credipilo</a></li>
+  <li><a href="/index.php/pregrado/descuentos-y-auxilios">Descuentos y Auxilios</a></li>
+  <li><a href="/index.php/pregrado/entidades-financieras-pr">Entidades Financieras</a></li>
+  <li><a href="/index.php/pregrado/financiacion-icetex">Financiación Icetex</a></li>
+  <li><a href="/index.php/pregrado/fondo-credito-de-emergencia">Fondo Crédito de Emergencia</a></li>
+  <li><a href="/index.php/pregrado/fondo-dora-rothlisberger">Fondo Dora Rothlisberger</a></li>
+  <li><a href="/index.php/pregrado/fopre">Fopre</a></li>
+  <li><a href="/index.php/pregrado/prestamos-condonables">Préstamos Condonables</a></li>
+  <li><a href="/index.php/pregrado/prestamos-fiducolombia-corto-mediano-y-largo-plazo">Préstamos Fiducolombia: Corto, Mediano y Largo Plazo</a></li>
+  <li><a href="/index.php/pregrado/programa-de-becas-ceiba">Programa de Becas CEIBA</a></li>
+  <li><a href="/index.php/pregrado/quiero-estudiar-escala-beca-con-compromiso">Quiero Estudiar Escala - Beca con Compromiso</a></li>
+  </ul></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><h3 class="tm-tag-1 tm-title-border">Posgrado</h3>
+<ul class="uk-list uk-list-line">
+  <li><a href="/index.php/posgrado/becas">Becas</a></li>
+  <li><a href="/index.php/posgrado/57-entidades-financieras-pos">Entidades Financieras</a></li>
+  <li><a href="/index.php/posgrado/58-icetex-posgrado">Icetex Posgrado</a></li>
+  <li><a href="/index.php/posgrado/programa-de-becas-ceiba">Programa de Becas CEIBA</a></li>
+  <li><a href="/index.php/posgrado/fondo-gabriel-vega-lara">Fondo Gabriel Vega Lara</a></li>
+ </ul></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><h3 class="tm-tag-2 tm-title-border">Doctorado</h3>
+<ul class="uk-list uk-list-line">
+  <li><a href="/index.php/doctorado/49-credito-condonable-para-doctorado">Crédito Condonable para Doctorado</a></li>
+  <li><a href="/index.php/doctorado/65-fondo-de-credito-transitorio-a-doctorados">Fondo de Crédito Transitorio a Doctorados</a></li>
+  <li><a href="/index.php/doctorado/66-programa-de-becas-ceiba">Programa de Becas CEIBA</a></li>
+</ul></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel uk-invisible">
+
+            
+            
+            
+            
+            
+            
+            
+                        <div class="uk-margin"><h3 class="tm-tag-4 tm-title-border">Educación Continuada</h3>
+<ul class="uk-list uk-list-line"><a 
+  <li><a href="/index.php/educacion-continuadapr/67-entidades-financieras-ec">Entidades Financieras</a></li>
+</ul></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.uk-overlay-panel)', $('#wk-grid701')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="uk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+</p></div></div>
+</section>
+                            </div>
+
+                            <footer id="tm-footer" class="tm-footer">
+
+                                            <a class="tm-totop-scroller" data-uk-smooth-scroll href="#"></a>
+                    
+                    <div class="uk-panel">
+	<p style="text-align: center;"><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Universidad de los Andes | Vigilada Mineducación | Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.</span><br style="color: #000000; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; text-align: center;" /><span style="font-family: arial, helvetica, sans-serif; font-size: small;">Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.</span></p></div>
+                </footer>
+            
+            <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-84611393-30', 'auto');
+  ga('send', 'pageview');
+
+</script>
+        </div>
+
+                    <div id="offcanvas" class="uk-offcanvas">
+                <div class="uk-offcanvas-bar uk-offcanvas-bar-flip"><div class="uk-panel">
+<form id="search-113-59b30f1421260" class="uk-search" action="/index.php" method="post" >
+	<input class="uk-search-field" type="text" name="searchword" placeholder="buscar...">
+	<input type="hidden" name="task"   value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="107">
+</form>
+</div>
+<ul class="uk-nav uk-nav-offcanvas"><li class="uk-active"><a href="/index.php"><i class="uk-icon-home"></i> Inicio</a></li><li class="uk-parent"><a href="/index.php/pregrado">Pregrado</a><ul class="uk-nav-sub"><li class="uk-parent"><a href="/index.php/pregrado/becas"><i class="uk-icon-chevron-right"></i> Becas</a><ul><li><a href="/index.php/pregrado/becas/beca-ciro-angarita-baron">Beca Ciro Angarita Barón</a></li><li><a href="/index.php/pregrado/becas/beca-yerly">Beca Yerly</a></li><li><a href="/index.php/pregrado/becas/beca-uniandinos">Beca Asociación de Egresados Uniandinos</a></li></ul></li><li><a href="/index.php/pregrado/credipilo"><i class="uk-icon-chevron-right"></i> Credipilo</a></li><li class="uk-parent"><a href="/index.php/pregrado/descuentos-y-auxilios"><i class="uk-icon-chevron-right"></i> Descuentos y Auxilios</a><ul><li><a href="/index.php/pregrado/descuentos-y-auxilios/beca-para-estudiantes-hijos-de-empleados-y-o-prestamo-condonable">Beca para estudiantes hijos de empleados y/o préstamo condonable</a></li><li><a href="/index.php/pregrado/descuentos-y-auxilios/descuento-por-hermanos">Descuento por Hermanos</a></li><li><a href="/index.php/pregrado/descuentos-y-auxilios/fallecimiento-responsable-economico">Fallecimiento Responsable Económico</a></li></ul></li><li class="uk-parent"><a href="/index.php/pregrado/financiacion-icetex"><i class="uk-icon-chevron-right"></i> Financiación Icetex</a><ul><li><a href="/index.php/pregrado/financiacion-icetex/renovaciones-icetex-pregrado">Renovaciones Icetex Pregrado</a></li><li><a href="/index.php/pregrado/financiacion-icetex/renovaciones-icetex-ser-pilo-paga">Renovaciones Icetex Ser Pilo Paga</a></li></ul></li><li><a href="/index.php/pregrado/entidades-financieras-pr"><i class="uk-icon-chevron-right"></i> Entidades Financieras</a></li><li><a href="/index.php/pregrado/fondo-credito-de-emergencia"><i class="uk-icon-chevron-right"></i> Fondo Crédito de Emergencia</a></li><li><a href="/index.php/pregrado/fondo-dora-rothlisberger"><i class="uk-icon-chevron-right"></i> Fondo Dora Rothlisberger</a></li><li><a href="/index.php/pregrado/fopre"><i class="uk-icon-chevron-right"></i> Fopre</a></li><li class="uk-parent"><a href="/index.php/pregrado/prestamos-condonables"><i class="uk-icon-chevron-right"></i> Préstamos Condonables</a><ul><li><a href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-carreras-especiales">Préstamo Condonable Carreras Especiales</a></li><li><a href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-fondo-cecilia">Préstamo Condonable Fondo Cecilia</a></li><li><a href="/index.php/pregrado/prestamos-condonables/prestamo-condonable-fondo-guillermo-wiedemann">Prestamo Condonable Fondo Guillermo Wiedemann</a></li></ul></li><li><a href="/index.php/pregrado/prestamos-fiducolombia-corto-mediano-y-largo-plazo"><i class="uk-icon-chevron-right"></i> Préstamos Fiducolombia: Corto, Mediano y Largo Plazo</a></li><li><a href="/index.php/pregrado/programa-de-becas-ceiba"><i class="uk-icon-chevron-right"></i> Programa de Becas CeiBA</a></li><li><a href="/index.php/pregrado/quiero-estudiar-escala"><i class="uk-icon-chevron-right"></i> Quiero Estudiar Escala</a></li></ul></li><li class="uk-parent"><a href="/index.php/posgrado" class="tm-tag-2">Posgrado</a><ul class="uk-nav-sub"><li class="uk-parent"><a href="/index.php/posgrado/becas"><i class="uk-icon-chevron-right"></i> Becas</a><ul><li><a href="/index.php/posgrado/becas/beca-centro-de-espanol">Beca Centro de Español</a></li><li><a href="/index.php/posgrado/becas/beca-maestria-facultad-de-ciencias-sociales">Beca Maestría Facultad de Ciencias Sociales</a></li><li><a href="/index.php/posgrado/becas/beca-maestria-en-construccion-de-paz">Beca Maestría en Construcción de Paz</a></li></ul></li><li><a href="/index.php/posgrado/entidades-financieras-pos"><i class="uk-icon-chevron-right"></i> Entidades Financieras</a></li><li class="uk-parent"><a href="/index.php/posgrado/fondo-gabriel-vega-lara"><i class="uk-icon-chevron-right"></i> Fondo Educativo Gabriel Vegalara - FEGV</a><ul><li><a href="/index.php/posgrado/fondo-gabriel-vega-lara/beca-regional-mba">Beca Regional MBA</a></li><li><a href="/index.php/posgrado/fondo-gabriel-vega-lara/beca-tradicional-mba-t-c" title="Beca Regional MBA">Beca Tradicional MBA T.C.</a></li><li><a href="/index.php/posgrado/fondo-gabriel-vega-lara/fondo-gabriel-vega-lara-credito-corto-plazo">Fondo Educativo Gabriel Vegalara - FEGV - Crédito Corto Plazo</a></li><li><a href="/index.php/posgrado/fondo-gabriel-vega-lara/fondo-gabriel-vega-lara-credito-mediano-plazo">Fondo Educativo Gabriel Vegalara - FEGV - Crédito Mediano Plazo</a></li></ul></li><li class="uk-parent"><a href="/index.php/posgrado/icetex-posgrado"><i class="uk-icon-chevron-right"></i> Icetex Posgrado</a><ul><li><a href="/index.php/posgrado/icetex-posgrado/renovaciones-icetex-posgrado">Renovaciones Icetex Posgrado</a></li></ul></li><li><a href="/index.php/posgrado/programa-de-becas-ceiba"><i class="uk-icon-chevron-right"></i> Programa de Becas CeiBA</a></li><li><a href="/index.php/posgrado/posgrado-corto-plazo"><i class="uk-icon-chevron-right"></i> Posgrado Corto y Mediano Plazo</a></li></ul></li><li class="uk-parent"><a href="/index.php/doctorado" class="tm-tag-1">Doctorado</a><ul class="uk-nav-sub"><li><a href="/index.php/doctorado/credito-condonable-para-doctorado"><i class="uk-icon-chevron-right"></i> Crédito Condonable para Doctorado</a></li><li><a href="/index.php/doctorado/fondo-de-credito-transitorio-a-doctorados"><i class="uk-icon-chevron-right"></i> Fondo de Crédito Transitorio a Doctorados</a></li><li><a href="/index.php/doctorado/programa-de-becas-ceiba"><i class="uk-icon-chevron-right"></i> Programa de Becas CeiBA</a></li><li><a href="/index.php/doctorado/doctorado-corto-y-mediano-plazo"><i class="uk-icon-chevron-right"></i> Doctorado Corto y Mediano Plazo</a></li><li><a href="/index.php/doctorado/fondo-gabriel-vegalara-beca-doctorado"><i class="uk-icon-chevron-right"></i> Fondo Educativo Gabriel Vegalara - FEGV - Beca Doctorado</a></li></ul></li><li class="uk-parent"><a href="/index.php/educacion-continuadapr" class="tm-tag-1">Educación Continuada</a><ul class="uk-nav-sub"><li><a href="/index.php/educacion-continuadapr/entidades-financieras-ec">Entidades Financieras</a></li></ul></li><li class="uk-parent"><a href="/index.php/preguntas-frecuentes">Preguntas Frecuentes</a><ul class="uk-nav-sub"><li><a href="/index.php/preguntas-frecuentes/preguntas-frecuentes-pregrado">Preguntas Frecuentes Pregrado</a></li><li><a href="/index.php/preguntas-frecuentes/preguntas-frecuentes-posgrado">Preguntas Frecuentes Posgrado</a></li></ul></li></ul></div>
+            </div>
+        
+    </div>
+
+</body>
+</html>

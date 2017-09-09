@@ -77,28 +77,64 @@ function crear_arbol(arbol) {
 	$selectableTree.treeview('collapseAll');
 }
 
-function anidar(arbol) {
-	arbol_for = [];
-	$.each(arbol, function(i, val) {
-		arbol_for.push({
-			text: i
-		});
-		$.each(arbol, function(i_2, val_2) {
-			if(val[0] == val_2[1]) {
-				if(typeof arbol_for[arbol_for.length - 1]['nodes'] === 'undefined') {
-					arbol_for[arbol_for.length - 1]['nodes'] = JSON.parse('[{ "text":"' + i_2 + '" }]');
-				} else {
-					arbol_for[arbol_for.length - 1]['nodes'].push({
-						text: i_2
-					})
+function anidar_p2(leaf, root) {
+	retorno = []
+	for(y in root) {
+		retorno.push(root[y]);
+		for(x in leaf) {
+			if(root[y]['origen'].join('/') == '0' && leaf[x]['origen'].slice(-1).join('/') == root[y].orden) {
+				if(typeof retorno[retorno.length - 1]['nodes'] === 'undefined') {
+					retorno[retorno.length - 1]['nodes'] = [];
 				}
+				retorno[retorno.length - 1]['nodes'].push(leaf[x])
 			}
-		});
-		if(typeof arbol_for[arbol_for.length - 1]['nodes'] === 'undefined') {
-			arbol_for.splice(arbol_for.length - 1);
+			else if(root[y]['origen'].join('/') == leaf[x]['origen'].slice(0, -1).join('/') && leaf[x]['origen'].slice(-1).join('/') == root[y].orden) {
+				if(typeof retorno[retorno.length - 1]['nodes'] === 'undefined') {
+					retorno[retorno.length - 1]['nodes'] = [];
+				}
+				retorno[retorno.length - 1]['nodes'].push(leaf[x])
+			}
 		}
+	}
+	return retorno;
+}
+
+function anidar(arbol) {
+	arbol_leaf = [];
+	arbol_root = [];
+	max_llave = 0;
+	num_veces = 0;
+	$.each(arbol, function(i, val) {
+		if(val[4] > max_llave) { max_llave = val[4]; }
 	});
-	crear_arbol(JSON.stringify(arbol_for));
+	for(var i = max_llave; i >= 2; i--) {
+		arbol_root = [];
+		for(var x in arbol) {
+			if(arbol[x][4] == i && num_veces == 0) {
+				arbol_leaf.push({
+					text: x,
+					orden: arbol[x][2],
+					origen: arbol[x][3].toString().split("-")
+				});
+			}
+			if(arbol[x][4] == i - 1) {
+				arbol_root.push({
+					text: x,
+					orden: arbol[x][2],
+					origen: arbol[x][3].toString().split("-")
+				});
+			}
+		}
+		num_veces = 1;
+		arbol_leaf = anidar_p2(arbol_leaf, arbol_root);
+	}
+	var i = arbol_leaf.length;
+	while(i--) {
+		if(typeof arbol_leaf[i]['nodes'] === 'undefined') {
+			arbol_leaf.splice(i, 1);
+		}
+	}
+	crear_arbol(arbol_leaf);
 }
 
 function traer_facultades_ajax() {
@@ -111,7 +147,8 @@ function traer_facultades_ajax() {
 			anidar(ret);
 		},
 		error : function(xhr,errmsg,err) {
-			console.log(xhr.status + ": " + xhr.responseText);
+			setTimeout(function() {waitingDialog.hide();}, 1000);
+			alert(xhr.status + ": " + xhr.responseText);
 		}
 	});
 }

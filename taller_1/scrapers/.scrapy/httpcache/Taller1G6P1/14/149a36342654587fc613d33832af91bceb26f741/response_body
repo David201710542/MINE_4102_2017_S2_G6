@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es-es" lang="es-es" dir="ltr" >
+	<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=8"/> 
+		<!-- The following JDOC Head tag loads all the header and meta information from your site config and content. -->
+		  <base href="https://secretariageneral.uniandes.edu.co/index.php/es/asuntos-estudiantiles" />
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta name="author" content="Super User" />
+  <meta name="generator" content="Joomla! 1.7 - Open Source Content Management" />
+  <title>Asuntos Estudiantiles</title>
+  <link href="/templates/secretaria/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/css/jcemediabox.css?v=1017" type="text/css" />
+  <link rel="stylesheet" href="/plugins/system/jcemediabox/themes/standard/css/style.css?version=1017" type="text/css" />
+  <link rel="stylesheet" href="/media/system/css/calendar-jos.css" type="text/css"  title="Verde"  media="all" />
+  <link rel="stylesheet" href="/components/com_jevents/views/alternative/assets/css/modstyle.css" type="text/css" />
+  <link rel="stylesheet" href="https://secretariageneral.uniandes.edu.co/modules/mod_image_show_gk4/styles/gk_cherrydesign/style.css" type="text/css" />
+  <link rel="stylesheet" href="/modules/mod_djmenu/assets/css/djmenu.css" type="text/css" />
+  <link rel="stylesheet" href="/media/mod_languages/css/template.css" type="text/css" />
+  <script src="/plugins/system/jcemediabox/js/jcemediabox.js?v=1017" type="text/javascript"></script>
+  <script src="/plugins/system/jcemediabox/js/mediaobject.js?v=1017" type="text/javascript"></script>
+  <script src="/plugins/system/jcemediabox/addons/default.js?v=1017" type="text/javascript"></script>
+  <script src="/media/system/js/core.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-core.js" type="text/javascript"></script>
+  <script src="/media/system/js/caption.js" type="text/javascript"></script>
+  <script src="/media/system/js/mootools-more.js" type="text/javascript"></script>
+  <script src="/media/system/js/calendar.js" type="text/javascript"></script>
+  <script src="/media/system/js/calendar-setup.js" type="text/javascript"></script>
+  <script src="https://secretariageneral.uniandes.edu.co/modules/mod_image_show_gk4/styles/gk_cherrydesign/engine.js" type="text/javascript"></script>
+  <script src="/modules/mod_djmenu/assets/js/dropline-helper.js" type="text/javascript"></script>
+  <script type="text/javascript">
+	JCEMediaObject.init('/', {flash:"10,0,22,87",windowmedia:"5,1,52,701",quicktime:"6,0,2,0",realmedia:"7,0,0,0",shockwave:"8,5,1,0"});JCEMediaBox.init({popup:{width:"",height:"",legacy:0,lightbox:0,shadowbox:0,resize:1,icons:1,overlay:1,overlayopacity:0.8,overlaycolor:"#000000",fadespeed:500,scalespeed:500,hideobjects:0,scrolling:"fixed",close:2,labels:{'close':'Close','next':'Next','previous':'Previous','cancel':'Cancel','numbers':'{$current} of {$total}'}},tooltip:{className:"tooltip",opacity:0.8,speed:150,position:"br",offsets:{x: 16, y: 16}},base:"/",imgpath:"plugins/system/jcemediabox/img",theme:"standard",themecustom:"",themepath:"plugins/system/jcemediabox/themes"});Calendar._DN = new Array ("Domingo", "Lunes", "Martes", "Miércoles", "Jueves", "Viernes", "Sábado", "Domingo"); Calendar._SDN = new Array ("Dom", "Lun", "Mar", "Mié", "Jue", "Vie", "Sáb", "Dom"); Calendar._FD = 0; Calendar._MN = new Array ("Enero", "Febrero", "Marzo", "Abril", "Mayo", "Junio", "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre"); Calendar._SMN = new Array ("Ene", "Feb", "Mar", "Abr", "May", "Jun", "Jul", "Ago", "Sep", "Oct", "Nov", "Dic"); Calendar._TT = {};Calendar._TT["INFO"] = "Sobre el Calendario"; Calendar._TT["ABOUT"] =
+ "DHTML Date/Time Selector\n" +
+ "(c) dynarch.com 2002-2005 / Author: Mihai Bazon\n" +
+"For latest version visit: http://www.dynarch.com/projects/calendar/\n" +
+"Distributed under GNU LGPL.  See http://gnu.org/licenses/lgpl.html for details." +
+"\n\n" +
+"Fecha selección:\\n" +
+"- Usar botón « y » para seleccionar el año\\n" +
+"- Utilice el botón < y > para seleccionar el mes\\n" +
+"- Mantenga presionado el botón del ratón sobre cualquiera de los botones de arriba para un acceso rapido.";
+Calendar._TT["ABOUT_TIME"] = "\n\n" +
+"Time selection:\n" +
+"- Click on any of the time parts to increase it\n" +
+"- or Shift-click to decrease it\n" +
+"- or click and drag for faster selection.";
+
+		Calendar._TT["PREV_YEAR"] = "Haz clic aquí para desplazarse al año anterior. Haga clic para mantener una lista de los años."; Calendar._TT["PREV_MONTH"] = "Haz clic aquí para desplazarse al mes anterior. Haga clic para mantener una lista de los meses."; Calendar._TT["GO_TODAY"] = "Ir a hoy"; Calendar._TT["NEXT_MONTH"] = "Haz clic aquí para desplazarse al mes siguiente. Haga clic para mantener una lista de los meses"; Calendar._TT["NEXT_YEAR"] = "Haz clic aquí para desplazarse al año siguiente. Haga clic para mantener una lista de los años."; Calendar._TT["SEL_DATE"] = "Seleccionar una fecha."; Calendar._TT["DRAG_TO_MOVE"] = "Arrastrar y mover"; Calendar._TT["PART_TODAY"] = "Hoy"; Calendar._TT["DAY_FIRST"] = "Mostrar %s primero"; Calendar._TT["WEEKEND"] = "0,6"; Calendar._TT["CLOSE"] = "Cerrar"; Calendar._TT["TODAY"] = "Hoy"; Calendar._TT["TIME_PART"] = "(Shift-)Click o arrastre para cambiar el valor."; Calendar._TT["DEF_DATE_FORMAT"] = "%Y-%m-%d"; Calendar._TT["TT_DATE_FORMAT"] = "%a, %b %e"; Calendar._TT["WK"] = "wk"; Calendar._TT["TIME"] = "Fecha:";try {$Gavick;}catch(e){$Gavick = {};};$Gavick["gkIs-gk-is-54"] = { "anim_speed": 500, "anim_interval": 5000, "autoanim": 1, "anim_type": "opacity", "slide_links": 0 };
+  </script>
+  <script type="text/javascript">
+/* BEGIN AG Google Analytics Plugin v.1.0.8 */
+var _gaq = _gaq || []; 
+ _gaq.push(['_setAccount', 'UA-28305899-1']); 
+ _gaq.push(['_setCustomVar', 1, 'user_ip', '157.253.237.13', 1]); 
+ _gaq.push(['_trackPageview']); 
+ (function() { 
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; 
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); 
+
+                      })(); 
+/* END AG Google Analytics Plugin v.1.0.8 */
+/* ========== www.gordejev.lv =========== */
+</script>
+
+		
+		<!-- The following five lines load the Blueprint CSS Framework (http://blueprintcss.org). If you don't want to use this framework, delete these lines. -->
+		<link rel="stylesheet" href="/templates/secretaria/css/blueprint/screen.css" type="text/css" media="screen, projection" />
+		<link rel="stylesheet" href="/templates/secretaria/css/blueprint/print.css" type="text/css" media="print" />
+			
+		
+		<link rel="stylesheet" href="/templates/secretaria/css/blueprint/plugins/fancy-type/screen.css" type="text/css" media="screen, projection" />
+    	<link rel="stylesheet" href="/templates/secretaria/css/blueprint/plugins/joomla-nav/screen.css" type="text/css" media="screen" />
+
+		<!-- The following line loads the template CSS file located in the template folder. -->
+		<link rel="stylesheet" href="/templates/secretaria/css/template.css" type="text/css" />
+		<link rel="stylesheet" href="/templates/secretaria/css/css_script.css" type="text/css" />
+        <link rel="stylesheet" href="/templates/secretaria/css/contenidos.css" type="text/css" />
+        <link rel="stylesheet" href="/templates/secretaria/css/styles.css" type="text/css" /> 
+		<link type="text/css"  href="/templates/secretaria/css/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+		<!--[if lt IE 8]>
+        <link rel="stylesheet" href="/templates/secretaria/css/ie.css" type="text/css" media="screen, projection">
+        <script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.5.2.min.js"  ></script>
+        <![endif]-->	
+		<!--[if IE 8]>
+       <link rel="stylesheet" href="/templates/secretaria/css/ie8.css" type="text/css" />
+       <![endif]-->
+	   <!--[if IE 9]>
+       <link rel="stylesheet" href="/templates/secretaria/css/ie9.css" type="text/css" />
+       <![endif]-->    
+		        
+                        <script type="text/javascript" src="/templates/secretaria/js/jquery-1.6.4.js"  ></script>
+                         
+            <script type="text/javascript" src="/templates/secretaria/js/jquery.textfill.min.js"  ></script>
+		
+		<script type="text/javascript" src="/templates/secretaria/js/template.js"></script>
+		
+
+		<!-- the mousewheel plugin - optional to provide mousewheel support -->
+		<script type="text/javascript" src="/templates/secretaria/js/jquery.mousewheel.js"></script>
+
+		<!-- the jScrollPane script -->
+		<script type="text/javascript" src="/templates/secretaria/js/jquery.jscrollpane.min.js"></script>
+		<script type="text/javascript" src="/templates/secretaria/js/script.js"></script>
+          
+                <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-28305899-1']);
+  _gaq.push(['_setCustomVar', 1, 'user_ip', '157.253.237.13', 1 ]);
+  _gaq.push(['_setCustomVar', 2, "joomla_user", "Invitado", 1 ]);
+
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();  
+  
+  jQuery(document).ready(function() {
+    jQuery('.moduletable_estatutos h3').textfill({ maxFontPixels: 13 });
+  });
+ 
+
+</script>
+	</head>
+    
+    
+	<body>
+	<div id="all">
+	<div id="fondo_left"></div>
+    <div id="principal">
+    	<!-- Cabecera de la pagina -->		
+        <div id="header" class="container">
+         <!-- Menu superior - para English version -->
+        							<div id="english_version">
+	  	 						<div class="moduletable">
+					<div class="mod-languages">
+
+	<ul class="lang-inline">
+									<li class="">
+			<a href="/index.php/en/">
+							English Version						</a>
+			</li>
+				</ul>
+
+</div>
+		</div>
+	
+					</div>
+				        		<!--Fin menu Superior English version -->
+                 			
+       			 <!-- Comienzo Logo -->
+				<div id="logo">
+					   <a style="width: 160px; height:64px;" href="http://www.uniandes.edu.co" title="Universidad de los Andes"  target="_blank">&nbsp;&nbsp;&nbsp;</a><a href="/" title="Secretaría General"  target="_blank"><h1>Secretaría General</h1>
+					</a>                 		
+				</div>
+                <!-- Fin Logo -->       
+				
+			<!--fin del container para la cabecera -->              
+			
+		</div>
+        <!--fin de la cabecera -->        
+             
+		  <!--barra de Navegacion -->
+          
+             
+            <div id="top_nav" class="container"  >  
+            	<div id="menu">                 	            	
+					<div  class="span-24 last">
+	  	 						<div class="moduletable">
+					<ul id="dj-main31" class="dj-main"><li class="dj-up itemid101 first"><a href="/index.php/es/" class="dj-up_a " ><span >Inicio</span></a></li>
+<li class="dj-up itemid108"><a href="/index.php/es/la-secretaria-general" class="dj-up_a " ><span class="dj-drop" >La Secretaría General</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid180 first"><a href="/index.php/es/la-secretaria-general/mision-y-vision" class="" >Misión y Visión</a></li>
+<li class="itemid197"><a href="/index.php/es/la-secretaria-general/dependencias" class="" >Dependencias</a></li>
+<li class="itemid182"><a href="/index.php/es/la-secretaria-general/organigrama" class="" >Organigrama</a></li>
+<li class="itemid184 last"><a href="/index.php/es/la-secretaria-general/ubiquenos" class="" title="Ubiquenos en el campus" >Ubíquenos en el Campus</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid123"><a href="/index.php/es/organos-de-gobierno" class="dj-up_a " ><span class="dj-drop" >Órganos de Gobierno</span></a>
+<ul class="dj-submenu">
+<li class="submenu_top" style="display: none"> </li>
+<li class="itemid141 first"><a href="/index.php/es/organos-de-gobierno/consejo-superior" class="" >Consejo Superior</a></li>
+<li class="itemid142"><a href="/index.php/es/organos-de-gobierno/comite-directivo" class="" >Comité Directivo</a></li>
+<li class="itemid183"><a href="/index.php/es/organos-de-gobierno/rector" class="" >El Rector</a></li>
+<li class="itemid143"><a href="/index.php/es/organos-de-gobierno/consejo-academico" class="" >Consejo Académico</a></li>
+<li class="itemid144"><a href="/index.php/es/organos-de-gobierno/consejos-de-facultad" class="" >Consejos de Facultad</a></li>
+<li class="itemid201 last"><a href="/index.php/es/organos-de-gobierno/calendarioreuniones/admin.listevents/2017/09/08/-" class="" >Calendario de reuniones</a></li>
+<li class="submenu_bot" style="display: none"> </li>
+</ul>
+</li>
+<li class="dj-up itemid124"><a href="/index.php/es/normatividad-institucional" class="dj-up_a " ><span >Normatividad Institucional</span></a></li>
+<li class="dj-up itemid125 active"><a href="/index.php/es/asuntos-estudiantiles" class="dj-up_a active" ><span >Asuntos Estudiantiles</span></a></li>
+<li class="dj-up itemid126"><a href="/index.php/es/preguntas-frecuentes" class="dj-up_a " ><span >Preguntas Frecuentes</span></a></li>
+<li class="dj-up itemid127 last"><a href="/index.php/es/contactenos" class="dj-up_a " ><span >Contáctenos</span></a></li>
+</ul>		</div>
+	
+					</div>
+                </div> 
+           	</div>
+			          <!--fin barra de navegacion -->
+          
+          <!-- Cuerpo -->
+          <div id="cuerpo" class="container">
+          	<!--Busqueda -->
+            				<div id="busquedas">
+	  	 					<div class="moduletable">
+					    <form action="/index.php/es/asuntos-estudiantiles" method="post" class="inline">
+        <div class="search">
+            <div id="search_interno">
+                <div id="spanRadios">
+                    <span class="buscando">¿Qué está buscando?</span>
+                    	<input id="typesearch2" type="radio" value="2" name="typesearch" checked >
+                        <label id="typesearch2-lbl"  for="typesearch2">Documentos</label>
+                        <input id="typesearch1" type="radio" value="1" name="typesearch" >
+                        <label id="typesearch1-lbl"  for="typesearch1">Contenidos</label>
+                        
+                </div>
+                <div id="textBoton">
+                    <input name="searchword" id="mod-search-searchword" maxlength="100" onkeyup="document.getElementById('mod-search-searchword_').value=this.value" class="inputbox" type="text" size="20" value="Buscar..."  onblur="if (this.value=='') this.value='Buscar...';" onfocus="if (this.value=='Buscar...') this.value='';" /><input name="search_phrase" id="mod-search-searchword_" maxlength="100"  type="hidden"  value="Buscar..."  onblur="if (this.value=='') this.value='Buscar...';" onfocus="if (this.value=='Buscar...') this.value='';" /><input type="submit" value="Buscar" class="button" onclick="this.form.searchword.focus();"/>
+                </div>
+                <input type="hidden" name="task" value="search_result" />
+                <input type="hidden" name="view" value="content" />
+                <input type="hidden" name="option" id="option" value="com_docman" />
+                <input type="hidden" name="Itemid" value="200" />
+				
+            </div>
+        </div>
+    </form>
+	
+		</div>
+	
+				</div>
+			          	<!--fin barra busqueda -->
+          	
+            
+        <!--Breadcrumbs-->
+   <!-- fin Breadcrumbs-->
+<div id="contenidos"  class="span-16">	
+	<div id="contenido_articulos">
+    	<!--Breadcrumbs-->
+   					<div id="slider_internas">
+	  	 				<div class="moduletable">
+					
+<div id="gkIs-gk-is-54" class="gkIsWrapper-gk_cherrydesign" style="height: 270px;">
+		<ul class="gkIsPagination right">
+								<li>
+			1			</li>
+											<li>
+			2			</li>
+											<li>
+			3			</li>
+						</ul>
+		
+	<div class="gkIsImage left" style="width: 624px;height: 270px;">
+        <div class="gkIsPreloader"></div>
+        <div class="gkIsOverlay"></div>
+        											
+				<div class="gkIsSlide" style="z-index: 1;" title=""><a href="https://secretariageneral.uniandes.edu.co/modules/mod_image_show_gk4/cache/slideshow.reglamentosEstudiantiles.Asuntos_Estudiantiles_1gk-is-54.jpg">src</a><a href="/">link</a></div>
+				
+													
+				<div class="gkIsSlide" style="z-index: 2;" title=""><a href="https://secretariageneral.uniandes.edu.co/modules/mod_image_show_gk4/cache/slideshow.reglamentosEstudiantiles.Asuntos_Estudiantiles_2gk-is-54.jpg">src</a><a href="/">link</a></div>
+				
+													
+				<div class="gkIsSlide" style="z-index: 3;" title=""><a href="https://secretariageneral.uniandes.edu.co/modules/mod_image_show_gk4/cache/slideshow.reglamentosEstudiantiles.Asuntos_Estudiantiles_3gk-is-54.jpg">src</a><a href="/">link</a></div>
+				
+			
+				
+		<div class="gkIsTextData">
+																	<div class="gkIsTextItem">
+						<h4><span></span></h4>
+						<p> </p>
+		                <a href="/" class="readmore">Read more...</a>
+					</div>
+																				<div class="gkIsTextItem">
+						<h4><span></span></h4>
+						<p> </p>
+		                <a href="/" class="readmore">Read more...</a>
+					</div>
+																				<div class="gkIsTextItem">
+						<h4><span></span></h4>
+						<p> </p>
+		                <a href="/" class="readmore">Read more...</a>
+					</div>
+								</div>
+			</div>
+</div>		</div>
+	
+			</div>
+		<!-- fin Breadcrumbs-->
+    	
+<div id="system-message-container">
+</div>
+		<div class="item-page">
+	<h2>
+			Asuntos Estudiantiles		</h2>
+
+
+
+
+
+
+	<p style="text-align: center;"><span style="text-decoration: underline; font-family: arial, helvetica, sans-serif;"><strong style="font-family: Arial, sans-serif; font-size: 10pt;"><span style="color: #000000; text-decoration: underline;">Asuntos</span></strong></span></p>
+<p style="text-align: justify;"><strong style="font-family: Arial, sans-serif; font-size: 10pt;"><span style="color: #000000;">Asuntos Académicos.&nbsp;</span></strong><span style="font-family: Arial, sans-serif;">Los consejos de Facultad serán los encargados de resolver en primera instancia los asuntos académicos de los estudiantes.&nbsp;</span></p>
+<p style="text-align: justify;"><span style="font-family: Arial, sans-serif; font-size: 13px; text-align: justify;"><strong>Asuntos Discilpinarios.</strong> Los comités disciplinarios de las facultades serán los encargados de resolver en primera instancia los asuntos disciplinarios de los estudiantes.</span></p>
+<p style="text-align: center;"><strong><span style="text-decoration: underline;"><span style="font-family: Arial, sans-serif; text-align: justify;">A quién acudir</span></span></strong></p>
+<p><span style="color: #000000; text-align: justify;"><strong><span style="font-family: arial, helvetica, sans-serif;">Secretaría General.</span></strong><span style="font-family: arial, helvetica, sans-serif; color: #000000; text-align: justify;">&nbsp;Cualquier miembro de la comunidad uniandina interesado en obtener mayor información sobre el régimen disciplinario y el régimen académico establecido en los reglamentos generales de estudiantes de la Universidad, podrá contactar a la&nbsp;<a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/30-contacte-al-cae" target="_blank">Secretaría General</a>.</span></span></p>
+<p style="text-align: justify;"><strong><span style="font-family: 'Arial','sans-serif'; font-size: 10pt;">Decanatura de Estudiantes. </span></strong><span style="font-family: 'Arial','sans-serif'; font-size: 10pt;">Los </span><span style="font-family: 'Arial','sans-serif'; font-size: 10pt;">estudiantes</span><span style="font-family: 'Calibri','sans-serif'; color: #1f497d; font-size: 11pt;">&nbsp;<span style="font-family: arial,helvetica,sans-serif; color: #000000; font-size: 10pt;">podrán recibir apoyo y orientación académica así como acompañamiento en circunstancias que los estén afectando emocionalmente. Las citas se solicitan a través de la <a href="https://decanaturadeestudiantes.uniandes.edu.co/" target="_blank">página web</a>.</span></span></p>
+<p style="text-align: justify;"><strong><span style="font-family: Arial, sans-serif; color: black;">El Comité de Asuntos Estudiantiles (CAE).&nbsp;</span></strong><span style="font-family: Arial, sans-serif; font-size: 13px; color: black; text-align: justify;">Es el órgano delegado por el Consejo Académico para resolver en segunda instancia, asuntos académicos y disciplinarios de los estudiantes, de&nbsp; acuerdo&nbsp; con lo dispuesto en los reglamentos generales de estudiantes. (Acuerdo&nbsp;<a href="https://secretariageneral.uniandes.edu.co/images/documents/Acuerdo82CA.pdf" target="_blank">82</a>&nbsp;del Consejo Académico).&nbsp;<a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/30-contacte-al-cae" target="_blank">Contacte aquí al CAE</a></span></p>
+<p style="text-align: justify;"><span style="font-family: arial,helvetica,sans-serif; font-size: 11pt;"><span style="color: #000000; font-size: 10pt;"><strong>Ombudsperson.</strong> Los estudiantes podrán recibir orientación sobre las políticas y procedimientos académicos, así como sobre temas relacionados con la vida estudiantil. Este es un espacio para contribuir al fortalecimiento de una cultura de resolución de problemas por la vía del diálogo y el respeto a la normatividad institucional. Escriba a: </span></span><span style="font-family: arial,helvetica,sans-serif; font-size: 11pt;"><span>
+ <script type='text/javascript'>
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy44510 = '&#111;mb&#117;dsp&#101;rs&#111;n' + '&#64;';
+ addy44510 = addy44510 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text44510 = '&#111;mb&#117;dsp&#101;rs&#111;n' + '&#64;' + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy44510 + '\'>');
+ document.write(addy_text44510);
+ document.write('<\/a>');
+ //-->\n </script><script type='text/javascript'>
+ <!--
+ document.write('<span style=\'display: none;\'>');
+ //-->
+ </script>Esta dirección de correo electrónico está protegida contra spambots. Usted necesita tener Javascript activado para poder verla.
+ <script type='text/javascript'>
+ <!--
+ document.write('</');
+ document.write('span>');
+ //-->
+ </script>.</span></span></p>
+<ul class="lista_slider">
+<li class="lista_slider_desplegada"><strong><span style="color: #ffffff;">Procedimientos</span></strong>
+<ul>
+<li class="lista_slider_desplegada"><span style="color: #000000;"><span style="text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/Procedimiento%20para%20resolver%20asuntos%20disciplinarios.pdf" target="_blank"><span style="color: #000000; text-decoration: underline;">Procedimiento para resolver asuntos disciplinarios en Pregrado</span></a></span></span></li>
+<li class="lista_slider_desplegada">
+<p><span style="color: #000000;"><span style="text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/Procedimiento%20para%20resolver%20asuntos%20disciplinarios%20estudiantes%20de%20maestr%C3%ADa.pdf" target="_blank"><span style="color: #000000; text-decoration: underline;">Procedimiento para resolver asuntos disciplinarios en Maestría</span></a></span></span></p>
+</li>
+</ul>
+</li>
+<li class="lista_slider_desplegada"><strong><span style="color: #ffffff;">Preguntas frecuentes al CAE</span></strong>
+<ul>
+<li class="lista_slider_desplegada"><span style="color: #000000;"><span style="text-decoration: underline;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><span style="text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/129-procedimiento"><span style="color: #000000; text-decoration: underline;">Procedimiento en asuntos académicos</span></a></span></span></span></span></li>
+<li class="lista_slider_desplegada">
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #000000;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><span style="text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/12-organosdeestudio" target="_blank"><span style="color: #000000; text-decoration: underline;">Órganos competentes para el estudio de los casos disciplinarios</span></a></span></span></span></p>
+<p style="text-align: justify;"><span style="color: #000000;"><span style="text-decoration: underline;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><span style="text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/13-etapasprocesodisciplinario"><span style="color: #000000; text-decoration: underline;">Etapas del proceso disciplinario</span></a></span></span></span></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #000000;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/130-ejemplos-de-situaciones-disciplinarias"><span style="color: #000000; text-decoration: underline;">Ejemplos de situaciones Académicas</span></a></span></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #000000;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/asuntos%20academicos.pdf" target="_blank"><span style="color: #000000; text-decoration: underline;">Asuntos Académicos</span></a></span></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #000000;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/14-procesodiscrecional"><span style="color: #000000; text-decoration: underline;">Proceso Discrecional</span></a></span></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #000000;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/15-faltas-y-sanciones-disciplinarias"><span style="color: #000000; text-decoration: underline;">Faltas y sanciones disciplinarias</span></a></span></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #000000;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/16-efectosyconsecuencias"><span style="color: #000000; text-decoration: underline;">Efectos y consecuencias de procesos y sanciones disciplinarias</span></a></span></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #000000;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><span style="text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/17-recursos"><span style="color: #000000; text-decoration: underline;">Recursos</span></a></span></span></span></p>
+<p style="text-align: justify;"><span style="text-decoration: underline; color: #000000;"><span style="font-family: arial,helvetica,sans-serif; text-decoration: underline;"><a href="/index.php/es/asuntos-estudiantiles/11-asuntos-estudiantiles/18-pruebas"><span style="color: #000000; text-decoration: underline;">Pruebas</span></a></span></span></p>
+</li>
+</ul>
+</li>
+<li class="lista_slider_desplegada"><span style="color: #ffffff;"><strong>Actuales miebros del CAE</strong></span>
+<ul>
+<li class="lista_slider_desplegada">
+<ul>
+<li>
+<p>María Teresa Tobón Rubio&nbsp;<br />Secretaria General, quien lo preside en calidad representante del Rector.</p>
+<p>María Consuelo Burgos Cantor&nbsp;<br />Decana de Estudiantes.</p>
+<p>Edgar Francisco Vargas Escamilla&nbsp;<br />Director del Departamento de Química.</p>
+<p>Jimena Hurtado&nbsp;<br />Profesora Asociada de la Facultad de Economía.</p>
+<p>Luz Mariela Gómez Amaya&nbsp;<br />Profesora Asociada de la Facultad de Arquitectura y Diseño.</p>
+<p>Camilo Olaya&nbsp;<br />Profesor Asociado de la Facultad de Ingeniería.</p>
+<p>Sylvia Juliana Díaz <br />Secretaria General de la Facultad de Medicina.</p>
+<p>Fransisco Durango Uribe<br />Representante Estudiantil</p>
+<p>Martín Peña Cuellar<br />Representante Estudiantil</p>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul> 
+	</div>
+    </div>    
+    <div id="bg_bottom"></div>
+</div>
+
+
+<!-- lateral-->
+     		<div id="right" class="span-8 last">
+	  	 			<div class="moduletable_conBordes">
+					<h3>Manual de Citas y Referencias Bibliográficas de la Universidad de los Andes</h3>
+					<p style="text-align: justify;"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/component/docman/doc_download/3290-manual-de-citas-y-referencias-bibliograficas-de-la-universidad-de-los-andes?Itemid=200" target="_self"><img src="/images/manual%20citas%20y%20referencias.jpg" alt="manual citas y referencias" width="310" height="150" /></a></p>
+<p style="text-align: justify;"><span style="color: #333333; font-family: Arial,Helvetica,sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: normal; letter-spacing: normal; line-height: normal; text-align: justify; text-indent: 0px; text-transform: none; white-space: normal; word-spacing: 0px; background-color: #ffffff; float: none;">Este manual recoge los sistemas de citas y referencias bibliográficas más relevantes de las diferentes disciplinas académicas.</span></p>		</div>
+			<div class="moduletable_conBordes">
+					<h3>¿Qué es la Secretaría General?</h3>
+					<p style="text-align: justify; line-height: normal;"><span style="font-size: 10pt; font-family: arial,helvetica,sans-serif; color: black;"><img src="/images/secretaria_general-9.jpg" alt="" /></span></p>
+<p style="text-align: justify; line-height: normal;"><span style="font-size: 10pt; font-family: arial,helvetica,sans-serif; color: black;">La Secretaría General coordina el trabajo de los órganos de gobierno de la Universidad; elabora, publica, administra y custodia todas sus disposiciones, y las articula con el funcionamiento de las unidades académicas y administrativas, de acuerdo con la Constitución y las leyes de Colombia y con los Estatutos y Reglamentos de la Universidad.</span></p>		</div>
+			<div class="moduletable_categorias">
+					<h3>Documentos</h3>
+					<script>
+jQuery(document).ready(function(){
+    jQuery(".descargar").each(function(indice){
+        jQuery(this).attr("id","descargar"+indice);
+    })
+	
+	jQuery("h3.dm_title a").each(function(indice){
+    	var pr = "descargar";
+		jQuery(this).attr("id","enlace_"+pr+indice);
+	});
+	
+    jQuery(".descargar").click(function(){
+         if(jQuery(this).parent().parent().find('li:eq(2)').find("select#list_typeuser").length){
+             if(jQuery(this).parent().parent().find('li:eq(2)').find("select#list_typeuser").val()==0){
+                 jQuery(this).parent().parent().find('li:eq(2)').find("select#list_typeuser").css("display","block");
+                 alert("Para descargar el documento, por favor seleccione el tipo de usuario al que pertenece ");
+                jQuery(this).parent().parent().find('li:eq(2)').find("select#list_typeuser").focus();
+                return false;
+             }
+             else{ 
+                 
+                 _gaq.push(['_trackEvent', 'publicos', 'Descargas', jQuery(this).attr("href"), 1]);
+                 return true;
+             }
+             
+         }
+         else{
+        	 var href =jQuery(this).attr("url");
+	        	if(href == null){
+	        		href=jQuery(this).attr("href");	
+	        		jQuery(this).attr("url",href);
+	        	}
+			 //var href=jQuery(this).attr("href");
+			 jQuery(this).attr("href","javascript:void(0);");	
+             abrirDialogoLogin(href);
+             _gaq.push(['_trackEvent', 'privados', 'Descargas', jQuery(this).attr("href"), 1]);
+             return true;
+         }
+            
+             
+        
+    });
+    
+	jQuery("h3.dm_title a").each(function(indice){ 
+    	var pr = "#descargar"+indice;
+    	jQuery(this).attr("href",jQuery(pr).attr("href"));
+		jQuery(this).click(function (){
+			if(jQuery(pr).parent().parent().find('li:eq(2)').find("select#list_typeuser").length){
+             if(jQuery(pr).parent().parent().find('li:eq(2)').find("select#list_typeuser").val()==0){
+                 jQuery(pr).parent().parent().find('li:eq(2)').find("select#list_typeuser").css("display","block");
+                 alert("Para descargar el documento, por favor seleccione el tipo de usuario al que pertenece ");
+                jQuery(pr).parent().parent().find('li:eq(2)').find("select#list_typeuser").focus();
+                return false;
+             }
+	        }else{
+	        	var href =jQuery(this).attr("url");
+	        	if(href == null){
+	        		href=jQuery(this).attr("href");	
+	        		jQuery(this).attr("url",href);
+	        	}
+	        	//alert(href);
+	        	 //href=jQuery(this).attr("href");
+				 jQuery(this).attr("href","javascript:void(0);");	
+	             abrirDialogoLogin(href);
+	             _gaq.push(['_trackEvent', 'privados', 'Descargas', jQuery(this).attr("href"), 1]);
+	        }
+		});
+	});
+	
+    jQuery("select#list_typeuser").change(function(){
+        //alert("bien");
+        //jQuery(this).parent().parent().find('li:eq(1)').find("a.descargar").trigger('click');
+        jQuery(this).parent().parent().find('li:eq(1)').find("a.descargar").attr("href",jQuery(this).parent().parent().find('li:eq(1)').find("a.descargar").attr("href")+"&list_typeuser="+jQuery(this).val())
+        //alert(jQuery(this).parent().parent().find('li:eq(1)').find("a.descargar").attr("href"))
+    })
+});
+
+function abrirDialogoLogin(URL){
+
+	var al = 240;
+	var an = 400;
+	var caracteristicas = "height=" + al +",width=" + an + ",scrollTo,resizable=1,scrollbars=1,location=0,top=" + ((window.screen.height/2) - (al/2)) + ",left=" + ((window.screen.width/2) - (an/2));
+
+	nueva=window.open('/index.php?option=com_docman&tmpl=component&task=login&u=' +URL, 'Popup', caracteristicas);
+}
+
+</script>
+<div id="mod_docman_catdown_div" class="mod_docman_catdown_categorias"><ul><li id="cat_id_178" ><a href="/?option=com_docman&amp;task=cat_view&amp;Itemid=125&amp;gid=178&amp;order=number&amp;dir=DESC&amp;Itemid=125&amp;menuid=125">Comité de Asuntos Estudiantiles (CAE)</a></li><ul><li id="cat_id_179" ><a href="/?option=com_docman&amp;task=cat_view&amp;Itemid=125&amp;gid=179&amp;order=number&amp;dir=DESC&amp;Itemid=125&amp;menuid=125">Actas</a></li><ul><li id="cat_id_339" ><a href="/?option=com_docman&amp;task=cat_view&amp;Itemid=125&amp;gid=339&amp;order=number&amp;dir=DESC&amp;Itemid=125&amp;menuid=125">Año 2014</a></li><li id="cat_id_383" ><a href="/?option=com_docman&amp;task=cat_view&amp;Itemid=125&amp;gid=383&amp;order=number&amp;dir=DESC&amp;Itemid=125&amp;menuid=125">Año 2015</a></li><li id="cat_id_407" ><a href="/?option=com_docman&amp;task=cat_view&amp;Itemid=125&amp;gid=407&amp;order=number&amp;dir=DESC&amp;Itemid=125&amp;menuid=125">Año 2016</a></li><li id="cat_id_455" ><a href="/?option=com_docman&amp;task=cat_view&amp;Itemid=125&amp;gid=455&amp;order=number&amp;dir=DESC&amp;Itemid=125&amp;menuid=125">Año 2017</a></li></ul></ul></ul></div><script language="javascript">
+			
+			jm_tooltips = function (id_elemento, msg){
+			var obj = jQuery("#"+id_elemento);
+			var nbr = id_elemento+"-jc_tooltips";
+			if(document.getElementById(id_elemento)){
+				var x = obj.offset().left;
+				var y = obj.offset().top;
+				if(!document.getElementById(nbr)){
+					var div = document.createElement("div");
+					div.innerHTML=msg;
+					div.id=id_elemento+"-jc_tooltips";
+					div.className = "jc_tooltips";
+					div.style.position = "absolute";
+					div.style.display = "none";
+					div.style.left = x+100+"px";
+					div.style.top = y+50+"px";
+					div.style.width = "275px";
+					div.style.zIndex = "999";
+					document.body.appendChild(div)
+					obj.mouseover(function(){
+						jQuery("#"+nbr).fadeIn("slow");
+					});
+					obj.mouseout(function(){
+						jQuery("#"+nbr).fadeOut("slow");
+					});
+		}
+	}
+}; jm_tooltips("cat_id_163","Tenga en cuenta que sólo las actas de los tres últimos años se encuentran disponibles por este medio, si requiere información anterior a estas fechas debe realizar su solicitud con la Oficina de Administración Documental."); jm_tooltips("cat_id_178","Tenga en cuenta que sólo las actas de los tres últimos años se encuentran disponibles por este medio, si requiere información anterior a estas fechas debe realizar su solicitud con la Oficina de Administración Documental."); jm_tooltips("cat_id_193","Tenga en cuenta que sólo las actas de los tres últimos años se encuentran disponibles por este medio, si requiere información anterior a estas fechas debe realizar su solicitud con la Oficina de Administración Documental.");</script>		</div>
+			<div class="moduletable_calendario">
+					<h3>Calendario</h3>
+					<table class="mod_events_latest_table" width="100%" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td class="mod_events_latest_first" style="border-color:"><div id="dia"><br />
+<span class="mod_events_latest_date">Sep</span><br />
+<span class="mod_events_latest_date">07</span><br />
+</div><br />
+<div id="title"><br />
+<span class="mod_events_latest_date">08:30AM</span> - <span class="mod_events_latest_date">12:00PM</span><br />
+<span class="mod_events_latest_content"><a href="/index.php/es/organos-de-gobierno/calendarioreuniones/icalrepeat.detail/2017/09/07/593/-/consejo-academico" >Consejo Académico</a></span><br />
+</div><br />
+</div></td></tr>
+<tr><td class="mod_events_latest" style="border-color:"><div id="dia"><br />
+<span class="mod_events_latest_date">Sep</span><br />
+<span class="mod_events_latest_date">13</span><br />
+</div><br />
+<div id="title"><br />
+<span class="mod_events_latest_date">12:30PM</span> - <span class="mod_events_latest_date">05:00PM</span><br />
+<span class="mod_events_latest_content"><a href="/index.php/es/organos-de-gobierno/calendarioreuniones/icalrepeat.detail/2017/09/13/561/-/comite-directivo" >Comité Directivo</a></span><br />
+</div><br />
+</div></td></tr>
+</table>
+		</div>
+	
+		</div>
+	          
+<!--fin lateral -->
+ 
+	   </div>           
+		  <!--fin del cuerpo -->
+          
+          <!--footer -->
+          <div  id="footer" class="container">
+        	<div >
+            	<!--Para el menu del footer -->
+            	                	<div id="menufooter">
+              		<!-- The class on the root UL tag was changed to match the Blueprint nav style -->
+<ul class="joomla-nav">
+<li class="item131"><a href="http://www.uniandes.edu.co/institucional/apoyo-financiero/apoyo-financiero" target="_blank" >Apoyo Financiero</a></li><li class="item132"><a href="https://matriculas.uniandes.edu.co/" target="_blank" >Matrículas</a></li><li class="item133"><a href="http://biblioteca.uniandes.edu.co/" target="_blank" >Biblioteca</a></li><li class="item134"><a href="https://planeacion.uniandes.edu.co/pdi-2011-2015/programa-de-desarrollo-integral-pdi-2011-2015" target="_blank" >PDI</a></li><li class="item135"><a href="https://planeacion.uniandes.edu.co/" target="_blank" >Estadísticas</a></li><li class="item136"><a href="https://login.microsoftonline.com/login.srf?wa=wsignin1.0&rpsnv=4&ct=1468344174&rver=6.6.6556.0&wp=MBI_SSL&wreply=https%3a%2f%2foutlook.office365.com%2fowa%2f%3frealm%3duniandes.edu.co&id=260563&whr=uniandes.edu.co&CBCXT=out&msafed=0" target="_blank" >Correo</a></li><li class="item137"><a href="https://sicuaplus.uniandes.edu.co" target="_blank" >Sicua</a></li><li class="item138"><a href="http://eventos.uniandes.edu.co/" target="_blank" >Agenda</a></li><li class="item139"><a href="http://egresados.uniandes.edu.co/" target="_blank" >Egresados</a></li><li class="item140"><a href="/index.php/es/mapa-del-sitio" ><img src="/images/media/mapa_sitio.png" alt="Mapa del Sitio" /><span class="image-title">Mapa del Sitio</span> </a></li></ul>
+                    </div>
+            	                
+                <!--Fin del Menu del Footer -->
+                
+                <!-- Para el texto del Footer -->
+                               		<p style="text-align: center;">Universidad de los Andes | Vigilada MinEducación<br />Reconocimiento como Universidad, Decreto 1297 del 30 de mayo de 1964<br />Reconocimiento personería jurídica Resolución 28 del 23 de febrero de 1949 Minjusticia.<br />Carrera 1 N. 18A - 12 Bogotá, (Colombia) Tels: +571 3394949&nbsp; | +571 3394999 Copyright 2011</p>
+            	                <!--Fin del texto del Footer -->
+            </div>
+          </div><!--Fin del Footer -->
+		 </div> 
+		 <div id="fondo_right"></div>
+		 <div style="clear:both"></div>
+		 </div>
+	</body>
+</html>

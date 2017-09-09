@@ -1,0 +1,507 @@
+<!DOCTYPE HTML>
+<html lang="es-es" dir="ltr"  data-config='{"twitter":0,"plusone":0,"facebook":0,"style":"turquoise"}'>
+
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <base href="https://ombudsperson.uniandes.edu.co/" />
+  <meta name="description" content="ombudspersonpr" />
+  <meta name="generator" content="Joomla! - Open Source Content Management" />
+  <title>Inicio</title>
+  <link href="/index.php?format=feed&amp;type=rss" rel="alternate" type="application/rss+xml" title="RSS 2.0" />
+  <link href="/index.php?format=feed&amp;type=atom" rel="alternate" type="application/atom+xml" title="Atom 1.0" />
+  <link href="/index.php" rel="canonical" />
+  <link href="https://ombudsperson.uniandes.edu.co/index.php/component/search/?Itemid=101&amp;format=opensearch" rel="search" title="Buscar ombudspersonpr" type="application/opensearchdescription+xml" />
+  <link href="/templates/yoo_avenue/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+  <style type="text/css">
+</style>
+  <script src="/media/jui/js/jquery.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-noconflict.js" type="text/javascript"></script>
+  <script src="/media/jui/js/jquery-migrate.min.js" type="text/javascript"></script>
+  <script src="/media/jui/js/bootstrap.min.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/uikit-ff9eba72.js" type="text/javascript"></script>
+  <script src="/media/widgetkit/wk-scripts-996cca1b.js" type="text/javascript"></script>
+  <script type="text/javascript">
+window.setInterval(function(){var r;try{r=window.XMLHttpRequest?new XMLHttpRequest():new ActiveXObject("Microsoft.XMLHTTP")}catch(e){}if(r){r.open("GET","/index.php?option=com_ajax&format=json",true);r.send(null)}},840000);
+  </script>
+
+<link rel="apple-touch-icon-precomposed" href="/templates/yoo_avenue/apple_touch_icon.png">
+<link rel="stylesheet" href="/templates/yoo_avenue/styles/turquoise/css/bootstrap.css">
+<link rel="stylesheet" href="/templates/yoo_avenue/styles/turquoise/css/theme.css">
+<link rel="stylesheet" href="/templates/yoo_avenue/css/custom.css">
+<script src="/templates/yoo_avenue/warp/vendor/uikit/js/uikit.js"></script>
+<script src="/templates/yoo_avenue/warp/vendor/uikit/js/components/autocomplete.js"></script>
+<script src="/templates/yoo_avenue/warp/vendor/uikit/js/components/search.js"></script>
+<script src="/templates/yoo_avenue/warp/vendor/uikit/js/components/tooltip.js"></script>
+<script src="/templates/yoo_avenue/warp/js/social.js"></script>
+<script src="/templates/yoo_avenue/js/theme.js"></script>
+</head>
+
+<body class="tm-isblog">
+
+    <div class="tm-page-bg">
+
+        <div class="uk-container uk-container-center">
+
+            <div class="tm-container">
+
+                                <div class="tm-headerbar uk-clearfix uk-hidden-small">
+
+                                        <a class="tm-logo" href="https://ombudsperson.uniandes.edu.co">
+	<p><img src="/images/logo_uniandes.JPG" alt="logo uniandes" width="208" height="96" /></p></a>
+                    
+                                        <div class="tm-search uk-float-right">
+                        
+<form id="search-148-59b30f0cc85f8" class="uk-search" action="/index.php" method="post" data-uk-search="{'source': '/index.php/component/search/?tmpl=raw&amp;type=json&amp;ordering=&amp;searchphrase=all', 'param': 'searchword', 'msgResultsHeader': 'Resultados de búsqueda', 'msgMoreResults': 'Más resultados', 'msgNoResults': 'No se encontraron resultados', flipDropdown: 1}">
+	<input class="uk-search-field" type="text" name="searchword" placeholder="buscar...">
+	<input type="hidden" name="task"   value="search">
+	<input type="hidden" name="option" value="com_search">
+	<input type="hidden" name="Itemid" value="101">
+</form>
+                    </div>
+                    
+                    
+                </div>
+                
+                                <div class="tm-top-block tm-grid-block">
+
+                                        <nav class="tm-navbar uk-navbar">
+
+                                                <ul class="uk-navbar-nav uk-hidden-small"><li class="uk-active"><a href="/index.php"><i class="uk-icon-home"></i> Inicio</a></li><li><a href="/index.php/el-equipo"><i class="uk-icon-users"></i> Quienes Somos</a></li><li><a href="/index.php/ombudsperson"><i class="uk-icon-puzzle-piece"></i> Qué Hacemos</a></li><li><a href="/index.php/solicitud"><i class="uk-icon-comments"></i> Tu solicitud</a></li><li><a href="/index.php/faqs"><i class="uk-icon-info-circle"></i> FAQS</a></li><li><a href="/index.php/noticia"><i class="uk-icon-newspaper-o"></i> Noticias</a></li></ul>
+
+        <ul class="uk-navbar-nav uk-hidden-small">
+            <li class="uk-parent" data-uk-dropdown>
+                <a href="#">Login</a>
+                <div class="uk-dropdown uk-dropdown-navbar">
+<form class="uk-form" action="/index.php" method="post">
+
+	
+	<div class="uk-form-row">
+		<input class="uk-width-1-1" type="text" name="username" size="18" placeholder="Usuario">
+	</div>
+
+	<div class="uk-form-row">
+		<input class="uk-width-1-1" type="password" name="password" size="18" placeholder="Contraseña">
+	</div>
+
+	
+		<div class="uk-form-row">
+				<label for="modlgn-remember-748084203">Recuérdeme</label>
+		<input id="modlgn-remember-748084203" type="checkbox" name="remember" value="yes" checked>
+	</div>
+		
+	<div class="uk-form-row">
+		<button class="uk-button uk-button-primary" value="Identificarse" name="Submit" type="submit">Identificarse</button>
+	</div>
+
+	<ul class="uk-list uk-margin-bottom-remove">
+		<li><a href="/index.php/component/users/?view=reset">¿Recordar contraseña?</a></li>
+		<li><a href="/index.php/component/users/?view=remind">¿Recordar usuario?</a></li>
+					</ul>
+	
+		
+	<input type="hidden" name="option" value="com_users">
+	<input type="hidden" name="task" value="user.login">
+	<input type="hidden" name="return" value="aHR0cDovL29tYnVkc3BlcnNvbi51bmlhbmRlcy5lZHUuY28v">
+	<input type="hidden" name="ce7990ce1e209d8bd0b716f816b0a514" value="1" /></form>
+</div>
+            </li>
+        </ul>                        
+                                                <a href="#offcanvas" class="uk-navbar-toggle uk-visible-small" data-uk-offcanvas></a>
+                        
+                                                <div class="uk-navbar-content uk-navbar-center uk-visible-small"><a class="tm-logo-small" href="https://ombudsperson.uniandes.edu.co">
+	<img alt="logo uniandes" src="/images/logo_uniandes.JPG" width="118" height="54" /></a></div>
+                        
+                    </nav>
+                    
+                    
+                </div>
+                
+                                <section class="tm-top-a uk-grid tm-grid-block" data-uk-grid-match="{target:'> div > .uk-panel'}">
+<div class="uk-width-1-1"><div class="uk-panel uk-panel-box">
+	<table class="category table table-striped table-bordered table-hover">
+<tbody>
+<tr>
+<td style="width: 625px;">
+<div data-uk-slideshow="{autoplay: true }">
+
+    <div class="uk-position-relative">
+
+        <ul class="uk-slideshow uk-overlay-active">
+        
+            <li style="min-height: 300px;">
+
+                
+                    <img src="/images/4.jpg" alt="MAAD">
+                    
+                                        <div class="uk-overlay-panel uk-overlay-bottom uk-overlay-background uk-overlay-fade">
+
+                        
+                                                <h3 class="uk-h3">
+
+                            MAAD
+                            
+                        </h3>
+                        
+                                                <div class=" uk-margin">Conozca el protocolo de atención para casos de Maltrato, Acoso, Amenazas, Discriminación y afines (MAAD). </div>
+                        
+                                                <p><a class="uk-button" href="https://secretariageneral.uniandes.edu.co/images/documents/Protocolo_casos_de_maltrato_y_%20afines.pdf" target="_blank">Ver más</a></p>
+                        
+                        
+                    </div>
+                    
+                
+            </li>
+
+        
+            <li style="min-height: 300px;">
+
+                
+                    <img src="/images/Portada_video.jpg" alt="Video">
+                    
+                                        <div class="uk-overlay-panel uk-overlay-bottom uk-overlay-background uk-overlay-fade">
+
+                        
+                                                <h3 class="uk-h3">
+
+                            Video
+                            
+                        </h3>
+                        
+                                                <div class=" uk-margin">Este es un video caricaturesco que ejemplifica el tipo de atención que cualquier miembro de la comunidad uniandina puede recibir en la Ombudsperson de la Universidad de los Andes.</div>
+                        
+                                                <p><a class="uk-button" href="https://www.youtube.com/watch?v=M0jbwIAoLHw" target="_blank">Ver más</a></p>
+                        
+                        
+                    </div>
+                    
+                
+            </li>
+
+        
+            <li style="min-height: 300px;">
+
+                
+                    <img src="/images/EquipoOmbuds480.jpg" alt="El Equipo">
+                    
+                                        <div class="uk-overlay-panel uk-overlay-bottom uk-overlay-background uk-overlay-fade">
+
+                        
+                                                <h3 class="uk-h3">
+
+                            El Equipo
+                            
+                        </h3>
+                        
+                                                <div class=" uk-margin">Conoce a nuestra Ombudsperson, y al equipo que apoya su labor.</div>
+                        
+                                                <p><a class="uk-button" href="https://ombudspersonpr.uniandes.edu.co/index.php/el-equipo" target="_blank">Ver más</a></p>
+                        
+                        
+                    </div>
+                    
+                
+            </li>
+
+        
+            <li style="min-height: 300px;">
+
+                
+                    <img src="/images/Mejoresprcticas.png" alt="Mejores Prácticas">
+                    
+                                        <div class="uk-overlay-panel uk-overlay-bottom uk-overlay-background uk-overlay-fade">
+
+                        
+                                                <h3 class="uk-h3">
+
+                            Mejores Prácticas
+                            
+                        </h3>
+                        
+                        
+                                                <p><a class="uk-button" href="https://mejorespracticas.uniandes.edu.co/" target="_blank">Ver más</a></p>
+                        
+                        
+                    </div>
+                    
+                
+            </li>
+
+                </ul>
+
+        
+        
+    </div>
+
+        <div class="uk-margin">
+        
+<ul class="uk-dotnav uk-flex-right">
+    <li data-uk-slideshow-item="0"><a href="#">MAAD</a></li>
+    <li data-uk-slideshow-item="1"><a href="#">Video</a></li>
+    <li data-uk-slideshow-item="2"><a href="#">El Equipo</a></li>
+    <li data-uk-slideshow-item="3"><a href="#">Mejores Prácticas</a></li>
+</ul>    </div>
+    
+</div>
+</td>
+<td>
+
+<div>
+
+        
+
+<ul class="uk-subnav uk-subnav-pill uk-flex-left" data-uk-switcher="{connect:'#wk-396'}">
+        <li><a href="">Formulario</a></li>
+        <li><a href="">Reglamentos</a></li>
+</ul>
+
+    
+    
+<ul id="wk-396" class="uk-switcher uk-text-left uk-margin-top" data-uk-check-display>
+
+    
+    <li>
+        <div class="uk-panel">
+
+                        <div class="uk-margin uk-text-center"><div class="uk-overlay uk-overlay-hover "><img src="/images/hook-829940_960_720.jpg" class=" uk-overlay-scale" alt="Formulario"><div class="uk-overlay-panel uk-overlay-background uk-overlay-icon uk-overlay-fade"></div><a class="uk-position-cover" href="https://ombudspersonpr.uniandes.edu.co/index.php/servicio"></a></div></div>
+            
+            
+            
+            
+            
+            
+                        <p><a class="uk-button" href="https://ombudspersonpr.uniandes.edu.co/index.php/servicio">Diligencie su solicitud</a></p>
+            
+            
+            
+        </div>
+    </li>
+
+
+    
+    <li>
+        <div class="uk-panel">
+
+            
+            
+            
+            
+                        <div class="uk-margin"><p><span style="text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoPregrado-web2016.pdf&amp;catid=10:2016&amp;lang=es-ES"></span><a href="/index.php?id=15:secretariageneral.uniandes.edu.co/images/documents/ReglamentoPregrado-web2016.pdf&amp;catid=10:2016&amp;lang=es-ES"></a><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoPregrado-web2016.pdf">Reglamento General de Estudiantes de Pregrado</a></p>
+<hr />
+<p><span style="text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoMaestria-web2016.pdf&amp;catid=10:2016&amp;lang=es-ES"></span><a href="/index.php?id=15:secretariageneral.uniandes.edu.co/images/documents/ReglamentoMaestria-web2016.pdf&amp;catid=10:2016&amp;lang=es-ES"></a><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoMaestria-web2016.pdf">Reglamento General de Estudiantes de Maestría</a></p>
+<hr />
+<p><span style="text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoEspecializacion-web2016.pdf&amp;catid=10:2016&amp;lang=es-ES"></span><a href="/index.php?id=15:secretariageneral.uniandes.edu.co/images/documents/ReglamentoEspecializacion-web2016.pdf&amp;catid=10:2016&amp;lang=es-ES"></a><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoEspecializacion-web2016.pdf">Reglamento General de Estudiantes de Especialización</a></p>
+<hr />
+<p><span style="text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoDoctorado-web2016.pdf&amp;catid=10:2016&amp;lang=es-ES"></span><a href="/index.php?id=15:secretariageneral.uniandes.edu.co/images/documents/ReglamentoDoctorado-web2016.pdf&amp;catid=10:2016&amp;lang=es-ES"></a><a href="https://secretariageneral.uniandes.edu.co/images/documents/ReglamentoDoctorado-web2016.pdf">Reglamento General de Estudiantes de Doctorado</a></p>
+<hr />
+<p><span style="text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/images/documents/Estatutoprofesoralwebjunio2015.pdf&amp;catid=10:2016&amp;lang=es-ES"></span><a href="/index.php?id=15:secretariageneral.uniandes.edu.co/images/documents/Estatutoprofesoralwebjunio2015.pdf&amp;catid=10:2016&amp;lang=es-ES"></a><a href="https://secretariageneral.uniandes.edu.co/images/documents/Estatutoprofesoralwebjunio2015.pdf">Estatuto Profesoral</a></p>
+<hr />
+<p><span style="text-decoration: underline;"><a href="https://secretariageneral.uniandes.edu.co/index.php/es/normatividad-institucional/20-normatividad-institucional/89-reglamento-de-trabajo&amp;catid=10:2016&amp;lang=es-ES"></span><a href="/index.php?id=15:secretariageneral.uniandes.edu.co/index.php/es/normatividad-institucional/20-normatividad-institucional/89-reglamento-de-trabajo&amp;catid=10:2016&amp;lang=es-ES"></a><a href="https://secretariageneral.uniandes.edu.co/index.php/es/normatividad-institucional/20-normatividad-institucional/89-reglamento-de-trabajo">Reglamento Interno de Trabajo</a></p>    </div>
+            
+            
+            
+            
+            
+        </div>
+    </li>
+
+</ul>
+
+    
+</div>
+
+</td>
+</tr>
+</tbody>
+</table></div></div>
+</section>
+                
+                                <section class="tm-top-b uk-grid tm-grid-block" data-uk-grid-match="{target:'> div > .uk-panel'}">
+<div class="uk-width-1-1 uk-width-medium-1-3"><div class="uk-panel uk-panel-box"><h3 class="uk-panel-title">Estudiantes</h3>
+	<div class="uk-progress">
+<div class="uk-progress-danger">
+<div class="uk-progress uk-progress-striped uk-active">
+<h1 class="uk-margin-remove"><span style="font-size: 12pt;"></span></h1>
+<div class="uk-progress-bar" style="width: 82%;"><span style="font-size: 18pt;">1123 <span style="font-size: 14pt;"></span></span></div>
+</div>
+</div>
+</div>
+<div class="uk-animation-slide-left" style="text-align: right;"><span style="font-size: 10pt;">Atendidos del 2013-I al 2017-I</span></div>
+<div>&nbsp;</div></div></div>
+
+<div class="uk-width-1-1 uk-width-medium-1-3"><div class="uk-panel uk-panel-box"><h3 class="uk-panel-title">Profesores y Empleados</h3>
+	<div class="uk-progress">
+<div class="uk-progress-info">
+<div class="uk-progress uk-progress-striped uk-active">
+<h1 class="uk-margin-remove"><span style="font-size: 12pt;"></span></h1>
+<div class="uk-progress-bar" style="width: 40%;"><span style="font-size: 18pt;">269 <span style="font-size: 14pt;"></span></span></div></div>
+</div>
+</div>
+<div class="uk-animation-slide-left" style="text-align: right;"><span style="font-size: 10pt;">Atendidos del 2013-I al 2017-I</span></div>
+<div>&nbsp;</div></div></div>
+
+<div class="uk-width-1-1 uk-width-medium-1-3"><div class="uk-panel uk-panel-box"><h3 class="uk-panel-title">Mediaciones</h3>
+	<div class="uk-progress">
+<div class="uk-progress-warning">
+<div class="uk-progress uk-progress-striped uk-active">
+<h1 class="uk-margin-remove"><span style="font-size: 12pt;"></span></h1>
+<div class="uk-progress-bar" style="width: 82%;"><span style="font-size: 18pt;">71 <span style="font-size: 14pt;"></span></span></div></div>
+</div>
+</div>
+<div class="uk-animation-slide-left" style="text-align: right;"><span style="font-size: 10pt;">Atendidos del 2013-I al 2017-I</span></div>
+<div>&nbsp;</div></div></div>
+</section>
+                
+                                <div class="tm-middle uk-grid" data-uk-grid-match>
+
+                                        <div class="tm-main uk-width-medium-1-1">
+
+                                                <section class="tm-main-top uk-grid tm-grid-block" data-uk-grid-match="{target:'> div > .uk-panel'}">
+<div class="uk-width-1-1"><div class="uk-panel uk-panel-box"><h3 class="uk-panel-title">Mejores Prácticas</h3>
+	<p style="text-align: justify;">Las mejores prácticas son acciones y comportamientos que contribuyen a la construcción de una comunidad que fomenta el respeto por los individuos y las ideas, el autogobierno, un ejercicio responsable de las libertades y el fortalecimiento de relaciones interpresonales. Si deseas proponer una mejor práctica puedes escribir a <span id="cloak56924">Esta dirección de correo electrónico está siendo protegida contra los robots de spam. Necesita tener JavaScript habilitado para poder verlo.</span><script type='text/javascript'>
+ //<!--
+ document.getElementById('cloak56924').innerHTML = '';
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy56924 = 'm&#101;j&#111;r&#101;spr&#97;ct&#105;c&#97;s' + '&#64;';
+ addy56924 = addy56924 + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ var addy_text56924 = 'm&#101;j&#111;r&#101;spr&#97;ct&#105;c&#97;s' + '&#64;' + '&#117;n&#105;&#97;nd&#101;s' + '&#46;' + '&#101;d&#117;' + '&#46;' + 'c&#111;';
+ document.getElementById('cloak56924').innerHTML += '<a ' + path + '\'' + prefix + ':' + addy56924 + '\'>'+addy_text56924+'<\/a>';
+ //-->
+ </script> &nbsp;<span style="background-color: #ffffff;"></span></p>
+<p>
+
+<div id="wk-gride6d" class="uk-grid-width-1-1 uk-grid-width-medium-1-2 uk-grid-width-large-1-2 uk-grid uk-grid-match uk-text-left " data-uk-grid-match="{target:'> div > .uk-panel', row:true}" data-uk-grid-margin  data-uk-scrollspy="{cls:'uk-animation-scale-up uk-invisible', target:'> div > .uk-panel', delay:300}">
+
+
+    <div>
+        <div class="uk-panel uk-panel-box uk-invisible">
+
+            
+            
+            
+            
+                        <h3 class="uk-panel-title">
+
+                                    Caja de Componentes                
+                
+            </h3>
+            
+            
+            
+                        <div class="uk-margin"><iframe width="100%" height="auto" style="min-height:240px !important" src="https://www.youtube.com/embed/_-Uu9aTxs6M" frameborder="0" allowfullscreen="allowfullscreen"></iframe></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+    <div>
+        <div class="uk-panel uk-panel-box uk-invisible">
+
+            
+            
+            
+            
+                        <h3 class="uk-panel-title">
+
+                                    Buzón de reciclaje                
+                
+            </h3>
+            
+            
+            
+                        <div class="uk-margin"><iframe src="https://player.vimeo.com/video/183665751" width="100%" height="auto" style="min-height:240px !important" frameborder="0" webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen="allowfullscreen"></iframe></div>
+            
+            
+            
+            
+        </div>
+    </div>
+
+
+</div>
+
+<script>
+(function($){
+
+    // get the images of the gallery and replace it by a canvas of the same size to fix the problem with overlapping images on load.
+    $('img[width][height]:not(.uk-overlay-panel)', $('#wk-gride6d')).each(function() {
+
+        var $img = $(this);
+
+        if (this.width == 'auto' || this.height == 'auto' || !$img.is(':visible')) {
+            return;
+        }
+
+        var $canvas = $('<canvas class="uk-responsive-width"></canvas>').attr({width:$img.attr('width'), height:$img.attr('height')}),
+            img = new Image,
+            release = function() {
+                $canvas.remove();
+                $img.css('display', '');
+                release = function(){};
+            };
+
+        $img.css('display', 'none').after($canvas);
+
+        $(img).on('load', function(){ release(); });
+        setTimeout(function(){ release(); }, 1000);
+
+        img.src = this.src;
+
+    });
+
+})(jQuery);
+</script>
+</p></div></div>
+</section>
+                        
+                                                <main class="tm-content">
+
+                            
+                            <div id="system-message-container">
+</div>
+
+
+
+
+
+                        </main>
+                        
+                        
+                    </div>
+                    
+                                                            
+                </div>
+                
+                
+                                <div class="tm-block-bottom">
+
+                    
+                    
+                                        <footer class="tm-footer">
+
+                                                <a class="tm-totop-scroller" data-uk-smooth-scroll href="#"></a>
+                        
+                        <div class="uk-panel  footer-inf">
+	<p style="text-align: center;"><span style="font-size: 10pt;"><strong>Universidad de los Andes | Vigilada Mineducación<br />Reconocimiento como Universidad: Decreto 1297 del 30 de mayo de 1964.<br />Reconocimiento personería jurídica: Resolución 28 del 23 de febrero de 1949 Minjusticia.<br />Carrera 1 No. 18 A 12, Edificio RGA – Pedro Navas, Oficina 201. Bogotá (Colombia) Tel: (57-1) 3394949 Ext. 5300 y Ext 3933<br />| Ombudsperson Copyright © 2013</strong></span></p></div>Powered by <a href="http://www.yootheme.com">Warp Theme Framework</a>
+                    </footer>
+                    
+                </div>
+                
+            </div>
+
+        </div>
+
+    </div>
+
+    
+        <div id="offcanvas" class="uk-offcanvas">
+        <div class="uk-offcanvas-bar"><ul class="uk-nav uk-nav-offcanvas"><li class="uk-active"><a href="/index.php"><i class="uk-icon-home"></i> Inicio</a></li><li><a href="/index.php/el-equipo"><i class="uk-icon-users"></i> Quienes Somos</a></li><li><a href="/index.php/ombudsperson"><i class="uk-icon-puzzle-piece"></i> Qué Hacemos</a></li><li><a href="/index.php/solicitud"><i class="uk-icon-comments"></i> Tu solicitud</a></li><li><a href="/index.php/faqs"><i class="uk-icon-info-circle"></i> FAQS</a></li><li><a href="/index.php/noticia"><i class="uk-icon-newspaper-o"></i> Noticias</a></li></ul></div>
+    </div>
+    
+</body>
+</html>
