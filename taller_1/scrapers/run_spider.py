@@ -17,7 +17,7 @@ def spider_results():
 	
 	spider = Taller1G6P1()
 	settings = get_project_settings()
-	#configure_logging()
+###	configure_logging()
 	runner = CrawlerRunner(settings)
 	
 	d = runner.crawl(spider)
